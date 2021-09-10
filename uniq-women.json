@@ -17474,48 +17474,6 @@
             }
           },
           {
-            "code": "COL10",
-            "displayCode": "10",
-            "name": "PINK",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL12",
-            "displayCode": "12",
-            "name": "PINK",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL42",
-            "displayCode": "42",
-            "name": "YELLOW",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -25604,20 +25562,6 @@
             }
           },
           {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL51",
             "displayCode": "51",
             "name": "GREEN",
@@ -25754,9 +25698,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -25774,7 +25718,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05348108",
+          "l2Id": "05348094",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -29097,20 +29041,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Shell: 100% Polyester/ Lining: 100% Polyester",
@@ -29336,20 +29266,6 @@
         "careInstruction": "-",
         "colors": [
           {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
@@ -29458,9 +29374,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -29485,7 +29401,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06194792",
+          "l2Id": "06194800",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -34816,20 +34732,6 @@
         "careInstruction": "-",
         "colors": [
           {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -34938,9 +34840,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -34965,7 +34867,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05443134",
+          "l2Id": "05443140",
           "salesStartDate": "",
           "salesEndDate": ""
         },
