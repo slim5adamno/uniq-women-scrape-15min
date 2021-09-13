@@ -3173,20 +3173,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Lens: Plastic(coating)frame: Plastic(colored)",
@@ -3228,19 +3214,13 @@
         "longDescription": "- Reduces the impact of blue light emitted by your PC or smartphone.<br>- For the frame, we used polycarbonate that is very lightweight and durable. <br>- Added rubber material on the temples and nose pads, for a design that prevents them from sliding down. <br>- Wellington-style sports frame that is easy to pair with your everyday outfits. <br>- A frame size that is easy for anyone to wear. <br>- Straight temples that make them easy to put on and take off even while wearing a hat. <br>- Used mirror lenses that look great for sports or active scenarios. <br>- Matte coloring that is great for both sports and casual scenarios.<br>- Made with lenses with UV400 protection that block UV rays. <br>- Blocks 20% of blue light.",
         "name": "Sports Wellington Sunglasses",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E423884-000",
@@ -3274,27 +3254,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05301140",
+          "l2Id": "05093876",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -22376,48 +22349,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL21",
-            "displayCode": "21",
-            "name": "LIGHT ORANGE",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL34",
-            "displayCode": "34",
-            "name": "BROWN",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Cotton",
@@ -28140,34 +28071,6 @@
             "code": "COL01",
             "displayCode": "01",
             "name": "OFF WHITE",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL67",
-            "displayCode": "67",
-            "name": "BLUE",
             "isDummy": false,
             "states": [
               "display",
