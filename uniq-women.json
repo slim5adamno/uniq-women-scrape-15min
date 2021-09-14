@@ -835,6 +835,10 @@
             "name": "Sleeveless"
           },
           {
+            "id": 13094,
+            "name": "Uniqlo U"
+          },
+          {
             "id": 11584,
             "name": "Others"
           },
@@ -855,6 +859,10 @@
             "name": "Others"
           },
           {
+            "id": 13557,
+            "name": "Camisole"
+          },
+          {
             "id": 11645,
             "name": "Others"
           },
@@ -865,6 +873,10 @@
           {
             "id": 12334,
             "name": "Beauty Light"
+          },
+          {
+            "id": 13555,
+            "name": "AIRism"
           },
           {
             "id": 12419,
@@ -883,10 +895,6 @@
             "name": "Camisole"
           },
           {
-            "id": 19928,
-            "name": "High Rise"
-          },
-          {
             "id": 12442,
             "name": "AIRism Pants"
           },
@@ -899,16 +907,8 @@
             "name": "AIRism"
           },
           {
-            "id": 12286,
-            "name": "Ankle"
-          },
-          {
             "id": 11646,
             "name": "Others"
-          },
-          {
-            "id": 12282,
-            "name": "Skinny Fit"
           },
           {
             "id": 12184,
