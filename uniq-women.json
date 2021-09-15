@@ -7259,9 +7259,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL10",
-            "displayCode": "10",
-            "name": "PINK",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -7279,7 +7279,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05219928",
+          "l2Id": "05219920",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -21194,9 +21194,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -21214,7 +21214,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05311773",
+          "l2Id": "05311780",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -23985,9 +23985,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL34",
-            "displayCode": "34",
-            "name": "BROWN",
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -24005,7 +24005,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05911645",
+          "l2Id": "05911637",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -25265,9 +25265,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL10",
-            "displayCode": "10",
-            "name": "PINK",
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -25285,7 +25285,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05375178",
+          "l2Id": "05375186",
           "salesStartDate": "",
           "salesEndDate": ""
         },
