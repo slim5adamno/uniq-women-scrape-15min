@@ -9760,15 +9760,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL61",
-            "displayCode": "61",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Elastomultiester",
@@ -21437,15 +21428,6 @@
             "code": "COL24",
             "displayCode": "24",
             "name": "ORANGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL36",
-            "displayCode": "36",
-            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
