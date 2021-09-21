@@ -651,16 +651,8 @@
         ],
         "subcategories": [
           {
-            "id": 13094,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12394,
             "name": "Stoles"
-          },
-          {
-            "id": 12266,
-            "name": "Cotton"
           },
           {
             "id": 12389,
@@ -675,36 +667,8 @@
             "name": "Others"
           },
           {
-            "id": 12259,
-            "name": "Linen"
-          },
-          {
             "id": 11594,
             "name": "Others"
-          },
-          {
-            "id": 12258,
-            "name": "Mercerized Cotton"
-          },
-          {
-            "id": 12377,
-            "name": "Relaco"
-          },
-          {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
-          },
-          {
-            "id": 12376,
-            "name": "Lounge Shorts"
-          },
-          {
-            "id": 12263,
-            "name": "Short Sleeve Dress"
-          },
-          {
-            "id": 12375,
-            "name": "Lounge Dress"
           },
           {
             "id": 11632,
@@ -717,14 +681,6 @@
           {
             "id": 11623,
             "name": "Others"
-          },
-          {
-            "id": 12262,
-            "name": "Sleeveless"
-          },
-          {
-            "id": 13095,
-            "name": "+ J"
           },
           {
             "id": 11584,
@@ -853,10 +809,6 @@
           {
             "id": 12313,
             "name": "Denim"
-          },
-          {
-            "id": 11597,
-            "name": "Others"
           },
           {
             "id": 11581,
