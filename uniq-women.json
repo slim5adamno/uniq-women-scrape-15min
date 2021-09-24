@@ -630,12 +630,12 @@
             "name": "Others"
           },
           {
-            "id": 11594,
-            "name": "Others"
-          },
-          {
             "id": 12389,
             "name": "Belts"
+          },
+          {
+            "id": 11594,
+            "name": "Others"
           },
           {
             "id": 11632,
@@ -718,12 +718,12 @@
             "name": "Bra"
           },
           {
-            "id": 12355,
-            "name": "High Rise Brief"
-          },
-          {
             "id": 17119,
             "name": "One-Piece"
+          },
+          {
+            "id": 12355,
+            "name": "High Rise Brief"
           },
           {
             "id": 17120,
@@ -18408,15 +18408,6 @@
             "code": "COL31",
             "displayCode": "31",
             "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL61",
-            "displayCode": "61",
-            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
