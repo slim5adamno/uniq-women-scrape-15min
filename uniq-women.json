@@ -1628,9 +1628,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL24",
-            "displayCode": "24",
-            "name": "ORANGE",
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1648,7 +1648,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05995394",
+          "l2Id": "05995380",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -2993,9 +2993,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL43",
-            "displayCode": "43",
-            "name": "YELLOW",
+            "code": "COL64",
+            "displayCode": "64",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -3020,7 +3020,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05443080",
+          "l2Id": "05443089",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -6370,19 +6370,13 @@
         "longDescription": "-  Part of a collection of progressive essentials created in our Paris atelier by artistic director Christophe Lemaire and a team of international designers.<br>-  100% cotton.<br>-  Versatile design looks great in any situation.<br>-  Perfectly balanced proportions.<br>-  Thick ribbed neckline.<br>-  Cuffs and hem created with an advanced overlock hemming technique that makes the seams less conspicuous.<br>-  Everything from the shoulder angles to armhole shape and sleeve position were designed to complement the body.<br>-  The sides have been slightly extended in the back for a more contoured silhouette.",
         "name": "WOMEN Uniqlo U Crew Neck Short Sleeve T-Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "590.0000"
           }
         },
         "productId": "E424873-000",
@@ -6416,27 +6410,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL54",
-            "displayCode": "54",
-            "name": "GREEN",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06043376",
+          "l2Id": "05075763",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -7691,9 +7678,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -7711,7 +7698,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06261132",
+          "l2Id": "06261156",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -13998,19 +13985,13 @@
         "longDescription": "- Easy care that is wrinkle-resistant even after washing.",
         "name": "WOMEN Rayon Long Sleeve Blouse",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E433604-000",
@@ -14044,8 +14025,8 @@
         },
         "representative": {
           "color": {
-            "code": "COL11",
-            "displayCode": "11",
+            "code": "COL12",
+            "displayCode": "12",
             "name": "PINK",
             "display": {
               "showFlag": true,
@@ -14053,18 +14034,11 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06063150",
+          "l2Id": "06320981",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -16083,19 +16057,13 @@
         "longDescription": "- Easy care that is wrinkle-resistant even after washing.<br>- A classic item that can be used in a variety of situations, from business to casual.",
         "name": "WOMEN Rayon Long Sleeve Blouse",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E424642-000",
@@ -16129,27 +16097,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05504278",
+          "l2Id": "05097932",
           "salesStartDate": "",
           "salesEndDate": ""
         },
