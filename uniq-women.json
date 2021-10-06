@@ -2713,9 +2713,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL36",
-            "displayCode": "36",
-            "name": "BROWN",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -2740,7 +2740,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05139836",
+          "l2Id": "05139826",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -7404,19 +7404,13 @@
         "longDescription": "- Ultra Stretch fabric that makes the legs look flattering, and is also incredibly stretchy and easy to move around in. <br>- Added DRY technology so they dry quickly even after you sweat.<br>- This season’s update includes adjusting the pocket sizes and height of the yoke for a more beautiful-looking silhouette.<br>- Skinny pants that can be worn for any occasion.",
         "name": "WOMEN Extra Stretch Cropped Leggings Trousers",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "790.0000"
           }
         },
         "productId": "E424889-000",
@@ -7450,27 +7444,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL12",
-            "displayCode": "12",
-            "name": "PINK",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05262368",
+          "l2Id": "05262360",
           "salesStartDate": "",
           "salesEndDate": ""
         },
