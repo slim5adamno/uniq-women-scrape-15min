@@ -5774,12 +5774,6 @@
             ],
             "productFlags": [
               {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -10368,9 +10362,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -10388,7 +10382,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05045697",
+          "l2Id": "05045652",
           "salesStartDate": "",
           "salesEndDate": ""
         },
