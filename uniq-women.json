@@ -661,12 +661,12 @@
         ],
         "subcategories": [
           {
-            "id": 12165,
-            "name": "Rayon"
-          },
-          {
             "id": 19933,
             "name": "Long Sleeve Rayon Blouse"
+          },
+          {
+            "id": 12165,
+            "name": "Rayon"
           },
           {
             "id": 12395,
@@ -681,16 +681,16 @@
             "name": "Uniqlo U"
           },
           {
+            "id": 12378,
+            "name": "Cotton Relax Pants"
+          },
+          {
             "id": 12267,
             "name": "Rayon"
           },
           {
             "id": 11594,
             "name": "Others"
-          },
-          {
-            "id": 12378,
-            "name": "Cotton Relax Pants"
           },
           {
             "id": 12389,
@@ -705,12 +705,12 @@
             "name": "Long Sleeve Dress"
           },
           {
-            "id": 11632,
-            "name": "Others"
-          },
-          {
             "id": 12263,
             "name": "Short Sleeve Dress"
+          },
+          {
+            "id": 11632,
+            "name": "Others"
           },
           {
             "id": 12178,
@@ -749,12 +749,12 @@
             "name": "Others"
           },
           {
-            "id": 12440,
-            "name": "AIRism T-Shirts"
-          },
-          {
             "id": 20092,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 12440,
+            "name": "AIRism T-Shirts"
           },
           {
             "id": 11625,
@@ -769,12 +769,12 @@
             "name": "Others"
           },
           {
-            "id": 12271,
-            "name": "Cotton Relaxed"
-          },
-          {
             "id": 12140,
             "name": "Denim"
+          },
+          {
+            "id": 12271,
+            "name": "Cotton Relaxed"
           },
           {
             "id": 11606,
@@ -813,19 +813,19 @@
             "name": "Others"
           },
           {
-            "id": 11634,
-            "name": "Others"
-          },
-          {
             "id": 13086,
             "name": "Uniqlo U"
           },
           {
-            "id": 11571,
+            "id": 11634,
             "name": "Others"
           },
           {
             "id": 11574,
+            "name": "Others"
+          },
+          {
+            "id": 11571,
             "name": "Others"
           },
           {
