@@ -1504,19 +1504,13 @@
         "longDescription": "- High-quality cotton is soft and comfortable.<br>- High-rise waist for a secure fit. <br>- We added wide lace to the waist and soft lace to the leg openings.",
         "name": "WOMEN High Rise Brief",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "290.0000"
           }
         },
         "productId": "E423052-000",
@@ -1550,27 +1544,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05039701",
+          "l2Id": "05039677",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -10587,9 +10574,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL36",
-            "displayCode": "36",
-            "name": "BROWN",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -10614,7 +10601,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06287570",
+          "l2Id": "06287578",
           "salesStartDate": "",
           "salesEndDate": ""
         },
