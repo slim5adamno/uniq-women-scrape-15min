@@ -8252,15 +8252,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "INS027",
-            "displayCode": "027",
-            "name": "27inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
             "code": "INS028",
             "displayCode": "028",
             "name": "28inch",
@@ -10688,9 +10679,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -10708,7 +10699,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06388078",
+          "l2Id": "06388085",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -12139,9 +12130,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL04",
+            "displayCode": "04",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -12166,7 +12157,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06232611",
+          "l2Id": "05965380",
           "salesStartDate": "",
           "salesEndDate": ""
         },
