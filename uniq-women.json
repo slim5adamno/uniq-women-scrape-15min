@@ -18623,9 +18623,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL70",
+            "displayCode": "70",
+            "name": "LIGHT PURPLE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -18643,7 +18643,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05863242",
+          "l2Id": "05863250",
           "salesStartDate": "",
           "salesEndDate": ""
         },
