@@ -760,16 +760,20 @@
             "name": "Others"
           },
           {
-            "id": 13150,
-            "name": "Ines De La Fressange"
-          },
-          {
             "id": 11584,
             "name": "Others"
           },
           {
+            "id": 13150,
+            "name": "Ines De La Fressange"
+          },
+          {
             "id": 11579,
             "name": "Others"
+          },
+          {
+            "id": 20092,
+            "name": "Uniqlo U"
           },
           {
             "id": 12272,
@@ -778,10 +782,6 @@
           {
             "id": 12465,
             "name": "Smart Ankle Pants"
-          },
-          {
-            "id": 20092,
-            "name": "Uniqlo U"
           },
           {
             "id": 11625,
@@ -820,16 +820,16 @@
             "name": "AIRism"
           },
           {
-            "id": 12281,
-            "name": "Ultra Stretch"
+            "id": 12467,
+            "name": "3D Knit"
           },
           {
             "id": 11646,
             "name": "Others"
           },
           {
-            "id": 12467,
-            "name": "3D Knit"
+            "id": 12281,
+            "name": "Ultra Stretch"
           },
           {
             "id": 12426,
@@ -840,10 +840,6 @@
             "name": "Others"
           },
           {
-            "id": 16020,
-            "name": "Uniqlo and Mame Kurogouchi"
-          },
-          {
             "id": 13098,
             "name": "Uniqlo U"
           },
@@ -852,19 +848,23 @@
             "name": "Others"
           },
           {
-            "id": 11634,
-            "name": "Others"
+            "id": 16020,
+            "name": "Uniqlo and Mame Kurogouchi"
           },
           {
             "id": 11607,
             "name": "Others"
           },
           {
-            "id": 11571,
+            "id": 11634,
             "name": "Others"
           },
           {
             "id": 11574,
+            "name": "Others"
+          },
+          {
+            "id": 11571,
             "name": "Others"
           },
           {
@@ -956,12 +956,12 @@
             "name": "Animal Crossing New Horizons"
           },
           {
-            "id": 12364,
-            "name": "AIRism"
-          },
-          {
             "id": 12331,
             "name": "Pleated"
+          },
+          {
+            "id": 12364,
+            "name": "AIRism"
           },
           {
             "id": 11650,
@@ -972,12 +972,12 @@
             "name": "UV Protection"
           },
           {
-            "id": 13332,
-            "name": "Roy Lichtenstein"
-          },
-          {
             "id": 12322,
             "name": "Rayon"
+          },
+          {
+            "id": 13332,
+            "name": "Roy Lichtenstein"
           },
           {
             "id": 13112,
@@ -9923,9 +9923,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9943,7 +9943,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05651947",
+          "l2Id": "05651955",
           "salesStartDate": "",
           "salesEndDate": ""
         },
