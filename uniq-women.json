@@ -5085,9 +5085,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL70",
-            "displayCode": "70",
-            "name": "LIGHT PURPLE",
+            "code": "COL50",
+            "displayCode": "50",
+            "name": "LIGHT GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -5105,7 +5105,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05962929",
+          "l2Id": "05962921",
           "salesStartDate": "",
           "salesEndDate": ""
         },
