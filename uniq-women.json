@@ -723,24 +723,24 @@
             "name": "Bags"
           },
           {
-            "id": 11662,
-            "name": "Others"
-          },
-          {
             "id": 12291,
             "name": "Extra Stretch Cropped"
+          },
+          {
+            "id": 11662,
+            "name": "Others"
           },
           {
             "id": 12290,
             "name": "AIRism"
           },
           {
-            "id": 11594,
-            "name": "Others"
-          },
-          {
             "id": 12372,
             "name": "Ultra Stretch"
+          },
+          {
+            "id": 11594,
+            "name": "Others"
           },
           {
             "id": 16020,
@@ -799,12 +799,12 @@
             "name": "Smart Ankle Pants"
           },
           {
-            "id": 11625,
-            "name": "Others"
-          },
-          {
             "id": 12338,
             "name": "Active"
+          },
+          {
+            "id": 11625,
+            "name": "Others"
           },
           {
             "id": 11645,
@@ -839,16 +839,16 @@
             "name": "AIRism"
           },
           {
-            "id": 11646,
-            "name": "Others"
-          },
-          {
             "id": 12467,
             "name": "3D Knit"
           },
           {
             "id": 12281,
             "name": "Ultra Stretch"
+          },
+          {
+            "id": 11646,
+            "name": "Others"
           },
           {
             "id": 13074,
@@ -867,19 +867,19 @@
             "name": "Others"
           },
           {
-            "id": 13098,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 11664,
             "name": "Others"
           },
           {
-            "id": 11607,
-            "name": "Others"
+            "id": 13098,
+            "name": "Uniqlo U"
           },
           {
             "id": 11634,
+            "name": "Others"
+          },
+          {
+            "id": 11607,
             "name": "Others"
           },
           {
@@ -915,12 +915,12 @@
             "name": "Others"
           },
           {
-            "id": 12178,
-            "name": "Tunic"
-          },
-          {
             "id": 12145,
             "name": "Wool"
+          },
+          {
+            "id": 12178,
+            "name": "Tunic"
           },
           {
             "id": 12307,
@@ -999,16 +999,16 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 12331,
-            "name": "Pleated"
+            "id": 16021,
+            "name": "Uniqlo and Mame Kurogouchi"
           },
           {
             "id": 12364,
             "name": "AIRism"
           },
           {
-            "id": 16021,
-            "name": "Uniqlo and Mame Kurogouchi"
+            "id": 12331,
+            "name": "Pleated"
           },
           {
             "id": 11650,
