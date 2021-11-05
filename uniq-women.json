@@ -715,6 +715,10 @@
             "name": "Uniqlo U"
           },
           {
+            "id": 20537,
+            "name": "Ultra Light Down Jacket"
+          },
+          {
             "id": 20538,
             "name": "Ultra Light Down Parka"
           },
@@ -723,28 +727,28 @@
             "name": "Bags"
           },
           {
-            "id": 11662,
-            "name": "Others"
-          },
-          {
             "id": 12291,
             "name": "Extra Stretch Cropped"
           },
           {
-            "id": 12290,
-            "name": "AIRism"
+            "id": 11662,
+            "name": "Others"
           },
           {
             "id": 12266,
             "name": "Cotton"
           },
           {
-            "id": 12372,
-            "name": "Ultra Stretch"
+            "id": 12290,
+            "name": "AIRism"
           },
           {
             "id": 11594,
             "name": "Others"
+          },
+          {
+            "id": 12372,
+            "name": "Ultra Stretch"
           },
           {
             "id": 12265,
@@ -775,15 +779,11 @@
             "name": "Others"
           },
           {
-            "id": 20537,
-            "name": "Ultra Light Down Jacket"
-          },
-          {
-            "id": 12272,
+            "id": 12465,
             "name": "Smart Ankle Pants"
           },
           {
-            "id": 12465,
+            "id": 12272,
             "name": "Smart Ankle Pants"
           },
           {
@@ -795,11 +795,11 @@
             "name": "Others"
           },
           {
-            "id": 11645,
+            "id": 11663,
             "name": "Others"
           },
           {
-            "id": 11663,
+            "id": 11645,
             "name": "Others"
           },
           {
@@ -839,36 +839,32 @@
             "name": "Others"
           },
           {
-            "id": 12281,
-            "name": "Ultra Stretch"
-          },
-          {
             "id": 12467,
             "name": "3D Knit"
+          },
+          {
+            "id": 12281,
+            "name": "Ultra Stretch"
           },
           {
             "id": 12426,
             "name": "Leggings"
           },
           {
-            "id": 13074,
-            "name": "Uniqlo U"
+            "id": 11624,
+            "name": "Others"
           },
           {
             "id": 12472,
             "name": "Cardigans"
           },
           {
-            "id": 11624,
-            "name": "Others"
+            "id": 13098,
+            "name": "Uniqlo U"
           },
           {
             "id": 11664,
             "name": "Others"
-          },
-          {
-            "id": 13098,
-            "name": "Uniqlo U"
           },
           {
             "id": 11634,
@@ -879,15 +875,7 @@
             "name": "Others"
           },
           {
-            "id": 13076,
-            "name": "Ines De La Fressange"
-          },
-          {
             "id": 11592,
-            "name": "Others"
-          },
-          {
-            "id": 11569,
             "name": "Others"
           },
           {
@@ -899,11 +887,11 @@
             "name": "Shoes"
           },
           {
-            "id": 20092,
+            "id": 20093,
             "name": "Uniqlo U"
           },
           {
-            "id": 20093,
+            "id": 13074,
             "name": "Uniqlo U"
           },
           {
@@ -919,19 +907,19 @@
             "name": "Others"
           },
           {
-            "id": 12145,
-            "name": "Wool"
-          },
-          {
             "id": 12307,
             "name": "Wide Fit"
+          },
+          {
+            "id": 13076,
+            "name": "Ines De La Fressange"
           },
           {
             "id": 12304,
             "name": "Wool"
           },
           {
-            "id": 11570,
+            "id": 11569,
             "name": "Others"
           },
           {
@@ -951,6 +939,10 @@
             "name": "Active Bra"
           },
           {
+            "id": 20092,
+            "name": "Uniqlo U"
+          },
+          {
             "id": 17119,
             "name": "One-Piece"
           },
@@ -963,6 +955,18 @@
             "name": "Others"
           },
           {
+            "id": 12145,
+            "name": "Wool"
+          },
+          {
+            "id": 11570,
+            "name": "Others"
+          },
+          {
+            "id": 11581,
+            "name": "Others"
+          },
+          {
             "id": 12160,
             "name": "Reversible"
           },
@@ -971,16 +975,12 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 11573,
-            "name": "Others"
-          },
-          {
-            "id": 11581,
-            "name": "Others"
-          },
-          {
             "id": 12178,
             "name": "Tunic"
+          },
+          {
+            "id": 11573,
+            "name": "Others"
           },
           {
             "id": 11597,
@@ -995,12 +995,12 @@
             "name": "Others"
           },
           {
-            "id": 17160,
-            "name": "Animal Crossing New Horizons"
-          },
-          {
             "id": 13110,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 17160,
+            "name": "Animal Crossing New Horizons"
           },
           {
             "id": 12364,
@@ -1023,12 +1023,12 @@
             "name": "Others"
           },
           {
-            "id": 12322,
-            "name": "Rayon"
-          },
-          {
             "id": 13332,
             "name": "Roy Lichtenstein"
+          },
+          {
+            "id": 12322,
+            "name": "Rayon"
           },
           {
             "id": 13112,
