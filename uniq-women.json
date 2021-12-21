@@ -1334,19 +1334,13 @@
         "longDescription": "- The inner and outer materials have been changed for improved breathability. <br>- Can be fine-tuned for a more comfortable fit. <br>- Size indicator makes it easy to find yours. <br><br>High-performance 3-tier structure. <br>First layer of AIRism Mesh is smooth and highly breathable. <br>Second layer cuts up to 99% of particles such as bacteria and pollen. <br>Third layer uses the same AIRism Mesh as the first layer for improved breathability.",
         "name": "AIRism Face Mask (Pack of 3)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "590.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E437784-000",
@@ -1380,27 +1374,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05938390",
+          "l2Id": "05938393",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -6151,9 +6138,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL60",
-            "displayCode": "60",
-            "name": "LIGHT BLUE",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6171,7 +6158,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06345926",
+          "l2Id": "06345846",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -6347,9 +6334,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
+            "code": "COL06",
+            "displayCode": "06",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6367,7 +6354,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05649415",
+          "l2Id": "05649383",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -8034,9 +8021,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8061,7 +8048,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06555712",
+          "l2Id": "06555719",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -8237,9 +8224,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
+            "code": "COL53",
+            "displayCode": "53",
+            "name": "GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8264,7 +8251,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06328346",
+          "l2Id": "06328354",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -8669,9 +8656,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL36",
-            "displayCode": "36",
-            "name": "BROWN",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8689,7 +8676,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06505985",
+          "l2Id": "06383332",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -9840,9 +9827,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9867,7 +9854,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06456206",
+          "l2Id": "06456182",
           "salesStartDate": "",
           "salesEndDate": ""
         },
