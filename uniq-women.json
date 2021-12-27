@@ -7346,7 +7346,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06366421",
+          "l2Id": "05943141",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -7722,15 +7722,15 @@
           }
         ],
         "rating": {
-          "average": 4.916666666666667,
-          "count": 12,
+          "average": 4.923076923076923,
+          "count": 13,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 11
+            "five": 12
           }
         },
         "representative": {
