@@ -660,23 +660,23 @@
             "name": "Scarves"
           },
           {
-            "id": 13086,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 20183,
             "name": "Lounge Pants"
+          },
+          {
+            "id": 13086,
+            "name": "Uniqlo U"
           },
           {
             "id": 11574,
             "name": "Others"
           },
           {
-            "id": 11615,
+            "id": 11623,
             "name": "Others"
           },
           {
-            "id": 11623,
+            "id": 11615,
             "name": "Others"
           },
           {
@@ -688,11 +688,11 @@
             "name": "Others"
           },
           {
-            "id": 12465,
+            "id": 12272,
             "name": "Smart Ankle Pants"
           },
           {
-            "id": 12272,
+            "id": 12465,
             "name": "Smart Ankle Pants"
           },
           {
@@ -728,11 +728,11 @@
             "name": "Others"
           },
           {
-            "id": 11634,
+            "id": 11571,
             "name": "Others"
           },
           {
-            "id": 11571,
+            "id": 11634,
             "name": "Others"
           },
           {
@@ -772,12 +772,12 @@
             "name": "Smart Ankle Pants"
           },
           {
-            "id": 12355,
-            "name": "High Rise Brief"
-          },
-          {
             "id": 13151,
             "name": "UNIQLO and JW ANDERSON"
+          },
+          {
+            "id": 12355,
+            "name": "High Rise Brief"
           },
           {
             "id": 11596,
@@ -3327,15 +3327,6 @@
             "code": "COL50",
             "displayCode": "50",
             "name": "LIGHT GREEN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
