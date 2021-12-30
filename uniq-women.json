@@ -6777,7 +6777,7 @@
             }
           ]
         },
-        "l1Id": "439730",
+        "l1Id": "445445",
         "longDescription": "- Easy care that is wrinkle-resistant even after washing.",
         "name": "WOMEN Rayon Long Sleeve Blouse",
         "prices": {
@@ -6814,15 +6814,15 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
+          "average": null,
+          "count": 0,
+          "fit": null,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 1
+            "five": 0
           }
         },
         "representative": {
