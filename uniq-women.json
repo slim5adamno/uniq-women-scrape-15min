@@ -5461,9 +5461,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -5481,7 +5481,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06345798",
+          "l2Id": "06345838",
           "salesStartDate": "",
           "salesEndDate": ""
         },
