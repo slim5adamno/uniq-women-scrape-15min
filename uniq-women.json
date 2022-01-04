@@ -297,57 +297,57 @@
         {
           "rating": 0,
           "accumulated": 82,
-          "count": 60
+          "count": 59
         },
         {
           "rating": 0.5,
-          "accumulated": 22,
+          "accumulated": 23,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 22,
+          "accumulated": 23,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 21,
+          "accumulated": 22,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 21,
+          "accumulated": 22,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 20,
+          "accumulated": 21,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 20,
+          "accumulated": 21,
           "count": 1
         },
         {
           "rating": 3.5,
-          "accumulated": 19,
+          "accumulated": 20,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 18,
+          "accumulated": 19,
           "count": 3
         },
         {
           "rating": 4.5,
-          "accumulated": 15,
+          "accumulated": 16,
           "count": 6
         },
         {
           "rating": 5,
-          "accumulated": 9,
-          "count": 9
+          "accumulated": 10,
+          "count": 10
         }
       ],
       "sizes": [
@@ -638,8 +638,8 @@
             "name": "Extra Stretch Leggings"
           },
           {
-            "id": 18985,
-            "name": "+J"
+            "id": 12390,
+            "name": "Bags"
           },
           {
             "id": 19927,
@@ -658,14 +658,6 @@
             "name": "+ J"
           },
           {
-            "id": 12390,
-            "name": "Bags"
-          },
-          {
-            "id": 21430,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 20540,
             "name": "Other Ultra Light Down"
           },
@@ -678,15 +670,19 @@
             "name": "Belts"
           },
           {
+            "id": 18985,
+            "name": "+J"
+          },
+          {
             "id": 11574,
             "name": "Others"
           },
           {
-            "id": 11615,
+            "id": 11623,
             "name": "Others"
           },
           {
-            "id": 11623,
+            "id": 11615,
             "name": "Others"
           },
           {
