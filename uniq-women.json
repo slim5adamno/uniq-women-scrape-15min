@@ -675,12 +675,12 @@
             "name": "Tops"
           },
           {
-            "id": 12455,
-            "name": "Bottoms"
-          },
-          {
             "id": 11662,
             "name": "Others"
+          },
+          {
+            "id": 12455,
+            "name": "Bottoms"
           },
           {
             "id": 13095,
@@ -711,11 +711,11 @@
             "name": "Others"
           },
           {
-            "id": 11615,
+            "id": 11623,
             "name": "Others"
           },
           {
-            "id": 11623,
+            "id": 11615,
             "name": "Others"
           },
           {
