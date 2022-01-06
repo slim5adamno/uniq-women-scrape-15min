@@ -2201,9 +2201,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL11",
-            "displayCode": "11",
-            "name": "PINK",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -2221,7 +2221,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06127691",
+          "l2Id": "06127686",
           "salesStartDate": "",
           "salesEndDate": ""
         },
