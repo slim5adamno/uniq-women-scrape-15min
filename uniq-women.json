@@ -322,37 +322,37 @@
         {
           "rating": 0,
           "accumulated": 96,
-          "count": 61
+          "count": 60
         },
         {
           "rating": 0.5,
-          "accumulated": 35,
+          "accumulated": 36,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 35,
+          "accumulated": 36,
           "count": 4
         },
         {
           "rating": 1.5,
-          "accumulated": 31,
+          "accumulated": 32,
           "count": 1
         },
         {
           "rating": 2,
-          "accumulated": 30,
+          "accumulated": 31,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 29,
+          "accumulated": 30,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 29,
-          "count": 1
+          "accumulated": 30,
+          "count": 2
         },
         {
           "rating": 3.5,
