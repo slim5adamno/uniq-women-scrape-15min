@@ -746,11 +746,11 @@
             "name": "HEATTECH"
           },
           {
-            "id": 21105,
-            "name": "Pile Lined"
+            "id": 11625,
+            "name": "Others"
           },
           {
-            "id": 11625,
+            "id": 21070,
             "name": "Others"
           },
           {
@@ -872,10 +872,6 @@
           {
             "id": 11579,
             "name": "Others"
-          },
-          {
-            "id": 12163,
-            "name": "Fleece"
           },
           {
             "id": 11649,
@@ -5814,9 +5810,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -5834,7 +5830,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05863402",
+          "l2Id": "05863466",
           "salesStartDate": "",
           "salesEndDate": ""
         },
