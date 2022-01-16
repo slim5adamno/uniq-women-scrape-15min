@@ -312,47 +312,47 @@
         {
           "rating": 0,
           "accumulated": 95,
-          "count": 57
+          "count": 56
         },
         {
           "rating": 0.5,
-          "accumulated": 38,
+          "accumulated": 39,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 38,
+          "accumulated": 39,
           "count": 4
         },
         {
           "rating": 1.5,
-          "accumulated": 34,
+          "accumulated": 35,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 34,
+          "accumulated": 35,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 34,
+          "accumulated": 35,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 34,
+          "accumulated": 35,
           "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 32,
+          "accumulated": 33,
           "count": 3
         },
         {
           "rating": 4,
-          "accumulated": 29,
-          "count": 5
+          "accumulated": 30,
+          "count": 6
         },
         {
           "rating": 4.5,
