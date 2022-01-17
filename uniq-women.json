@@ -987,9 +987,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL12",
+            "displayCode": "12",
+            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1014,7 +1014,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06429410",
+          "l2Id": "06429378",
           "salesStartDate": "",
           "salesEndDate": ""
         },
