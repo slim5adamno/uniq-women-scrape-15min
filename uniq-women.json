@@ -675,10 +675,6 @@
             "name": "HEATTECH Extra Warm"
           },
           {
-            "id": 11654,
-            "name": "Accessories"
-          },
-          {
             "id": 11639,
             "name": "Bottoms"
           },
@@ -717,6 +713,10 @@
             "name": "Extra Warm"
           },
           {
+            "id": 13095,
+            "name": "+ J"
+          },
+          {
             "id": 12454,
             "name": "Tops"
           },
@@ -725,16 +725,8 @@
             "name": "Others"
           },
           {
-            "id": 13095,
-            "name": "+ J"
-          },
-          {
             "id": 20540,
             "name": "Other Ultra Light Down"
-          },
-          {
-            "id": 12395,
-            "name": "Scarves"
           },
           {
             "id": 11594,
@@ -743,10 +735,6 @@
           {
             "id": 12389,
             "name": "Belts"
-          },
-          {
-            "id": 12396,
-            "name": "Neck Warmer"
           },
           {
             "id": 12180,
@@ -777,12 +765,12 @@
             "name": "Others"
           },
           {
-            "id": 12459,
-            "name": "Innerwear"
-          },
-          {
             "id": 12420,
             "name": "HEATTECH"
+          },
+          {
+            "id": 12459,
+            "name": "Innerwear"
           },
           {
             "id": 11625,
@@ -813,12 +801,12 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 12281,
-            "name": "Ultra Stretch"
-          },
-          {
             "id": 11646,
             "name": "Others"
+          },
+          {
+            "id": 12281,
+            "name": "Ultra Stretch"
           },
           {
             "id": 12284,
@@ -837,12 +825,12 @@
             "name": "Others"
           },
           {
-            "id": 20433,
-            "name": "HEATTECH"
-          },
-          {
             "id": 11580,
             "name": "Others"
+          },
+          {
+            "id": 20433,
+            "name": "HEATTECH"
           },
           {
             "id": 13099,
@@ -861,24 +849,16 @@
             "name": "Warm Line"
           },
           {
-            "id": 12346,
-            "name": "Crew Neck"
-          },
-          {
             "id": 19719,
             "name": "HEATTECH"
           },
           {
-            "id": 20439,
-            "name": "Neck Warmer"
+            "id": 12346,
+            "name": "Crew Neck"
           },
           {
             "id": 12199,
             "name": "Long Sleeve T-Shirts"
-          },
-          {
-            "id": 20440,
-            "name": "Scarf"
           },
           {
             "id": 13102,
