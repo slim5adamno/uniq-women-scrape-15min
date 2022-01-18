@@ -717,10 +717,6 @@
             "name": "Extra Warm"
           },
           {
-            "id": 12374,
-            "name": "Lounge Set"
-          },
-          {
             "id": 12454,
             "name": "Tops"
           },
@@ -731,10 +727,6 @@
           {
             "id": 13095,
             "name": "+ J"
-          },
-          {
-            "id": 12394,
-            "name": "Stoles"
           },
           {
             "id": 20540,
@@ -802,6 +794,10 @@
           },
           {
             "id": 11663,
+            "name": "Others"
+          },
+          {
+            "id": 11656,
             "name": "Others"
           },
           {
@@ -1408,9 +1404,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1428,7 +1424,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06376423",
+          "l2Id": "06376424",
           "salesStartDate": "",
           "salesEndDate": ""
         },
