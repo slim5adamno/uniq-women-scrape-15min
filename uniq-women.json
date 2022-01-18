@@ -5634,9 +5634,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL27",
-            "displayCode": "27",
-            "name": "ORANGE",
+            "code": "COL02",
+            "displayCode": "02",
+            "name": "LIGHT GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -5654,7 +5654,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06366010",
+          "l2Id": "06366007",
           "salesStartDate": "",
           "salesEndDate": ""
         },
