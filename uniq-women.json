@@ -4003,7 +4003,7 @@
         "composition": "100% Polyester",
         "designDetail": "",
         "freeInformation": "",
-        "genderName": "Unisex",
+        "genderName": "Women",
         "hideReview": false,
         "images": {
           "main": [
@@ -4129,7 +4129,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle"
       },
       {
@@ -13872,9 +13872,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -13899,7 +13899,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06329906",
+          "l2Id": "06329898",
           "salesStartDate": "",
           "salesEndDate": ""
         },
