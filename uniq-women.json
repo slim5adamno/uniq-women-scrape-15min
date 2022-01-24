@@ -1703,9 +1703,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1730,7 +1730,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05294027",
+          "l2Id": "05294019",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -9319,9 +9319,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL23",
-            "displayCode": "23",
-            "name": "ORANGE",
+            "code": "COL10",
+            "displayCode": "10",
+            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9330,10 +9330,10 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until Jan 27"
               }
             ],
             "productFlags": [
@@ -9346,7 +9346,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06543187",
+          "l2Id": "06543163",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -16550,9 +16550,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL78",
-            "displayCode": "78",
-            "name": "PURPLE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -16577,7 +16577,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06672088",
+          "l2Id": "06672081",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -16781,9 +16781,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL35",
+            "displayCode": "35",
+            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -16808,7 +16808,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06530831",
+          "l2Id": "06530839",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -17828,9 +17828,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL12",
-            "displayCode": "12",
-            "name": "PINK",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -17855,7 +17855,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06584686",
+          "l2Id": "06584702",
           "salesStartDate": "",
           "salesEndDate": ""
         },
