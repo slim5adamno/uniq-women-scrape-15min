@@ -1040,7 +1040,7 @@
         "composition": "[07, 58, 67] Body: 72% Cotton,  28% Polyester/ Rib: 59% Cotton, 41% Polyester [Other colors] Body: 72% Cotton, 28% Polyester, Rib: 72% Polyester, 28% Cotton",
         "designDetail": "",
         "freeInformation": "",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -1160,7 +1160,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle"
       },
       {
