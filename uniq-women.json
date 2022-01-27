@@ -347,12 +347,12 @@
         {
           "rating": 4,
           "accumulated": 43,
-          "count": 9
+          "count": 10
         },
         {
           "rating": 4.5,
-          "accumulated": 34,
-          "count": 12
+          "accumulated": 33,
+          "count": 11
         },
         {
           "rating": 5,
@@ -628,16 +628,16 @@
             "name": "Long Sleeve Dress"
           },
           {
+            "id": 13095,
+            "name": "+ J"
+          },
+          {
             "id": 11662,
             "name": "Others"
           },
           {
             "id": 12454,
             "name": "Tops"
-          },
-          {
-            "id": 13095,
-            "name": "+ J"
           },
           {
             "id": 11655,
@@ -660,19 +660,19 @@
             "name": "Merino"
           },
           {
-            "id": 18985,
-            "name": "+J"
-          },
-          {
             "id": 11574,
             "name": "Others"
           },
           {
-            "id": 11623,
-            "name": "Others"
+            "id": 18985,
+            "name": "+J"
           },
           {
             "id": 11615,
+            "name": "Others"
+          },
+          {
+            "id": 11623,
             "name": "Others"
           },
           {
@@ -704,12 +704,12 @@
             "name": "Others"
           },
           {
-            "id": 21070,
-            "name": "Others"
-          },
-          {
             "id": 12281,
             "name": "Ultra Stretch"
+          },
+          {
+            "id": 21070,
+            "name": "Others"
           },
           {
             "id": 12284,
