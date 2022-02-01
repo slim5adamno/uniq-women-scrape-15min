@@ -688,16 +688,16 @@
             "name": "Innerwear"
           },
           {
-            "id": 11662,
-            "name": "Others"
+            "id": 12454,
+            "name": "Tops"
           },
           {
             "id": 13095,
             "name": "+ J"
           },
           {
-            "id": 12454,
-            "name": "Tops"
+            "id": 11662,
+            "name": "Others"
           },
           {
             "id": 11655,
@@ -760,11 +760,11 @@
             "name": "Others"
           },
           {
-            "id": 11623,
+            "id": 11615,
             "name": "Others"
           },
           {
-            "id": 11615,
+            "id": 11623,
             "name": "Others"
           },
           {
@@ -772,20 +772,20 @@
             "name": "Tops"
           },
           {
-            "id": 21105,
-            "name": "Pile Lined"
-          },
-          {
             "id": 11625,
             "name": "Others"
           },
           {
-            "id": 21070,
-            "name": "Others"
+            "id": 21105,
+            "name": "Pile Lined"
           },
           {
             "id": 12462,
             "name": "Innerwear"
+          },
+          {
+            "id": 21070,
+            "name": "Others"
           },
           {
             "id": 12468,
@@ -804,16 +804,16 @@
             "name": "Sleeveless Tops"
           },
           {
-            "id": 12339,
-            "name": "AIRism"
+            "id": 12281,
+            "name": "Ultra Stretch"
           },
           {
             "id": 12445,
             "name": "Bratop"
           },
           {
-            "id": 12281,
-            "name": "Ultra Stretch"
+            "id": 12339,
+            "name": "AIRism"
           },
           {
             "id": 12284,
@@ -856,12 +856,12 @@
             "name": "AIRism"
           },
           {
-            "id": 12344,
-            "name": "Sleeveless"
-          },
-          {
             "id": 12299,
             "name": "Jersey"
+          },
+          {
+            "id": 12344,
+            "name": "Sleeveless"
           },
           {
             "id": 12348,
