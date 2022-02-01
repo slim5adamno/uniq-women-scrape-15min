@@ -696,16 +696,16 @@
             "name": "Innerwear"
           },
           {
-            "id": 13095,
-            "name": "+ J"
-          },
-          {
             "id": 12454,
             "name": "Tops"
           },
           {
             "id": 11662,
             "name": "Others"
+          },
+          {
+            "id": 13095,
+            "name": "+ J"
           },
           {
             "id": 11655,
@@ -716,12 +716,12 @@
             "name": "Flannel"
           },
           {
-            "id": 12361,
-            "name": "Regular Warm"
-          },
-          {
             "id": 12459,
             "name": "Innerwear"
+          },
+          {
+            "id": 12361,
+            "name": "Regular Warm"
           },
           {
             "id": 12388,
@@ -760,12 +760,12 @@
             "name": "+J"
           },
           {
-            "id": 12180,
-            "name": "Merino"
-          },
-          {
             "id": 11615,
             "name": "Others"
+          },
+          {
+            "id": 12180,
+            "name": "Merino"
           },
           {
             "id": 11574,
@@ -812,16 +812,16 @@
             "name": "Sleeveless Tops"
           },
           {
+            "id": 12281,
+            "name": "Ultra Stretch"
+          },
+          {
             "id": 12339,
             "name": "AIRism"
           },
           {
             "id": 12445,
             "name": "Bratop"
-          },
-          {
-            "id": 12281,
-            "name": "Ultra Stretch"
           },
           {
             "id": 12284,
@@ -15161,15 +15161,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
