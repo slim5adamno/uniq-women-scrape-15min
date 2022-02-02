@@ -633,12 +633,12 @@
             "name": "Innerwear"
           },
           {
-            "id": 13095,
-            "name": "+ J"
-          },
-          {
             "id": 12454,
             "name": "Tops"
+          },
+          {
+            "id": 13095,
+            "name": "+ J"
           },
           {
             "id": 11662,
@@ -653,12 +653,12 @@
             "name": "Flannel"
           },
           {
-            "id": 12361,
-            "name": "Regular Warm"
-          },
-          {
             "id": 12388,
             "name": "Masks"
+          },
+          {
+            "id": 12361,
+            "name": "Regular Warm"
           },
           {
             "id": 12363,
@@ -705,12 +705,12 @@
             "name": "Others"
           },
           {
-            "id": 21070,
-            "name": "Others"
-          },
-          {
             "id": 12462,
             "name": "Innerwear"
+          },
+          {
+            "id": 21070,
+            "name": "Others"
           },
           {
             "id": 11593,
