@@ -585,6 +585,10 @@
             "name": "HEATTECH Thermals"
           },
           {
+            "id": 11600,
+            "name": "Bratop"
+          },
+          {
             "id": 11601,
             "name": "Inner Tops"
           },
@@ -647,12 +651,12 @@
             "name": "Flannel"
           },
           {
-            "id": 12361,
-            "name": "Regular Warm"
-          },
-          {
             "id": 12388,
             "name": "Masks"
+          },
+          {
+            "id": 12361,
+            "name": "Regular Warm"
           },
           {
             "id": 20561,
@@ -703,16 +707,20 @@
             "name": "Others"
           },
           {
-            "id": 12462,
-            "name": "Innerwear"
-          },
-          {
             "id": 21070,
             "name": "Others"
           },
           {
+            "id": 12462,
+            "name": "Innerwear"
+          },
+          {
             "id": 11593,
             "name": "Others"
+          },
+          {
+            "id": 19721,
+            "name": "HEATTECH"
           },
           {
             "id": 12281,
@@ -743,12 +751,24 @@
             "name": "HEATTECH"
           },
           {
+            "id": 19719,
+            "name": "HEATTECH"
+          },
+          {
             "id": 12346,
             "name": "Crew Neck"
           },
           {
+            "id": 12199,
+            "name": "Long Sleeve T-Shirts"
+          },
+          {
             "id": 12135,
             "name": "Hybrid Down"
+          },
+          {
+            "id": 19338,
+            "name": "Fleece"
           },
           {
             "id": 13075,
@@ -791,12 +811,12 @@
             "name": "Others"
           },
           {
-            "id": 12452,
-            "name": "Masks"
-          },
-          {
             "id": 12163,
             "name": "Fleece"
+          },
+          {
+            "id": 12452,
+            "name": "Masks"
           },
           {
             "id": 12162,
