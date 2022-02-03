@@ -542,7 +542,7 @@
           },
           {
             "id": 11576,
-            "name": "Sweatshirts & Hoodies"
+            "name": "Sweat Collections"
           },
           {
             "id": 11577,
@@ -550,7 +550,7 @@
           },
           {
             "id": 11575,
-            "name": "Shirts & Tops"
+            "name": "Shirts & Blouses"
           },
           {
             "id": 11583,
@@ -631,16 +631,16 @@
             "name": "Innerwear"
           },
           {
-            "id": 13095,
-            "name": "+ J"
+            "id": 12454,
+            "name": "Tops"
           },
           {
             "id": 11662,
             "name": "Others"
           },
           {
-            "id": 12454,
-            "name": "Tops"
+            "id": 13095,
+            "name": "+ J"
           },
           {
             "id": 11655,
@@ -651,12 +651,12 @@
             "name": "Flannel"
           },
           {
-            "id": 12388,
-            "name": "Masks"
-          },
-          {
             "id": 12361,
             "name": "Regular Warm"
+          },
+          {
+            "id": 12388,
+            "name": "Masks"
           },
           {
             "id": 20561,
