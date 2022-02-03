@@ -631,16 +631,16 @@
             "name": "Innerwear"
           },
           {
-            "id": 11662,
-            "name": "Others"
-          },
-          {
             "id": 12454,
             "name": "Tops"
           },
           {
             "id": 13095,
             "name": "+ J"
+          },
+          {
+            "id": 11662,
+            "name": "Others"
           },
           {
             "id": 11655,
@@ -655,12 +655,12 @@
             "name": "Ultra Stretch"
           },
           {
-            "id": 20561,
-            "name": "Sweater"
-          },
-          {
             "id": 12135,
             "name": "Hybrid Down"
+          },
+          {
+            "id": 20561,
+            "name": "Sweater"
           },
           {
             "id": 12284,
