@@ -280,7 +280,7 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 40
+          "count": 42
         },
         {
           "from": 2000,
@@ -301,53 +301,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 92,
+          "accumulated": 94,
           "count": 41
         },
         {
           "rating": 0.5,
-          "accumulated": 51,
+          "accumulated": 53,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 51,
+          "accumulated": 53,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 49,
+          "accumulated": 51,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 49,
+          "accumulated": 51,
           "count": 2
         },
         {
           "rating": 2.5,
-          "accumulated": 47,
+          "accumulated": 49,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 47,
+          "accumulated": 49,
           "count": 5
         },
         {
           "rating": 3.5,
-          "accumulated": 42,
+          "accumulated": 44,
           "count": 3
         },
         {
           "rating": 4,
-          "accumulated": 39,
-          "count": 8
+          "accumulated": 41,
+          "count": 9
         },
         {
           "rating": 4.5,
-          "accumulated": 31,
-          "count": 14
+          "accumulated": 32,
+          "count": 15
         },
         {
           "rating": 5,
@@ -623,16 +623,16 @@
             "name": "Innerwear"
           },
           {
+            "id": 13095,
+            "name": "+ J"
+          },
+          {
             "id": 11662,
             "name": "Others"
           },
           {
             "id": 12454,
             "name": "Tops"
-          },
-          {
-            "id": 13095,
-            "name": "+ J"
           },
           {
             "id": 11655,
@@ -643,16 +643,20 @@
             "name": "Flannel"
           },
           {
-            "id": 12361,
-            "name": "Regular Warm"
-          },
-          {
             "id": 12388,
             "name": "Masks"
           },
           {
+            "id": 12361,
+            "name": "Regular Warm"
+          },
+          {
             "id": 12363,
             "name": "Ultra Warm"
+          },
+          {
+            "id": 20561,
+            "name": "Sweater"
           },
           {
             "id": 12291,
@@ -695,12 +699,12 @@
             "name": "Others"
           },
           {
-            "id": 21070,
-            "name": "Others"
-          },
-          {
             "id": 12462,
             "name": "Innerwear"
+          },
+          {
+            "id": 21070,
+            "name": "Others"
           },
           {
             "id": 11593,
@@ -966,7 +970,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -999,15 +1003,6 @@
       {
         "careInstruction": "-",
         "colors": [
-          {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL36",
             "displayCode": "36",
@@ -1193,7 +1188,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -1205,15 +1200,6 @@
             "code": "INS024",
             "displayCode": "024",
             "name": "24inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "INS025",
-            "displayCode": "025",
-            "name": "25inch",
             "display": {
               "showFlag": true,
               "chipType": 1
@@ -1430,7 +1416,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -1678,7 +1664,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -1898,7 +1884,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -2082,7 +2068,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -2264,7 +2250,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -2431,7 +2417,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -2607,7 +2593,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -2817,7 +2803,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -3021,7 +3007,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -3191,7 +3177,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -3480,7 +3466,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -3715,7 +3701,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -3885,7 +3871,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -4055,7 +4041,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -4225,7 +4211,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -4404,7 +4390,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -4583,7 +4569,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -4773,7 +4759,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -4988,7 +4974,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -5211,7 +5197,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -5417,7 +5403,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -5630,7 +5616,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -5803,7 +5789,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -5969,7 +5955,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -6184,7 +6170,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -6372,7 +6358,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -6520,7 +6506,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -6733,7 +6719,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -6920,7 +6906,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -7074,7 +7060,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -7274,7 +7260,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -7478,7 +7464,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -7678,7 +7664,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -7867,7 +7853,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -8084,7 +8070,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -8241,7 +8227,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -8424,7 +8410,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -8618,7 +8604,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -8870,7 +8856,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -9124,7 +9110,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -9350,7 +9336,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -9556,7 +9542,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -9819,7 +9805,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -10093,7 +10079,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -10294,7 +10280,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -10519,7 +10505,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -10700,7 +10686,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -10905,7 +10891,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -11117,7 +11103,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -11339,7 +11325,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -11611,7 +11597,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -11826,7 +11812,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -12027,7 +12013,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -12226,7 +12212,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -12377,7 +12363,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -12546,7 +12532,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -12695,7 +12681,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -12873,7 +12859,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -13072,7 +13058,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -13291,7 +13277,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -13308,6 +13294,407 @@
               "chipType": 0
             }
           },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, gentle cycle"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "100% Polyester",
+        "designDetail": "",
+        "freeInformation": "",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/item/ingoods_01_440037.jpg",
+              "colorCode": "01"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/item/ingoods_34_440037.jpg",
+              "colorCode": "34"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440037/chip/goods_01_440037_chip.jpg",
+              "colorCode": "01"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440037/chip/goods_34_440037_chip.jpg",
+              "colorCode": "34"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/sub/ingoods_440037_sub6.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/sub/ingoods_440037_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440037/sub/ingoods_440037_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440037/sub/goods_440037_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440037/sub/goods_440037_sub10.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440037/sub/goods_440037_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440037/sub/goods_440037_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440037/sub/goods_440037_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440037/sub/goods_440037_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440037/sub/goods_440037_sub19.jpg"
+            }
+          ]
+        },
+        "l1Id": "440037",
+        "longDescription": "- Light, fluffy, and soft fleece top. <br>- A moderately relaxed cut. <br>- Bottoms with a tapered fit. <br>- Perfect for housework or working from home.",
+        "name": "WOMEN Light Pile Lined Fleece Long Sleeve Set",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "2490.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1990.0000"
+          }
+        },
+        "productId": "E440037-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.55,
+          "count": 20,
+          "fit": 3.1,
+          "rateCount": {
+            "one": 1,
+            "two": 1,
+            "three": 0,
+            "four": 2,
+            "five": 16
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "06428211",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 93,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "The soft fleece wraps around your body, helping you relax in warmth and comfort.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/440037_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, gentle cycle"
+      },
+      {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Tops: 100% Polyester/ Bottoms: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440036/item/ingoods_08_440036.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440036/item/ingoods_50_440036.jpg",
+              "colorCode": "50"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440036/chip/goods_08_440036_chip.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440036/chip/goods_50_440036_chip.jpg",
+              "colorCode": "50"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440036/sub/ingoods_440036_sub6.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440036/sub/ingoods_440036_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/440036/sub/ingoods_440036_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440036/sub/goods_440036_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440036/sub/goods_440036_sub10.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440036/sub/goods_440036_sub13.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440036/sub/goods_440036_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440036/sub/goods_440036_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/440036/sub/goods_440036_sub20.jpg"
+            }
+          ]
+        },
+        "l1Id": "440036",
+        "longDescription": "- Fluffy, furry fleece top great for relaxing. <br>- A moderately relaxed cut and mock neck that keeps you warm. <br>- Premium knit-like fleece lounge pants-style bottoms. <br>- Wide cut great for relaxing. <br>- Perfect for housework or working from home. <br>- Bottoms designed as one-mile wear.",
+        "name": "WOMEN Fluffy Fleece Long Sleeve Set",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "2490.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1990.0000"
+          }
+        },
+        "productId": "E440036-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 4.4,
+          "count": 5,
+          "fit": 2.6,
+          "rateCount": {
+            "one": 0,
+            "two": 1,
+            "three": 0,
+            "four": 0,
+            "five": 4
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "06428243",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 93,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "A premium set of fluffy, furry fleece and knit-like fleece.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/440036_size.html",
+        "sizeInformation": "",
+        "sizes": [
           {
             "code": "SMA003",
             "displayCode": "003",
@@ -13583,7 +13970,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -13854,7 +14241,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -14083,7 +14470,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -14232,7 +14619,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -14427,7 +14814,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -14636,7 +15023,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -14832,7 +15219,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -15031,7 +15418,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -15255,7 +15642,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -15539,7 +15926,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -15773,7 +16160,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -15995,7 +16382,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -16220,7 +16607,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -16469,7 +16856,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -16721,7 +17108,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -16926,7 +17313,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -17102,7 +17489,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -17291,7 +17678,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -17478,7 +17865,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -17709,7 +18096,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -17923,7 +18310,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -18144,7 +18531,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -18357,7 +18744,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -18555,7 +18942,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -18722,7 +19109,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -18913,7 +19300,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -19141,7 +19528,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -19358,7 +19745,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -19589,7 +19976,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -19797,7 +20184,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 91,
+          "total": 93,
           "count": 0,
           "items": []
         },
@@ -19829,8 +20216,8 @@
       }
     ],
     "pagination": {
-      "count": 92,
-      "total": 92,
+      "count": 94,
+      "total": 94,
       "offset": 300
     }
   }
