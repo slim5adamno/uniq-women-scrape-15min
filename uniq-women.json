@@ -675,11 +675,11 @@
             "name": "Others"
           },
           {
-            "id": 13099,
+            "id": 13075,
             "name": "+ J"
           },
           {
-            "id": 13075,
+            "id": 13099,
             "name": "+ J"
           },
           {
@@ -691,24 +691,24 @@
             "name": "Others"
           },
           {
-            "id": 12460,
-            "name": "Tops"
-          },
-          {
             "id": 19721,
             "name": "HEATTECH"
+          },
+          {
+            "id": 12460,
+            "name": "Tops"
           },
           {
             "id": 12163,
             "name": "Fleece"
           },
           {
-            "id": 12462,
-            "name": "Innerwear"
-          },
-          {
             "id": 12162,
             "name": "Down"
+          },
+          {
+            "id": 12462,
+            "name": "Innerwear"
           },
           {
             "id": 12291,
