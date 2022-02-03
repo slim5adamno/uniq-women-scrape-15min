@@ -538,7 +538,7 @@
           },
           {
             "id": 11568,
-            "name": "Sweaters"
+            "name": "Sweaters & Cardigans"
           },
           {
             "id": 11576,
@@ -590,11 +590,11 @@
           },
           {
             "id": 11601,
-            "name": "Undershirts"
+            "name": "Inner Tops"
           },
           {
             "id": 11613,
-            "name": "Loungewear & Pajamas"
+            "name": "Loungewear Sets"
           },
           {
             "id": 11619,
@@ -655,12 +655,12 @@
             "name": "Ultra Stretch"
           },
           {
-            "id": 12135,
-            "name": "Hybrid Down"
-          },
-          {
             "id": 20561,
             "name": "Sweater"
+          },
+          {
+            "id": 12135,
+            "name": "Hybrid Down"
           },
           {
             "id": 12284,
@@ -671,12 +671,12 @@
             "name": "Others"
           },
           {
-            "id": 11574,
-            "name": "Others"
-          },
-          {
             "id": 13075,
             "name": "+ J"
+          },
+          {
+            "id": 11574,
+            "name": "Others"
           },
           {
             "id": 13099,
@@ -691,12 +691,12 @@
             "name": "Others"
           },
           {
-            "id": 19721,
-            "name": "HEATTECH"
-          },
-          {
             "id": 12460,
             "name": "Tops"
+          },
+          {
+            "id": 19721,
+            "name": "HEATTECH"
           },
           {
             "id": 12163,
@@ -739,12 +739,12 @@
             "name": "HEATTECH"
           },
           {
-            "id": 12152,
-            "name": "Ultra Light Down"
-          },
-          {
             "id": 12363,
             "name": "Ultra Warm"
+          },
+          {
+            "id": 12152,
+            "name": "Ultra Light Down"
           },
           {
             "id": 12199,
