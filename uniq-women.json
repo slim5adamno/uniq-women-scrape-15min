@@ -601,24 +601,24 @@
         ],
         "subcategories": [
           {
-            "id": 22347,
-            "name": "Jeans"
-          },
-          {
             "id": 22380,
             "name": "AIRism Masks"
-          },
-          {
-            "id": 22308,
-            "name": "Coats"
           },
           {
             "id": 19926,
             "name": "Flannel"
           },
           {
+            "id": 22347,
+            "name": "Jeans"
+          },
+          {
             "id": 22374,
             "name": "Loungewear & Pajamas"
+          },
+          {
+            "id": 22308,
+            "name": "Coats"
           },
           {
             "id": 22348,
@@ -637,16 +637,16 @@
             "name": "Scarves & Stoles"
           },
           {
+            "id": 13095,
+            "name": "+ J"
+          },
+          {
             "id": 22383,
             "name": "Bags"
           },
           {
             "id": 22350,
             "name": "Trousers"
-          },
-          {
-            "id": 13095,
-            "name": "+ J"
           },
           {
             "id": 22385,
@@ -661,12 +661,12 @@
             "name": "Ankle & Cropped Pants"
           },
           {
-            "id": 22346,
-            "name": "Others"
-          },
-          {
             "id": 22386,
             "name": "Bedding Goods"
+          },
+          {
+            "id": 22346,
+            "name": "Others"
           },
           {
             "id": 22355,
