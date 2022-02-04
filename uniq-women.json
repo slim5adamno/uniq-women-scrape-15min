@@ -617,6 +617,14 @@
         ],
         "subcategories": [
           {
+            "id": 22347,
+            "name": "Jeans"
+          },
+          {
+            "id": 22374,
+            "name": "Loungewear & Pajamas"
+          },
+          {
             "id": 22308,
             "name": "Coats"
           },
@@ -629,64 +637,56 @@
             "name": "Long Sleeve Dress"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
-          },
-          {
-            "id": 22374,
-            "name": "Loungewear & Pajamas"
+            "id": 22365,
+            "name": "Bra Tops"
           },
           {
             "id": 22348,
             "name": "Leggings Pants"
           },
           {
-            "id": 22365,
-            "name": "Bra Tops"
-          },
-          {
             "id": 22340,
             "name": "Sweaters"
-          },
-          {
-            "id": 22310,
-            "name": "Jackets"
-          },
-          {
-            "id": 22376,
-            "name": "Bedding"
-          },
-          {
-            "id": 22341,
-            "name": "Cardigans"
           },
           {
             "id": 22382,
             "name": "Scarves & Stoles"
           },
           {
+            "id": 22341,
+            "name": "Cardigans"
+          },
+          {
+            "id": 22310,
+            "name": "Jackets"
+          },
+          {
             "id": 13095,
             "name": "+ J"
+          },
+          {
+            "id": 22376,
+            "name": "Bedding"
           },
           {
             "id": 22366,
             "name": "HEATTECH"
           },
           {
-            "id": 22383,
-            "name": "Bags"
+            "id": 22311,
+            "name": "Fleece"
           },
           {
             "id": 22342,
             "name": "Sweat Collections"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
+            "id": 22383,
+            "name": "Bags"
           },
           {
-            "id": 22311,
-            "name": "Fleece"
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 22368,
@@ -701,16 +701,16 @@
             "name": "Parka"
           },
           {
-            "id": 22385,
-            "name": "Belts"
-          },
-          {
             "id": 22313,
             "name": "Others"
           },
           {
             "id": 22344,
             "name": "Shirts & Blouses"
+          },
+          {
+            "id": 22385,
+            "name": "Belts"
           },
           {
             "id": 22353,
@@ -733,12 +733,12 @@
             "name": "Masks"
           },
           {
-            "id": 12135,
-            "name": "Hybrid Down"
-          },
-          {
             "id": 20561,
             "name": "Sweater"
+          },
+          {
+            "id": 12135,
+            "name": "Hybrid Down"
           },
           {
             "id": 12281,
@@ -757,16 +757,16 @@
             "name": "Others"
           },
           {
-            "id": 13075,
-            "name": "+ J"
+            "id": 11574,
+            "name": "Others"
           },
           {
             "id": 13099,
             "name": "+ J"
           },
           {
-            "id": 11574,
-            "name": "Others"
+            "id": 13075,
+            "name": "+ J"
           },
           {
             "id": 11569,
@@ -777,12 +777,12 @@
             "name": "Others"
           },
           {
-            "id": 19721,
-            "name": "HEATTECH"
-          },
-          {
             "id": 25012,
             "name": "Sweat"
+          },
+          {
+            "id": 19721,
+            "name": "HEATTECH"
           },
           {
             "id": 12163,
@@ -829,12 +829,12 @@
             "name": "Long Sleeve T-Shirts"
           },
           {
-            "id": 23511,
-            "name": "Shoulder Bags"
-          },
-          {
             "id": 12152,
             "name": "Ultra Light Down"
+          },
+          {
+            "id": 23511,
+            "name": "Shoulder Bags"
           },
           {
             "id": 12363,
