@@ -4782,7 +4782,7 @@
         "composition": "100% Polyester",
         "designDetail": "",
         "freeInformation": "",
-        "genderName": "Women",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -4911,7 +4911,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, gentle cycle"
       },
       {
