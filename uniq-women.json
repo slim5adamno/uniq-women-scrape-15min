@@ -10553,19 +10553,13 @@
         "longDescription": "- Pleated the front for a flattering affect.<br>- Blended fabric combines the cool feel of linen with the softness of cotton. <br>- High waist elongates the look of your legs. <br>- Pleated around the stomach, so it looks sleek and stylish even with a shirt tucked in. <br>- A comfortable, easy waist design with elastic on the back.",
         "name": "WOMEN Linen Cotton Shorts",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E433269-000",
@@ -10599,27 +10593,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06181372",
+          "l2Id": "06181340",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -13527,9 +13514,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL04",
-            "displayCode": "04",
-            "name": "GRAY",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -13547,7 +13534,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06330082",
+          "l2Id": "06330058",
           "salesStartDate": "",
           "salesEndDate": ""
         },
