@@ -640,12 +640,12 @@
             "name": "Underwear"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
-          },
-          {
             "id": 22346,
             "name": "Others"
+          },
+          {
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 22373,
@@ -676,11 +676,11 @@
             "name": "Others"
           },
           {
-            "id": 11569,
+            "id": 11574,
             "name": "Others"
           },
           {
-            "id": 11574,
+            "id": 11569,
             "name": "Others"
           },
           {
@@ -720,19 +720,19 @@
             "name": "Others"
           },
           {
-            "id": 23417,
-            "name": "Home Goods"
-          },
-          {
             "id": 12360,
             "name": "Underwear"
           },
           {
-            "id": 23416,
-            "name": "Others"
+            "id": 23417,
+            "name": "Home Goods"
           },
           {
             "id": 11596,
+            "name": "Others"
+          },
+          {
+            "id": 23416,
             "name": "Others"
           },
           {
