@@ -624,16 +624,16 @@
             "name": "Flannel"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
-          },
-          {
             "id": 22313,
             "name": "Others"
           },
           {
             "id": 22379,
             "name": "Others"
+          },
+          {
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 22371,
@@ -720,12 +720,12 @@
             "name": "Others"
           },
           {
-            "id": 12360,
-            "name": "Underwear"
-          },
-          {
             "id": 23417,
             "name": "Home Goods"
+          },
+          {
+            "id": 12360,
+            "name": "Underwear"
           },
           {
             "id": 11596,
