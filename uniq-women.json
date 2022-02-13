@@ -631,12 +631,12 @@
             "name": "Leggings Pants"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
-          },
-          {
             "id": 22368,
             "name": "Inner Tops"
+          },
+          {
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 19926,
@@ -691,11 +691,11 @@
             "name": "Others"
           },
           {
-            "id": 11574,
+            "id": 11569,
             "name": "Others"
           },
           {
-            "id": 11569,
+            "id": 11574,
             "name": "Others"
           },
           {
