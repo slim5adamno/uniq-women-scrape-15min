@@ -1856,19 +1856,13 @@
         "longDescription": "- Made with Supima&reg;cotton for an elegant texture and supple feel. <br>- Looks great on its own or in layered looks. <br>- Updated sleeve length for a sleeker look.<br>- Updated to a more compact and flattering fit.",
         "name": "WOMEN Supima Cotton Crew Neck Short SleeveT-Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "590.0000"
           }
         },
         "productId": "E433577-000",
@@ -1902,23 +1896,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL41",
-            "displayCode": "41",
-            "name": "YELLOW",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -1929,7 +1916,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05982008",
+          "l2Id": "05981976",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -17247,9 +17234,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -17274,7 +17261,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06672268",
+          "l2Id": "06672260",
           "salesStartDate": "",
           "salesEndDate": ""
         },
