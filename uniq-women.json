@@ -602,12 +602,12 @@
             "name": "Trousers"
           },
           {
-            "id": 22353,
-            "name": "Ankle & Cropped Pants"
-          },
-          {
             "id": 22371,
             "name": "Underwear"
+          },
+          {
+            "id": 22353,
+            "name": "Ankle & Cropped Pants"
           },
           {
             "id": 22313,
@@ -666,11 +666,11 @@
             "name": "Others"
           },
           {
-            "id": 11594,
+            "id": 23481,
             "name": "Others"
           },
           {
-            "id": 23481,
+            "id": 11594,
             "name": "Others"
           },
           {
