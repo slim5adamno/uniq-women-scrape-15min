@@ -591,15 +591,15 @@
             "name": "Underwear"
           },
           {
-            "id": 22373,
-            "name": "Others"
-          },
-          {
             "id": 22379,
             "name": "Others"
           },
           {
             "id": 22313,
+            "name": "Others"
+          },
+          {
+            "id": 22373,
             "name": "Others"
           },
           {
@@ -619,19 +619,19 @@
             "name": "Others"
           },
           {
-            "id": 23496,
-            "name": "Masks"
-          },
-          {
             "id": 12337,
             "name": "Relax"
           },
           {
-            "id": 11615,
-            "name": "Others"
+            "id": 23496,
+            "name": "Masks"
           },
           {
             "id": 11574,
+            "name": "Others"
+          },
+          {
+            "id": 11615,
             "name": "Others"
           },
           {
@@ -5279,7 +5279,7 @@
           ]
         },
         "l1Id": "439532",
-        "longDescription": "- Includes moisture-wicking, DRY technology, odor control, and anti-static features. <br>- *KR, RUS do not feature odor control<br>- Stretchy and shape-retaining fabric.<br>- We’ve updated the lower chest band to a hem design at the back to provide support and keep the cups in place, as well as keeping the sides and back looking sleek. <br>- Reduced compression for a more comfortable fit. <br>- Neckline and armhole seams stay hidden. <br>- Soft cups create a natural, flattering shape and stay hidden under outer layers. <br>- Sleeves designed to stay invisible under an outer layer.<br>- Updated with DRY technology for a stay-fresh feel.",
+        "longDescription": "- Includes moisture-wicking, DRY technology, odor control, and anti-static features.<br>- Stretchy and shape-retaining fabric.<br>- We’ve updated the lower chest band to a hem design at the back to provide support and keep the cups in place, as well as keeping the sides and back looking sleek. <br>- Reduced compression for a more comfortable fit. <br>- Neckline and armhole seams stay hidden. <br>- Soft cups create a natural, flattering shape and stay hidden under outer layers. <br>- Sleeves designed to stay invisible under an outer layer.<br>- Updated with DRY technology for a stay-fresh feel.",
         "name": "WOMEN HEATTECH Bra Sleeveless Top (Regular Warm) Thermal",
         "prices": {
           "base": {
