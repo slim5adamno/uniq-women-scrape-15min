@@ -817,19 +817,13 @@
         "longDescription": "- With deodorizing feature. <br>- Socks made of extremely smooth fabric with stunning colors and a glossy sheen. <br>- Wide-ribbed. <br>- Styles perfectly with a wide range of shoes, from heels to sneakers.<br>- Updated to a more premium ribbing design.",
         "name": "WOMEN Socks 3 Pack (Wide Ribbed)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "790.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E439010-000",
@@ -863,27 +857,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06403255",
+          "l2Id": "06403247",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -3035,9 +3022,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -3062,7 +3049,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06677790",
+          "l2Id": "06677889",
           "salesStartDate": "",
           "salesEndDate": ""
         },
