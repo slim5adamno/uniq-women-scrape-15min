@@ -608,19 +608,19 @@
             "name": "AIRism"
           },
           {
-            "id": 22368,
-            "name": "Inner Tops"
-          },
-          {
             "id": 22352,
             "name": "Casual Pants"
+          },
+          {
+            "id": 22368,
+            "name": "Inner Tops"
           },
           {
             "id": 22343,
             "name": "T-shirts"
           },
           {
-            "id": 22373,
+            "id": 22379,
             "name": "Others"
           },
           {
@@ -628,7 +628,7 @@
             "name": "Skirt Pants & Wide Pants"
           },
           {
-            "id": 22379,
+            "id": 22373,
             "name": "Others"
           },
           {
@@ -636,11 +636,11 @@
             "name": "Others"
           },
           {
-            "id": 22356,
+            "id": 22313,
             "name": "Others"
           },
           {
-            "id": 22313,
+            "id": 22356,
             "name": "Others"
           },
           {
@@ -736,12 +736,12 @@
             "name": "Others"
           },
           {
-            "id": 12299,
-            "name": "Jersey"
-          },
-          {
             "id": 12344,
             "name": "Sleeveless"
+          },
+          {
+            "id": 12299,
+            "name": "Jersey"
           },
           {
             "id": 11608,
