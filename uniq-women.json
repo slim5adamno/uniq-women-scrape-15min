@@ -1939,19 +1939,13 @@
         "longDescription": "- With QUICK DRY, moisture-wicking, COOL TOUCH, odor control, and anti-bacterial technology. <br>- Smooth and stretchy material feels great on your skin.<br>- Wide opening around the neck makes it easy to wear under low-cut tops.",
         "name": "WOMEN AIRism Sleeveless Top",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "590.0000"
           }
         },
         "productId": "E422267-000",
@@ -1985,27 +1979,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05007027",
+          "l2Id": "05105266",
           "salesStartDate": "",
           "salesEndDate": ""
         },
