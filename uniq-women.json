@@ -4913,9 +4913,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL77",
-            "displayCode": "77",
-            "name": "PURPLE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -4940,7 +4940,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06675915",
+          "l2Id": "06675894",
           "salesStartDate": "",
           "salesEndDate": ""
         },
