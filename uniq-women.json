@@ -666,14 +666,6 @@
         ],
         "subcategories": [
           {
-            "id": 27329,
-            "name": "Ines De La Fressange"
-          },
-          {
-            "id": 25837,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 13094,
             "name": "Uniqlo U"
           },
@@ -698,12 +690,12 @@
             "name": "Long Sleeve Dress"
           },
           {
-            "id": 25842,
-            "name": "DRY-EX"
-          },
-          {
             "id": 22373,
             "name": "Others"
+          },
+          {
+            "id": 25842,
+            "name": "DRY-EX"
           },
           {
             "id": 22388,
@@ -742,14 +734,6 @@
             "name": "Masks"
           },
           {
-            "id": 13098,
-            "name": "Uniqlo U"
-          },
-          {
-            "id": 13074,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 27751,
             "name": "Oversized"
           },
@@ -762,11 +746,11 @@
             "name": "Others"
           },
           {
-            "id": 11569,
+            "id": 11592,
             "name": "Others"
           },
           {
-            "id": 11592,
+            "id": 11569,
             "name": "Others"
           },
           {
@@ -798,18 +782,6 @@
             "name": "Others"
           },
           {
-            "id": 27334,
-            "name": "Ines De La Fressange"
-          },
-          {
-            "id": 20092,
-            "name": "Uniqlo U"
-          },
-          {
-            "id": 23543,
-            "name": "Outerwear"
-          },
-          {
             "id": 25849,
             "name": "Others"
           },
@@ -834,10 +806,6 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 26243,
-            "name": "Coming Soon"
-          },
-          {
             "id": 11608,
             "name": "Others"
           },
@@ -850,20 +818,20 @@
             "name": "Hoodies"
           },
           {
+            "id": 21070,
+            "name": "Others"
+          },
+          {
             "id": 12188,
             "name": "Sweat Shirt"
           },
           {
-            "id": 21070,
+            "id": 11580,
             "name": "Others"
           },
           {
             "id": 12303,
             "name": "Jogger"
-          },
-          {
-            "id": 11580,
-            "name": "Others"
           },
           {
             "id": 13102,
@@ -8384,9 +8352,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL36",
+            "displayCode": "36",
+            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8411,7 +8379,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05926486",
+          "l2Id": "05926502",
           "salesStartDate": "",
           "salesEndDate": ""
         },
