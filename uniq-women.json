@@ -5129,9 +5129,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL27",
+            "displayCode": "27",
+            "name": "ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -5156,7 +5156,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06797765",
+          "l2Id": "06797779",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -5417,19 +5417,13 @@
         "longDescription": "- Increased fabric weight. <br>- Pairs well with casual styles like jeans, jogger pants or shorts. <br>- Compact 30-count yarn creates a fine, smooth texture. <br>- Double yarn loops on the reverse side prevent shedding and enhance comfort. <br>- V-shaped patch is a nod to the classic French terry T-shirt. <br>- Perfectly styled sweatshirt with a contemporary fit.",
         "name": "Sweatshirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E444966-000",
@@ -5463,23 +5457,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL42",
-            "displayCode": "42",
-            "name": "YELLOW",
+            "code": "COL05",
+            "displayCode": "05",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -5490,7 +5477,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06723350",
+          "l2Id": "06723305",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -6610,9 +6597,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL41",
-            "displayCode": "41",
-            "name": "YELLOW",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6630,7 +6617,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06089351",
+          "l2Id": "06089335",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -7472,9 +7459,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
+            "code": "COL55",
+            "displayCode": "55",
+            "name": "GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -7492,7 +7479,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "05069843",
+          "l2Id": "05218722",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -8312,9 +8299,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8339,7 +8326,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06814636",
+          "l2Id": "06814650",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -10536,9 +10523,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL40",
+            "displayCode": "40",
+            "name": "CREAM",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -10563,7 +10550,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06797831",
+          "l2Id": "06797845",
           "salesStartDate": "",
           "salesEndDate": ""
         },
