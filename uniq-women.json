@@ -654,10 +654,6 @@
         ],
         "subcategories": [
           {
-            "id": 22383,
-            "name": "Bags"
-          },
-          {
             "id": 22373,
             "name": "Others"
           },
@@ -680,10 +676,6 @@
           {
             "id": 23542,
             "name": "Others"
-          },
-          {
-            "id": 25845,
-            "name": "Uniqlo U"
           },
           {
             "id": 22346,
@@ -738,8 +730,8 @@
             "name": "Others"
           },
           {
-            "id": 23519,
-            "name": "Uniqlo U"
+            "id": 23521,
+            "name": "Others"
           },
           {
             "id": 11570,
@@ -752,10 +744,6 @@
           {
             "id": 11596,
             "name": "Others"
-          },
-          {
-            "id": 13086,
-            "name": "Uniqlo U"
           },
           {
             "id": 11608,
@@ -8468,9 +8456,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL54",
-            "displayCode": "54",
-            "name": "GREEN",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8495,7 +8483,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06891756",
+          "l2Id": "06891755",
           "salesStartDate": "",
           "salesEndDate": ""
         },
