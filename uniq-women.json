@@ -687,16 +687,12 @@
         ],
         "subcategories": [
           {
-            "id": 13096,
-            "name": "Ines De La Fressange"
+            "id": 22383,
+            "name": "Bags"
           },
           {
             "id": 23537,
             "name": "Tops"
-          },
-          {
-            "id": 22383,
-            "name": "Bags"
           },
           {
             "id": 22373,
@@ -707,20 +703,20 @@
             "name": "Others"
           },
           {
-            "id": 22313,
-            "name": "Others"
-          },
-          {
             "id": 22356,
-            "name": "Others"
-          },
-          {
-            "id": 22379,
             "name": "Others"
           },
           {
             "id": 26279,
             "name": "Coming Soon"
+          },
+          {
+            "id": 22313,
+            "name": "Others"
+          },
+          {
+            "id": 22379,
+            "name": "Others"
           },
           {
             "id": 26234,
