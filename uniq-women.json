@@ -6759,15 +6759,6 @@
             }
           },
           {
-            "code": "CMD061",
-            "displayCode": "061",
-            "name": "61cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
             "code": "CMD067",
             "displayCode": "067",
             "name": "67cm",
@@ -7163,15 +7154,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8298,15 +8280,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
