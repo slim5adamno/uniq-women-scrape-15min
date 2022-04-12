@@ -719,11 +719,11 @@
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 22313,
+            "id": 22356,
             "name": "Others"
           },
           {
-            "id": 22356,
+            "id": 22313,
             "name": "Others"
           },
           {
@@ -735,12 +735,12 @@
             "name": "Others"
           },
           {
-            "id": 13096,
-            "name": "Ines De La Fressange"
-          },
-          {
             "id": 22346,
             "name": "Others"
+          },
+          {
+            "id": 13096,
+            "name": "Ines De La Fressange"
           },
           {
             "id": 11584,
@@ -751,20 +751,20 @@
             "name": "Masks"
           },
           {
-            "id": 12378,
-            "name": "Cotton Relax Pants"
-          },
-          {
             "id": 19928,
             "name": "High Rise"
           },
           {
-            "id": 12282,
-            "name": "Skinny Fit"
+            "id": 12378,
+            "name": "Cotton Relax Pants"
           },
           {
             "id": 20183,
             "name": "Lounge Pants"
+          },
+          {
+            "id": 12282,
+            "name": "Skinny Fit"
           },
           {
             "id": 12376,
@@ -779,12 +779,12 @@
             "name": "Coming Soon"
           },
           {
-            "id": 11569,
-            "name": "Others"
-          },
-          {
             "id": 12203,
             "name": "Mercerized"
+          },
+          {
+            "id": 11569,
+            "name": "Others"
           },
           {
             "id": 11592,
