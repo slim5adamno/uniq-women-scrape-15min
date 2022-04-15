@@ -720,20 +720,20 @@
             "name": "Others"
           },
           {
-            "id": 22379,
-            "name": "Others"
-          },
-          {
-            "id": 22313,
-            "name": "Others"
-          },
-          {
             "id": 22356,
             "name": "Others"
           },
           {
             "id": 22345,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 22313,
+            "name": "Others"
+          },
+          {
+            "id": 22379,
+            "name": "Others"
           },
           {
             "id": 23542,
@@ -5686,9 +5686,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -5713,7 +5713,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06576960",
+          "l2Id": "06576952",
           "salesStartDate": "",
           "salesEndDate": ""
         },
