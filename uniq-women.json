@@ -741,20 +741,12 @@
         ],
         "subcategories": [
           {
-            "id": 22374,
-            "name": "Loungewear & Pajamas"
-          },
-          {
             "id": 22352,
             "name": "Casual Pants"
           },
           {
             "id": 27753,
             "name": "Cotton relax"
-          },
-          {
-            "id": 22354,
-            "name": "Shorts"
           },
           {
             "id": 22373,
@@ -795,14 +787,6 @@
           {
             "id": 23496,
             "name": "Masks"
-          },
-          {
-            "id": 12370,
-            "name": "Jersey"
-          },
-          {
-            "id": 12376,
-            "name": "Lounge Shorts"
           },
           {
             "id": 11615,
@@ -857,16 +841,8 @@
             "name": "Others"
           },
           {
-            "id": 24330,
-            "name": "Linen"
-          },
-          {
             "id": 11610,
             "name": "Others"
-          },
-          {
-            "id": 12321,
-            "name": "Cotton"
           },
           {
             "id": 25849,
@@ -12091,6 +12067,15 @@
             "code": "COL30",
             "displayCode": "30",
             "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL59",
+            "displayCode": "59",
+            "name": "DARK GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
