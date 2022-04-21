@@ -14305,9 +14305,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL11",
-            "displayCode": "11",
-            "name": "PINK",
+            "code": "COL63",
+            "displayCode": "63",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -14325,7 +14325,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06204884",
+          "l2Id": "06204924",
           "salesStartDate": "",
           "salesEndDate": ""
         },
