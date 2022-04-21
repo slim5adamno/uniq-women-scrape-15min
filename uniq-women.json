@@ -359,17 +359,17 @@
         {
           "rating": 0,
           "accumulated": 111,
-          "count": 70
+          "count": 68
         },
         {
           "rating": 0.5,
-          "accumulated": 41,
+          "accumulated": 43,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 41,
-          "count": 0
+          "accumulated": 43,
+          "count": 2
         },
         {
           "rating": 1.5,
@@ -389,17 +389,17 @@
         {
           "rating": 3,
           "accumulated": 41,
-          "count": 4
+          "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 37,
+          "accumulated": 38,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 36,
-          "count": 5
+          "accumulated": 37,
+          "count": 6
         },
         {
           "rating": 4.5,
