@@ -404,12 +404,12 @@
         {
           "rating": 4.5,
           "accumulated": 34,
-          "count": 7
+          "count": 8
         },
         {
           "rating": 5,
-          "accumulated": 27,
-          "count": 27
+          "accumulated": 26,
+          "count": 26
         }
       ],
       "sizes": [
