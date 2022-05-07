@@ -372,57 +372,57 @@
         {
           "rating": 0,
           "accumulated": 111,
-          "count": 58
+          "count": 57
         },
         {
           "rating": 0.5,
-          "accumulated": 53,
+          "accumulated": 54,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 53,
+          "accumulated": 54,
           "count": 3
         },
         {
           "rating": 1.5,
-          "accumulated": 50,
+          "accumulated": 51,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 50,
+          "accumulated": 51,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 50,
+          "accumulated": 51,
           "count": 1
         },
         {
           "rating": 3,
-          "accumulated": 49,
-          "count": 3
+          "accumulated": 50,
+          "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 46,
-          "count": 4
+          "accumulated": 48,
+          "count": 5
         },
         {
           "rating": 4,
-          "accumulated": 42,
+          "accumulated": 43,
           "count": 11
         },
         {
           "rating": 4.5,
-          "accumulated": 31,
+          "accumulated": 32,
           "count": 8
         },
         {
           "rating": 5,
-          "accumulated": 23,
-          "count": 23
+          "accumulated": 24,
+          "count": 24
         }
       ],
       "sizes": [
