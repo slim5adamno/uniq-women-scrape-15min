@@ -775,10 +775,6 @@
             "name": "Relaco"
           },
           {
-            "id": 22353,
-            "name": "Ankle & Cropped Pants"
-          },
-          {
             "id": 27753,
             "name": "Cotton relax"
           },
@@ -793,10 +789,6 @@
           {
             "id": 24732,
             "name": "Socks"
-          },
-          {
-            "id": 26156,
-            "name": "Trouser"
           },
           {
             "id": 22355,
@@ -829,10 +821,6 @@
           {
             "id": 23542,
             "name": "Others"
-          },
-          {
-            "id": 13097,
-            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 22346,
@@ -893,10 +881,6 @@
           {
             "id": 25846,
             "name": "Cotton"
-          },
-          {
-            "id": 25847,
-            "name": "Pants"
           },
           {
             "id": 11594,
@@ -1025,10 +1009,6 @@
           {
             "id": 11595,
             "name": "Others"
-          },
-          {
-            "id": 12277,
-            "name": "Extra Stretch"
           },
           {
             "id": 12279,
@@ -2296,7 +2276,7 @@
         "composition": "Shell: 100% Cotton/ Lining: 100% Cotton",
         "designDetail": "",
         "freeInformation": "",
-        "genderName": "Women",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -2444,7 +2424,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Hand wash cold"
       },
       {
@@ -2463,7 +2443,7 @@
         "composition": "Shell: 100% Cotton/ Lining: 100% Cotton",
         "designDetail": "",
         "freeInformation": "",
-        "genderName": "Women",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -2611,7 +2591,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Hand wash cold"
       },
       {
@@ -23351,9 +23331,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -23378,7 +23358,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06812920",
+          "l2Id": "06812899",
           "salesStartDate": "",
           "salesEndDate": ""
         },
