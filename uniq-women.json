@@ -791,10 +791,6 @@
             "name": "Socks"
           },
           {
-            "id": 22355,
-            "name": "Skirts"
-          },
-          {
             "id": 22377,
             "name": "Room Shoes"
           },
@@ -923,14 +919,6 @@
             "name": "Bottoms"
           },
           {
-            "id": 27335,
-            "name": "Magnum Photos"
-          },
-          {
-            "id": 27337,
-            "name": "Monochrome Mickey Mouse Art by Joshua Vides"
-          },
-          {
             "id": 25849,
             "name": "Others"
           },
@@ -997,10 +985,6 @@
           {
             "id": 25014,
             "name": "Shoes"
-          },
-          {
-            "id": 23532,
-            "name": "UT Accessories"
           },
           {
             "id": 11623,
@@ -1339,7 +1323,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "190.0000"
+            "value": "790.0000"
           }
         },
         "productId": "E434533-000",
@@ -1384,10 +1368,10 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until May 12"
               }
             ],
             "productFlags": [
@@ -1400,7 +1384,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05995410",
+          "l2Id": "06749586",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -5872,15 +5856,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL67",
-            "displayCode": "67",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: 100% Cotton/ Collar: 80% Cotton, 20% Polyester",
@@ -6038,15 +6013,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/447544001_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA004",
             "displayCode": "004",
@@ -10318,15 +10284,6 @@
             }
           },
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -10760,15 +10717,6 @@
             "code": "SMA002",
             "displayCode": "002",
             "name": "XS",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
