@@ -1626,9 +1626,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL52",
-            "displayCode": "52",
-            "name": "GREEN",
+            "code": "COL27",
+            "displayCode": "27",
+            "name": "ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1653,7 +1653,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06797786",
+          "l2Id": "06797779",
           "salesStartDate": "",
           "salesEndDate": ""
         },
