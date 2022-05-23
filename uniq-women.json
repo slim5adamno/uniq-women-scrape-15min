@@ -705,11 +705,11 @@
             "name": "Others"
           },
           {
-            "id": 22379,
+            "id": 22356,
             "name": "Others"
           },
           {
-            "id": 22356,
+            "id": 22379,
             "name": "Others"
           },
           {
@@ -721,15 +721,15 @@
             "name": "Others"
           },
           {
-            "id": 22346,
-            "name": "Others"
-          },
-          {
             "id": 13096,
             "name": "Ines De La Fressange"
           },
           {
             "id": 11584,
+            "name": "Others"
+          },
+          {
+            "id": 22346,
             "name": "Others"
           },
           {
@@ -5476,6 +5476,15 @@
             "code": "COL65",
             "displayCode": "65",
             "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
