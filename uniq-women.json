@@ -697,11 +697,11 @@
             "name": "Others"
           },
           {
-            "id": 22356,
+            "id": 22379,
             "name": "Others"
           },
           {
-            "id": 22379,
+            "id": 22356,
             "name": "Others"
           },
           {
@@ -717,11 +717,11 @@
             "name": "Ines De La Fressange"
           },
           {
-            "id": 11584,
+            "id": 22346,
             "name": "Others"
           },
           {
-            "id": 22346,
+            "id": 11584,
             "name": "Others"
           },
           {
@@ -6177,9 +6177,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL29",
-            "displayCode": "29",
-            "name": "DARK ORANGE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6204,7 +6204,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06797838",
+          "l2Id": "06797830",
           "salesStartDate": "",
           "salesEndDate": ""
         },
