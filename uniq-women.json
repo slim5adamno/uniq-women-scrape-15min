@@ -6020,9 +6020,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL15",
-            "displayCode": "15",
-            "name": "RED",
+            "code": "COL67",
+            "displayCode": "67",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6047,7 +6047,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06963704",
+          "l2Id": "06963711",
           "salesStartDate": "",
           "salesEndDate": ""
         },
