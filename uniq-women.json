@@ -728,20 +728,12 @@
             "name": "Trousers"
           },
           {
-            "id": 22370,
-            "name": "Leggings & Tights"
-          },
-          {
             "id": 28409,
             "name": "3D"
           },
           {
             "id": 22354,
             "name": "Shorts"
-          },
-          {
-            "id": 22344,
-            "name": "Shirts & Blouses"
           },
           {
             "id": 22373,
@@ -774,14 +766,6 @@
           {
             "id": 12265,
             "name": "Long Sleeve Dress"
-          },
-          {
-            "id": 22342,
-            "name": "Sweat Collections"
-          },
-          {
-            "id": 25838,
-            "name": "Sleeveless Tops"
           },
           {
             "id": 23542,
@@ -844,10 +828,6 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 24316,
-            "name": "Cotton"
-          },
-          {
             "id": 25846,
             "name": "Cotton"
           },
@@ -872,10 +852,6 @@
             "name": "Others"
           },
           {
-            "id": 23544,
-            "name": "Tops"
-          },
-          {
             "id": 12139,
             "name": "Ultra Light"
           },
@@ -890,10 +866,6 @@
           {
             "id": 12313,
             "name": "Denim"
-          },
-          {
-            "id": 16030,
-            "name": "Uniqlo and Mame Kurogouchi"
           },
           {
             "id": 25848,
@@ -964,12 +936,12 @@
             "name": "Others"
           },
           {
-            "id": 12364,
-            "name": "AIRism"
-          },
-          {
             "id": 12300,
             "name": "Relaxed"
+          },
+          {
+            "id": 11612,
+            "name": "Others"
           },
           {
             "id": 11595,
@@ -4704,7 +4676,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Women",
         "hideReview": false,
         "images": {
           "main": [
@@ -4851,7 +4823,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold"
       },
       {
