@@ -699,16 +699,12 @@
             "name": "Casual Pants"
           },
           {
-            "id": 25843,
-            "name": "Cotton"
-          },
-          {
             "id": 22310,
             "name": "Jackets"
           },
           {
-            "id": 22312,
-            "name": "Parka"
+            "id": 25843,
+            "name": "Cotton"
           },
           {
             "id": 12266,
@@ -719,6 +715,14 @@
             "name": "Cotton relax"
           },
           {
+            "id": 22312,
+            "name": "Parka"
+          },
+          {
+            "id": 22350,
+            "name": "Trousers"
+          },
+          {
             "id": 22370,
             "name": "Leggings & Tights"
           },
@@ -727,24 +731,20 @@
             "name": "3D"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 22344,
             "name": "Shirts & Blouses"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
+            "id": 22373,
+            "name": "Others"
           },
           {
             "id": 12263,
             "name": "Short Sleeve Dress"
-          },
-          {
-            "id": 22373,
-            "name": "Others"
           },
           {
             "id": 22388,
@@ -763,12 +763,12 @@
             "name": "Others"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
-          },
-          {
             "id": 22345,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 22342,
@@ -831,12 +831,12 @@
             "name": "Others"
           },
           {
-            "id": 13085,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 28882,
             "name": "Cotton Relax"
+          },
+          {
+            "id": 13085,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 24316,
@@ -867,12 +867,12 @@
             "name": "Others"
           },
           {
-            "id": 12139,
-            "name": "Ultra Light"
-          },
-          {
             "id": 23544,
             "name": "Tops"
+          },
+          {
+            "id": 12139,
+            "name": "Ultra Light"
           },
           {
             "id": 12320,
@@ -911,12 +911,12 @@
             "name": "PHRASES OF MARVEL"
           },
           {
-            "id": 27393,
-            "name": "BLUE NOTE RECORDS"
-          },
-          {
             "id": 23521,
             "name": "Others"
+          },
+          {
+            "id": 27393,
+            "name": "BLUE NOTE RECORDS"
           },
           {
             "id": 11597,
