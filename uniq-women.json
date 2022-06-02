@@ -693,14 +693,6 @@
             "name": "Jeans"
           },
           {
-            "id": 22310,
-            "name": "Jackets"
-          },
-          {
-            "id": 22374,
-            "name": "Loungewear & Pajamas"
-          },
-          {
             "id": 22352,
             "name": "Casual Pants"
           },
@@ -725,6 +717,10 @@
             "name": "Others"
           },
           {
+            "id": 22379,
+            "name": "Others"
+          },
+          {
             "id": 27568,
             "name": "UNIQLO and JW ANDERSON"
           },
@@ -733,23 +729,15 @@
             "name": "Others"
           },
           {
-            "id": 22379,
-            "name": "Others"
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 22313,
             "name": "Others"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
-          },
-          {
             "id": 23542,
-            "name": "Others"
-          },
-          {
-            "id": 11584,
             "name": "Others"
           },
           {
@@ -757,16 +745,12 @@
             "name": "Others"
           },
           {
+            "id": 11584,
+            "name": "Others"
+          },
+          {
             "id": 23496,
             "name": "Masks"
-          },
-          {
-            "id": 12373,
-            "name": "Pajamas"
-          },
-          {
-            "id": 12369,
-            "name": "AIRism"
           },
           {
             "id": 11615,
@@ -815,10 +799,6 @@
           {
             "id": 11579,
             "name": "Others"
-          },
-          {
-            "id": 12139,
-            "name": "Ultra Light"
           },
           {
             "id": 11610,
