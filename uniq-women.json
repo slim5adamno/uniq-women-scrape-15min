@@ -332,17 +332,17 @@
         {
           "rating": 0,
           "accumulated": 102,
-          "count": 47
+          "count": 46
         },
         {
           "rating": 0.5,
-          "accumulated": 55,
+          "accumulated": 56,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 55,
-          "count": 0
+          "accumulated": 56,
+          "count": 1
         },
         {
           "rating": 1.5,
