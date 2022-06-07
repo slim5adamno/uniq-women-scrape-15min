@@ -7038,19 +7038,13 @@
         "longDescription": "- Made with French terry fabric. <br>- Casual heathered pattern. <br>- Machine-washable and perfect to add to your delicate wash cycle. <br>- Updated shape and texture. <br>- We’ve adjusted the sole design for a better fit. <br>- Securely supports your heel.",
         "name": "Washable Room Shoes",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E448991-000",
@@ -7084,27 +7078,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06832402",
+          "l2Id": "06832410",
           "salesStartDate": "",
           "salesEndDate": ""
         },
