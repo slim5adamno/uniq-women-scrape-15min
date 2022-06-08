@@ -6065,9 +6065,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL80",
-            "displayCode": "80",
-            "name": "80",
+            "code": "COL83",
+            "displayCode": "83",
+            "name": "83",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6085,7 +6085,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06766872",
+          "l2Id": "06766874",
           "salesStartDate": "",
           "salesEndDate": ""
         },
