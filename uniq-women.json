@@ -1677,9 +1677,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
+            "code": "COL24",
+            "displayCode": "24",
+            "name": "ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1697,7 +1697,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06261133",
+          "l2Id": "06261149",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -2931,9 +2931,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL50",
-            "displayCode": "50",
-            "name": "LIGHT GREEN",
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -2958,7 +2958,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06826656",
+          "l2Id": "06826632",
           "salesStartDate": "",
           "salesEndDate": ""
         },
