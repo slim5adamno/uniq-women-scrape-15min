@@ -1404,9 +1404,36 @@
         "careInstruction": "-",
         "colors": [
           {
+            "code": "COL02",
+            "displayCode": "02",
+            "name": "LIGHT GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL24",
             "displayCode": "24",
             "name": "ORANGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1568,6 +1595,33 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -7602,9 +7656,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -7629,7 +7683,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06859764",
+          "l2Id": "06859804",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -20269,9 +20323,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL27",
+            "displayCode": "27",
+            "name": "ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -20302,7 +20356,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06931971",
+          "l2Id": "06931979",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -21311,9 +21365,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL14",
-            "displayCode": "14",
-            "name": "RED",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -21338,7 +21392,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06958996",
+          "l2Id": "06959003",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -22741,9 +22795,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL64",
-            "displayCode": "64",
-            "name": "BLUE",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -22768,7 +22822,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06758826",
+          "l2Id": "06758812",
           "salesStartDate": "",
           "salesEndDate": ""
         },
