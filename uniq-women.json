@@ -664,12 +664,12 @@
         ],
         "subcategories": [
           {
-            "id": 29291,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 22343,
             "name": "T-shirts"
+          },
+          {
+            "id": 29291,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 22310,
@@ -680,16 +680,16 @@
             "name": "Bags"
           },
           {
+            "id": 22352,
+            "name": "Casual Pants"
+          },
+          {
             "id": 29294,
             "name": "UNIQLO and MARNI"
           },
           {
             "id": 25843,
             "name": "Cotton"
-          },
-          {
-            "id": 22352,
-            "name": "Casual Pants"
           },
           {
             "id": 27753,
@@ -708,24 +708,24 @@
             "name": "Others"
           },
           {
-            "id": 27568,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 22379,
             "name": "Others"
           },
           {
-            "id": 22313,
-            "name": "Others"
+            "id": 27568,
+            "name": "UNIQLO and JW ANDERSON"
+          },
+          {
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 22356,
             "name": "Others"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
+            "id": 22313,
+            "name": "Others"
           },
           {
             "id": 23542,
@@ -756,12 +756,12 @@
             "name": "Others"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve T-Shirts"
-          },
-          {
             "id": 26275,
             "name": "Coming Soon"
+          },
+          {
+            "id": 12196,
+            "name": "Short Sleeve T-Shirts"
           },
           {
             "id": 11592,
@@ -864,12 +864,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 11612,
-            "name": "Others"
-          },
-          {
             "id": 12391,
             "name": "Sunglasses"
+          },
+          {
+            "id": 11612,
+            "name": "Others"
           },
           {
             "id": 11595,
