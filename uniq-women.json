@@ -713,6 +713,10 @@
             "name": "AIRism"
           },
           {
+            "id": 22310,
+            "name": "Jackets"
+          },
+          {
             "id": 12262,
             "name": "Sleeveless"
           },
@@ -721,16 +725,12 @@
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22310,
-            "name": "Jackets"
+            "id": 22375,
+            "name": "Relaco"
           },
           {
             "id": 22352,
             "name": "Casual Pants"
-          },
-          {
-            "id": 22375,
-            "name": "Relaco"
           },
           {
             "id": 29288,
@@ -741,20 +741,20 @@
             "name": "Cotton relax"
           },
           {
-            "id": 22344,
-            "name": "Shirts & Blouses"
-          },
-          {
             "id": 22371,
             "name": "Underwear"
           },
           {
-            "id": 22373,
-            "name": "Others"
+            "id": 22344,
+            "name": "Shirts & Blouses"
           },
           {
             "id": 22355,
             "name": "Skirts"
+          },
+          {
+            "id": 22373,
+            "name": "Others"
           },
           {
             "id": 22388,
@@ -765,20 +765,20 @@
             "name": "Long Sleeve Dress"
           },
           {
+            "id": 22379,
+            "name": "Others"
+          },
+          {
             "id": 27568,
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 22379,
+            "id": 22313,
             "name": "Others"
           },
           {
             "id": 22345,
             "name": "UT(Graphic T-Shirts)"
-          },
-          {
-            "id": 22313,
-            "name": "Others"
           },
           {
             "id": 22356,
@@ -793,20 +793,20 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22346,
-            "name": "Others"
-          },
-          {
             "id": 11584,
             "name": "Others"
           },
           {
-            "id": 12374,
-            "name": "Lounge Set"
+            "id": 22346,
+            "name": "Others"
           },
           {
             "id": 23496,
             "name": "Masks"
+          },
+          {
+            "id": 12374,
+            "name": "Lounge Set"
           },
           {
             "id": 29287,
@@ -901,12 +901,12 @@
             "name": "Others"
           },
           {
-            "id": 12142,
-            "name": "Linen"
-          },
-          {
             "id": 25848,
             "name": "Accessories"
+          },
+          {
+            "id": 12142,
+            "name": "Linen"
           },
           {
             "id": 12236,
@@ -973,12 +973,12 @@
             "name": "Uniqlo and Mame Kurogouchi"
           },
           {
-            "id": 11609,
-            "name": "Others"
-          },
-          {
             "id": 12271,
             "name": "Cotton Relaxed"
+          },
+          {
+            "id": 11609,
+            "name": "Others"
           },
           {
             "id": 11593,
