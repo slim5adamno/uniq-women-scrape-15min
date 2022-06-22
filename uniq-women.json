@@ -714,10 +714,6 @@
             "name": "Casual Pants"
           },
           {
-            "id": 22375,
-            "name": "Relaco"
-          },
-          {
             "id": 27753,
             "name": "Cotton relax"
           },
@@ -808,10 +804,6 @@
           {
             "id": 28882,
             "name": "Cotton Relax"
-          },
-          {
-            "id": 23479,
-            "name": "Relaco"
           },
           {
             "id": 25846,
@@ -17788,15 +17780,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Cotton",
@@ -17968,15 +17951,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/448440_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA007",
             "displayCode": "007",
