@@ -1205,19 +1205,13 @@
         "longDescription": "- Wicks moisture and dries quickly even if you sweat.<br>- The power net mesh is very stretchy and helps to hold in your tummy. <br>- Various knitting techniques are used around the hip and the waist to gently shape your body. <br>- Various knitting techniques are used for the thighs for a sleek silhouette. <br>- Three-dimensional gathered fabric and molded construction create a beautiful silhouette. <br>- Smooth hems make it invisible under your clothes.",
         "name": "AIRism Body Silhouette Shaper Half Shorts",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "190.0000"
           }
         },
         "productId": "E423105-000",
@@ -1249,14 +1243,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -1267,7 +1254,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05120717",
+          "l2Id": "06783449",
           "salesStartDate": "",
           "salesEndDate": ""
         },
