@@ -445,11 +445,6 @@
           "name": "29inch"
         },
         {
-          "code": "INS032",
-          "displayCode": "032",
-          "name": "32inch"
-        },
-        {
           "code": "SIZ999",
           "displayCode": "999",
           "name": "No Control"
@@ -691,28 +686,32 @@
             "name": "Others"
           },
           {
-            "id": 27568,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 22388,
             "name": "Others"
+          },
+          {
+            "id": 27568,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 12265,
             "name": "Long Sleeve Dress"
           },
           {
-            "id": 22379,
-            "name": "Others"
+            "id": 29286,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 29291,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 29286,
-            "name": "UNIQLO and MARNI"
+            "id": 22379,
+            "name": "Others"
+          },
+          {
+            "id": 22313,
+            "name": "Others"
           },
           {
             "id": 22345,
@@ -720,10 +719,6 @@
           },
           {
             "id": 22356,
-            "name": "Others"
-          },
-          {
-            "id": 22313,
             "name": "Others"
           },
           {
@@ -735,20 +730,20 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 11584,
-            "name": "Others"
-          },
-          {
             "id": 22346,
             "name": "Others"
           },
           {
-            "id": 23496,
-            "name": "Masks"
+            "id": 11584,
+            "name": "Others"
           },
           {
             "id": 29287,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 23496,
+            "name": "Masks"
           },
           {
             "id": 11615,
@@ -759,11 +754,11 @@
             "name": "Coming Soon"
           },
           {
-            "id": 11592,
+            "id": 11569,
             "name": "Others"
           },
           {
-            "id": 11569,
+            "id": 11592,
             "name": "Others"
           },
           {
@@ -815,12 +810,12 @@
             "name": "Others"
           },
           {
-            "id": 12236,
-            "name": "OF THEIR NATURE"
-          },
-          {
             "id": 25849,
             "name": "Others"
+          },
+          {
+            "id": 12236,
+            "name": "OF THEIR NATURE"
           },
           {
             "id": 23521,
@@ -867,12 +862,12 @@
             "name": "Others"
           },
           {
-            "id": 11609,
-            "name": "Others"
-          },
-          {
             "id": 12271,
             "name": "Cotton Relaxed"
+          },
+          {
+            "id": 11609,
+            "name": "Others"
           },
           {
             "id": 11593,
@@ -19068,15 +19063,6 @@
             "code": "INS024",
             "displayCode": "024",
             "name": "24inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "INS032",
-            "displayCode": "032",
-            "name": "32inch",
             "display": {
               "showFlag": true,
               "chipType": 1
