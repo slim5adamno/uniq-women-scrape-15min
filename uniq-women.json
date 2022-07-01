@@ -691,16 +691,12 @@
             "name": "Others"
           },
           {
-            "id": 22388,
-            "name": "Others"
-          },
-          {
             "id": 27568,
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 29291,
-            "name": "UNIQLO and MARNI"
+            "id": 22388,
+            "name": "Others"
           },
           {
             "id": 12265,
@@ -711,12 +707,12 @@
             "name": "Others"
           },
           {
-            "id": 29286,
+            "id": 29291,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22313,
-            "name": "Others"
+            "id": 29286,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 22345,
@@ -724,6 +720,10 @@
           },
           {
             "id": 22356,
+            "name": "Others"
+          },
+          {
+            "id": 22313,
             "name": "Others"
           },
           {
@@ -759,11 +759,11 @@
             "name": "Coming Soon"
           },
           {
-            "id": 11569,
+            "id": 11592,
             "name": "Others"
           },
           {
-            "id": 11592,
+            "id": 11569,
             "name": "Others"
           },
           {
@@ -867,12 +867,12 @@
             "name": "Others"
           },
           {
-            "id": 12271,
-            "name": "Cotton Relaxed"
-          },
-          {
             "id": 11609,
             "name": "Others"
+          },
+          {
+            "id": 12271,
+            "name": "Cotton Relaxed"
           },
           {
             "id": 11593,
