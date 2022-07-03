@@ -703,12 +703,16 @@
             "name": "UNIQLO and MARNI"
           },
           {
+            "id": 29291,
+            "name": "UNIQLO and MARNI"
+          },
+          {
             "id": 22379,
             "name": "Others"
           },
           {
-            "id": 29291,
-            "name": "UNIQLO and MARNI"
+            "id": 22356,
+            "name": "Others"
           },
           {
             "id": 22345,
@@ -716,10 +720,6 @@
           },
           {
             "id": 22313,
-            "name": "Others"
-          },
-          {
-            "id": 22356,
             "name": "Others"
           },
           {
@@ -731,20 +731,20 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 11584,
-            "name": "Others"
-          },
-          {
             "id": 22346,
             "name": "Others"
           },
           {
-            "id": 29287,
-            "name": "UNIQLO and MARNI"
+            "id": 11584,
+            "name": "Others"
           },
           {
             "id": 23496,
             "name": "Masks"
+          },
+          {
+            "id": 29287,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 12127,
@@ -807,12 +807,12 @@
             "name": "Others"
           },
           {
-            "id": 12236,
-            "name": "OF THEIR NATURE"
-          },
-          {
             "id": 25849,
             "name": "Others"
+          },
+          {
+            "id": 12236,
+            "name": "OF THEIR NATURE"
           },
           {
             "id": 12231,
@@ -855,12 +855,12 @@
             "name": "Others"
           },
           {
-            "id": 11609,
-            "name": "Others"
-          },
-          {
             "id": 12271,
             "name": "Cotton Relaxed"
+          },
+          {
+            "id": 11609,
+            "name": "Others"
           },
           {
             "id": 11593,
