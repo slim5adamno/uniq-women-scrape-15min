@@ -699,11 +699,11 @@
             "name": "Long Sleeve Dress"
           },
           {
-            "id": 29286,
+            "id": 29291,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 29291,
+            "id": 29286,
             "name": "UNIQLO and MARNI"
           },
           {
@@ -731,11 +731,11 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22346,
+            "id": 11584,
             "name": "Others"
           },
           {
-            "id": 11584,
+            "id": 22346,
             "name": "Others"
           },
           {
@@ -807,12 +807,12 @@
             "name": "Others"
           },
           {
-            "id": 25849,
-            "name": "Others"
-          },
-          {
             "id": 12236,
             "name": "OF THEIR NATURE"
+          },
+          {
+            "id": 25849,
+            "name": "Others"
           },
           {
             "id": 12231,
