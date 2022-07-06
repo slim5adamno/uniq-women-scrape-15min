@@ -12441,15 +12441,6 @@
         "careInstruction": "-",
         "colors": [
           {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL11",
             "displayCode": "11",
             "name": "PINK",
