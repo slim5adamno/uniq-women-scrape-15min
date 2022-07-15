@@ -642,19 +642,15 @@
             "name": "Cotton relax"
           },
           {
-            "id": 24732,
-            "name": "Socks"
-          },
-          {
             "id": 22371,
             "name": "Underwear"
           },
           {
-            "id": 22373,
-            "name": "Others"
+            "id": 24732,
+            "name": "Socks"
           },
           {
-            "id": 22388,
+            "id": 22373,
             "name": "Others"
           },
           {
@@ -662,11 +658,11 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 29291,
-            "name": "UNIQLO and MARNI"
+            "id": 22388,
+            "name": "Others"
           },
           {
-            "id": 29286,
+            "id": 29291,
             "name": "UNIQLO and MARNI"
           },
           {
@@ -674,20 +670,24 @@
             "name": "Others"
           },
           {
-            "id": 22356,
-            "name": "Others"
+            "id": 29286,
+            "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 29295,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 22313,
             "name": "Others"
           },
           {
-            "id": 22345,
-            "name": "UT(Graphic T-Shirts)"
+            "id": 22356,
+            "name": "Others"
           },
           {
-            "id": 29295,
-            "name": "UNIQLO and MARNI"
+            "id": 22345,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 23542,
@@ -698,20 +698,20 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 11584,
-            "name": "Others"
-          },
-          {
             "id": 22346,
             "name": "Others"
           },
           {
-            "id": 23496,
-            "name": "Masks"
+            "id": 11584,
+            "name": "Others"
           },
           {
             "id": 29287,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 23496,
+            "name": "Masks"
           },
           {
             "id": 11615,
