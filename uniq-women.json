@@ -647,16 +647,16 @@
             "name": "Cotton"
           },
           {
-            "id": 22371,
-            "name": "Underwear"
+            "id": 24732,
+            "name": "Socks"
           },
           {
             "id": 22344,
             "name": "Shirts & Blouses"
           },
           {
-            "id": 24732,
-            "name": "Socks"
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 22355,
@@ -675,23 +675,15 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 29291,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 29286,
             "name": "UNIQLO and MARNI"
           },
           {
+            "id": 29291,
+            "name": "UNIQLO and MARNI"
+          },
+          {
             "id": 22379,
-            "name": "Others"
-          },
-          {
-            "id": 22356,
-            "name": "Others"
-          },
-          {
-            "id": 22313,
             "name": "Others"
           },
           {
@@ -701,6 +693,14 @@
           {
             "id": 29295,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 22356,
+            "name": "Others"
+          },
+          {
+            "id": 22313,
+            "name": "Others"
           },
           {
             "id": 23542,
