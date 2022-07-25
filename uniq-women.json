@@ -631,10 +631,6 @@
             "name": "Others"
           },
           {
-            "id": 29286,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 22379,
             "name": "Others"
           },
@@ -643,12 +639,16 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22313,
-            "name": "Others"
+            "id": 29286,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 22345,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 22313,
+            "name": "Others"
           },
           {
             "id": 22356,
@@ -779,12 +779,12 @@
             "name": "Hiphugger"
           },
           {
-            "id": 12271,
-            "name": "Cotton Relaxed"
-          },
-          {
             "id": 11609,
             "name": "Others"
+          },
+          {
+            "id": 12271,
+            "name": "Cotton Relaxed"
           },
           {
             "id": 11593,
