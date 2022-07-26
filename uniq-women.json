@@ -610,16 +610,8 @@
             "name": "Cotton relax"
           },
           {
-            "id": 29288,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 22371,
             "name": "Underwear"
-          },
-          {
-            "id": 22344,
-            "name": "Shirts & Blouses"
           },
           {
             "id": 22373,
@@ -634,20 +626,16 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 29286,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 22379,
             "name": "Others"
           },
           {
-            "id": 29291,
+            "id": 29286,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22356,
-            "name": "Others"
+            "id": 29291,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 22313,
@@ -658,23 +646,23 @@
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 23542,
+            "id": 22356,
             "name": "Others"
           },
           {
-            "id": 22340,
-            "name": "Sweaters"
+            "id": 23542,
+            "name": "Others"
           },
           {
             "id": 29294,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 11584,
+            "id": 22346,
             "name": "Others"
           },
           {
-            "id": 22346,
+            "id": 11584,
             "name": "Others"
           },
           {
@@ -726,10 +714,6 @@
             "name": "Others"
           },
           {
-            "id": 29290,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 13085,
             "name": "UNIQLO and JW ANDERSON"
           },
@@ -758,12 +742,12 @@
             "name": "Others"
           },
           {
-            "id": 11570,
-            "name": "Others"
-          },
-          {
             "id": 12231,
             "name": "MANGA UT Ribon 65th Anniversary"
+          },
+          {
+            "id": 11570,
+            "name": "Others"
           },
           {
             "id": 13773,
@@ -772,10 +756,6 @@
           {
             "id": 11596,
             "name": "Others"
-          },
-          {
-            "id": 13087,
-            "name": "+ J"
           },
           {
             "id": 11574,
@@ -812,10 +792,6 @@
           {
             "id": 11593,
             "name": "Others"
-          },
-          {
-            "id": 29292,
-            "name": "UNIQLO and MARNI"
           },
           {
             "id": 11598,
@@ -13964,15 +13940,6 @@
         "careInstruction": "-",
         "colors": [
           {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -14155,15 +14122,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
