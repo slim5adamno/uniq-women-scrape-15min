@@ -614,12 +614,12 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22371,
-            "name": "Underwear"
-          },
-          {
             "id": 22344,
             "name": "Shirts & Blouses"
+          },
+          {
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 22373,
@@ -634,23 +634,23 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 29291,
-            "name": "UNIQLO and MARNI"
+            "id": 22379,
+            "name": "Others"
           },
           {
             "id": 29286,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22379,
+            "id": 29291,
+            "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 22356,
             "name": "Others"
           },
           {
             "id": 22313,
-            "name": "Others"
-          },
-          {
-            "id": 22356,
             "name": "Others"
           },
           {
