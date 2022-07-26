@@ -614,12 +614,12 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22344,
-            "name": "Shirts & Blouses"
-          },
-          {
             "id": 22371,
             "name": "Underwear"
+          },
+          {
+            "id": 22344,
+            "name": "Shirts & Blouses"
           },
           {
             "id": 22373,
@@ -634,12 +634,12 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 22379,
-            "name": "Others"
-          },
-          {
             "id": 29286,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 22379,
+            "name": "Others"
           },
           {
             "id": 29291,
@@ -692,6 +692,14 @@
           {
             "id": 11581,
             "name": "Others"
+          },
+          {
+            "id": 31153,
+            "name": "Cropped"
+          },
+          {
+            "id": 31154,
+            "name": "Dolman"
           },
           {
             "id": 28882,
@@ -794,12 +802,12 @@
             "name": "Hiphugger"
           },
           {
-            "id": 11609,
-            "name": "Others"
-          },
-          {
             "id": 12271,
             "name": "Cotton Relaxed"
+          },
+          {
+            "id": 11609,
+            "name": "Others"
           },
           {
             "id": 11593,
@@ -12944,7 +12952,7 @@
           ]
         },
         "l1Id": "450790",
-        "longDescription": "A collaboration item with Mame Kurogouchi, a Japanese fashion brand whose beauty of design to enhance every woman’s body is attracting attention all over the world.<br><br>- AIRism fabric. <br>- 3-layer construction includes absorbent and water-resistant layers. <br>- With DRY technology and odor control features. <br>- 15-20ml of liquid. <br>- The water-resistant fabric is laminated with a water repellent film. <br>- Double-layered crotch section allows them to be worn in combination with a sanitary pad.",
+        "longDescription": "A collaboration item with Mame Kurogouchi, a Japanese fashion brand whose beauty of design to enhance every woman’s body is attracting attention all over the world.<br><br>- AIRism fabric. <br>- 3-layer construction includes absorbent and water-resistant layers. <br>- With DRY technology and odor control features. <br>- 10-15ml of liquid. <br>- The water-resistant fabric is laminated with a water repellent film. <br>- Double-layered crotch section allows them to be worn in combination with a sanitary pad.",
         "name": "AIRism Sanitary Shorts",
         "prices": {
           "base": {
