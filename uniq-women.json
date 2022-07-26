@@ -626,10 +626,6 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 22379,
-            "name": "Others"
-          },
-          {
             "id": 29291,
             "name": "UNIQLO and MARNI"
           },
@@ -638,12 +634,16 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22356,
+            "id": 22379,
             "name": "Others"
           },
           {
             "id": 22345,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 22356,
+            "name": "Others"
           },
           {
             "id": 23542,
