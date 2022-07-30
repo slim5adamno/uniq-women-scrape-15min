@@ -448,12 +448,12 @@
             "name": "LOUNGEWEAR"
           },
           {
-            "id": 11525,
-            "name": "ACCESSORIES"
-          },
-          {
             "id": 11526,
             "name": "SPORT UTILITY WEAR"
+          },
+          {
+            "id": 11525,
+            "name": "ACCESSORIES"
           },
           {
             "id": 11529,
@@ -466,16 +466,16 @@
             "name": "Outerwear Collections"
           },
           {
-            "id": 11563,
-            "name": "Coats"
+            "id": 11564,
+            "name": "Jackets"
           },
           {
             "id": 11567,
-            "name": "Hoodies"
+            "name": "Blousons & Parkas"
           },
           {
-            "id": 11564,
-            "name": "Jackets"
+            "id": 11563,
+            "name": "Coats"
           },
           {
             "id": 22319,
@@ -570,6 +570,10 @@
             "name": "Room Shoes"
           },
           {
+            "id": 23458,
+            "name": "Sport Utility Wear"
+          },
+          {
             "id": 22324,
             "name": "Accessories Collections"
           },
@@ -582,10 +586,6 @@
             "name": "Hats & Beanies"
           },
           {
-            "id": 23458,
-            "name": "Sport Utility Wear"
-          },
-          {
             "id": 23459,
             "name": "Comfort Work Wear"
           }
@@ -596,12 +596,12 @@
             "name": "Shorts"
           },
           {
-            "id": 22352,
-            "name": "Casual Pants"
-          },
-          {
             "id": 22374,
             "name": "Loungewear & Pajamas"
+          },
+          {
+            "id": 22352,
+            "name": "Casual Pants"
           },
           {
             "id": 22375,
@@ -624,15 +624,15 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
+            "id": 29286,
+            "name": "UNIQLO and MARNI"
+          },
+          {
             "id": 22379,
             "name": "Others"
           },
           {
             "id": 29291,
-            "name": "UNIQLO and MARNI"
-          },
-          {
-            "id": 29286,
             "name": "UNIQLO and MARNI"
           },
           {
@@ -666,10 +666,6 @@
           {
             "id": 22346,
             "name": "Others"
-          },
-          {
-            "id": 29287,
-            "name": "UNIQLO and MARNI"
           },
           {
             "id": 26280,
@@ -728,14 +724,6 @@
             "name": "Others"
           },
           {
-            "id": 13085,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
-            "id": 11573,
-            "name": "Others"
-          },
-          {
             "id": 11579,
             "name": "Others"
           },
@@ -756,10 +744,6 @@
             "name": "Others"
           },
           {
-            "id": 11570,
-            "name": "Others"
-          },
-          {
             "id": 12231,
             "name": "MANGA UT Ribon 65th Anniversary"
           },
@@ -776,11 +760,23 @@
             "name": "Others"
           },
           {
+            "id": 11570,
+            "name": "Others"
+          },
+          {
             "id": 12300,
             "name": "Relaxed"
           },
           {
             "id": 11612,
+            "name": "Others"
+          },
+          {
+            "id": 13085,
+            "name": "UNIQLO and JW ANDERSON"
+          },
+          {
+            "id": 11573,
             "name": "Others"
           },
           {
@@ -792,16 +788,20 @@
             "name": "Uniqlo and Mame Kurogouchi"
           },
           {
+            "id": 29287,
+            "name": "UNIQLO and MARNI"
+          },
+          {
             "id": 12354,
             "name": "Hiphugger"
           },
           {
-            "id": 12271,
-            "name": "Cotton Relaxed"
-          },
-          {
             "id": 11609,
             "name": "Others"
+          },
+          {
+            "id": 12271,
+            "name": "Cotton Relaxed"
           },
           {
             "id": 11593,
