@@ -602,6 +602,10 @@
             "name": "Socks"
           },
           {
+            "id": 11619,
+            "name": "Others"
+          },
+          {
             "id": 23458,
             "name": "Sport Utility Wear"
           },
@@ -801,6 +805,10 @@
           },
           {
             "id": 31106,
+            "name": "Sale"
+          },
+          {
+            "id": 31207,
             "name": "Sale"
           },
           {
