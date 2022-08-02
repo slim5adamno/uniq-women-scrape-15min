@@ -64,11 +64,6 @@
           "name": "RED"
         },
         {
-          "code": "COL14",
-          "displayCode": "14",
-          "name": "RED"
-        },
-        {
           "code": "COL15",
           "displayCode": "15",
           "name": "RED"
@@ -3481,15 +3476,6 @@
             "code": "COL01",
             "displayCode": "01",
             "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -10937,15 +10923,6 @@
       {
         "careInstruction": "-",
         "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL68",
             "displayCode": "68",
@@ -19378,15 +19355,6 @@
       {
         "careInstruction": "-",
         "colors": [
-          {
-            "code": "COL14",
-            "displayCode": "14",
-            "name": "RED",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL69",
             "displayCode": "69",
