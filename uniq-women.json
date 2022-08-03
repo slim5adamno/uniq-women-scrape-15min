@@ -345,12 +345,12 @@
         {
           "rating": 4.5,
           "accumulated": 30,
-          "count": 7
+          "count": 8
         },
         {
           "rating": 5,
-          "accumulated": 23,
-          "count": 23
+          "accumulated": 22,
+          "count": 22
         }
       ],
       "sizes": [
