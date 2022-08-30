@@ -209,11 +209,6 @@
           "name": "BLUE"
         },
         {
-          "code": "COL66",
-          "displayCode": "66",
-          "name": "BLUE"
-        },
-        {
           "code": "COL67",
           "displayCode": "67",
           "name": "BLUE"
@@ -1027,9 +1022,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445417/sub/goods_445417_sub26.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445417/sub/ingoods_445417_sub28.jpg"
             }
           ]
         },
@@ -5284,9 +5276,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/444525/sub/goods_444525_sub27.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/444525/sub/ingoods_444525_sub28.jpg"
             }
           ]
         },
@@ -13170,9 +13159,6 @@
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448088/sub/ingoods_448088_sub27.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448088/sub/ingoods_448088_sub28.jpg"
-            },
-            {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/448088/sub/ingoods_448088_sub29.jpg"
             }
           ]
@@ -19550,15 +19536,6 @@
             "code": "COL10",
             "displayCode": "10",
             "name": "PINK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL66",
-            "displayCode": "66",
-            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
