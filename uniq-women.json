@@ -605,16 +605,16 @@
         ],
         "subcategories": [
           {
+            "id": 26160,
+            "name": "Legging"
+          },
+          {
             "id": 22310,
             "name": "Jackets"
           },
           {
             "id": 22348,
             "name": "Leggings Pants"
-          },
-          {
-            "id": 26160,
-            "name": "Legging"
           },
           {
             "id": 31143,
@@ -645,20 +645,20 @@
             "name": "Others"
           },
           {
-            "id": 31239,
-            "name": "Sale"
-          },
-          {
             "id": 22313,
             "name": "Others"
           },
           {
-            "id": 22346,
-            "name": "Others"
+            "id": 31239,
+            "name": "Sale"
           },
           {
             "id": 31368,
             "name": "Sale"
+          },
+          {
+            "id": 22346,
+            "name": "Others"
           },
           {
             "id": 31203,
@@ -18269,15 +18269,6 @@
             "code": "COL12",
             "displayCode": "12",
             "name": "PINK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
