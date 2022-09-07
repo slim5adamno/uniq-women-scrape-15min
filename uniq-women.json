@@ -590,16 +590,16 @@
         ],
         "subcategories": [
           {
+            "id": 22310,
+            "name": "Jackets"
+          },
+          {
             "id": 26160,
             "name": "Legging"
           },
           {
             "id": 22348,
             "name": "Leggings Pants"
-          },
-          {
-            "id": 22310,
-            "name": "Jackets"
           },
           {
             "id": 22352,
@@ -642,12 +642,12 @@
             "name": "Others"
           },
           {
-            "id": 31239,
-            "name": "Sale"
-          },
-          {
             "id": 22313,
             "name": "Others"
+          },
+          {
+            "id": 31239,
+            "name": "Sale"
           },
           {
             "id": 31368,
@@ -674,12 +674,12 @@
             "name": "Sale"
           },
           {
-            "id": 21104,
-            "name": "Fluffy Yarn Fleece"
-          },
-          {
             "id": 28882,
             "name": "Cotton Relax"
+          },
+          {
+            "id": 21104,
+            "name": "Fluffy Yarn Fleece"
           },
           {
             "id": 12290,
@@ -702,12 +702,12 @@
             "name": "Sale"
           },
           {
-            "id": 12300,
-            "name": "Relaxed"
-          },
-          {
             "id": 30900,
             "name": "Sale"
+          },
+          {
+            "id": 12300,
+            "name": "Relaxed"
           },
           {
             "id": 31102,
