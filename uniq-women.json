@@ -651,24 +651,8 @@
         ],
         "subcategories": [
           {
-            "id": 28409,
-            "name": "3D"
-          },
-          {
-            "id": 22343,
-            "name": "T-shirts"
-          },
-          {
-            "id": 22374,
-            "name": "Loungewear & Pajamas"
-          },
-          {
             "id": 31143,
             "name": "Sale"
-          },
-          {
-            "id": 27755,
-            "name": "Satin Bottom"
           },
           {
             "id": 22373,
@@ -699,14 +683,6 @@
             "name": "Sale"
           },
           {
-            "id": 22340,
-            "name": "Sweaters"
-          },
-          {
-            "id": 22341,
-            "name": "Cardigans"
-          },
-          {
             "id": 31368,
             "name": "Sale"
           },
@@ -719,24 +695,8 @@
             "name": "Sale"
           },
           {
-            "id": 12179,
-            "name": "3D Knit"
-          },
-          {
-            "id": 31160,
-            "name": "Crew neck"
-          },
-          {
-            "id": 24152,
-            "name": "Cardigans"
-          },
-          {
             "id": 30899,
             "name": "Sale"
-          },
-          {
-            "id": 11574,
-            "name": "Others"
           },
           {
             "id": 31162,
@@ -745,10 +705,6 @@
           {
             "id": 31353,
             "name": "Sale"
-          },
-          {
-            "id": 25847,
-            "name": "Pants"
           },
           {
             "id": 31346,
@@ -775,10 +731,6 @@
             "name": "Sale"
           },
           {
-            "id": 25848,
-            "name": "Accessories"
-          },
-          {
             "id": 31102,
             "name": "Sale"
           },
@@ -799,16 +751,8 @@
             "name": "Sale"
           },
           {
-            "id": 12204,
-            "name": "Ribbed"
-          },
-          {
             "id": 31357,
             "name": "Sale"
-          },
-          {
-            "id": 12197,
-            "name": "Half Sleeve T-Shirts"
           },
           {
             "id": 31250,
@@ -829,10 +773,6 @@
           {
             "id": 30178,
             "name": "New York weekend trip"
-          },
-          {
-            "id": 29817,
-            "name": "PEANUTS x Reyn Spooner"
           },
           {
             "id": 29276,
@@ -11127,15 +11067,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -13620,15 +13551,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -20198,15 +20120,6 @@
         "careInstruction": "-",
         "colors": [
           {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
@@ -20398,15 +20311,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
