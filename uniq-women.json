@@ -669,20 +669,20 @@
             "name": "Others"
           },
           {
-            "id": 22313,
-            "name": "Others"
-          },
-          {
             "id": 31239,
             "name": "Sale"
           },
           {
-            "id": 31368,
-            "name": "Sale"
+            "id": 22313,
+            "name": "Others"
           },
           {
             "id": 22346,
             "name": "Others"
+          },
+          {
+            "id": 31368,
+            "name": "Sale"
           },
           {
             "id": 31203,
@@ -693,11 +693,11 @@
             "name": "Sale"
           },
           {
-            "id": 31353,
+            "id": 31162,
             "name": "Sale"
           },
           {
-            "id": 31162,
+            "id": 31353,
             "name": "Sale"
           },
           {
@@ -757,11 +757,11 @@
             "name": "Sale"
           },
           {
-            "id": 31355,
+            "id": 31223,
             "name": "Sale"
           },
           {
-            "id": 31223,
+            "id": 31355,
             "name": "Sale"
           },
           {
