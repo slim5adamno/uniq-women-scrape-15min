@@ -1069,19 +1069,13 @@
         "longDescription": "- Made with Ultra Stretch fabric. <br>- With DRY technology. <br>- High-rise cut for a leg-lengthening effect. <br>- We’ve updated the pocket size, stitch work, and buttons to achieve a more versatile design.",
         "name": "Extra Stretch High Rise Leggings Trousers",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "190.0000"
+            "value": "1990.0000"
           }
         },
         "productId": "E439241-000",
@@ -1115,27 +1109,27 @@
         },
         "representative": {
           "color": {
-            "code": "COL54",
-            "displayCode": "54",
-            "name": "GREEN",
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
+            "priceFlags": [],
+            "productFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
               }
-            ],
-            "productFlags": []
+            ]
           },
           "isFavorite": false,
-          "l2Id": "06385681",
+          "l2Id": "07041177",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -12310,9 +12304,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -12330,7 +12324,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07001963",
+          "l2Id": "07001969",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -20847,9 +20841,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -20874,7 +20868,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06931963",
+          "l2Id": "06931971",
           "salesStartDate": "",
           "salesEndDate": ""
         },
