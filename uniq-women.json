@@ -657,12 +657,12 @@
             "name": "Wireless Bras"
           },
           {
-            "id": 23535,
-            "name": "Outer"
-          },
-          {
             "id": 31143,
             "name": "Sale"
+          },
+          {
+            "id": 23535,
+            "name": "Outer"
           },
           {
             "id": 22312,
@@ -685,20 +685,20 @@
             "name": "Others"
           },
           {
+            "id": 22356,
+            "name": "Others"
+          },
+          {
             "id": 22345,
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 22356,
+            "id": 22388,
             "name": "Others"
           },
           {
             "id": 22342,
             "name": "Sweat Collections"
-          },
-          {
-            "id": 22388,
-            "name": "Others"
           },
           {
             "id": 22313,
@@ -709,12 +709,12 @@
             "name": "Sale"
           },
           {
-            "id": 22346,
-            "name": "Others"
-          },
-          {
             "id": 31368,
             "name": "Sale"
+          },
+          {
+            "id": 22346,
+            "name": "Others"
           },
           {
             "id": 31203,
@@ -793,11 +793,11 @@
             "name": "Billie Eilish x Takashi Murakami"
           },
           {
-            "id": 31355,
+            "id": 31223,
             "name": "Sale"
           },
           {
-            "id": 31223,
+            "id": 31355,
             "name": "Sale"
           },
           {
@@ -16702,15 +16702,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
