@@ -642,12 +642,12 @@
             "name": "Wireless Bras"
           },
           {
-            "id": 31143,
-            "name": "Sale"
-          },
-          {
             "id": 23535,
             "name": "Outer"
+          },
+          {
+            "id": 31143,
+            "name": "Sale"
           },
           {
             "id": 22312,
@@ -656,10 +656,6 @@
           {
             "id": 22354,
             "name": "Shorts"
-          },
-          {
-            "id": 27329,
-            "name": "Ines De La Fressange"
           },
           {
             "id": 23539,
@@ -682,12 +678,12 @@
             "name": "Others"
           },
           {
-            "id": 22388,
-            "name": "Others"
-          },
-          {
             "id": 22342,
             "name": "Sweat Collections"
+          },
+          {
+            "id": 22388,
+            "name": "Others"
           },
           {
             "id": 22313,
@@ -698,16 +694,12 @@
             "name": "Sale"
           },
           {
-            "id": 25844,
-            "name": "INES DE LA FRESSANGE"
+            "id": 31368,
+            "name": "Sale"
           },
           {
             "id": 22346,
             "name": "Others"
-          },
-          {
-            "id": 31368,
-            "name": "Sale"
           },
           {
             "id": 31203,
@@ -716,10 +708,6 @@
           {
             "id": 30899,
             "name": "Sale"
-          },
-          {
-            "id": 13088,
-            "name": "Ines De La Fressange"
           },
           {
             "id": 31162,
@@ -776,10 +764,6 @@
           {
             "id": 31357,
             "name": "Sale"
-          },
-          {
-            "id": 27334,
-            "name": "Ines De La Fressange"
           },
           {
             "id": 31250,
@@ -1965,15 +1949,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Cotton",
@@ -2152,15 +2127,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/447207_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA007",
             "displayCode": "007",
@@ -15853,11 +15819,11 @@
               "colorCode": "31"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445326/item/ingoods_42_445326.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445326/item/goods_42_445326.jpg",
               "colorCode": "42"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445326/item/ingoods_66_445326.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445326/item/goods_66_445326.jpg",
               "colorCode": "66"
             },
             {
@@ -15865,7 +15831,7 @@
               "colorCode": "68"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445326/item/ingoods_69_445326.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445326/item/goods_69_445326.jpg",
               "colorCode": "69"
             }
           ],
@@ -22402,11 +22368,11 @@
         "images": {
           "main": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445302/item/ingoods_03_445302.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445302/item/goods_03_445302.jpg",
               "colorCode": "03"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445302/item/ingoods_31_445302.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445302/item/goods_31_445302.jpg",
               "colorCode": "31"
             }
           ],
@@ -22421,15 +22387,6 @@
             }
           ],
           "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445302/sub/ingoods_445302_sub6.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445302/sub/ingoods_445302_sub7.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445302/sub/ingoods_445302_sub8.jpg"
-            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445302/sub/goods_445302_sub18.jpg"
             },
@@ -24785,9 +24742,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL58",
-            "displayCode": "58",
-            "name": "DARK GREEN",
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -24812,7 +24769,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07123504",
+          "l2Id": "07123496",
           "salesStartDate": "",
           "salesEndDate": ""
         },
