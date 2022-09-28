@@ -642,12 +642,12 @@
             "name": "Wireless Bras"
           },
           {
-            "id": 23535,
-            "name": "Outer"
-          },
-          {
             "id": 31143,
             "name": "Sale"
+          },
+          {
+            "id": 23535,
+            "name": "Outer"
           },
           {
             "id": 22312,
@@ -658,24 +658,24 @@
             "name": "Shorts"
           },
           {
-            "id": 23539,
-            "name": "Bras & Tops"
-          },
-          {
             "id": 22373,
             "name": "Others"
+          },
+          {
+            "id": 23539,
+            "name": "Bras & Tops"
           },
           {
             "id": 22379,
             "name": "Others"
           },
           {
-            "id": 22345,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 22356,
             "name": "Others"
+          },
+          {
+            "id": 22345,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 22342,
@@ -694,12 +694,12 @@
             "name": "Sale"
           },
           {
-            "id": 31368,
-            "name": "Sale"
-          },
-          {
             "id": 22346,
             "name": "Others"
+          },
+          {
+            "id": 31368,
+            "name": "Sale"
           },
           {
             "id": 31203,
@@ -710,11 +710,11 @@
             "name": "Sale"
           },
           {
-            "id": 31162,
+            "id": 31353,
             "name": "Sale"
           },
           {
-            "id": 31353,
+            "id": 31162,
             "name": "Sale"
           },
           {
@@ -778,11 +778,11 @@
             "name": "Billie Eilish x Takashi Murakami"
           },
           {
-            "id": 31223,
+            "id": 31355,
             "name": "Sale"
           },
           {
-            "id": 31355,
+            "id": 31223,
             "name": "Sale"
           },
           {
@@ -15002,7 +15002,7 @@
         "images": {
           "main": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445649/item/ingoods_07_445649.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445649/item/goods_07_445649.jpg",
               "colorCode": "07"
             },
             {
@@ -15010,7 +15010,7 @@
               "colorCode": "09"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445649/item/ingoods_57_445649.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445649/item/goods_57_445649.jpg",
               "colorCode": "57"
             }
           ],
@@ -15029,21 +15029,6 @@
             }
           ],
           "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445649/sub/ingoods_445649_sub6.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445649/sub/ingoods_445649_sub7.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445649/sub/ingoods_445649_sub8.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445649/sub/goods_445649_sub9.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445649/sub/goods_445649_sub13.jpg"
-            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445649/sub/goods_445649_sub18.jpg"
             },
@@ -19028,7 +19013,7 @@
         "images": {
           "main": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445892/item/ingoods_11_445892.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445892/item/goods_11_445892.jpg",
               "colorCode": "11"
             },
             {
@@ -19036,7 +19021,7 @@
               "colorCode": "60"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445892/item/ingoods_69_445892.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445892/item/goods_69_445892.jpg",
               "colorCode": "69"
             }
           ],
