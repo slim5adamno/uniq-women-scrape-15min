@@ -19039,15 +19039,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Knit: 100% Cotton/ Woven: 65% Polyester, 35% Cotton",
@@ -19208,15 +19199,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -20946,9 +20928,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL39",
-            "displayCode": "39",
-            "name": "DARK BROWN",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -20966,7 +20948,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07125278",
+          "l2Id": "07125262",
           "salesStartDate": "",
           "salesEndDate": ""
         },
