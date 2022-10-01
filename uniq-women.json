@@ -224,11 +224,6 @@
           "name": "BLUE"
         },
         {
-          "code": "COL68",
-          "displayCode": "68",
-          "name": "BLUE"
-        },
-        {
           "code": "COL69",
           "displayCode": "69",
           "name": "NAVY"
@@ -11961,15 +11956,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "[65 BLUE] 50% Cotton, 35% Polyester, 15% Elastane [68 BLUE] 52% Cotton, 33% Polyester, 15% Elastane",
@@ -15733,6 +15719,15 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/456133_size.html",
         "sizeInformation": "",
         "sizes": [
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
           {
             "code": "SMA005",
             "displayCode": "005",
@@ -21056,15 +21051,6 @@
             "code": "COL01",
             "displayCode": "01",
             "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
