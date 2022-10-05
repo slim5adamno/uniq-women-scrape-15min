@@ -19790,15 +19790,6 @@
             }
           },
           {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -21894,9 +21885,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/445169/sub/goods_445169_sub21.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445169/sub/ingoods_445169_sub28.jpg"
             }
           ]
         },
