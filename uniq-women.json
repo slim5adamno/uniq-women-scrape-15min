@@ -721,20 +721,12 @@
             "name": "Legging"
           },
           {
-            "id": 22382,
-            "name": "Scarves & Stoles"
-          },
-          {
             "id": 13096,
             "name": "Ines De La Fressange"
           },
           {
             "id": 22364,
             "name": "Wireless Bras"
-          },
-          {
-            "id": 22381,
-            "name": "Hats & Caps"
           },
           {
             "id": 31143,
@@ -849,10 +841,6 @@
             "name": "3D Hold"
           },
           {
-            "id": 23500,
-            "name": "Hats"
-          },
-          {
             "id": 31354,
             "name": "Sale"
           },
@@ -865,12 +853,16 @@
             "name": "Sale"
           },
           {
+            "id": 31204,
+            "name": "Sale"
+          },
+          {
             "id": 30900,
             "name": "Sale"
           },
           {
-            "id": 12395,
-            "name": "Scarves"
+            "id": 31215,
+            "name": "Sale"
           },
           {
             "id": 31374,
