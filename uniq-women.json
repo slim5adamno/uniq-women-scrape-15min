@@ -718,24 +718,20 @@
             "name": "Bras & Tops"
           },
           {
-            "id": 27329,
-            "name": "Ines De La Fressange"
+            "id": 22379,
+            "name": "Others"
           },
           {
             "id": 24732,
             "name": "Socks"
           },
           {
-            "id": 22379,
-            "name": "Others"
+            "id": 22345,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 22356,
             "name": "Others"
-          },
-          {
-            "id": 22345,
-            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 22388,
@@ -778,20 +774,20 @@
             "name": "Sale"
           },
           {
-            "id": 31162,
-            "name": "Sale"
-          },
-          {
             "id": 31353,
             "name": "Sale"
           },
           {
-            "id": 12338,
-            "name": "Active"
+            "id": 31162,
+            "name": "Sale"
           },
           {
             "id": 12292,
             "name": "Extra Stretch Leggings"
+          },
+          {
+            "id": 12338,
+            "name": "Active"
           },
           {
             "id": 19931,
@@ -846,10 +842,6 @@
             "name": "Sale"
           },
           {
-            "id": 27334,
-            "name": "Ines De La Fressange"
-          },
-          {
             "id": 31250,
             "name": "Sale"
           },
@@ -858,11 +850,11 @@
             "name": "Sale"
           },
           {
-            "id": 31223,
+            "id": 31355,
             "name": "Sale"
           },
           {
-            "id": 31355,
+            "id": 31223,
             "name": "Sale"
           },
           {
@@ -8011,6 +8003,15 @@
             }
           },
           {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -11869,15 +11870,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
