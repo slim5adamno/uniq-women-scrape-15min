@@ -718,12 +718,16 @@
             "name": "Bras & Tops"
           },
           {
+            "id": 24732,
+            "name": "Socks"
+          },
+          {
             "id": 22379,
             "name": "Others"
           },
           {
-            "id": 24732,
-            "name": "Socks"
+            "id": 22388,
+            "name": "Others"
           },
           {
             "id": 22345,
@@ -731,10 +735,6 @@
           },
           {
             "id": 22356,
-            "name": "Others"
-          },
-          {
-            "id": 22388,
             "name": "Others"
           },
           {
@@ -850,11 +850,11 @@
             "name": "Sale"
           },
           {
-            "id": 31355,
+            "id": 31223,
             "name": "Sale"
           },
           {
-            "id": 31223,
+            "id": 31355,
             "name": "Sale"
           },
           {
