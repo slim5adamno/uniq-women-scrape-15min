@@ -726,15 +726,15 @@
             "name": "Others"
           },
           {
-            "id": 22388,
-            "name": "Others"
-          },
-          {
             "id": 22345,
             "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 22356,
+            "name": "Others"
+          },
+          {
+            "id": 22388,
             "name": "Others"
           },
           {
@@ -782,12 +782,12 @@
             "name": "Sale"
           },
           {
-            "id": 12292,
-            "name": "Extra Stretch Leggings"
-          },
-          {
             "id": 12338,
             "name": "Active"
+          },
+          {
+            "id": 12292,
+            "name": "Extra Stretch Leggings"
           },
           {
             "id": 19931,
@@ -850,11 +850,11 @@
             "name": "Sale"
           },
           {
-            "id": 31223,
+            "id": 31355,
             "name": "Sale"
           },
           {
-            "id": 31355,
+            "id": 31223,
             "name": "Sale"
           },
           {
