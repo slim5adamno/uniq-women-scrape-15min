@@ -1744,15 +1744,15 @@
           }
         ],
         "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
+          "average": 5,
+          "count": 1,
+          "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 0
+            "five": 1
           }
         },
         "representative": {
@@ -2628,15 +2628,15 @@
           }
         ],
         "rating": {
-          "average": 4.5,
-          "count": 8,
-          "fit": 2.75,
+          "average": 4.555555555555555,
+          "count": 9,
+          "fit": 2.7777777777777777,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 2,
             "four": 0,
-            "five": 6
+            "five": 7
           }
         },
         "representative": {
@@ -12222,14 +12222,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 1,
+          "count": 2,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -15774,15 +15774,15 @@
           }
         ],
         "rating": {
-          "average": 4,
-          "count": 8,
-          "fit": 3.375,
+          "average": 4.111111111111111,
+          "count": 9,
+          "fit": 3.4444444444444446,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 1,
             "four": 2,
-            "five": 4
+            "five": 5
           }
         },
         "representative": {
@@ -35337,14 +35337,14 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
+          "average": 4.5,
+          "count": 2,
+          "fit": 4,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 0,
+            "four": 1,
             "five": 1
           }
         },
