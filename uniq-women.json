@@ -20115,9 +20115,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -20142,7 +20142,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06889951",
+          "l2Id": "06889959",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -22506,7 +22506,7 @@
         },
         "l1Id": "450598",
         "longDescription": "- Made with Ultra Stretch fabric. <br>- With DRY technology. <br>- High-rise cut for a leg-flattering effect. <br>- Leggings with pocket size, stitch work, and button size expertly designed to look like pants. <br>- Fully elastic waist with belt loops. <br>- Great for a variety of styles including pairing with a cropped or tucked-in top.",
-        "name": "Extra Stretch High Rise Leggings Trousers",
+        "name": "Extra Stretch High Rise Legging Pants",
         "prices": {
           "base": {
             "currency": {
