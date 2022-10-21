@@ -768,16 +768,16 @@
             "name": "Sale"
           },
           {
-            "id": 22312,
-            "name": "Parka"
-          },
-          {
             "id": 22373,
             "name": "Others"
           },
           {
             "id": 22379,
             "name": "Others"
+          },
+          {
+            "id": 22345,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 22388,
@@ -788,16 +788,8 @@
             "name": "Others"
           },
           {
-            "id": 22345,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 22380,
             "name": "AIRism Masks"
-          },
-          {
-            "id": 31246,
-            "name": "Lined"
           },
           {
             "id": 22313,
@@ -896,15 +888,11 @@
             "name": "Sale"
           },
           {
-            "id": 12160,
-            "name": "Reversible"
-          },
-          {
-            "id": 31223,
+            "id": 31355,
             "name": "Sale"
           },
           {
-            "id": 31355,
+            "id": 31223,
             "name": "Sale"
           },
           {
