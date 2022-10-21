@@ -380,22 +380,22 @@
         {
           "rating": 2,
           "accumulated": 59,
-          "count": 1
+          "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 58,
+          "accumulated": 59,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 58,
+          "accumulated": 59,
           "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 56,
-          "count": 4
+          "accumulated": 57,
+          "count": 5
         },
         {
           "rating": 4,
