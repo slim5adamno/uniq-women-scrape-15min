@@ -13767,12 +13767,12 @@
           }
         ],
         "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
+          "average": 2,
+          "count": 1,
+          "fit": 4,
           "rateCount": {
             "one": 0,
-            "two": 0,
+            "two": 1,
             "three": 0,
             "four": 0,
             "five": 0
@@ -29883,9 +29883,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL12",
-            "displayCode": "12",
-            "name": "PINK",
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -29910,7 +29910,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06367977",
+          "l2Id": "06367993",
           "salesStartDate": "",
           "salesEndDate": ""
         },
