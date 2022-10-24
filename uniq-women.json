@@ -4645,7 +4645,7 @@
         "images": {
           "main": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/449081/item/ingoods_09_449081.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449081/item/goods_09_449081.jpg",
               "colorCode": "09"
             }
           ],
@@ -27908,10 +27908,6 @@
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445195/item/ingoods_65_445195.jpg",
               "colorCode": "65"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445195/item/ingoods_69_445195.jpg",
-              "colorCode": "69"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/445195/item/ingoods_74_445195.jpg",
