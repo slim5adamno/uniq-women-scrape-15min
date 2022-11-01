@@ -5145,15 +5145,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 1,
@@ -14831,15 +14822,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL27",
-            "displayCode": "27",
-            "name": "ORANGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL35",
             "displayCode": "35",
             "name": "BROWN",
@@ -17175,7 +17157,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 96,
+          "total": 78,
           "count": 0,
           "items": []
         },
@@ -17369,7 +17351,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 96,
+          "total": 78,
           "count": 0,
           "items": []
         },
@@ -17593,7 +17575,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 96,
+          "total": 78,
           "count": 0,
           "items": []
         },
