@@ -796,16 +796,8 @@
         ],
         "subcategories": [
           {
-            "id": 31140,
-            "name": "Midi"
-          },
-          {
             "id": 22352,
             "name": "Casual Pants"
-          },
-          {
-            "id": 13097,
-            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 22374,
@@ -862,10 +854,6 @@
           {
             "id": 31239,
             "name": "Sale"
-          },
-          {
-            "id": 12266,
-            "name": "Cotton"
           },
           {
             "id": 11584,
@@ -936,16 +924,8 @@
             "name": "Relaxed"
           },
           {
-            "id": 12307,
-            "name": "Wide Fit"
-          },
-          {
             "id": 31215,
             "name": "Sale"
-          },
-          {
-            "id": 13102,
-            "name": "Uniqlo U"
           },
           {
             "id": 31374,
@@ -11490,15 +11470,6 @@
             }
           },
           {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -13311,6 +13282,33 @@
             }
           },
           {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -13984,6 +13982,15 @@
             }
           },
           {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -14225,7 +14232,7 @@
         "composition": "Body: 100% Polyamide ( 100% Nylon Reclaimed From Manufacturing )/ Shoulder: 100% Polyester",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Women",
         "hideReview": false,
         "images": {
           "main": [
@@ -14406,7 +14413,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Do not wash, Do not Dry Clean"
       },
       {
