@@ -796,14 +796,6 @@
         ],
         "subcategories": [
           {
-            "id": 22347,
-            "name": "Jeans"
-          },
-          {
-            "id": 22348,
-            "name": "Leggings Pants"
-          },
-          {
             "id": 31140,
             "name": "Midi"
           },
@@ -820,10 +812,6 @@
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 27570,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 27753,
             "name": "Cotton relax"
           },
@@ -836,24 +824,8 @@
             "name": "Sale"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
-          },
-          {
-            "id": 22308,
-            "name": "Coats"
-          },
-          {
-            "id": 27329,
-            "name": "Ines De La Fressange"
-          },
-          {
             "id": 22373,
             "name": "Others"
-          },
-          {
-            "id": 25837,
-            "name": "Uniqlo U"
           },
           {
             "id": 22379,
@@ -916,10 +888,6 @@
             "name": "Sale"
           },
           {
-            "id": 12282,
-            "name": "Skinny Fit"
-          },
-          {
             "id": 30899,
             "name": "Sale"
           },
@@ -930,10 +898,6 @@
           {
             "id": 31162,
             "name": "Sale"
-          },
-          {
-            "id": 19927,
-            "name": "High Rise"
           },
           {
             "id": 28882,
@@ -968,10 +932,6 @@
             "name": "Sale"
           },
           {
-            "id": 12306,
-            "name": "Straight Fit"
-          },
-          {
             "id": 12300,
             "name": "Relaxed"
           },
@@ -990,10 +950,6 @@
           {
             "id": 31374,
             "name": "Sale"
-          },
-          {
-            "id": 13105,
-            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 31356,
@@ -1028,10 +984,6 @@
             "name": "Sale"
           },
           {
-            "id": 11596,
-            "name": "Others"
-          },
-          {
             "id": 31355,
             "name": "Sale"
           },
@@ -1042,10 +994,6 @@
           {
             "id": 31249,
             "name": "Sale"
-          },
-          {
-            "id": 21582,
-            "name": "PEANUTS HOLIDAY_21FW"
           },
           {
             "id": 32445,
@@ -1060,16 +1008,8 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 13074,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 23512,
             "name": "Backpacks"
-          },
-          {
-            "id": 13076,
-            "name": "Ines De La Fressange"
           },
           {
             "id": 23520,
@@ -17157,7 +17097,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 78,
+          "total": 96,
           "count": 0,
           "items": []
         },
@@ -17351,7 +17291,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 78,
+          "total": 96,
           "count": 0,
           "items": []
         },
@@ -17575,7 +17515,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 78,
+          "total": 96,
           "count": 0,
           "items": []
         },
@@ -23626,7 +23566,7 @@
         "composition": "Body: 100% Cotton/ Rib: 78% Cotton, 22% Polyester",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -23813,7 +23753,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean"
       },
       {
@@ -23832,7 +23772,7 @@
         "composition": "Body: 100% Cotton/ Rib: 78% Cotton, 22% Polyester",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -23986,7 +23926,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean"
       },
       {
@@ -25024,9 +24964,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -25051,7 +24991,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07214627",
+          "l2Id": "07214634",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -27843,7 +27783,7 @@
         "composition": "Body: 100% Cotton/ Rib: 78% Cotton, 22% Polyester",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -28030,7 +27970,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean"
       },
       {
