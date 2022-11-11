@@ -2159,9 +2159,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -2186,7 +2186,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07058560",
+          "l2Id": "07058553",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -14738,9 +14738,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL49",
+            "displayCode": "49",
+            "name": "MUSTARD",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -14765,7 +14765,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07192247",
+          "l2Id": "07192275",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -17691,15 +17691,6 @@
       {
         "careInstruction": "-",
         "colors": [
-          {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL02",
             "displayCode": "02",
@@ -22711,9 +22702,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL56",
+            "displayCode": "56",
+            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -22738,7 +22729,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07178815",
+          "l2Id": "07178941",
           "salesStartDate": "",
           "salesEndDate": ""
         },
