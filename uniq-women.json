@@ -781,20 +781,20 @@
             "name": "Others"
           },
           {
-            "id": 22379,
-            "name": "Others"
-          },
-          {
             "id": 22356,
             "name": "Others"
           },
           {
-            "id": 22388,
+            "id": 22379,
             "name": "Others"
           },
           {
             "id": 22345,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 22388,
+            "name": "Others"
           },
           {
             "id": 22380,
@@ -813,12 +813,12 @@
             "name": "Others"
           },
           {
-            "id": 22346,
-            "name": "Others"
-          },
-          {
             "id": 31368,
             "name": "Sale"
+          },
+          {
+            "id": 22346,
+            "name": "Others"
           },
           {
             "id": 23496,
@@ -841,11 +841,11 @@
             "name": "Sale"
           },
           {
-            "id": 31353,
+            "id": 31162,
             "name": "Sale"
           },
           {
-            "id": 31162,
+            "id": 31353,
             "name": "Sale"
           },
           {
@@ -909,11 +909,11 @@
             "name": "Sale"
           },
           {
-            "id": 31355,
+            "id": 31223,
             "name": "Sale"
           },
           {
-            "id": 31223,
+            "id": 31355,
             "name": "Sale"
           },
           {
@@ -937,11 +937,11 @@
             "name": "Sale"
           },
           {
-            "id": 31205,
+            "id": 31196,
             "name": "Sale"
           },
           {
-            "id": 31196,
+            "id": 31205,
             "name": "Sale"
           },
           {
