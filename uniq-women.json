@@ -768,20 +768,20 @@
             "name": "T-shirts"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
-          },
-          {
             "id": 22339,
             "name": "Rayon"
           },
           {
-            "id": 22381,
-            "name": "Hats & Caps"
+            "id": 22347,
+            "name": "Jeans"
           },
           {
             "id": 31143,
             "name": "Sale"
+          },
+          {
+            "id": 22381,
+            "name": "Hats & Caps"
           },
           {
             "id": 22344,
@@ -792,20 +792,20 @@
             "name": "Others"
           },
           {
+            "id": 22356,
+            "name": "Others"
+          },
+          {
             "id": 22379,
             "name": "Others"
           },
           {
-            "id": 22356,
+            "id": 22388,
             "name": "Others"
           },
           {
             "id": 22345,
             "name": "UT(Graphic T-Shirts)"
-          },
-          {
-            "id": 22388,
-            "name": "Others"
           },
           {
             "id": 22380,
@@ -828,12 +828,12 @@
             "name": "Others"
           },
           {
-            "id": 22346,
-            "name": "Others"
-          },
-          {
             "id": 31368,
             "name": "Sale"
+          },
+          {
+            "id": 22346,
+            "name": "Others"
           },
           {
             "id": 23496,
@@ -856,11 +856,11 @@
             "name": "Sale"
           },
           {
-            "id": 31353,
+            "id": 31162,
             "name": "Sale"
           },
           {
-            "id": 31162,
+            "id": 31353,
             "name": "Sale"
           },
           {
@@ -19739,19 +19739,13 @@
         "longDescription": "- Made with ISKO 12-ounce Ultra Stretch fabric.<br>- Our stretchiest jeans ever. <br>- Updated with a high-rise tapered cut for a flattering fit from waist to ankle. <br>- Back pocket size and placement designed to flatter the figure. <br>- Specially dyed to resist color fading. <br>- The finishing process for these jeans uses up to 99%* less water than before. *Comparison between 2017 and 2018 Men's Regular Fit Jeans. The level of water reduction varies depending on the product.",
         "name": "Extra Stretch Skinny High Rise Jeans",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E439217-000",
@@ -19785,34 +19779,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL04",
-            "displayCode": "04",
-            "name": "GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "priceFlags": [],
+            "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07085720",
+          "l2Id": "06783009",
           "salesStartDate": "",
           "salesEndDate": ""
         },
