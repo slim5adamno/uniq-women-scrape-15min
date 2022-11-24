@@ -768,14 +768,6 @@
             "name": "T-shirts"
           },
           {
-            "id": 12261,
-            "name": "Merino Blended"
-          },
-          {
-            "id": 22347,
-            "name": "Jeans"
-          },
-          {
             "id": 22311,
             "name": "Fleece"
           },
@@ -784,12 +776,16 @@
             "name": "Rayon"
           },
           {
-            "id": 22381,
-            "name": "Hats & Caps"
+            "id": 22347,
+            "name": "Jeans"
           },
           {
             "id": 31143,
             "name": "Sale"
+          },
+          {
+            "id": 22381,
+            "name": "Hats & Caps"
           },
           {
             "id": 22344,
@@ -816,10 +812,6 @@
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
-          },
-          {
             "id": 22380,
             "name": "AIRism Masks"
           },
@@ -836,10 +828,6 @@
             "name": "Sale"
           },
           {
-            "id": 22340,
-            "name": "Sweaters"
-          },
-          {
             "id": 22341,
             "name": "Cardigans"
           },
@@ -852,12 +840,12 @@
             "name": "Others"
           },
           {
-            "id": 22346,
-            "name": "Others"
-          },
-          {
             "id": 31368,
             "name": "Sale"
+          },
+          {
+            "id": 22346,
+            "name": "Others"
           },
           {
             "id": 23496,
@@ -880,19 +868,15 @@
             "name": "Cardigans"
           },
           {
-            "id": 31159,
-            "name": "V neck"
-          },
-          {
             "id": 30899,
             "name": "Sale"
           },
           {
-            "id": 31162,
+            "id": 31353,
             "name": "Sale"
           },
           {
-            "id": 31353,
+            "id": 31162,
             "name": "Sale"
           },
           {
@@ -1000,11 +984,11 @@
             "name": "Cardigan"
           },
           {
-            "id": 31205,
+            "id": 31196,
             "name": "Sale"
           },
           {
-            "id": 31196,
+            "id": 31205,
             "name": "Sale"
           },
           {
