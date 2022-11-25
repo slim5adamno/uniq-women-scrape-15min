@@ -734,11 +734,11 @@
             "name": "Others"
           },
           {
-            "id": 22379,
+            "id": 22356,
             "name": "Others"
           },
           {
-            "id": 22356,
+            "id": 22379,
             "name": "Others"
           },
           {
@@ -786,11 +786,11 @@
             "name": "Sale"
           },
           {
-            "id": 31162,
+            "id": 31353,
             "name": "Sale"
           },
           {
-            "id": 31353,
+            "id": 31162,
             "name": "Sale"
           },
           {
@@ -878,11 +878,11 @@
             "name": "Sale"
           },
           {
-            "id": 31205,
+            "id": 31196,
             "name": "Sale"
           },
           {
-            "id": 31196,
+            "id": 31205,
             "name": "Sale"
           },
           {
@@ -8816,15 +8816,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -31259,15 +31250,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/453868_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA004",
             "displayCode": "004",
