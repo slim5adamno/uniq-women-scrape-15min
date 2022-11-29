@@ -7945,7 +7945,7 @@
         "composition": "100% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Women",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -8104,7 +8104,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean"
       },
       {
