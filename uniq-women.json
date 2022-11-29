@@ -610,10 +610,6 @@
             "name": "Fleece Jacket"
           },
           {
-            "id": 30841,
-            "name": "Down"
-          },
-          {
             "id": 11564,
             "name": "Jackets"
           },
@@ -752,40 +748,16 @@
         ],
         "subcategories": [
           {
-            "id": 31244,
-            "name": "Down"
-          },
-          {
-            "id": 31243,
-            "name": "Down Jackets & Coats"
-          },
-          {
-            "id": 22310,
-            "name": "Jackets"
-          },
-          {
             "id": 22381,
             "name": "Hats & Caps"
-          },
-          {
-            "id": 23535,
-            "name": "Outer"
           },
           {
             "id": 31143,
             "name": "Sale"
           },
           {
-            "id": 25835,
-            "name": "Vest"
-          },
-          {
             "id": 22371,
             "name": "Underwear"
-          },
-          {
-            "id": 22308,
-            "name": "Coats"
           },
           {
             "id": 22373,
@@ -840,12 +812,8 @@
             "name": "Sale"
           },
           {
-            "id": 20539,
-            "name": "Ultra Light Down Vest"
-          },
-          {
-            "id": 21103,
-            "name": "Ultra Light Down Coat"
+            "id": 31251,
+            "name": "Sale"
           },
           {
             "id": 30899,
@@ -886,14 +854,6 @@
           {
             "id": 31204,
             "name": "Sale"
-          },
-          {
-            "id": 31347,
-            "name": "Ultra Light Down"
-          },
-          {
-            "id": 31295,
-            "name": "Vest"
           },
           {
             "id": 31215,
@@ -946,10 +906,6 @@
           {
             "id": 31157,
             "name": "Sale"
-          },
-          {
-            "id": 12136,
-            "name": "Ultra Light Down"
           },
           {
             "id": 31361,
