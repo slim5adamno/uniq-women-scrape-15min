@@ -742,12 +742,12 @@
             "name": "DRY-EX"
           },
           {
-            "id": 31143,
-            "name": "Sale"
-          },
-          {
             "id": 22381,
             "name": "Hats & Caps"
+          },
+          {
+            "id": 31143,
+            "name": "Sale"
           },
           {
             "id": 22371,
@@ -762,11 +762,11 @@
             "name": "Others"
           },
           {
-            "id": 22379,
+            "id": 22356,
             "name": "Others"
           },
           {
-            "id": 22356,
+            "id": 22379,
             "name": "Others"
           },
           {
@@ -794,12 +794,12 @@
             "name": "Others"
           },
           {
-            "id": 22346,
-            "name": "Others"
-          },
-          {
             "id": 31368,
             "name": "Sale"
+          },
+          {
+            "id": 22346,
+            "name": "Others"
           },
           {
             "id": 23496,
@@ -8020,15 +8020,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Cotton",
@@ -8205,15 +8196,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -13332,15 +13314,6 @@
             "code": "CMD058",
             "displayCode": "058",
             "name": "58cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD061",
-            "displayCode": "061",
-            "name": "61cm",
             "display": {
               "showFlag": true,
               "chipType": 1
