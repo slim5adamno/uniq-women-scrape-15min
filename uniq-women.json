@@ -375,27 +375,27 @@
         {
           "rating": 0,
           "accumulated": 138,
-          "count": 73
+          "count": 72
         },
         {
           "rating": 0.5,
-          "accumulated": 65,
+          "accumulated": 66,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 65,
+          "accumulated": 66,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 65,
+          "accumulated": 66,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 65,
-          "count": 1
+          "accumulated": 66,
+          "count": 2
         },
         {
           "rating": 2.5,
@@ -415,12 +415,12 @@
         {
           "rating": 4,
           "accumulated": 62,
-          "count": 17
+          "count": 18
         },
         {
           "rating": 4.5,
-          "accumulated": 45,
-          "count": 17
+          "accumulated": 44,
+          "count": 16
         },
         {
           "rating": 5,
