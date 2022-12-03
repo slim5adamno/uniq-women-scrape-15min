@@ -8224,15 +8224,15 @@
           }
         ],
         "rating": {
-          "average": 4.642857142857143,
-          "count": 14,
+          "average": 4.666666666666667,
+          "count": 15,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 3,
-            "five": 10
+            "five": 11
           }
         },
         "representative": {
