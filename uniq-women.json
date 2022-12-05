@@ -735,20 +735,20 @@
         ],
         "subcategories": [
           {
-            "id": 22381,
-            "name": "Hats & Caps"
-          },
-          {
             "id": 31143,
             "name": "Sale"
           },
           {
-            "id": 22371,
-            "name": "Underwear"
+            "id": 22381,
+            "name": "Hats & Caps"
           },
           {
             "id": 22344,
             "name": "Shirts & Blouses"
+          },
+          {
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 22373,
@@ -763,11 +763,11 @@
             "name": "DRY-EX"
           },
           {
-            "id": 22356,
+            "id": 22388,
             "name": "Others"
           },
           {
-            "id": 22388,
+            "id": 22356,
             "name": "Others"
           },
           {
@@ -783,12 +783,12 @@
             "name": "Sale"
           },
           {
-            "id": 11584,
-            "name": "Others"
-          },
-          {
             "id": 31150,
             "name": "Flannel"
+          },
+          {
+            "id": 11584,
+            "name": "Others"
           },
           {
             "id": 31368,
