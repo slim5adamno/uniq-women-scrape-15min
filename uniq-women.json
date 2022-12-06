@@ -754,20 +754,12 @@
             "name": "Front Open Undershirts"
           },
           {
-            "id": 22367,
-            "name": "AIRism"
-          },
-          {
             "id": 19926,
             "name": "Flannel"
           },
           {
             "id": 22381,
             "name": "Hats & Caps"
-          },
-          {
-            "id": 22364,
-            "name": "Wireless Bras"
           },
           {
             "id": 31143,
@@ -796,10 +788,6 @@
           {
             "id": 22373,
             "name": "Others"
-          },
-          {
-            "id": 27569,
-            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 22379,
@@ -832,10 +820,6 @@
           {
             "id": 31239,
             "name": "Sale"
-          },
-          {
-            "id": 25840,
-            "name": "Long Sleeve"
           },
           {
             "id": 11584,
@@ -886,10 +870,6 @@
             "name": "Cotton Relax"
           },
           {
-            "id": 12337,
-            "name": "Relax"
-          },
-          {
             "id": 23500,
             "name": "Hats"
           },
@@ -932,10 +912,6 @@
           {
             "id": 31374,
             "name": "Sale"
-          },
-          {
-            "id": 13151,
-            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 31356,
@@ -982,12 +958,8 @@
             "name": "Sale"
           },
           {
-            "id": 16030,
-            "name": "Uniqlo and Mame Kurogouchi"
-          },
-          {
-            "id": 12360,
-            "name": "Underwear"
+            "id": 31103,
+            "name": "Sale"
           },
           {
             "id": 31361,
@@ -1010,8 +982,8 @@
             "name": "High Rise Brief"
           },
           {
-            "id": 16029,
-            "name": "Uniqlo and Mame Kurogouchi"
+            "id": 31106,
+            "name": "Sale"
           },
           {
             "id": 31207,
