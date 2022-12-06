@@ -750,10 +750,6 @@
         ],
         "subcategories": [
           {
-            "id": 22369,
-            "name": "Front Open Undershirts"
-          },
-          {
             "id": 19926,
             "name": "Flannel"
           },
@@ -768,10 +764,6 @@
           {
             "id": 27753,
             "name": "Cotton relax"
-          },
-          {
-            "id": 22368,
-            "name": "Inner Tops"
           },
           {
             "id": 22371,
@@ -926,11 +918,11 @@
             "name": "Cotton Relaxed"
           },
           {
-            "id": 12344,
-            "name": "Sleeveless"
+            "id": 31357,
+            "name": "Sale"
           },
           {
-            "id": 31357,
+            "id": 31104,
             "name": "Sale"
           },
           {
