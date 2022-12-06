@@ -2037,19 +2037,13 @@
         "longDescription": "- Low rise. <br>- Basic briefs with a simple design.",
         "name": "Hiphugger (Basic)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E445405-000",
@@ -2072,27 +2066,27 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL04",
-            "displayCode": "04",
-            "name": "GRAY",
+            "code": "COL52",
+            "displayCode": "52",
+            "name": "GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
+            "priceFlags": [],
+            "productFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
               }
-            ],
-            "productFlags": []
+            ]
           },
           "isFavorite": false,
-          "l2Id": "07052137",
+          "l2Id": "06848205",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -26532,7 +26526,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 95,
+          "total": 34,
           "count": 0,
           "items": []
         },
@@ -26750,7 +26744,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 95,
+          "total": 34,
           "count": 0,
           "items": []
         },
