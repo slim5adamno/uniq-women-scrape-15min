@@ -717,6 +717,10 @@
             "name": "Innerwear Collections"
           },
           {
+            "id": 11604,
+            "name": "HEATTECH"
+          },
+          {
             "id": 11599,
             "name": "Wireless Bras"
           },
@@ -787,24 +791,12 @@
         ],
         "subcategories": [
           {
-            "id": 38434,
-            "name": "Uniqlo and Mame Kurogouchi"
-          },
-          {
             "id": 22354,
             "name": "Shorts"
           },
           {
             "id": 22374,
             "name": "Loungewear & Pajamas"
-          },
-          {
-            "id": 22369,
-            "name": "Front Open Undershirts"
-          },
-          {
-            "id": 22382,
-            "name": "Scarves & Stoles"
           },
           {
             "id": 19926,
@@ -817,14 +809,6 @@
           {
             "id": 22381,
             "name": "Hats & Caps"
-          },
-          {
-            "id": 22348,
-            "name": "Leggings Pants"
-          },
-          {
-            "id": 22368,
-            "name": "Inner Tops"
           },
           {
             "id": 27753,
@@ -853,10 +837,6 @@
           {
             "id": 22378,
             "name": "Home Accessories"
-          },
-          {
-            "id": 38433,
-            "name": "Uniqlo and Mame Kurogouchi"
           },
           {
             "id": 22379,
@@ -935,6 +915,10 @@
             "name": "Ultra Stretch"
           },
           {
+            "id": 31107,
+            "name": "Sale"
+          },
+          {
             "id": 12373,
             "name": "Pajamas"
           },
@@ -969,10 +953,6 @@
           {
             "id": 31346,
             "name": "Sale"
-          },
-          {
-            "id": 11594,
-            "name": "Others"
           },
           {
             "id": 31354,
@@ -1023,12 +1003,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 12394,
-            "name": "Stoles"
-          },
-          {
             "id": 27397,
             "name": "Ankle Pants"
+          },
+          {
+            "id": 31215,
+            "name": "Sale"
           },
           {
             "id": 12307,
@@ -1055,20 +1035,12 @@
             "name": "Sale"
           },
           {
-            "id": 12352,
-            "name": "HEATTECH"
-          },
-          {
             "id": 12272,
             "name": "Smart Ankle Pants"
           },
           {
             "id": 23414,
             "name": "Bath Towel"
-          },
-          {
-            "id": 12346,
-            "name": "Crew Neck"
           },
           {
             "id": 12400,
@@ -18303,9 +18275,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL12",
-            "displayCode": "12",
-            "name": "PINK",
+            "code": "COL44",
+            "displayCode": "44",
+            "name": "YELLOW",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -18323,7 +18295,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07089652",
+          "l2Id": "07089676",
           "salesStartDate": "",
           "salesEndDate": ""
         },
