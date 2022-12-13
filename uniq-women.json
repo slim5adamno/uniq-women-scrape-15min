@@ -787,12 +787,12 @@
         ],
         "subcategories": [
           {
-            "id": 22354,
-            "name": "Shorts"
-          },
-          {
             "id": 31244,
             "name": "Down"
+          },
+          {
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 22374,
@@ -803,24 +803,24 @@
             "name": "Front Open Undershirts"
           },
           {
-            "id": 19926,
-            "name": "Flannel"
+            "id": 31143,
+            "name": "Sale"
           },
           {
-            "id": 22310,
-            "name": "Jackets"
+            "id": 19926,
+            "name": "Flannel"
           },
           {
             "id": 22381,
             "name": "Hats & Caps"
           },
           {
-            "id": 23535,
-            "name": "Outer"
+            "id": 22310,
+            "name": "Jackets"
           },
           {
-            "id": 31143,
-            "name": "Sale"
+            "id": 23535,
+            "name": "Outer"
           },
           {
             "id": 22368,
@@ -831,32 +831,32 @@
             "name": "Leggings Pants"
           },
           {
-            "id": 22352,
-            "name": "Casual Pants"
-          },
-          {
             "id": 22344,
             "name": "Shirts & Blouses"
           },
           {
-            "id": 22353,
-            "name": "Ankle Pants & Cropped Pants"
+            "id": 22352,
+            "name": "Casual Pants"
           },
           {
             "id": 22312,
             "name": "Parka"
           },
           {
-            "id": 38433,
-            "name": "Uniqlo and Mame Kurogouchi"
+            "id": 22353,
+            "name": "Ankle Pants & Cropped Pants"
+          },
+          {
+            "id": 22373,
+            "name": "Others"
           },
           {
             "id": 22308,
             "name": "Coats"
           },
           {
-            "id": 22373,
-            "name": "Others"
+            "id": 38433,
+            "name": "Uniqlo and Mame Kurogouchi"
           },
           {
             "id": 22350,
@@ -895,12 +895,12 @@
             "name": "Others"
           },
           {
-            "id": 31239,
-            "name": "Sale"
-          },
-          {
             "id": 25840,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 31239,
+            "name": "Sale"
           },
           {
             "id": 22340,
@@ -911,12 +911,12 @@
             "name": "Cardigans"
           },
           {
-            "id": 31150,
-            "name": "Flannel"
-          },
-          {
             "id": 11584,
             "name": "Others"
+          },
+          {
+            "id": 31150,
+            "name": "Flannel"
           },
           {
             "id": 31368,
@@ -991,11 +991,11 @@
             "name": "Others"
           },
           {
-            "id": 31890,
+            "id": 31354,
             "name": "Sale"
           },
           {
-            "id": 31354,
+            "id": 31890,
             "name": "Sale"
           },
           {
@@ -1039,12 +1039,12 @@
             "name": "Corduroy"
           },
           {
-            "id": 12300,
-            "name": "Relaxed"
-          },
-          {
             "id": 31293,
             "name": "Parka"
+          },
+          {
+            "id": 12300,
+            "name": "Relaxed"
           },
           {
             "id": 12394,
@@ -1071,16 +1071,16 @@
             "name": "Sale"
           },
           {
+            "id": 12352,
+            "name": "HEATTECH"
+          },
+          {
             "id": 23414,
             "name": "Bath Towel"
           },
           {
             "id": 12272,
             "name": "Smart Ankle Pants"
-          },
-          {
-            "id": 12352,
-            "name": "HEATTECH"
           },
           {
             "id": 12346,
