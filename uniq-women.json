@@ -799,10 +799,6 @@
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22369,
-            "name": "Front Open Undershirts"
-          },
-          {
             "id": 22364,
             "name": "Wireless Bras"
           },
@@ -817,10 +813,6 @@
           {
             "id": 22348,
             "name": "Leggings Pants"
-          },
-          {
-            "id": 22371,
-            "name": "Underwear"
           },
           {
             "id": 22353,
@@ -967,6 +959,10 @@
             "name": "Room Shoes"
           },
           {
+            "id": 30900,
+            "name": "Sale"
+          },
+          {
             "id": 12395,
             "name": "Scarves"
           },
@@ -1019,6 +1015,10 @@
             "name": "Cushion"
           },
           {
+            "id": 30904,
+            "name": "Sale"
+          },
+          {
             "id": 31357,
             "name": "Sale"
           },
@@ -1065,18 +1065,6 @@
           {
             "id": 31247,
             "name": "Sale"
-          },
-          {
-            "id": 12354,
-            "name": "Hiphugger"
-          },
-          {
-            "id": 12357,
-            "name": "Body Shaper"
-          },
-          {
-            "id": 16029,
-            "name": "Uniqlo and Mame Kurogouchi"
           },
           {
             "id": 23532,
