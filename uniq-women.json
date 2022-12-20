@@ -2175,15 +2175,15 @@
           }
         ],
         "rating": {
-          "average": 4.75,
-          "count": 16,
-          "fit": 3.125,
+          "average": 4.764705882352941,
+          "count": 17,
+          "fit": 3.1176470588235294,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 15
+            "five": 16
           }
         },
         "representative": {
