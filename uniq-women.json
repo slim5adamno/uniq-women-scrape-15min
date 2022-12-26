@@ -25403,19 +25403,13 @@
         "longDescription": "- UV protection. <br>- Durable water-repellent coating. <br>- The hem is elastic and stoppered, so you can wear it two ways. <br>- Raglan sleeves for easy arm movement. <br>- The inner sleeves are connected to the sides and the cut is designed so that the arms can be moved easily. <br>- The difference in the length of the hem from front to back makes it easy to wear with leggings. <br>- Adjustable drawstring at the back of the hood. <br>- It’s pocketable so you can keep it in your bag to use it anywhere, anytime. <br>- It’s not only perfect for sports, but also in a wide range of everyday situations, from one-mile trips to yoga and walking.",
         "name": "Pocketable UV Protection Parka",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
+            "value": "3990.0000"
           }
         },
         "productId": "E445003-000",
@@ -25449,23 +25443,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL72",
-            "displayCode": "72",
-            "name": "PURPLE",
+            "code": "COL11",
+            "displayCode": "11",
+            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -25476,7 +25463,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06748141",
+          "l2Id": "07036752",
           "salesStartDate": "",
           "salesEndDate": ""
         },
