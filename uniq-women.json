@@ -776,12 +776,12 @@
         ],
         "subcategories": [
           {
-            "id": 31143,
-            "name": "Sale"
-          },
-          {
             "id": 23535,
             "name": "Outer"
+          },
+          {
+            "id": 31143,
+            "name": "Sale"
           },
           {
             "id": 22312,
