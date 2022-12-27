@@ -793,10 +793,6 @@
             "name": "T-shirts"
           },
           {
-            "id": 22339,
-            "name": "Rayon"
-          },
-          {
             "id": 22374,
             "name": "Loungewear & Pajamas"
           },
@@ -989,10 +985,6 @@
             "name": "Sale"
           },
           {
-            "id": 28414,
-            "name": "Rayon Skipper"
-          },
-          {
             "id": 12339,
             "name": "AIRism"
           },
@@ -1011,10 +1003,6 @@
           {
             "id": 31215,
             "name": "Sale"
-          },
-          {
-            "id": 28410,
-            "name": "Rayon Skipper"
           },
           {
             "id": 31102,
@@ -2874,19 +2862,13 @@
         "longDescription": "- Lace detail at the waist and leg openings. <br>- Soft cotton-spandex jersey fabric. <br>- Low-rise hiphugger style.",
         "name": "Hiphugger (Mini Flower)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E451278-000",
@@ -2920,27 +2902,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07052193",
+          "l2Id": "07052201",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -27944,7 +27919,7 @@
               "colorCode": "09"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450506/item/goods_12_450506.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450506/item/ingoods_12_450506.jpg",
               "colorCode": "12"
             },
             {
@@ -28003,6 +27978,15 @@
             }
           ],
           "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450506/sub/ingoods_450506_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/450506/sub/ingoods_450506_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450506/sub/goods_450506_sub11.jpg"
+            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/450506/sub/goods_450506_sub14.jpg"
             },
