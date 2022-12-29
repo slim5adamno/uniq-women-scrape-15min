@@ -799,16 +799,16 @@
             "name": "T-shirts"
           },
           {
+            "id": 22374,
+            "name": "Loungewear & Pajamas"
+          },
+          {
             "id": 22382,
             "name": "Scarves & Stoles"
           },
           {
             "id": 31243,
             "name": "Down Jackets & Coats"
-          },
-          {
-            "id": 22374,
-            "name": "Loungewear & Pajamas"
           },
           {
             "id": 27755,
@@ -835,10 +835,6 @@
             "name": "Inner Tops"
           },
           {
-            "id": 22352,
-            "name": "Casual Pants"
-          },
-          {
             "id": 22370,
             "name": "Leggings & Tights"
           },
@@ -847,16 +843,20 @@
             "name": "Hoodies"
           },
           {
+            "id": 22352,
+            "name": "Casual Pants"
+          },
+          {
             "id": 29295,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22308,
-            "name": "Coats"
-          },
-          {
             "id": 22373,
             "name": "Others"
+          },
+          {
+            "id": 22308,
+            "name": "Coats"
           },
           {
             "id": 22379,
@@ -867,6 +867,10 @@
             "name": "UNIQLO and MARNI"
           },
           {
+            "id": 22356,
+            "name": "Others"
+          },
+          {
             "id": 29286,
             "name": "UNIQLO and MARNI"
           },
@@ -875,28 +879,24 @@
             "name": "Others"
           },
           {
-            "id": 22356,
-            "name": "Others"
-          },
-          {
             "id": 22380,
             "name": "AIRism Masks"
-          },
-          {
-            "id": 22313,
-            "name": "Others"
           },
           {
             "id": 29294,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 25840,
-            "name": "Long Sleeve"
+            "id": 22313,
+            "name": "Others"
           },
           {
             "id": 31239,
             "name": "Sale"
+          },
+          {
+            "id": 25840,
+            "name": "Long Sleeve"
           },
           {
             "id": 22340,
@@ -927,12 +927,12 @@
             "name": "Masks"
           },
           {
-            "id": 31203,
-            "name": "Sale"
-          },
-          {
             "id": 31350,
             "name": "Baggy"
+          },
+          {
+            "id": 31203,
+            "name": "Sale"
           },
           {
             "id": 12370,
@@ -975,12 +975,12 @@
             "name": "AIRism"
           },
           {
-            "id": 31160,
-            "name": "Crew neck"
-          },
-          {
             "id": 30899,
             "name": "Sale"
+          },
+          {
+            "id": 31160,
+            "name": "Crew neck"
           },
           {
             "id": 11574,
@@ -1003,11 +1003,11 @@
             "name": "Sale"
           },
           {
-            "id": 31354,
+            "id": 31890,
             "name": "Sale"
           },
           {
-            "id": 31890,
+            "id": 31354,
             "name": "Sale"
           },
           {
@@ -1015,20 +1015,16 @@
             "name": "Sale"
           },
           {
-            "id": 31165,
-            "name": "Sale"
-          },
-          {
             "id": 23508,
             "name": "Others"
           },
           {
-            "id": 12395,
-            "name": "Scarves"
+            "id": 31165,
+            "name": "Sale"
           },
           {
-            "id": 31296,
-            "name": "Coat"
+            "id": 12395,
+            "name": "Scarves"
           },
           {
             "id": 25848,
@@ -1039,6 +1035,10 @@
             "name": "Straight Fit"
           },
           {
+            "id": 31296,
+            "name": "Coat"
+          },
+          {
             "id": 31213,
             "name": "Others"
           },
@@ -1047,12 +1047,12 @@
             "name": "Stoles"
           },
           {
-            "id": 31295,
-            "name": "Vest"
-          },
-          {
             "id": 31215,
             "name": "Sale"
+          },
+          {
+            "id": 31295,
+            "name": "Vest"
           },
           {
             "id": 31102,
@@ -1091,12 +1091,12 @@
             "name": "Sale"
           },
           {
-            "id": 31357,
-            "name": "Sale"
-          },
-          {
             "id": 12201,
             "name": "Cotton"
+          },
+          {
+            "id": 31357,
+            "name": "Sale"
           },
           {
             "id": 31104,
