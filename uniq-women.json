@@ -785,20 +785,12 @@
         ],
         "subcategories": [
           {
-            "id": 22366,
-            "name": "HEATTECH"
-          },
-          {
             "id": 22343,
             "name": "T-shirts"
           },
           {
             "id": 22382,
             "name": "Scarves & Stoles"
-          },
-          {
-            "id": 22374,
-            "name": "Loungewear & Pajamas"
           },
           {
             "id": 31201,
@@ -817,16 +809,8 @@
             "name": "Sale"
           },
           {
-            "id": 22368,
-            "name": "Inner Tops"
-          },
-          {
             "id": 22309,
             "name": "Hoodies"
-          },
-          {
-            "id": 22370,
-            "name": "Leggings & Tights"
           },
           {
             "id": 22373,
@@ -917,14 +901,6 @@
             "name": "Baggy"
           },
           {
-            "id": 12361,
-            "name": "Regular Warm"
-          },
-          {
-            "id": 12370,
-            "name": "Jersey"
-          },
-          {
             "id": 31107,
             "name": "Sale"
           },
@@ -939,10 +915,6 @@
           {
             "id": 31251,
             "name": "Sale"
-          },
-          {
-            "id": 12369,
-            "name": "AIRism"
           },
           {
             "id": 31160,
@@ -1033,10 +1005,6 @@
             "name": "Sale"
           },
           {
-            "id": 12352,
-            "name": "HEATTECH"
-          },
-          {
             "id": 23414,
             "name": "Bath Towel"
           },
@@ -1077,16 +1045,16 @@
             "name": "Sale"
           },
           {
-            "id": 12365,
-            "name": "HEATTECH"
-          },
-          {
             "id": 31355,
             "name": "Sale"
           },
           {
             "id": 12161,
             "name": "Oversized Parka"
+          },
+          {
+            "id": 31105,
+            "name": "Sale"
           },
           {
             "id": 11573,
