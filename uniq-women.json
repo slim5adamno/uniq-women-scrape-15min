@@ -773,16 +773,16 @@
             "name": "Satin Bottom"
           },
           {
-            "id": 31201,
-            "name": "Gloves"
-          },
-          {
             "id": 22311,
             "name": "Fleece"
           },
           {
-            "id": 23535,
-            "name": "Outer"
+            "id": 31201,
+            "name": "Gloves"
+          },
+          {
+            "id": 31143,
+            "name": "Sale"
           },
           {
             "id": 22381,
@@ -793,27 +793,31 @@
             "name": "Jackets"
           },
           {
-            "id": 31143,
-            "name": "Sale"
+            "id": 23535,
+            "name": "Outer"
           },
           {
             "id": 22309,
             "name": "Hoodies"
           },
           {
+            "id": 22308,
+            "name": "Coats"
+          },
+          {
             "id": 22373,
             "name": "Others"
+          },
+          {
+            "id": 29295,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 22378,
             "name": "Home Accessories"
           },
           {
-            "id": 22308,
-            "name": "Coats"
-          },
-          {
-            "id": 29295,
+            "id": 29291,
             "name": "UNIQLO and MARNI"
           },
           {
@@ -821,16 +825,12 @@
             "name": "Others"
           },
           {
-            "id": 29291,
-            "name": "UNIQLO and MARNI"
+            "id": 22388,
+            "name": "Others"
           },
           {
             "id": 29286,
             "name": "UNIQLO and MARNI"
-          },
-          {
-            "id": 22388,
-            "name": "Others"
           },
           {
             "id": 22356,
@@ -841,12 +841,12 @@
             "name": "AIRism Masks"
           },
           {
-            "id": 29294,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 22313,
             "name": "Others"
+          },
+          {
+            "id": 29294,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 31239,
@@ -881,24 +881,24 @@
             "name": "Masks"
           },
           {
-            "id": 31203,
-            "name": "Sale"
-          },
-          {
             "id": 31350,
             "name": "Baggy"
+          },
+          {
+            "id": 31203,
+            "name": "Sale"
           },
           {
             "id": 31107,
             "name": "Sale"
           },
           {
-            "id": 12182,
-            "name": "Lambswool"
-          },
-          {
             "id": 31251,
             "name": "Sale"
+          },
+          {
+            "id": 12182,
+            "name": "Lambswool"
           },
           {
             "id": 12180,
@@ -937,11 +937,11 @@
             "name": "Sale"
           },
           {
-            "id": 31354,
+            "id": 31890,
             "name": "Sale"
           },
           {
-            "id": 31890,
+            "id": 31354,
             "name": "Sale"
           },
           {
@@ -1037,12 +1037,12 @@
             "name": "Sale"
           },
           {
-            "id": 31105,
-            "name": "Sale"
-          },
-          {
             "id": 12161,
             "name": "Oversized Parka"
+          },
+          {
+            "id": 31105,
+            "name": "Sale"
           },
           {
             "id": 11573,
@@ -9685,7 +9685,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1490.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E455096-000",
@@ -9874,7 +9874,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1490.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E453822-000",
@@ -11882,7 +11882,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1490.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E452672-000",
@@ -12617,7 +12617,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1490.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E452265-002",
@@ -13048,7 +13048,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1490.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E452138-000",
@@ -14332,7 +14332,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1490.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E451441-000",
@@ -15564,7 +15564,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1490.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E450645-000",
@@ -20102,7 +20102,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E455944-000",
@@ -20926,7 +20926,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E453208-000",
@@ -22526,7 +22526,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E451221-000",
@@ -22933,7 +22933,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E451199-000",
@@ -23139,7 +23139,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E450639-000",
@@ -24652,7 +24652,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E450410-000",
@@ -26704,7 +26704,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2990.0000"
+            "value": "1990.0000"
           }
         },
         "productId": "E453638-000",
@@ -30366,7 +30366,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "3990.0000"
+            "value": "2990.0000"
           }
         },
         "productId": "E453617-000",
@@ -31131,7 +31131,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "4990.0000"
+            "value": "3990.0000"
           }
         },
         "productId": "E450456-000",
@@ -33233,7 +33233,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "6990.0000"
+            "value": "5990.0000"
           }
         },
         "productId": "E452657-000",
@@ -35014,7 +35014,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "8990.0000"
+            "value": "7990.0000"
           }
         },
         "productId": "E452309-000",
@@ -35278,7 +35278,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "8990.0000"
+            "value": "7990.0000"
           }
         },
         "productId": "E450491-000",
