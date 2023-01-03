@@ -803,20 +803,12 @@
             "name": "Sale"
           },
           {
-            "id": 22309,
-            "name": "Hoodies"
-          },
-          {
             "id": 22378,
             "name": "Home Accessories"
           },
           {
             "id": 22373,
             "name": "Others"
-          },
-          {
-            "id": 22308,
-            "name": "Coats"
           },
           {
             "id": 29295,
@@ -839,10 +831,6 @@
             "name": "Others"
           },
           {
-            "id": 29286,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 22380,
             "name": "AIRism Masks"
           },
@@ -855,20 +843,8 @@
             "name": "Others"
           },
           {
-            "id": 25840,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 31239,
             "name": "Sale"
-          },
-          {
-            "id": 22340,
-            "name": "Sweaters"
-          },
-          {
-            "id": 22341,
-            "name": "Cardigans"
           },
           {
             "id": 12262,
@@ -911,32 +887,12 @@
             "name": "Sale"
           },
           {
-            "id": 12183,
-            "name": "Souffle Yarn"
-          },
-          {
-            "id": 12182,
-            "name": "Lambswool"
-          },
-          {
             "id": 31251,
             "name": "Sale"
           },
           {
-            "id": 12180,
-            "name": "Merino"
-          },
-          {
-            "id": 24152,
-            "name": "Cardigans"
-          },
-          {
             "id": 30899,
             "name": "Sale"
-          },
-          {
-            "id": 31160,
-            "name": "Crew neck"
           },
           {
             "id": 31353,
@@ -989,10 +945,6 @@
           {
             "id": 12395,
             "name": "Scarves"
-          },
-          {
-            "id": 25848,
-            "name": "Accessories"
           },
           {
             "id": 12306,
@@ -1067,10 +1019,6 @@
             "name": "Sale"
           },
           {
-            "id": 12161,
-            "name": "Oversized Parka"
-          },
-          {
             "id": 11573,
             "name": "Others"
           },
@@ -1089,10 +1037,6 @@
           {
             "id": 22357,
             "name": "Wide Pants"
-          },
-          {
-            "id": 11569,
-            "name": "Others"
           },
           {
             "id": 31103,
