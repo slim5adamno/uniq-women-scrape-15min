@@ -12026,19 +12026,13 @@
         "longDescription": "- Soft, smooth cotton-rayon-acrylic blend with a brushed finish. <br>- Skipper collar and a relaxed fit make for easy layering. <br>- Perfect for wearing on its own or layering under warm outwear.",
         "name": "Soft Brushed Long Sleeve Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
+            "value": "2990.0000"
           }
         },
         "productId": "E453405-000",
@@ -12070,18 +12064,11 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07055208",
+          "l2Id": "07373915",
           "salesStartDate": "",
           "salesEndDate": ""
         },
