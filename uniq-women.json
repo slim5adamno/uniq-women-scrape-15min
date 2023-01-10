@@ -353,7 +353,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 37
+          "count": 36
         },
         {
           "from": 1000,
@@ -379,58 +379,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 157,
+          "accumulated": 156,
           "count": 54
         },
         {
           "rating": 0.5,
-          "accumulated": 103,
+          "accumulated": 102,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 103,
+          "accumulated": 102,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 103,
+          "accumulated": 102,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 103,
+          "accumulated": 102,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 102,
+          "accumulated": 101,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 102,
+          "accumulated": 101,
           "count": 4
         },
         {
           "rating": 3.5,
-          "accumulated": 98,
+          "accumulated": 97,
           "count": 5
         },
         {
           "rating": 4,
-          "accumulated": 93,
+          "accumulated": 92,
           "count": 15
         },
         {
           "rating": 4.5,
-          "accumulated": 78,
+          "accumulated": 77,
           "count": 33
         },
         {
           "rating": 5,
-          "accumulated": 45,
-          "count": 45
+          "accumulated": 44,
+          "count": 44
         }
       ],
       "sizes": [
@@ -777,28 +777,12 @@
             "name": "Sale"
           },
           {
-            "id": 22348,
-            "name": "Leggings Pants"
-          },
-          {
-            "id": 22344,
-            "name": "Shirts & Blouses"
-          },
-          {
-            "id": 22350,
-            "name": "Trousers"
-          },
-          {
             "id": 22373,
             "name": "Others"
           },
           {
             "id": 22379,
             "name": "Others"
-          },
-          {
-            "id": 25842,
-            "name": "DRY-EX"
           },
           {
             "id": 29291,
@@ -881,10 +865,6 @@
             "name": "Fluffy Yarn Fleece"
           },
           {
-            "id": 12292,
-            "name": "Extra Stretch Leggings"
-          },
-          {
             "id": 31346,
             "name": "Sale"
           },
@@ -911,22 +891,6 @@
           {
             "id": 12379,
             "name": "Room Shoes"
-          },
-          {
-            "id": 12298,
-            "name": "Warm Line"
-          },
-          {
-            "id": 28412,
-            "name": "Rayon Dolman"
-          },
-          {
-            "id": 12174,
-            "name": "Flannel"
-          },
-          {
-            "id": 12177,
-            "name": "Corduroy"
           },
           {
             "id": 12306,
@@ -979,10 +943,6 @@
           {
             "id": 31155,
             "name": "Sale"
-          },
-          {
-            "id": 11596,
-            "name": "Others"
           },
           {
             "id": 31355,
@@ -34305,8 +34265,8 @@
     ],
     "pagination": {
       "count": 156,
-      "total": 157,
-      "offset": 301
+      "total": 156,
+      "offset": 300
     }
   }
 }
