@@ -769,10 +769,6 @@
             "name": "Fleece"
           },
           {
-            "id": 23535,
-            "name": "Outer"
-          },
-          {
             "id": 31143,
             "name": "Sale"
           },
@@ -781,16 +777,20 @@
             "name": "Jackets"
           },
           {
+            "id": 23535,
+            "name": "Outer"
+          },
+          {
             "id": 22373,
+            "name": "Others"
+          },
+          {
+            "id": 22379,
             "name": "Others"
           },
           {
             "id": 29291,
             "name": "UNIQLO and MARNI"
-          },
-          {
-            "id": 22379,
-            "name": "Others"
           },
           {
             "id": 22388,
@@ -805,12 +805,12 @@
             "name": "AIRism Masks"
           },
           {
-            "id": 22313,
-            "name": "Others"
-          },
-          {
             "id": 29294,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 22313,
+            "name": "Others"
           },
           {
             "id": 31239,
@@ -905,12 +905,12 @@
             "name": "Sale"
           },
           {
-            "id": 31300,
-            "name": "Sale"
-          },
-          {
             "id": 25849,
             "name": "Others"
+          },
+          {
+            "id": 31300,
+            "name": "Sale"
           },
           {
             "id": 31374,
@@ -941,12 +941,12 @@
             "name": "Sale"
           },
           {
-            "id": 31357,
-            "name": "Sale"
-          },
-          {
             "id": 12201,
             "name": "Cotton"
+          },
+          {
+            "id": 31357,
+            "name": "Sale"
           },
           {
             "id": 31104,
