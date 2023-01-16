@@ -769,12 +769,12 @@
             "name": "Fleece"
           },
           {
-            "id": 31143,
-            "name": "Sale"
-          },
-          {
             "id": 23535,
             "name": "Outer"
+          },
+          {
+            "id": 31143,
+            "name": "Sale"
           },
           {
             "id": 22310,
@@ -793,11 +793,11 @@
             "name": "Others"
           },
           {
-            "id": 22356,
+            "id": 22388,
             "name": "Others"
           },
           {
-            "id": 22388,
+            "id": 22356,
             "name": "Others"
           },
           {
@@ -873,11 +873,11 @@
             "name": "Sale"
           },
           {
-            "id": 31354,
+            "id": 31890,
             "name": "Sale"
           },
           {
-            "id": 31890,
+            "id": 31354,
             "name": "Sale"
           },
           {
@@ -929,24 +929,24 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 30901,
-            "name": "Stuffed Toy"
-          },
-          {
             "id": 12150,
             "name": "Fleece"
+          },
+          {
+            "id": 30901,
+            "name": "Stuffed Toy"
           },
           {
             "id": 30904,
             "name": "Sale"
           },
           {
-            "id": 12201,
-            "name": "Cotton"
-          },
-          {
             "id": 31357,
             "name": "Sale"
+          },
+          {
+            "id": 12201,
+            "name": "Cotton"
           },
           {
             "id": 31104,
