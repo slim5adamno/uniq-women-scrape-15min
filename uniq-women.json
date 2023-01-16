@@ -769,16 +769,16 @@
             "name": "Fleece"
           },
           {
-            "id": 22310,
-            "name": "Jackets"
-          },
-          {
             "id": 31143,
             "name": "Sale"
           },
           {
             "id": 23535,
             "name": "Outer"
+          },
+          {
+            "id": 22310,
+            "name": "Jackets"
           },
           {
             "id": 22373,
@@ -793,11 +793,11 @@
             "name": "Others"
           },
           {
-            "id": 22388,
+            "id": 22356,
             "name": "Others"
           },
           {
-            "id": 22356,
+            "id": 22388,
             "name": "Others"
           },
           {
@@ -805,12 +805,12 @@
             "name": "AIRism Masks"
           },
           {
-            "id": 22313,
-            "name": "Others"
-          },
-          {
             "id": 29294,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 22313,
+            "name": "Others"
           },
           {
             "id": 31239,
@@ -905,12 +905,12 @@
             "name": "Sale"
           },
           {
-            "id": 25849,
-            "name": "Others"
-          },
-          {
             "id": 31300,
             "name": "Sale"
+          },
+          {
+            "id": 25849,
+            "name": "Others"
           },
           {
             "id": 31374,
@@ -929,12 +929,12 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 12150,
-            "name": "Fleece"
-          },
-          {
             "id": 30901,
             "name": "Stuffed Toy"
+          },
+          {
+            "id": 12150,
+            "name": "Fleece"
           },
           {
             "id": 30904,
@@ -17260,15 +17260,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -27658,15 +27649,6 @@
             }
           },
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
@@ -28805,15 +28787,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
