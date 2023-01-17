@@ -819,19 +819,19 @@
             "name": "Others"
           },
           {
-            "id": 29291,
-            "name": "UNIQLO and MARNI"
-          },
-          {
             "id": 22379,
             "name": "Others"
           },
           {
-            "id": 22356,
-            "name": "Others"
+            "id": 29291,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 22388,
+            "name": "Others"
+          },
+          {
+            "id": 22356,
             "name": "Others"
           },
           {
@@ -1003,12 +1003,12 @@
             "name": "Crew Neck"
           },
           {
-            "id": 30901,
-            "name": "Stuffed Toy"
-          },
-          {
             "id": 12150,
             "name": "Fleece"
+          },
+          {
+            "id": 30901,
+            "name": "Stuffed Toy"
           },
           {
             "id": 30904,
