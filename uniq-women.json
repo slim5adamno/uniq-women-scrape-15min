@@ -13350,9 +13350,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL70",
-            "displayCode": "70",
-            "name": "LIGHT PURPLE",
+            "code": "COL39",
+            "displayCode": "39",
+            "name": "DARK BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -13370,7 +13370,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07134597",
+          "l2Id": "07134573",
           "salesStartDate": "",
           "salesEndDate": ""
         },
