@@ -754,20 +754,20 @@
             "name": "Sale"
           },
           {
-            "id": 22373,
-            "name": "Others"
-          },
-          {
             "id": 29295,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 29291,
-            "name": "UNIQLO and MARNI"
+            "id": 22373,
+            "name": "Others"
           },
           {
             "id": 22379,
             "name": "Others"
+          },
+          {
+            "id": 29291,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 22388,
@@ -782,20 +782,20 @@
             "name": "AIRism Masks"
           },
           {
-            "id": 22313,
-            "name": "Others"
-          },
-          {
             "id": 29294,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 25840,
-            "name": "Long Sleeve"
+            "id": 22313,
+            "name": "Others"
           },
           {
             "id": 31239,
             "name": "Sale"
+          },
+          {
+            "id": 25840,
+            "name": "Long Sleeve"
           },
           {
             "id": 22340,
@@ -970,11 +970,11 @@
             "name": "Sale"
           },
           {
-            "id": 31205,
+            "id": 31196,
             "name": "Sale"
           },
           {
-            "id": 31196,
+            "id": 31205,
             "name": "Sale"
           },
           {
