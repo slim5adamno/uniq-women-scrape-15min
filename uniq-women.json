@@ -764,14 +764,6 @@
             "name": "Others"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
-          },
-          {
-            "id": 26156,
-            "name": "Trouser"
-          },
-          {
             "id": 22379,
             "name": "Others"
           },
@@ -852,10 +844,6 @@
             "name": "Sale"
           },
           {
-            "id": 25847,
-            "name": "Pants"
-          },
-          {
             "id": 12190,
             "name": "Dry Stretch"
           },
@@ -896,16 +884,8 @@
             "name": "Outerwear"
           },
           {
-            "id": 12298,
-            "name": "Warm Line"
-          },
-          {
             "id": 12395,
             "name": "Scarves"
-          },
-          {
-            "id": 12303,
-            "name": "Jogger"
           },
           {
             "id": 12306,
@@ -930,10 +910,6 @@
           {
             "id": 31374,
             "name": "Sale"
-          },
-          {
-            "id": 11595,
-            "name": "Others"
           },
           {
             "id": 31356,
@@ -978,10 +954,6 @@
           {
             "id": 25012,
             "name": "Sweat"
-          },
-          {
-            "id": 11596,
-            "name": "Others"
           },
           {
             "id": 31355,
@@ -14019,7 +13991,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07069344",
+          "l2Id": "07069345",
           "salesStartDate": "",
           "salesEndDate": ""
         },
