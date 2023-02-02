@@ -747,32 +747,32 @@
             "name": "Scarves & Stoles"
           },
           {
-            "id": 12261,
-            "name": "Merino Blended"
-          },
-          {
             "id": 22311,
             "name": "Fleece"
           },
           {
-            "id": 22310,
-            "name": "Jackets"
+            "id": 12261,
+            "name": "Merino Blended"
           },
           {
             "id": 31143,
             "name": "Sale"
           },
           {
+            "id": 22310,
+            "name": "Jackets"
+          },
+          {
             "id": 25835,
             "name": "Vest"
           },
           {
-            "id": 22308,
-            "name": "Coats"
-          },
-          {
             "id": 22373,
             "name": "Others"
+          },
+          {
+            "id": 22308,
+            "name": "Coats"
           },
           {
             "id": 29295,
@@ -787,11 +787,11 @@
             "name": "Others"
           },
           {
-            "id": 22356,
+            "id": 22388,
             "name": "Others"
           },
           {
-            "id": 22388,
+            "id": 22356,
             "name": "Others"
           },
           {
@@ -903,12 +903,12 @@
             "name": "Sale"
           },
           {
-            "id": 25849,
-            "name": "Others"
-          },
-          {
             "id": 31300,
             "name": "Sale"
+          },
+          {
+            "id": 25849,
+            "name": "Others"
           },
           {
             "id": 31374,
