@@ -747,12 +747,12 @@
             "name": "Scarves & Stoles"
           },
           {
-            "id": 22311,
-            "name": "Fleece"
-          },
-          {
             "id": 12261,
             "name": "Merino Blended"
+          },
+          {
+            "id": 22311,
+            "name": "Fleece"
           },
           {
             "id": 31143,
@@ -803,12 +803,12 @@
             "name": "AIRism Masks"
           },
           {
-            "id": 22313,
-            "name": "Others"
-          },
-          {
             "id": 29294,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 22313,
+            "name": "Others"
           },
           {
             "id": 31239,
@@ -839,12 +839,12 @@
             "name": "Sale"
           },
           {
-            "id": 16041,
-            "name": "UNIQLO +"
-          },
-          {
             "id": 31107,
             "name": "Sale"
+          },
+          {
+            "id": 16041,
+            "name": "UNIQLO +"
           },
           {
             "id": 31251,
@@ -983,12 +983,12 @@
             "name": "Wind Proof"
           },
           {
-            "id": 31187,
-            "name": "Wind Proof Fleece"
-          },
-          {
             "id": 31103,
             "name": "Sale"
+          },
+          {
+            "id": 31187,
+            "name": "Wind Proof Fleece"
           },
           {
             "id": 12133,
