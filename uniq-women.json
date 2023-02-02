@@ -747,12 +747,12 @@
             "name": "Scarves & Stoles"
           },
           {
-            "id": 12261,
-            "name": "Merino Blended"
-          },
-          {
             "id": 22311,
             "name": "Fleece"
+          },
+          {
+            "id": 12261,
+            "name": "Merino Blended"
           },
           {
             "id": 31143,
@@ -795,12 +795,12 @@
             "name": "Others"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
-          },
-          {
             "id": 22380,
             "name": "AIRism Masks"
+          },
+          {
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 29294,
@@ -839,12 +839,12 @@
             "name": "Sale"
           },
           {
-            "id": 31107,
-            "name": "Sale"
-          },
-          {
             "id": 16041,
             "name": "UNIQLO +"
+          },
+          {
+            "id": 31107,
+            "name": "Sale"
           },
           {
             "id": 31251,
