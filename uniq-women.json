@@ -711,24 +711,24 @@
             "name": "Casual Pants"
           },
           {
-            "id": 29295,
-            "name": "UNIQLO and MARNI"
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 22373,
             "name": "Others"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
-          },
-          {
-            "id": 24732,
-            "name": "Socks"
+            "id": 29295,
+            "name": "UNIQLO and MARNI"
           },
           {
             "id": 22379,
             "name": "Others"
+          },
+          {
+            "id": 24732,
+            "name": "Socks"
           },
           {
             "id": 22356,
@@ -751,12 +751,12 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 31239,
-            "name": "Sale"
-          },
-          {
             "id": 25840,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 31239,
+            "name": "Sale"
           },
           {
             "id": 22340,
@@ -839,12 +839,12 @@
             "name": "Accessories"
           },
           {
-            "id": 31300,
-            "name": "Sale"
-          },
-          {
             "id": 25849,
             "name": "Others"
+          },
+          {
+            "id": 31300,
+            "name": "Sale"
           },
           {
             "id": 31374,
