@@ -711,10 +711,6 @@
             "name": "Casual Pants"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
-          },
-          {
             "id": 22373,
             "name": "Others"
           },
@@ -723,12 +719,16 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22379,
-            "name": "Others"
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 24732,
             "name": "Socks"
+          },
+          {
+            "id": 22379,
+            "name": "Others"
           },
           {
             "id": 22356,
@@ -743,12 +743,12 @@
             "name": "AIRism Masks"
           },
           {
-            "id": 22313,
-            "name": "Others"
-          },
-          {
             "id": 29294,
             "name": "UNIQLO and MARNI"
+          },
+          {
+            "id": 22313,
+            "name": "Others"
           },
           {
             "id": 25840,
