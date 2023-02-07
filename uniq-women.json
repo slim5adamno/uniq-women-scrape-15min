@@ -738,16 +738,8 @@
             "name": "Others"
           },
           {
-            "id": 25840,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 31239,
             "name": "Sale"
-          },
-          {
-            "id": 22340,
-            "name": "Sweaters"
           },
           {
             "id": 11584,
@@ -772,10 +764,6 @@
           {
             "id": 31107,
             "name": "Sale"
-          },
-          {
-            "id": 21935,
-            "name": "Washable"
           },
           {
             "id": 31251,
@@ -5398,15 +5386,6 @@
       {
         "careInstruction": "-",
         "colors": [
-          {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL62",
             "displayCode": "62",
