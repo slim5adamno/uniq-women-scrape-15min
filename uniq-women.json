@@ -4456,7 +4456,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 94,
+          "total": 5,
           "count": 0,
           "items": []
         },
@@ -4646,7 +4646,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 94,
+          "total": 5,
           "count": 0,
           "items": []
         },
@@ -7519,7 +7519,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 5,
           "count": 0,
           "items": []
         },
@@ -8056,6 +8056,208 @@
         ],
         "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Dry Clean"
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL65",
+            "displayCode": "65",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "44% Acrylic, 33% Wool, 18% Polyester, 3% Polyamide, 2% Elastane",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457964/item/ingoods_38_457964.jpg",
+              "colorCode": "38"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457964/item/ingoods_65_457964.jpg",
+              "colorCode": "65"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457964/chip/goods_38_457964_chip.jpg",
+              "colorCode": "38"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457964/chip/goods_65_457964_chip.jpg",
+              "colorCode": "65"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457964/sub/ingoods_457964_sub2.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457964/sub/ingoods_457964_sub3.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457964/sub/goods_457964_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457964/sub/goods_457964_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457964/sub/goods_457964_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457964/sub/goods_457964_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457964/sub/goods_457964_sub23.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/457964/sub/goods_457964_sub24.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457964/sub/ingoods_457964_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/457964/sub/ingoods_457964_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "457964",
+        "longDescription": "Timeless essentials, remixed.<br><br>- Made using a blend of at least 30% fine 19.5-micron wool. <br>- Playful design made up of 3 different types of stripes. <br>- The visible seams are an expression of knitting technique. <br>- Neckline that is a bit open at the sides. <br>- Straight cut. <br>- Playful striped block design.",
+        "name": "MARNI Merino Blend Sleeveless Knitted Dress",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "4990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1490.0000"
+          }
+        },
+        "productId": "E457964-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 3,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 1,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL65",
+            "displayCode": "65",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07428132",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 94,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "High-quality dress made from a Merino wool blend.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/457964_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Hand wash cold, Dry Clean"
       },
       {
         "careInstruction": "<br>",
@@ -11324,7 +11526,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 5,
           "count": 0,
           "items": []
         },
@@ -20977,6 +21179,190 @@
         "washingInformation": "Do not wash, Dry Clean"
       },
       {
+        "careInstruction": "-",
+        "colors": [
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "Shell: 67% Polyester, 33% Wool/ Filling: 100% Polyester/ Lining: 100% Polyester/ Pocket Lining: 100% Polyester",
+        "designDetail": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452994/item/ingoods_09_452994.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452994/item/ingoods_32_452994.jpg",
+              "colorCode": "32"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452994/chip/goods_09_452994_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452994/chip/goods_32_452994_chip.jpg",
+              "colorCode": "32"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452994/sub/ingoods_452994_sub1.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452994/sub/ingoods_452994_sub7.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452994/sub/ingoods_452994_sub8.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452994/sub/ingoods_452994_sub9.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452994/sub/goods_452994_sub11.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452994/sub/goods_452994_sub12.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452994/sub/goods_452994_sub14.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452994/sub/goods_452994_sub17.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452994/sub/goods_452994_sub18.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452994/sub/goods_452994_sub19.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/452994/sub/goods_452994_sub20.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452994/sub/ingoods_452994_sub28.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452994/sub/ingoods_452994_sub30.jpg"
+            }
+          ]
+        },
+        "l1Id": "452994",
+        "longDescription": "New LifeWear that combines UNIQLO’s focus on design, fit, fabric, and functionality with JW Anderson’s focus on traditional British apparel into innovative designs.<br><br>- Wool-polyester blend fabric. <br>- Zippered front. <br>- Short length. <br>- Belted cuffs.",
+        "name": "JWA Wool Blend Short Jacket",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "7990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "5990.0000"
+          }
+        },
+        "productId": "E452994-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "limitedStore",
+                "id": 3,
+                "name": "Limited Store",
+                "detail": "Limited Store"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "07193622",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 94,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "Lightweight fabric with a premium feel. A short jacket for a sleek look.",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/452994_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Do not wash, Dry Clean"
+      },
+      {
         "careInstruction": "<br>",
         "colors": [
           {
@@ -22496,7 +22882,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 5,
           "count": 0,
           "items": []
         },
@@ -23156,9 +23542,9 @@
       }
     ],
     "pagination": {
-      "count": 103,
+      "count": 105,
       "total": 105,
-      "offset": 302
+      "offset": 300
     }
   }
 }
