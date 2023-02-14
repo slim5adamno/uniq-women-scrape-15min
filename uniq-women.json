@@ -722,12 +722,12 @@
         ],
         "subcategories": [
           {
-            "id": 22383,
-            "name": "Bags"
-          },
-          {
             "id": 31139,
             "name": "Mini"
+          },
+          {
+            "id": 22383,
+            "name": "Bags"
           },
           {
             "id": 31140,
@@ -738,44 +738,44 @@
             "name": "Down Jackets & Coats"
           },
           {
-            "id": 22382,
-            "name": "Scarves & Stoles"
-          },
-          {
             "id": 22349,
             "name": "Wide Pants"
+          },
+          {
+            "id": 22382,
+            "name": "Scarves & Stoles"
           },
           {
             "id": 31143,
             "name": "Sale"
           },
           {
-            "id": 22309,
-            "name": "Hoodies"
-          },
-          {
             "id": 22352,
             "name": "Casual Pants"
           },
           {
-            "id": 22373,
-            "name": "Others"
+            "id": 22309,
+            "name": "Hoodies"
+          },
+          {
+            "id": 22308,
+            "name": "Coats"
           },
           {
             "id": 22378,
             "name": "Home Accessories"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
+            "id": 22373,
+            "name": "Others"
           },
           {
             "id": 29295,
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22308,
-            "name": "Coats"
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 24732,
@@ -802,12 +802,12 @@
             "name": "Accessories"
           },
           {
-            "id": 22341,
-            "name": "Cardigans"
-          },
-          {
             "id": 22313,
             "name": "Others"
+          },
+          {
+            "id": 22341,
+            "name": "Cardigans"
           },
           {
             "id": 31239,
