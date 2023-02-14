@@ -729,10 +729,6 @@
             "name": "Midi"
           },
           {
-            "id": 31243,
-            "name": "Down Jackets & Coats"
-          },
-          {
             "id": 22349,
             "name": "Wide Pants"
           },
@@ -741,24 +737,28 @@
             "name": "Scarves & Stoles"
           },
           {
-            "id": 31143,
-            "name": "Sale"
+            "id": 31243,
+            "name": "Down Jackets & Coats"
           },
           {
-            "id": 22352,
-            "name": "Casual Pants"
+            "id": 31143,
+            "name": "Sale"
           },
           {
             "id": 22309,
             "name": "Hoodies"
           },
           {
-            "id": 22308,
-            "name": "Coats"
+            "id": 22352,
+            "name": "Casual Pants"
           },
           {
-            "id": 22378,
-            "name": "Home Accessories"
+            "id": 22350,
+            "name": "Trousers"
+          },
+          {
+            "id": 22308,
+            "name": "Coats"
           },
           {
             "id": 22373,
@@ -769,23 +769,23 @@
             "name": "UNIQLO and MARNI"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
-          },
-          {
-            "id": 24732,
-            "name": "Socks"
+            "id": 22378,
+            "name": "Home Accessories"
           },
           {
             "id": 22379,
             "name": "Others"
           },
           {
-            "id": 22356,
-            "name": "Others"
+            "id": 24732,
+            "name": "Socks"
           },
           {
             "id": 22388,
+            "name": "Others"
+          },
+          {
+            "id": 22356,
             "name": "Others"
           },
           {
@@ -889,12 +889,12 @@
             "name": "Wide Fit"
           },
           {
-            "id": 13102,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 31347,
             "name": "Ultra Light Down"
+          },
+          {
+            "id": 13102,
+            "name": "Uniqlo U"
           },
           {
             "id": 12395,
