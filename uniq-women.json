@@ -738,12 +738,12 @@
             "name": "Others"
           },
           {
-            "id": 24732,
-            "name": "Socks"
-          },
-          {
             "id": 22379,
             "name": "Others"
+          },
+          {
+            "id": 24732,
+            "name": "Socks"
           },
           {
             "id": 22356,
@@ -842,12 +842,12 @@
             "name": "Accessories"
           },
           {
-            "id": 25849,
-            "name": "Others"
-          },
-          {
             "id": 31300,
             "name": "Sale"
+          },
+          {
+            "id": 25849,
+            "name": "Others"
           },
           {
             "id": 31374,
