@@ -3216,12 +3216,12 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 5,
+          "average": 3.5,
+          "count": 2,
+          "fit": 4,
           "rateCount": {
             "one": 0,
-            "two": 0,
+            "two": 1,
             "three": 0,
             "four": 0,
             "five": 1
@@ -9371,14 +9371,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 1,
+          "count": 2,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
