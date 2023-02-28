@@ -804,16 +804,8 @@
             "name": "Hoodies"
           },
           {
-            "id": 22368,
-            "name": "Inner Tops"
-          },
-          {
             "id": 22348,
             "name": "Leggings Pants"
-          },
-          {
-            "id": 25838,
-            "name": "Sleeveless Tops"
           },
           {
             "id": 22308,
@@ -834,10 +826,6 @@
           {
             "id": 22344,
             "name": "Shirts & Blouses"
-          },
-          {
-            "id": 13094,
-            "name": "Uniqlo U"
           },
           {
             "id": 24732,
@@ -892,16 +880,8 @@
             "name": "UT(Graphic T-Shirts)"
           },
           {
-            "id": 12266,
-            "name": "Cotton"
-          },
-          {
             "id": 22342,
             "name": "Sweat Collections"
-          },
-          {
-            "id": 12263,
-            "name": "Short Sleeve Dress"
           },
           {
             "id": 11584,
@@ -922,10 +902,6 @@
           {
             "id": 23519,
             "name": "Uniqlo U"
-          },
-          {
-            "id": 12195,
-            "name": "Sleeveless T-Shirts"
           },
           {
             "id": 13082,
@@ -972,10 +948,6 @@
             "name": "Sale"
           },
           {
-            "id": 13090,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 31155,
             "name": "Sale"
           },
@@ -1002,10 +974,6 @@
           {
             "id": 31101,
             "name": "Sale"
-          },
-          {
-            "id": 13148,
-            "name": "Uniqlo U"
           },
           {
             "id": 23508,
@@ -1040,10 +1008,6 @@
             "name": "Masks"
           },
           {
-            "id": 12313,
-            "name": "Denim"
-          },
-          {
             "id": 31203,
             "name": "Sale"
           },
@@ -1052,12 +1016,12 @@
             "name": "Sale"
           },
           {
-            "id": 13106,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 11597,
             "name": "Others"
+          },
+          {
+            "id": 31801,
+            "name": "Sale"
           },
           {
             "id": 12395,
@@ -1082,10 +1046,6 @@
           {
             "id": 31346,
             "name": "Sale"
-          },
-          {
-            "id": 12344,
-            "name": "Sleeveless"
           },
           {
             "id": 31104,
