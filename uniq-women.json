@@ -772,10 +772,6 @@
             "name": "Scarves & Stoles"
           },
           {
-            "id": 22310,
-            "name": "Jackets"
-          },
-          {
             "id": 22381,
             "name": "Hats & Caps"
           },
@@ -800,16 +796,8 @@
             "name": "Socks"
           },
           {
-            "id": 25837,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 22379,
             "name": "Others"
-          },
-          {
-            "id": 28409,
-            "name": "3D"
           },
           {
             "id": 22388,
@@ -836,10 +824,6 @@
             "name": "Others"
           },
           {
-            "id": 22341,
-            "name": "Cardigans"
-          },
-          {
             "id": 31239,
             "name": "Sale"
           },
@@ -862,14 +846,6 @@
           {
             "id": 22346,
             "name": "Others"
-          },
-          {
-            "id": 23519,
-            "name": "Uniqlo U"
-          },
-          {
-            "id": 23511,
-            "name": "Shoulder Bags"
           },
           {
             "id": 23512,
@@ -904,10 +880,6 @@
             "name": "Sale"
           },
           {
-            "id": 24154,
-            "name": "Oversized"
-          },
-          {
             "id": 31354,
             "name": "Sale"
           },
@@ -918,10 +890,6 @@
           {
             "id": 23508,
             "name": "Others"
-          },
-          {
-            "id": 20092,
-            "name": "Uniqlo U"
           },
           {
             "id": 31250,
@@ -988,24 +956,12 @@
             "name": "Sale"
           },
           {
-            "id": 24152,
-            "name": "Cardigans"
-          },
-          {
             "id": 11596,
             "name": "Others"
           },
           {
             "id": 31355,
             "name": "Sale"
-          },
-          {
-            "id": 13086,
-            "name": "Uniqlo U"
-          },
-          {
-            "id": 31159,
-            "name": "V neck"
           },
           {
             "id": 16041,
@@ -16369,7 +16325,7 @@
         "composition": "95% Cotton, 5% Polyamide",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -16595,7 +16551,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Hand wash cold, Dry Clean"
       },
       {
@@ -23444,7 +23400,7 @@
         "composition": "Body: 100% Cotton/ Pocket Lining: 65% Polyester, 35% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -23656,7 +23612,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, Dry clean"
       },
       {
