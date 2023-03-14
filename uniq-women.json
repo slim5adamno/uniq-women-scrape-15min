@@ -804,10 +804,6 @@
             "name": "Shorts"
           },
           {
-            "id": 27749,
-            "name": "Linen"
-          },
-          {
             "id": 22347,
             "name": "Jeans"
           },
@@ -1008,10 +1004,6 @@
             "name": "Sale"
           },
           {
-            "id": 12168,
-            "name": "Linen"
-          },
-          {
             "id": 25847,
             "name": "Pants"
           },
@@ -1088,8 +1080,16 @@
             "name": "Sale"
           },
           {
+            "id": 31215,
+            "name": "Sale"
+          },
+          {
             "id": 21581,
             "name": "OTTAIPNU 21FW"
+          },
+          {
+            "id": 31251,
+            "name": "Sale"
           },
           {
             "id": 31157,
