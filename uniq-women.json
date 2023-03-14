@@ -738,10 +738,6 @@
             "name": "Wireless Bras"
           },
           {
-            "id": 11603,
-            "name": "AIRism Innerwear"
-          },
-          {
             "id": 11602,
             "name": "Underwear"
           },
@@ -792,16 +788,8 @@
             "name": "Bags"
           },
           {
-            "id": 26152,
-            "name": "Shorts"
-          },
-          {
             "id": 22371,
             "name": "Underwear"
-          },
-          {
-            "id": 22354,
-            "name": "Shorts"
           },
           {
             "id": 22347,
@@ -814,10 +802,6 @@
           {
             "id": 27757,
             "name": "Airism UV Protection"
-          },
-          {
-            "id": 22367,
-            "name": "AIRism"
           },
           {
             "id": 31143,
@@ -846,14 +830,6 @@
           {
             "id": 22352,
             "name": "Casual Pants"
-          },
-          {
-            "id": 22343,
-            "name": "T-shirts"
-          },
-          {
-            "id": 23538,
-            "name": "Bottoms"
           },
           {
             "id": 22373,
@@ -952,14 +928,6 @@
             "name": "Lounge Set"
           },
           {
-            "id": 29289,
-            "name": "UNIQLO and MARNI"
-          },
-          {
-            "id": 31153,
-            "name": "Cropped"
-          },
-          {
             "id": 12282,
             "name": "Skinny Fit"
           },
@@ -972,10 +940,6 @@
             "name": "Ultra Stretch"
           },
           {
-            "id": 12206,
-            "name": "Jersey"
-          },
-          {
             "id": 31205,
             "name": "Sale"
           },
@@ -986,10 +950,6 @@
           {
             "id": 31249,
             "name": "Sale"
-          },
-          {
-            "id": 12196,
-            "name": "Short Sleeve T-Shirts"
           },
           {
             "id": 31353,
@@ -1024,6 +984,10 @@
             "name": "Sale"
           },
           {
+            "id": 31890,
+            "name": "Sale"
+          },
+          {
             "id": 31101,
             "name": "Sale"
           },
@@ -1048,10 +1012,6 @@
             "name": "Sale"
           },
           {
-            "id": 16030,
-            "name": "Uniqlo and Mame Kurogouchi"
-          },
-          {
             "id": 23496,
             "name": "Masks"
           },
@@ -1064,16 +1024,16 @@
             "name": "Relaco"
           },
           {
-            "id": 11610,
-            "name": "Others"
+            "id": 31801,
+            "name": "Sale"
           },
           {
-            "id": 12320,
-            "name": "Easy"
+            "id": 41218,
+            "name": "Sweat"
           },
           {
-            "id": 12317,
-            "name": "AIRism"
+            "id": 41219,
+            "name": "Dry Sweat"
           },
           {
             "id": 41223,
@@ -1092,6 +1052,10 @@
             "name": "Sale"
           },
           {
+            "id": 39493,
+            "name": "Disney Sketchbook Memories"
+          },
+          {
             "id": 31157,
             "name": "Sale"
           },
@@ -1104,15 +1068,15 @@
             "name": "Sweat Pants"
           },
           {
-            "id": 22357,
-            "name": "Wide Pants"
-          },
-          {
             "id": 12188,
             "name": "Sweat Shirt"
           },
           {
             "id": 31346,
+            "name": "Sale"
+          },
+          {
+            "id": 31361,
             "name": "Sale"
           },
           {
@@ -1170,10 +1134,6 @@
           {
             "id": 31247,
             "name": "Sale"
-          },
-          {
-            "id": 12307,
-            "name": "Wide Fit"
           },
           {
             "id": 12299,
@@ -24326,15 +24286,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/456116_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA005",
             "displayCode": "005",
