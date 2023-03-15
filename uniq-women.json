@@ -802,12 +802,12 @@
             "name": "Relaco"
           },
           {
-            "id": 22379,
-            "name": "Others"
-          },
-          {
             "id": 24732,
             "name": "Socks"
+          },
+          {
+            "id": 22379,
+            "name": "Others"
           },
           {
             "id": 22356,
@@ -838,12 +838,12 @@
             "name": "Sale"
           },
           {
-            "id": 22345,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 12266,
             "name": "Cotton"
+          },
+          {
+            "id": 22345,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 22342,
@@ -950,11 +950,11 @@
             "name": "Sale"
           },
           {
-            "id": 31215,
+            "id": 31251,
             "name": "Sale"
           },
           {
-            "id": 31251,
+            "id": 31215,
             "name": "Sale"
           },
           {
@@ -974,11 +974,11 @@
             "name": "Sale"
           },
           {
-            "id": 31361,
+            "id": 31165,
             "name": "Sale"
           },
           {
-            "id": 31165,
+            "id": 31361,
             "name": "Sale"
           },
           {
@@ -14431,15 +14431,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
