@@ -775,10 +775,6 @@
             "name": "Bags"
           },
           {
-            "id": 22310,
-            "name": "Jackets"
-          },
-          {
             "id": 22312,
             "name": "Parka"
           },
@@ -971,10 +967,6 @@
             "name": "Sale"
           },
           {
-            "id": 12142,
-            "name": "Linen"
-          },
-          {
             "id": 23500,
             "name": "Hats"
           },
@@ -999,20 +991,12 @@
             "name": "Sale"
           },
           {
-            "id": 12138,
-            "name": "Cotton"
-          },
-          {
             "id": 16019,
             "name": "UNIQLO +"
           },
           {
             "id": 24318,
             "name": "Dolman"
-          },
-          {
-            "id": 27334,
-            "name": "Ines De La Fressange"
           },
           {
             "id": 13150,
@@ -9218,7 +9202,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 81,
+          "total": 94,
           "count": 0,
           "items": []
         },
@@ -9370,7 +9354,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 81,
+          "total": 94,
           "count": 0,
           "items": []
         },
@@ -9538,7 +9522,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 81,
+          "total": 94,
           "count": 0,
           "items": []
         },
