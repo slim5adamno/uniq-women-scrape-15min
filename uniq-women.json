@@ -26679,9 +26679,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL40",
-            "displayCode": "40",
-            "name": "CREAM",
+            "code": "COL06",
+            "displayCode": "06",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -26706,7 +26706,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07395208",
+          "l2Id": "07478892",
           "salesStartDate": "",
           "salesEndDate": ""
         },
