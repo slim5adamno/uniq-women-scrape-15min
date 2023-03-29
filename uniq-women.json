@@ -7225,15 +7225,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL47",
-            "displayCode": "47",
-            "name": "YELLOW",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Face/  100％　Polyester Polyurethane Coating, Back/  100％　Polyester Polyurethane Coating",
@@ -16255,15 +16246,6 @@
             }
           },
           {
-            "code": "CMD067",
-            "displayCode": "067",
-            "name": "67cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
             "code": "CMD070",
             "displayCode": "070",
             "name": "70cm",
@@ -16493,6 +16475,15 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/456091_size.html",
         "sizeInformation": "",
         "sizes": [
+          {
+            "code": "SMA002",
+            "displayCode": "002",
+            "name": "XS",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
           {
             "code": "SMA004",
             "displayCode": "004",
@@ -26173,6 +26164,15 @@
             }
           },
           {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -30131,6 +30131,15 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/455646_size.html",
         "sizeInformation": "",
         "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
           {
             "code": "SMA005",
             "displayCode": "005",
