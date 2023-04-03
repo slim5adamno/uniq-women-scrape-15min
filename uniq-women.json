@@ -793,10 +793,6 @@
             "name": "Parka"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
-          },
-          {
             "id": 22365,
             "name": "Bra Tops"
           },
@@ -805,44 +801,48 @@
             "name": "Midi"
           },
           {
-            "id": 31143,
-            "name": "Sale"
-          },
-          {
-            "id": 22309,
-            "name": "Hoodies"
+            "id": 22347,
+            "name": "Jeans"
           },
           {
             "id": 22367,
             "name": "AIRism"
           },
           {
+            "id": 22309,
+            "name": "Hoodies"
+          },
+          {
+            "id": 31143,
+            "name": "Sale"
+          },
+          {
             "id": 22368,
             "name": "Inner Tops"
-          },
-          {
-            "id": 29288,
-            "name": "UNIQLO and MARNI"
-          },
-          {
-            "id": 42326,
-            "name": "Others"
           },
           {
             "id": 22352,
             "name": "Casual Pants"
           },
           {
+            "id": 42326,
+            "name": "Others"
+          },
+          {
+            "id": 29288,
+            "name": "UNIQLO and MARNI"
+          },
+          {
             "id": 23535,
             "name": "Outer"
           },
           {
-            "id": 22373,
-            "name": "Others"
-          },
-          {
             "id": 22343,
             "name": "T-shirts"
+          },
+          {
+            "id": 22373,
+            "name": "Others"
           },
           {
             "id": 23538,
@@ -861,11 +861,11 @@
             "name": "Others"
           },
           {
-            "id": 22388,
+            "id": 22356,
             "name": "Others"
           },
           {
-            "id": 22356,
+            "id": 22388,
             "name": "Others"
           },
           {
@@ -913,20 +913,16 @@
             "name": "Others"
           },
           {
-            "id": 31368,
-            "name": "Sale"
-          },
-          {
             "id": 25841,
             "name": "Waffle"
           },
           {
-            "id": 22346,
-            "name": "Others"
+            "id": 31368,
+            "name": "Sale"
           },
           {
-            "id": 12341,
-            "name": "Camisole"
+            "id": 22346,
+            "name": "Others"
           },
           {
             "id": 13084,
@@ -935,6 +931,10 @@
           {
             "id": 31350,
             "name": "Baggy"
+          },
+          {
+            "id": 12341,
+            "name": "Camisole"
           },
           {
             "id": 12342,
@@ -977,12 +977,12 @@
             "name": "Sale"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve T-Shirts"
-          },
-          {
             "id": 31249,
             "name": "Sale"
+          },
+          {
+            "id": 12196,
+            "name": "Short Sleeve T-Shirts"
           },
           {
             "id": 31353,
@@ -1005,11 +1005,11 @@
             "name": "Denim"
           },
           {
-            "id": 31354,
+            "id": 31890,
             "name": "Sale"
           },
           {
-            "id": 31890,
+            "id": 31354,
             "name": "Sale"
           },
           {
@@ -1049,12 +1049,12 @@
             "name": "Masks"
           },
           {
-            "id": 31203,
-            "name": "Sale"
-          },
-          {
             "id": 12359,
             "name": "AIRism"
+          },
+          {
+            "id": 31203,
+            "name": "Sale"
           },
           {
             "id": 41212,
@@ -1073,11 +1073,11 @@
             "name": "Sale"
           },
           {
-            "id": 31251,
+            "id": 31215,
             "name": "Sale"
           },
           {
-            "id": 31215,
+            "id": 31251,
             "name": "Sale"
           },
           {
