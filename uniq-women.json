@@ -1801,19 +1801,13 @@
         "longDescription": "- Crew socks with a loose-fitting design at the ankle. <br>- Auto-linking design at the toe.",
         "name": "Socks 3 Pack (Crew Taper)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "790.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E439008-000",
@@ -1847,27 +1841,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL72",
-            "displayCode": "72",
-            "name": "PURPLE",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07369531",
+          "l2Id": "07369527",
           "salesStartDate": "",
           "salesEndDate": ""
         },
