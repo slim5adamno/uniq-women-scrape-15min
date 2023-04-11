@@ -781,10 +781,6 @@
         ],
         "subcategories": [
           {
-            "id": 25842,
-            "name": "DRY-EX"
-          },
-          {
             "id": 27749,
             "name": "Linen"
           },
@@ -803,10 +799,6 @@
           {
             "id": 31143,
             "name": "Sale"
-          },
-          {
-            "id": 29288,
-            "name": "UNIQLO and MARNI"
           },
           {
             "id": 25838,
@@ -913,16 +905,8 @@
             "name": "Sale"
           },
           {
-            "id": 12197,
-            "name": "Half Sleeve T-Shirts"
-          },
-          {
             "id": 12199,
             "name": "Long Sleeve T-Shirts"
-          },
-          {
-            "id": 27751,
-            "name": "Oversized"
           },
           {
             "id": 12204,
@@ -941,16 +925,8 @@
             "name": "Sale"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve T-Shirts"
-          },
-          {
             "id": 31353,
             "name": "Sale"
-          },
-          {
-            "id": 31154,
-            "name": "Dolman"
           },
           {
             "id": 31155,
@@ -12478,9 +12454,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL11",
-            "displayCode": "11",
-            "name": "PINK",
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -12505,7 +12481,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07356382",
+          "l2Id": "07356390",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -28303,9 +28279,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL14",
-            "displayCode": "14",
-            "name": "RED",
+            "code": "COL67",
+            "displayCode": "67",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -28330,7 +28306,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07542674",
+          "l2Id": "07470174",
           "salesStartDate": "",
           "salesEndDate": ""
         },
