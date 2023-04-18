@@ -793,14 +793,6 @@
             "name": "Wireless Bras"
           },
           {
-            "id": 31140,
-            "name": "Midi"
-          },
-          {
-            "id": 26160,
-            "name": "Legging"
-          },
-          {
             "id": 23539,
             "name": "Bras & Tops"
           },
@@ -809,20 +801,12 @@
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 27570,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 31143,
             "name": "Sale"
           },
           {
             "id": 22368,
             "name": "Inner Tops"
-          },
-          {
-            "id": 22348,
-            "name": "Leggings Pants"
           },
           {
             "id": 22366,
@@ -845,10 +829,6 @@
             "name": "Others"
           },
           {
-            "id": 27569,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 22380,
             "name": "AIRism Masks"
           },
@@ -869,10 +849,6 @@
             "name": "Coming Soon"
           },
           {
-            "id": 22341,
-            "name": "Cardigans"
-          },
-          {
             "id": 31239,
             "name": "Sale"
           },
@@ -883,10 +859,6 @@
           {
             "id": 12259,
             "name": "Linen"
-          },
-          {
-            "id": 22340,
-            "name": "Sweaters"
           },
           {
             "id": 11584,
@@ -933,8 +905,8 @@
             "name": "Active"
           },
           {
-            "id": 11594,
-            "name": "Others"
+            "id": 31101,
+            "name": "Sale"
           },
           {
             "id": 31890,
@@ -967,10 +939,6 @@
           {
             "id": 31103,
             "name": "Sale"
-          },
-          {
-            "id": 43215,
-            "name": "Bratop"
           },
           {
             "id": 43213,
@@ -1023,14 +991,6 @@
           {
             "id": 31165,
             "name": "Sale"
-          },
-          {
-            "id": 13089,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
-            "id": 24152,
-            "name": "Cardigans"
           },
           {
             "id": 31206,
@@ -7422,7 +7382,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 90,
+          "total": 95,
           "count": 0,
           "items": []
         },
@@ -7574,7 +7534,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 90,
+          "total": 95,
           "count": 0,
           "items": []
         },
@@ -7742,7 +7702,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 90,
+          "total": 95,
           "count": 0,
           "items": []
         },
@@ -41419,19 +41379,13 @@
         "longDescription": "- Soft, stretchy cotton-rayon fabric with a premium look. <br>-Classic pajamas with long sleeves and pants. <br>-Comfortable open collar shirt. <br>-Pants with a tapered cut and handy side pockets. <br>-Striped pattern. <br>-Great as loungewear for relaxing at home or for bedtime.",
         "name": "Soft Stretch Striped Pajamas (Long Sleeve)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "3990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2990.0000"
           }
         },
         "productId": "E455416-000",
@@ -41465,23 +41419,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL63",
-            "displayCode": "63",
-            "name": "BLUE",
+            "code": "COL50",
+            "displayCode": "50",
+            "name": "LIGHT GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -41492,7 +41439,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07313537",
+          "l2Id": "07313529",
           "salesStartDate": "",
           "salesEndDate": ""
         },
