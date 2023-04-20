@@ -6125,9 +6125,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL50",
+            "displayCode": "50",
+            "name": "LIGHT GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6152,7 +6152,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06749361",
+          "l2Id": "06749393",
           "salesStartDate": "",
           "salesEndDate": ""
         },
