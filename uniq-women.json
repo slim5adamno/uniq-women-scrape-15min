@@ -811,12 +811,12 @@
             "name": "Sale"
           },
           {
-            "id": 22353,
-            "name": "Ankle Pants & Cropped Pants"
-          },
-          {
             "id": 42327,
             "name": "Sale"
+          },
+          {
+            "id": 22353,
+            "name": "Ankle Pants & Cropped Pants"
           },
           {
             "id": 22373,
@@ -843,12 +843,12 @@
             "name": "Others"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
-          },
-          {
             "id": 22356,
             "name": "Others"
+          },
+          {
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 26234,
