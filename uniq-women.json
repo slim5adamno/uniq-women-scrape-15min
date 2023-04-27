@@ -4461,15 +4461,6 @@
             }
           },
           {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -22864,7 +22855,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 93,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -23038,7 +23029,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 93,
+          "total": 97,
           "count": 0,
           "items": []
         },
