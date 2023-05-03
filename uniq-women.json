@@ -42125,9 +42125,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -42145,7 +42145,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07343109",
+          "l2Id": "07343136",
           "salesStartDate": "",
           "salesEndDate": ""
         },
