@@ -29145,15 +29145,6 @@
               "showFlag": true,
               "chipType": 1
             }
-          },
-          {
-            "code": "INS023",
-            "displayCode": "023",
-            "name": "23inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
           }
         ],
         "unisexFlag": 0,
