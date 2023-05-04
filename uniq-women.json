@@ -816,12 +816,12 @@
             "name": "Sale"
           },
           {
-            "id": 22379,
-            "name": "Others"
-          },
-          {
             "id": 13096,
             "name": "Ines De La Fressange"
+          },
+          {
+            "id": 22379,
+            "name": "Others"
           },
           {
             "id": 22388,
@@ -928,24 +928,24 @@
             "name": "Masks"
           },
           {
-            "id": 43219,
-            "name": "Ribbed"
-          },
-          {
             "id": 31203,
             "name": "Sale"
+          },
+          {
+            "id": 43219,
+            "name": "Ribbed"
           },
           {
             "id": 43220,
             "name": "Short Sleeve"
           },
           {
-            "id": 31103,
-            "name": "Sale"
-          },
-          {
             "id": 43215,
             "name": "Bratop"
+          },
+          {
+            "id": 31103,
+            "name": "Sale"
           },
           {
             "id": 43214,
