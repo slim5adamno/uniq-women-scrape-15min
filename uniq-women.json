@@ -480,11 +480,6 @@
           "name": "73cm"
         },
         {
-          "code": "CMD076",
-          "displayCode": "076",
-          "name": "76cm"
-        },
-        {
           "code": "INS022",
           "displayCode": "022",
           "name": "22inch"
@@ -2162,15 +2157,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL56",
-            "displayCode": "56",
-            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -4452,7 +4438,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -4682,7 +4668,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -4900,7 +4886,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -6133,7 +6119,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -9443,7 +9429,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -9634,7 +9620,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -9864,7 +9850,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -10085,7 +10071,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -10491,7 +10477,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -11988,7 +11974,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -12224,7 +12210,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -12454,7 +12440,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -13986,7 +13972,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -15385,15 +15371,6 @@
             "code": "CMD073",
             "displayCode": "073",
             "name": "73cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD076",
-            "displayCode": "076",
-            "name": "76cm",
             "display": {
               "showFlag": true,
               "chipType": 1
@@ -17897,15 +17874,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -21876,7 +21844,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -23087,7 +23055,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -25469,7 +25437,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -25620,7 +25588,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -25771,7 +25739,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -26774,7 +26742,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -33175,7 +33143,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -33409,7 +33377,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -33626,7 +33594,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -35636,7 +35604,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -35830,7 +35798,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -36009,7 +35977,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -42973,7 +42941,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL25",
@@ -43008,7 +42987,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -43677,7 +43656,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -45805,7 +45784,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -46425,7 +46404,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
@@ -50637,7 +50616,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 28,
+          "total": 29,
           "count": 0,
           "items": []
         },
