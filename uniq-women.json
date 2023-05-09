@@ -9187,9 +9187,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL12",
-            "displayCode": "12",
-            "name": "PINK",
+            "code": "COL20",
+            "displayCode": "20",
+            "name": "LIGHT ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9214,7 +9214,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06874617",
+          "l2Id": "06874609",
           "salesStartDate": "",
           "salesEndDate": ""
         },
