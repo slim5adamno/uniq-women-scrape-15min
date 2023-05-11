@@ -390,42 +390,42 @@
         {
           "rating": 0,
           "accumulated": 229,
-          "count": 90
+          "count": 89
         },
         {
           "rating": 0.5,
-          "accumulated": 139,
+          "accumulated": 140,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 139,
+          "accumulated": 140,
           "count": 3
         },
         {
           "rating": 1.5,
-          "accumulated": 136,
+          "accumulated": 137,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 136,
+          "accumulated": 137,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 135,
+          "accumulated": 136,
           "count": 3
         },
         {
           "rating": 3,
-          "accumulated": 132,
+          "accumulated": 133,
           "count": 4
         },
         {
           "rating": 3.5,
-          "accumulated": 128,
-          "count": 5
+          "accumulated": 129,
+          "count": 6
         },
         {
           "rating": 4,
