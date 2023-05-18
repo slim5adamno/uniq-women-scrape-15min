@@ -871,12 +871,12 @@
             "name": "Casual Pants"
           },
           {
-            "id": 12269,
-            "name": "Drape"
-          },
-          {
             "id": 22373,
             "name": "Others"
+          },
+          {
+            "id": 12269,
+            "name": "Drape"
           },
           {
             "id": 23538,
@@ -887,24 +887,24 @@
             "name": "Trousers"
           },
           {
-            "id": 26156,
-            "name": "Trouser"
-          },
-          {
             "id": 22379,
             "name": "Others"
+          },
+          {
+            "id": 26156,
+            "name": "Trouser"
           },
           {
             "id": 24732,
             "name": "Socks"
           },
           {
-            "id": 22388,
-            "name": "Others"
-          },
-          {
             "id": 22344,
             "name": "Shirts & Blouses"
+          },
+          {
+            "id": 22388,
+            "name": "Others"
           },
           {
             "id": 22380,
@@ -963,11 +963,11 @@
             "name": "Seamleass"
           },
           {
-            "id": 16023,
+            "id": 16028,
             "name": "Uniqlo and Mame Kurogouchi"
           },
           {
-            "id": 16028,
+            "id": 16023,
             "name": "Uniqlo and Mame Kurogouchi"
           },
           {
@@ -1039,12 +1039,12 @@
             "name": "Sale"
           },
           {
-            "id": 41201,
-            "name": "Sale"
-          },
-          {
             "id": 12320,
             "name": "Easy"
+          },
+          {
+            "id": 41201,
+            "name": "Sale"
           },
           {
             "id": 31103,
@@ -1055,12 +1055,12 @@
             "name": "Bratop"
           },
           {
-            "id": 12316,
-            "name": "Relax"
-          },
-          {
             "id": 43213,
             "name": "Sale"
+          },
+          {
+            "id": 12316,
+            "name": "Relax"
           },
           {
             "id": 31801,
