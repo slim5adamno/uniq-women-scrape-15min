@@ -811,16 +811,20 @@
         ],
         "subcategories": [
           {
-            "id": 38434,
-            "name": "Uniqlo and Mame Kurogouchi"
-          },
-          {
             "id": 22367,
             "name": "AIRism"
           },
           {
+            "id": 38434,
+            "name": "Uniqlo and Mame Kurogouchi"
+          },
+          {
             "id": 22365,
             "name": "Bra Tops"
+          },
+          {
+            "id": 42325,
+            "name": "Dress"
           },
           {
             "id": 22354,
@@ -831,44 +835,36 @@
             "name": "Dress"
           },
           {
-            "id": 42325,
-            "name": "Dress"
-          },
-          {
             "id": 27754,
             "name": "Airism Set"
-          },
-          {
-            "id": 13095,
-            "name": "+ J"
-          },
-          {
-            "id": 22371,
-            "name": "Underwear"
           },
           {
             "id": 22374,
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 19926,
-            "name": "Flannel"
+            "id": 22371,
+            "name": "Underwear"
           },
           {
-            "id": 22368,
-            "name": "Inner Tops"
+            "id": 13095,
+            "name": "+ J"
+          },
+          {
+            "id": 19926,
+            "name": "Flannel"
           },
           {
             "id": 31143,
             "name": "Sale"
           },
           {
-            "id": 22348,
-            "name": "Leggings Pants"
+            "id": 22368,
+            "name": "Inner Tops"
           },
           {
-            "id": 12269,
-            "name": "Drape"
+            "id": 22348,
+            "name": "Leggings Pants"
           },
           {
             "id": 22352,
@@ -879,6 +875,10 @@
             "name": "Others"
           },
           {
+            "id": 12269,
+            "name": "Drape"
+          },
+          {
             "id": 23538,
             "name": "Bottoms"
           },
@@ -887,24 +887,24 @@
             "name": "Trousers"
           },
           {
-            "id": 26156,
-            "name": "Trouser"
-          },
-          {
             "id": 22379,
             "name": "Others"
+          },
+          {
+            "id": 26156,
+            "name": "Trouser"
           },
           {
             "id": 24732,
             "name": "Socks"
           },
           {
-            "id": 22388,
-            "name": "Others"
-          },
-          {
             "id": 22344,
             "name": "Shirts & Blouses"
+          },
+          {
+            "id": 22388,
+            "name": "Others"
           },
           {
             "id": 22380,
@@ -963,11 +963,11 @@
             "name": "Seamleass"
           },
           {
-            "id": 16028,
+            "id": 16023,
             "name": "Uniqlo and Mame Kurogouchi"
           },
           {
-            "id": 16023,
+            "id": 16028,
             "name": "Uniqlo and Mame Kurogouchi"
           },
           {
@@ -1099,12 +1099,12 @@
             "name": "The Brands Hawaiian Loco"
           },
           {
-            "id": 38197,
-            "name": "Disney Collection"
-          },
-          {
             "id": 31361,
             "name": "Sale"
+          },
+          {
+            "id": 38197,
+            "name": "Disney Collection"
           },
           {
             "id": 32445,
