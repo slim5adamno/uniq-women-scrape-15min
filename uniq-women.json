@@ -40286,19 +40286,13 @@
         "longDescription": "- Smooth rayon blend fabric. <br>- Wrinkle-resistant for easy care. *Shape to dry after washing. <br>- Relaxed cut and sleeve design.",
         "name": "Rayon Short Sleeve Blouse",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E455737-000",
@@ -40332,34 +40326,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL63",
-            "displayCode": "63",
-            "name": "BLUE",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "priceFlags": [],
+            "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07467786",
+          "l2Id": "07467769",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -56380,19 +56360,13 @@
         "longDescription": "- In response to customer feedback, we’ve made the lining more durable. <br>- Fine knit fabric with stunning colors and an elegant look. <br>- Just the right thickness for easy layering. <br>- Smooth, pilling-resistant fabric. <br>- Classic V-insert and ribbed sleeve design. <br>- Sleek set-in sleeves.",
         "name": "Sweat Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E444966-000",
@@ -56415,23 +56389,16 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL43",
-            "displayCode": "43",
-            "name": "YELLOW",
+            "code": "COL05",
+            "displayCode": "05",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -56442,7 +56409,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07331801",
+          "l2Id": "06723306",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -59517,19 +59484,13 @@
         "longDescription": "- Sweat fabric with a fine texture and elegant look. <br>- Soft and fluffy. <br>- Quick-drying hood lining. <br>- Contoured hood design. <br>- Sleek side pockets. <br>- Vintage-style drawstring tips and eyelets.",
         "name": "Sweat Pullover Hoodie",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "3990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2990.0000"
           }
         },
         "productId": "E444967-000",
@@ -59552,23 +59513,16 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL45",
-            "displayCode": "45",
-            "name": "YELLOW",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -59579,7 +59533,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07332008",
+          "l2Id": "06723415",
           "salesStartDate": "",
           "salesEndDate": ""
         },
