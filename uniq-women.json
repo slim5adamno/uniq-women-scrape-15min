@@ -1009,11 +1009,11 @@
             "name": "Sale"
           },
           {
-            "id": 31354,
+            "id": 31890,
             "name": "Sale"
           },
           {
-            "id": 31890,
+            "id": 31354,
             "name": "Sale"
           },
           {
@@ -1065,12 +1065,12 @@
             "name": "Bratop"
           },
           {
-            "id": 12316,
-            "name": "Relax"
-          },
-          {
             "id": 43213,
             "name": "Sale"
+          },
+          {
+            "id": 12316,
+            "name": "Relax"
           },
           {
             "id": 11597,
@@ -1161,12 +1161,12 @@
             "name": "Ponte"
           },
           {
-            "id": 12188,
-            "name": "Sweat Shirt"
-          },
-          {
             "id": 11596,
             "name": "Others"
+          },
+          {
+            "id": 12188,
+            "name": "Sweat Shirt"
           },
           {
             "id": 28468,
