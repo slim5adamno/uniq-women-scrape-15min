@@ -383,12 +383,12 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 120
+          "count": 119
         },
         {
           "from": 2000,
           "to": 3000,
-          "count": 15
+          "count": 14
         },
         {
           "from": 3000,
@@ -404,58 +404,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 287,
-          "count": 137
+          "accumulated": 285,
+          "count": 136
         },
         {
           "rating": 0.5,
-          "accumulated": 150,
+          "accumulated": 149,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 150,
+          "accumulated": 149,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 148,
+          "accumulated": 147,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 148,
+          "accumulated": 147,
           "count": 2
         },
         {
           "rating": 2.5,
-          "accumulated": 146,
+          "accumulated": 145,
           "count": 3
         },
         {
           "rating": 3,
-          "accumulated": 143,
+          "accumulated": 142,
           "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 140,
+          "accumulated": 139,
           "count": 6
         },
         {
           "rating": 4,
-          "accumulated": 134,
+          "accumulated": 133,
           "count": 25
         },
         {
           "rating": 4.5,
-          "accumulated": 109,
+          "accumulated": 108,
           "count": 29
         },
         {
           "rating": 5,
-          "accumulated": 80,
-          "count": 80
+          "accumulated": 79,
+          "count": 79
         }
       ],
       "sizes": [
@@ -62894,8 +62894,8 @@
     ],
     "pagination": {
       "count": 285,
-      "total": 287,
-      "offset": 302
+      "total": 285,
+      "offset": 300
     }
   }
 }
