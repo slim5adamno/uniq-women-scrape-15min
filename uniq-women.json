@@ -3096,19 +3096,13 @@
         "longDescription": "- Soft and stretchy lace. <br>-Trimmed lace casual design. <br>-Low-rise hip-hugger style.",
         "name": "Lace Shorts (Hiphugger)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E458093-000",
@@ -3142,23 +3136,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL64",
-            "displayCode": "64",
-            "name": "BLUE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -3169,7 +3156,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07402340",
+          "l2Id": "07402332",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -17527,19 +17514,13 @@
         "longDescription": "- Made of SUPIMA® cotton for a smooth feel and beautiful texture. <br>- Features a basic silhouette that easily styles alone or as an inner layer. <br>- Versatile design for casual or refined styling.",
         "name": "Supima Cotton Crew Neck Short Sleeve T-Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "790.0000"
           }
         },
         "productId": "E444527-000",
@@ -17573,23 +17554,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL64",
-            "displayCode": "64",
-            "name": "BLUE",
+            "code": "COL54",
+            "displayCode": "54",
+            "name": "GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -17600,7 +17574,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07629380",
+          "l2Id": "07303242",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -18695,19 +18669,13 @@
         "longDescription": "The Uniqlo U collection is the realization of a dedicated and skilled team of international designers based at our Paris Research and Development Center led by Artistic Director Christophe Lemaire.<br><br>- Compact cotton fabric with a smooth surface. <br>- Fitted silhouette perfect for wearing alone or as an inner layer.",
         "name": "Uniqlo U Crew Neck Short Sleeve T-Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "790.0000"
           }
         },
         "productId": "E424873-000",
@@ -18741,23 +18709,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL41",
-            "displayCode": "41",
-            "name": "YELLOW",
+            "code": "COL53",
+            "displayCode": "53",
+            "name": "GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -18768,7 +18729,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07389655",
+          "l2Id": "07389711",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -38264,9 +38225,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL22",
-            "displayCode": "22",
-            "name": "ORANGE",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -38284,7 +38245,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07445598",
+          "l2Id": "06779226",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -45682,19 +45643,13 @@
         "longDescription": "- Soft and stretchy lace. <br>- Removable cups. <br>- Relaxed, unrestrictive fit creates a natural outline. <br>- Casual design with lace trim. <br>- Plunge style bra. <br>- The straps have adjusters at the back.",
         "name": "Wireless Bra (Relax/Plunging Lace)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E456914-000",
@@ -45728,27 +45683,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL64",
-            "displayCode": "64",
-            "name": "BLUE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07343633",
+          "l2Id": "07343626",
           "salesStartDate": "",
           "salesEndDate": ""
         },
