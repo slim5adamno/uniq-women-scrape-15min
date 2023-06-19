@@ -815,24 +815,24 @@
             "name": "AIRism"
           },
           {
-            "id": 26160,
-            "name": "Legging"
-          },
-          {
             "id": 42325,
             "name": "Dress"
+          },
+          {
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 26154,
             "name": "Dress"
           },
           {
-            "id": 22365,
-            "name": "Bra Tops"
+            "id": 26160,
+            "name": "Legging"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
+            "id": 22365,
+            "name": "Bra Tops"
           },
           {
             "id": 22364,
@@ -843,24 +843,24 @@
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 25843,
-            "name": "Cotton"
-          },
-          {
-            "id": 22347,
-            "name": "Jeans"
+            "id": 13095,
+            "name": "+ J"
           },
           {
             "id": 22371,
             "name": "Underwear"
           },
           {
+            "id": 22347,
+            "name": "Jeans"
+          },
+          {
             "id": 42323,
             "name": "Tops"
           },
           {
-            "id": 13095,
-            "name": "+ J"
+            "id": 25843,
+            "name": "Cotton"
           },
           {
             "id": 31143,
@@ -875,10 +875,6 @@
             "name": "Leggings Pants"
           },
           {
-            "id": 22373,
-            "name": "Others"
-          },
-          {
             "id": 22375,
             "name": "Relaco"
           },
@@ -887,24 +883,28 @@
             "name": "Casual Pants"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
+            "id": 22373,
+            "name": "Others"
           },
           {
             "id": 25838,
             "name": "Sleeveless Tops"
           },
           {
+            "id": 22350,
+            "name": "Trousers"
+          },
+          {
             "id": 22343,
             "name": "T-shirts"
           },
           {
-            "id": 26156,
-            "name": "Trouser"
-          },
-          {
             "id": 22379,
             "name": "Others"
+          },
+          {
+            "id": 26156,
+            "name": "Trouser"
           },
           {
             "id": 22388,
@@ -923,12 +923,12 @@
             "name": "Uniqlo and Mame Kurogouchi"
           },
           {
-            "id": 25840,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 31239,
             "name": "Sale"
+          },
+          {
+            "id": 25840,
+            "name": "Long Sleeve"
           },
           {
             "id": 22313,
@@ -975,12 +975,12 @@
             "name": "Pajamas"
           },
           {
-            "id": 12282,
-            "name": "Skinny Fit"
-          },
-          {
             "id": 16028,
             "name": "Uniqlo and Mame Kurogouchi"
+          },
+          {
+            "id": 12282,
+            "name": "Skinny Fit"
           },
           {
             "id": 31102,
@@ -995,20 +995,20 @@
             "name": "Sale"
           },
           {
-            "id": 30899,
-            "name": "Sale"
-          },
-          {
             "id": 12201,
             "name": "Cotton"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve T-Shirts"
+            "id": 30899,
+            "name": "Sale"
           },
           {
             "id": 31249,
             "name": "Sale"
+          },
+          {
+            "id": 12196,
+            "name": "Short Sleeve T-Shirts"
           },
           {
             "id": 31155,
@@ -26379,15 +26379,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
