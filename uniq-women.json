@@ -13816,7 +13816,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "790.0000"
+            "value": "590.0000"
           }
         },
         "productId": "E458214-000",
@@ -13850,9 +13850,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL51",
-            "displayCode": "51",
-            "name": "GREEN",
+            "code": "COL21",
+            "displayCode": "21",
+            "name": "LIGHT ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -13870,7 +13870,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07347425",
+          "l2Id": "07347418",
           "salesStartDate": "",
           "salesEndDate": ""
         },
