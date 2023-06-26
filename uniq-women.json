@@ -53760,9 +53760,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL67",
+            "displayCode": "67",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -53793,7 +53793,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07670407",
+          "l2Id": "07670439",
           "salesStartDate": "",
           "salesEndDate": ""
         },
