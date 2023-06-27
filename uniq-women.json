@@ -1861,9 +1861,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL63",
+            "displayCode": "63",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1888,7 +1888,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07576045",
+          "l2Id": "07576061",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -2297,9 +2297,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL37",
-            "displayCode": "37",
-            "name": "BROWN",
+            "code": "COL51",
+            "displayCode": "51",
+            "name": "GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -2317,7 +2317,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "06881997",
+          "l2Id": "06881861",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -2473,9 +2473,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL66",
-            "displayCode": "66",
-            "name": "BLUE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -2493,7 +2493,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07576254",
+          "l2Id": "07576246",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -3061,9 +3061,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL61",
-            "displayCode": "61",
-            "name": "BLUE",
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -3088,7 +3088,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07401389",
+          "l2Id": "07401373",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -4096,19 +4096,13 @@
         "longDescription": "- Stretch cotton. <br>- Designed for comfort. <br>- High-rise cut provides a secure fit. <br>- Basic solid color.",
         "name": "High Rise Briefs (Basic)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E445399-000",
@@ -4131,27 +4125,27 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL70",
-            "displayCode": "70",
-            "name": "LIGHT PURPLE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
+            "priceFlags": [],
+            "productFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
               }
-            ],
-            "productFlags": []
+            ]
           },
           "isFavorite": false,
-          "l2Id": "07336285",
+          "l2Id": "06777510",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -19416,9 +19410,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL14",
-            "displayCode": "14",
-            "name": "RED",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -19443,7 +19437,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07462990",
+          "l2Id": "07462960",
           "salesStartDate": "",
           "salesEndDate": ""
         },
