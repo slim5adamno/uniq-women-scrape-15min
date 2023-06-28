@@ -51957,14 +51957,8 @@
         "longDescription": "- Comfy stretch denim for ease of movement. <br>- Classic 5-pocket design and stitching. <br>- Versatile mid-rise style. <br>- Fitted around the waist and thigh with a straight cut from the knees to the ankles. <br>- Flattering, yet comfortable traditional cut.",
         "name": "Stretch Slim Straight Jeans",
         "prices": {
+          "promo": null,
           "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "3990.0000"
-          },
-          "promo": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
@@ -52012,14 +52006,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "salesStart",
@@ -52258,14 +52245,8 @@
         "longDescription": "- Smooth, perfectly thick 100% cotton denim. <br>- 5-pocket design. <br>- Low-waist design for a sleek style. <br>- Wide, straight cut for a sophisticated look.<br>- BLUE CYCLE JEANS technology reduces the volume of water* used in the finishing process. Water savings may vary between products.<br><br>*Up to 99%. Data is based on a comparison between Men's Regular Fit Jeans 2017 and 2018 using technology developed in 2018 by our Jeans Innovation Center.",
         "name": "Low Rise Baggy Jeans",
         "prices": {
+          "promo": null,
           "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "3990.0000"
-          },
-          "promo": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
@@ -52313,14 +52294,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "salesStart",
@@ -52557,14 +52531,8 @@
         "longDescription": "- Stretch fabric with high stretch and recovery rate for exceptional comfort. <br>- Easy-to-wear mid-rise design. <br>- Updated straight cut with a skinnier fit below the knee. <br>- Versatile jeans for any occasion.<br>- BLUE CYCLE JEANS technology reduces the volume of water* used in the finishing process. Water savings may vary between products.<br><br>*Up to 99%. Data is based on a comparison between Men's Regular Fit Jeans 2017 and 2018 using technology developed in 2018 by our Jeans Innovation Center.",
         "name": "Extra Stretch Jeans",
         "prices": {
+          "promo": null,
           "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "3990.0000"
-          },
-          "promo": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
@@ -52612,14 +52580,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "salesStart",
@@ -52875,14 +52836,8 @@
         "longDescription": "- Comfy stretch denim for ease of movement. <br>- Classic 5-pocket design and stitching. <br>- Versatile mid-rise style. <br>- Fitted around the waist and thigh with a straight cut from the knees to the ankles. <br>- Flattering, yet comfortable traditional cut.",
         "name": "Stretch Slim Straight Jeans",
         "prices": {
+          "promo": null,
           "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "3990.0000"
-          },
-          "promo": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
@@ -52930,14 +52885,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "salesStart",
