@@ -15407,9 +15407,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL11",
-            "displayCode": "11",
-            "name": "PINK",
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -15424,10 +15424,17 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
           },
           "isFavorite": false,
-          "l2Id": "07372197",
+          "l2Id": "07372180",
           "salesStartDate": "",
           "salesEndDate": ""
         },
