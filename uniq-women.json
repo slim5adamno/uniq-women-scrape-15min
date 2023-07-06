@@ -818,10 +818,6 @@
             "name": "AIRism"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
-          },
-          {
             "id": 26154,
             "name": "Dress"
           },
@@ -830,36 +826,36 @@
             "name": "Dress"
           },
           {
+            "id": 22354,
+            "name": "Shorts"
+          },
+          {
             "id": 22364,
             "name": "Wireless Bras"
-          },
-          {
-            "id": 42323,
-            "name": "Tops"
-          },
-          {
-            "id": 22347,
-            "name": "Jeans"
-          },
-          {
-            "id": 27749,
-            "name": "Linen"
           },
           {
             "id": 22371,
             "name": "Underwear"
           },
           {
+            "id": 42323,
+            "name": "Tops"
+          },
+          {
             "id": 22374,
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22368,
-            "name": "Inner Tops"
+            "id": 27749,
+            "name": "Linen"
           },
           {
-            "id": 13095,
-            "name": "+ J"
+            "id": 22347,
+            "name": "Jeans"
+          },
+          {
+            "id": 22368,
+            "name": "Inner Tops"
           },
           {
             "id": 31143,
@@ -870,6 +866,14 @@
             "name": "Cotton"
           },
           {
+            "id": 13095,
+            "name": "+ J"
+          },
+          {
+            "id": 22339,
+            "name": "Rayon"
+          },
+          {
             "id": 22366,
             "name": "HEATTECH"
           },
@@ -878,16 +882,12 @@
             "name": "Flannel"
           },
           {
-            "id": 22339,
-            "name": "Rayon"
+            "id": 22375,
+            "name": "Relaco"
           },
           {
             "id": 22352,
             "name": "Casual Pants"
-          },
-          {
-            "id": 22375,
-            "name": "Relaco"
           },
           {
             "id": 22373,
@@ -906,20 +906,20 @@
             "name": "Bottoms"
           },
           {
-            "id": 31202,
-            "name": "Sunglasses"
-          },
-          {
             "id": 25838,
             "name": "Sleeveless Tops"
           },
           {
-            "id": 22343,
-            "name": "T-shirts"
+            "id": 31202,
+            "name": "Sunglasses"
           },
           {
             "id": 22379,
             "name": "Others"
+          },
+          {
+            "id": 22343,
+            "name": "T-shirts"
           },
           {
             "id": 22388,
@@ -930,12 +930,12 @@
             "name": "Shirts & Blouses"
           },
           {
-            "id": 23541,
-            "name": "Accessories"
-          },
-          {
             "id": 22356,
             "name": "Others"
+          },
+          {
+            "id": 23541,
+            "name": "Accessories"
           },
           {
             "id": 31239,
@@ -974,12 +974,12 @@
             "name": "AIRism"
           },
           {
-            "id": 19928,
-            "name": "High Rise"
-          },
-          {
             "id": 27750,
             "name": "U Crew"
+          },
+          {
+            "id": 19928,
+            "name": "High Rise"
           },
           {
             "id": 12373,
@@ -1006,12 +1006,12 @@
             "name": "Oversized"
           },
           {
-            "id": 12201,
-            "name": "Cotton"
-          },
-          {
             "id": 30899,
             "name": "Sale"
+          },
+          {
+            "id": 12201,
+            "name": "Cotton"
           },
           {
             "id": 12196,
@@ -1030,12 +1030,12 @@
             "name": "Drape"
           },
           {
-            "id": 28411,
-            "name": "Rayon S/S"
-          },
-          {
             "id": 16027,
             "name": "Uniqlo and Mame Kurogouchi"
+          },
+          {
+            "id": 28411,
+            "name": "Rayon S/S"
           },
           {
             "id": 31890,
@@ -1058,12 +1058,12 @@
             "name": "Cotton"
           },
           {
-            "id": 13150,
-            "name": "Ines De La Fressange"
-          },
-          {
             "id": 31250,
             "name": "Sale"
+          },
+          {
+            "id": 13150,
+            "name": "Ines De La Fressange"
           },
           {
             "id": 31156,
