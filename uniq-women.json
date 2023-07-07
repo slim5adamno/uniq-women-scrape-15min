@@ -18018,9 +18018,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL63",
-            "displayCode": "63",
-            "name": "BLUE",
+            "code": "COL22",
+            "displayCode": "22",
+            "name": "ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -18045,7 +18045,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07624531",
+          "l2Id": "07624523",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -45700,7 +45700,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07140399",
+          "l2Id": "07140398",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -45912,7 +45912,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07138988",
+          "l2Id": "07138987",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -46133,7 +46133,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07140383",
+          "l2Id": "07140382",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -46592,7 +46592,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07140415",
+          "l2Id": "07140414",
           "salesStartDate": "",
           "salesEndDate": ""
         },
