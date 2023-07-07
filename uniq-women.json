@@ -11812,6 +11812,15 @@
             }
           },
           {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA008",
             "displayCode": "008",
             "name": "3XL",
@@ -16130,7 +16139,7 @@
               "colorCode": "42"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/455762/item/goods_47_455762.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/455762/item/ingoods_47_455762.jpg",
               "colorCode": "47"
             },
             {
@@ -40864,15 +40873,6 @@
             "code": "INS029",
             "displayCode": "029",
             "name": "29inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "INS030",
-            "displayCode": "030",
-            "name": "30inch",
             "display": {
               "showFlag": true,
               "chipType": 1
