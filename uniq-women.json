@@ -803,10 +803,6 @@
             "name": "Airism Boat Neck"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
-          },
-          {
             "id": 26154,
             "name": "Dress"
           },
@@ -815,52 +811,52 @@
             "name": "Dress"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
-          },
-          {
-            "id": 22371,
-            "name": "Underwear"
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 42323,
             "name": "Tops"
           },
           {
-            "id": 27749,
-            "name": "Linen"
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 22374,
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 31143,
-            "name": "Sale"
+            "id": 22347,
+            "name": "Jeans"
           },
           {
-            "id": 13095,
-            "name": "+ J"
+            "id": 27749,
+            "name": "Linen"
+          },
+          {
+            "id": 31143,
+            "name": "Sale"
           },
           {
             "id": 22368,
             "name": "Inner Tops"
           },
           {
-            "id": 22366,
-            "name": "HEATTECH"
+            "id": 13095,
+            "name": "+ J"
           },
           {
-            "id": 22339,
-            "name": "Rayon"
+            "id": 22366,
+            "name": "HEATTECH"
           },
           {
             "id": 19926,
             "name": "Flannel"
           },
           {
-            "id": 22375,
-            "name": "Relaco"
+            "id": 22339,
+            "name": "Rayon"
           },
           {
             "id": 22352,
@@ -869,6 +865,10 @@
           {
             "id": 22373,
             "name": "Others"
+          },
+          {
+            "id": 22375,
+            "name": "Relaco"
           },
           {
             "id": 22377,
@@ -1003,12 +1003,12 @@
             "name": "Sale"
           },
           {
-            "id": 23479,
-            "name": "Relaco"
-          },
-          {
             "id": 12176,
             "name": "Drape"
+          },
+          {
+            "id": 23479,
+            "name": "Relaco"
           },
           {
             "id": 28411,
