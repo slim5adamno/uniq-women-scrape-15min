@@ -798,40 +798,36 @@
             "name": "AIRism"
           },
           {
-            "id": 42325,
-            "name": "Dress"
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 26154,
             "name": "Dress"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
-          },
-          {
-            "id": 22371,
-            "name": "Underwear"
+            "id": 42325,
+            "name": "Dress"
           },
           {
             "id": 42323,
             "name": "Tops"
           },
           {
-            "id": 22374,
-            "name": "Loungewear & Pajamas"
-          },
-          {
             "id": 22347,
             "name": "Jeans"
+          },
+          {
+            "id": 22374,
+            "name": "Loungewear & Pajamas"
           },
           {
             "id": 27749,
             "name": "Linen"
           },
           {
-            "id": 13095,
-            "name": "+ J"
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 31143,
@@ -842,8 +838,8 @@
             "name": "Inner Tops"
           },
           {
-            "id": 22339,
-            "name": "Rayon"
+            "id": 13095,
+            "name": "+ J"
           },
           {
             "id": 19926,
@@ -854,6 +850,14 @@
             "name": "HEATTECH"
           },
           {
+            "id": 22339,
+            "name": "Rayon"
+          },
+          {
+            "id": 22373,
+            "name": "Others"
+          },
+          {
             "id": 22375,
             "name": "Relaco"
           },
@@ -862,32 +866,28 @@
             "name": "Casual Pants"
           },
           {
-            "id": 22373,
-            "name": "Others"
-          },
-          {
             "id": 22377,
             "name": "Room Shoes"
-          },
-          {
-            "id": 23538,
-            "name": "Bottoms"
           },
           {
             "id": 22350,
             "name": "Trousers"
           },
           {
+            "id": 23538,
+            "name": "Bottoms"
+          },
+          {
             "id": 31202,
             "name": "Sunglasses"
           },
           {
-            "id": 22343,
-            "name": "T-shirts"
-          },
-          {
             "id": 22379,
             "name": "Others"
+          },
+          {
+            "id": 22343,
+            "name": "T-shirts"
           },
           {
             "id": 22388,
@@ -950,12 +950,12 @@
             "name": "Pajamas"
           },
           {
-            "id": 12282,
-            "name": "Skinny Fit"
-          },
-          {
             "id": 16023,
             "name": "Uniqlo and Mame Kurogouchi"
+          },
+          {
+            "id": 12282,
+            "name": "Skinny Fit"
           },
           {
             "id": 31102,
@@ -974,12 +974,12 @@
             "name": "Oversized"
           },
           {
-            "id": 12201,
-            "name": "Cotton"
-          },
-          {
             "id": 30899,
             "name": "Sale"
+          },
+          {
+            "id": 12201,
+            "name": "Cotton"
           },
           {
             "id": 12196,
@@ -1002,12 +1002,12 @@
             "name": "Drape"
           },
           {
-            "id": 28411,
-            "name": "Rayon S/S"
-          },
-          {
             "id": 31890,
             "name": "Sale"
+          },
+          {
+            "id": 28411,
+            "name": "Rayon S/S"
           },
           {
             "id": 12168,
@@ -1046,16 +1046,16 @@
             "name": "Denim"
           },
           {
-            "id": 31103,
-            "name": "Sale"
+            "id": 43217,
+            "name": "Polo"
           },
           {
             "id": 12320,
             "name": "Easy"
           },
           {
-            "id": 43217,
-            "name": "Polo"
+            "id": 31103,
+            "name": "Sale"
           },
           {
             "id": 43213,
