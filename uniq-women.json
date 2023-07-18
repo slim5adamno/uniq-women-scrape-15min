@@ -4423,15 +4423,15 @@
           }
         ],
         "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
+          "average": 5,
+          "count": 1,
+          "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 0
+            "five": 1
           }
         },
         "representative": {
@@ -20120,15 +20120,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL65",
             "displayCode": "65",
             "name": "BLUE",
@@ -29128,14 +29119,14 @@
           }
         ],
         "rating": {
-          "average": 4.8,
-          "count": 10,
-          "fit": 2.9,
+          "average": 4.7272727272727275,
+          "count": 11,
+          "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
-            "four": 0,
+            "four": 1,
             "five": 9
           }
         },
