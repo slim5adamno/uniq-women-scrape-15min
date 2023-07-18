@@ -40825,19 +40825,13 @@
         "longDescription": "- Made from a linen blend fabric. <br>- This piece looks like a skirt, but is actually shorts, so whichever you prefer, you’re sure to love it. <br>- Short length with pants inside for confidence. <br>- Ideal for active settings, such as when riding a bike.",
         "name": "Linen Blend Skort",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E456277-000",
@@ -40872,27 +40866,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL11",
-            "displayCode": "11",
-            "name": "PINK",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07442142",
+          "l2Id": "07442126",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -44788,19 +44775,13 @@
         "longDescription": "- Made of cotton denim. Jointly developed with Kaihara. <br>- Pre-worn processing and irregular yarns lend a distinctive vintage-style texture. <br>- Straight cut from the waist to the hem. <br>- High front and back pockets and angled back yoke for a flattering effect. <br>- Secure and comfortable mid-rise waist. <br>- Just the right length to style with the hems rolled up.<br>- BLUE CYCLE JEANS technology reduces the volume of water* used in the finishing process. Water savings may vary between products.<br><br>*Up to 99%. Data is based on a comparison between Men's Regular Fit Jeans 2017 and 2018 using technology developed in 2018 by our Jeans Innovation Center.",
         "name": "Regular Fit Jeans",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E450244-000",
@@ -44835,8 +44816,8 @@
         },
         "representative": {
           "color": {
-            "code": "COL66",
-            "displayCode": "66",
+            "code": "COL63",
+            "displayCode": "63",
             "name": "BLUE",
             "display": {
               "showFlag": true,
@@ -44844,14 +44825,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -44862,7 +44836,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07031569",
+          "l2Id": "07342436",
           "salesStartDate": "",
           "salesEndDate": ""
         },
