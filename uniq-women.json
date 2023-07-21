@@ -3452,7 +3452,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -3710,7 +3710,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -8597,7 +8597,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -8768,7 +8768,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -8959,7 +8959,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -9148,7 +9148,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -9310,7 +9310,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -15760,193 +15760,6 @@
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean"
       },
       {
-        "careInstruction": "-",
-        "colors": [
-          {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "70% Acrylic, 30% Viscose",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Women",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449750001/item/goods_68_449750001.jpg",
-              "colorCode": "68"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/449750001/chip/goods_68_449750001_chip.jpg",
-              "colorCode": "68"
-            }
-          ],
-          "sub": []
-        },
-        "l1Id": "449750",
-        "longDescription": "- Soft, warm 'HEATTECH' fleece fabric. <br>- Stretch for a comfortable fit. <br>- Relaxed cut with dropped shoulders. <br>- Styles on its own or as an inner layer. <br>- Sleek turtleneck for everyday wear. <br>- Pairs well with any bottoms.",
-        "name": "HEATTECH Fleece Turtleneck Long Sleeve T-Shirt",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          }
-        },
-        "productId": "E449750-001",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.810344827586207,
-          "count": 58,
-          "fit": 3.086206896551724,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 11,
-            "five": 47
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              },
-              {
-                "code": "comingSoon",
-                "id": 13,
-                "name": "Coming Soon",
-                "detail": "Available late Jul"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "07318396",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 96,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Soft, warm 'HEATTECH' fleece. Versatile relaxed cut.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/449750001_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA002",
-            "displayCode": "002",
-            "name": "XS",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean"
-      },
-      {
         "careInstruction": "<br>",
         "colors": [
           {
@@ -16282,7 +16095,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -16459,7 +16272,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -16669,7 +16482,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -16861,7 +16674,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -17068,7 +16881,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -17260,7 +17073,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -22993,7 +22806,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -23194,7 +23007,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -23380,7 +23193,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -23611,7 +23424,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 96,
           "count": 0,
           "items": []
         },
@@ -28547,7 +28360,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -35446,9 +35259,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL11",
+            "displayCode": "11",
+            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -35471,12 +35284,6 @@
                 "detail": "Exclusive Size Online Only"
               },
               {
-                "code": "comingSoon",
-                "id": 13,
-                "name": "Coming Soon",
-                "detail": "Available late Jul"
-              },
-              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
@@ -35485,7 +35292,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "06988603",
+          "l2Id": "07273742",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -45715,9 +45522,9 @@
       }
     ],
     "pagination": {
-      "count": 218,
+      "count": 217,
       "total": 218,
-      "offset": 300
+      "offset": 301
     }
   }
 }
