@@ -27016,19 +27016,13 @@
         "longDescription": "- Soft, warm 'HEATTECH' fleece fabric. <br>- Stretch for a comfortable fit. <br>- Relaxed cut with dropped shoulders. <br>- Styles on its own or as an inner layer. <br>- Sleek turtleneck for everyday wear. <br>- Pairs well with any bottoms.",
         "name": "HEATTECH Fleece Turtleneck Long Sleeve T-Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1290.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E442063-000",
@@ -27063,40 +27057,27 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL24",
+            "displayCode": "24",
+            "name": "ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
                 "id": 5,
                 "name": "Exclusive Size Online Only",
                 "detail": "Exclusive Size Online Only"
-              },
-              {
-                "code": "limitedStore",
-                "id": 3,
-                "name": "Limited Store",
-                "detail": "Limited Store"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "07067454",
+          "l2Id": "07067431",
           "salesStartDate": "",
           "salesEndDate": ""
         },
