@@ -335,13 +335,6 @@
           "lazy": false
         },
         {
-          "code": "comingSoon",
-          "name": "Coming Soon",
-          "rank": 11,
-          "id": 13,
-          "lazy": false
-        },
-        {
           "code": "limitedStore",
           "name": "Limited Store",
           "rank": 13,
@@ -365,7 +358,7 @@
         {
           "from": 300,
           "to": 500,
-          "count": 11
+          "count": 10
         },
         {
           "from": 500,
@@ -396,53 +389,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 219,
+          "accumulated": 218,
           "count": 76
         },
         {
           "rating": 0.5,
-          "accumulated": 143,
+          "accumulated": 142,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 143,
+          "accumulated": 142,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 143,
+          "accumulated": 142,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 143,
+          "accumulated": 142,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 142,
+          "accumulated": 141,
           "count": 4
         },
         {
           "rating": 3,
-          "accumulated": 138,
+          "accumulated": 137,
           "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 136,
+          "accumulated": 135,
           "count": 5
         },
         {
           "rating": 4,
-          "accumulated": 131,
+          "accumulated": 130,
           "count": 22
         },
         {
           "rating": 4.5,
-          "accumulated": 109,
-          "count": 39
+          "accumulated": 108,
+          "count": 38
         },
         {
           "rating": 5,
@@ -45094,8 +45087,8 @@
     ],
     "pagination": {
       "count": 218,
-      "total": 219,
-      "offset": 301
+      "total": 218,
+      "offset": 300
     }
   }
 }
