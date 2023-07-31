@@ -6349,15 +6349,15 @@
           }
         ],
         "rating": {
-          "average": 4,
-          "count": 5,
-          "fit": 2.8,
+          "average": 4.166666666666667,
+          "count": 6,
+          "fit": 2.8333333333333335,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 0,
             "four": 2,
-            "five": 2
+            "five": 3
           }
         },
         "representative": {
@@ -7709,15 +7709,15 @@
           }
         ],
         "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
+          "average": 5,
+          "count": 1,
+          "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 0
+            "five": 1
           }
         },
         "representative": {
@@ -12068,15 +12068,15 @@
           }
         ],
         "rating": {
-          "average": 4.5,
-          "count": 2,
+          "average": 4.666666666666667,
+          "count": 3,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -16697,11 +16697,11 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
+          "average": 3,
+          "count": 2,
+          "fit": 2,
           "rateCount": {
-            "one": 0,
+            "one": 1,
             "two": 0,
             "three": 0,
             "four": 0,
@@ -16858,11 +16858,11 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
+          "average": 3,
+          "count": 2,
+          "fit": 2,
           "rateCount": {
-            "one": 0,
+            "one": 1,
             "two": 0,
             "three": 0,
             "four": 0,
@@ -17019,11 +17019,11 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
+          "average": 3,
+          "count": 2,
+          "fit": 2,
           "rateCount": {
-            "one": 0,
+            "one": 1,
             "two": 0,
             "three": 0,
             "four": 0,
@@ -18879,14 +18879,14 @@
           }
         ],
         "rating": {
-          "average": 3.5,
-          "count": 2,
-          "fit": 2,
+          "average": 3.6666666666666665,
+          "count": 3,
+          "fit": 1.6666666666666667,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 0,
-            "four": 0,
+            "four": 1,
             "five": 1
           }
         },
@@ -24659,13 +24659,13 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 3,
+          "average": 4,
+          "count": 2,
+          "fit": 2.5,
           "rateCount": {
             "one": 0,
             "two": 0,
-            "three": 0,
+            "three": 1,
             "four": 0,
             "five": 1
           }
@@ -29956,15 +29956,15 @@
           }
         ],
         "rating": {
-          "average": 4.666666666666667,
-          "count": 3,
-          "fit": 3.3333333333333335,
+          "average": 4.75,
+          "count": 4,
+          "fit": 3.25,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 2
+            "five": 3
           }
         },
         "representative": {
@@ -32974,15 +32974,15 @@
           }
         ],
         "rating": {
-          "average": 4.666666666666667,
-          "count": 3,
-          "fit": 2.6666666666666665,
+          "average": 4.75,
+          "count": 4,
+          "fit": 2.75,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 2
+            "five": 3
           }
         },
         "representative": {
