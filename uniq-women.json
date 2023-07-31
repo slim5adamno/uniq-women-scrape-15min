@@ -801,36 +801,36 @@
             "name": "Jersey"
           },
           {
-            "id": 22374,
-            "name": "Loungewear & Pajamas"
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 27749,
             "name": "Linen"
           },
           {
-            "id": 22371,
-            "name": "Underwear"
-          },
-          {
-            "id": 22368,
-            "name": "Inner Tops"
+            "id": 22374,
+            "name": "Loungewear & Pajamas"
           },
           {
             "id": 31143,
             "name": "Sale"
           },
           {
+            "id": 22368,
+            "name": "Inner Tops"
+          },
+          {
             "id": 13095,
             "name": "＋J"
           },
           {
-            "id": 22366,
-            "name": "HEATTECH"
-          },
-          {
             "id": 22347,
             "name": "Jeans"
+          },
+          {
+            "id": 22366,
+            "name": "HEATTECH"
           },
           {
             "id": 22339,
@@ -841,12 +841,12 @@
             "name": "Relaco"
           },
           {
-            "id": 22352,
-            "name": "Casual Pants"
-          },
-          {
             "id": 22373,
             "name": "Others"
+          },
+          {
+            "id": 22352,
+            "name": "Casual Pants"
           },
           {
             "id": 22377,
@@ -857,48 +857,48 @@
             "name": "Leggings Pants"
           },
           {
-            "id": 25838,
-            "name": "Sleeveless Tops"
+            "id": 22353,
+            "name": "Ankle Pants & Cropped Pants"
           },
           {
             "id": 31202,
             "name": "Sunglasses"
           },
           {
-            "id": 22353,
-            "name": "Ankle Pants & Cropped Pants"
+            "id": 25838,
+            "name": "Sleeveless Tops"
           },
           {
             "id": 22350,
             "name": "Trousers"
           },
           {
-            "id": 22343,
-            "name": "T-shirts"
+            "id": 24732,
+            "name": "Socks"
           },
           {
             "id": 22379,
             "name": "Others"
           },
           {
-            "id": 24732,
-            "name": "Socks"
-          },
-          {
-            "id": 22354,
-            "name": "Shorts"
+            "id": 22343,
+            "name": "T-shirts"
           },
           {
             "id": 22388,
             "name": "Others"
           },
           {
-            "id": 22344,
-            "name": "Shirts & Blouses"
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 23540,
             "name": "Socks"
+          },
+          {
+            "id": 22344,
+            "name": "Shirts & Blouses"
           },
           {
             "id": 23541,
@@ -985,12 +985,12 @@
             "name": "Ribbed"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve T-Shirts"
-          },
-          {
             "id": 11592,
             "name": "Others"
+          },
+          {
+            "id": 12196,
+            "name": "Short Sleeve T-Shirts"
           },
           {
             "id": 31155,
@@ -1069,12 +1069,12 @@
             "name": "Linen"
           },
           {
-            "id": 43217,
-            "name": "Polo"
-          },
-          {
             "id": 12320,
             "name": "Easy"
+          },
+          {
+            "id": 43217,
+            "name": "Polo"
           },
           {
             "id": 43213,
@@ -10949,12 +10949,6 @@
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458599/sub/goods_458599_sub17.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458599/sub/goods_458599_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458599/sub/goods_458599_sub19.jpg"
-            },
-            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458599/sub/goods_458599_sub20.jpg"
             },
             {
@@ -15442,12 +15436,6 @@
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462178/sub/goods_462178_sub17.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462178/sub/goods_462178_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462178/sub/goods_462178_sub19.jpg"
-            },
-            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462178/sub/goods_462178_sub20.jpg"
             },
             {
@@ -15614,12 +15602,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462177/sub/goods_462177_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462177/sub/goods_462177_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462177/sub/goods_462177_sub19.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462177/sub/goods_462177_sub20.jpg"
@@ -15820,12 +15802,6 @@
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462176/sub/goods_462176_sub17.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462176/sub/goods_462176_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462176/sub/goods_462176_sub19.jpg"
-            },
-            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462176/sub/goods_462176_sub20.jpg"
             },
             {
@@ -16001,12 +15977,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462175/sub/goods_462175_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462175/sub/goods_462175_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462175/sub/goods_462175_sub19.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462175/sub/goods_462175_sub20.jpg"
@@ -16367,12 +16337,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462173/sub/goods_462173_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462173/sub/goods_462173_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462173/sub/goods_462173_sub19.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462173/sub/goods_462173_sub20.jpg"
