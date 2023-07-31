@@ -20587,12 +20587,6 @@
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462992/sub/goods_462992_sub17.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462992/sub/goods_462992_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462992/sub/goods_462992_sub19.jpg"
-            },
-            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/462992/sub/goods_462992_sub20.jpg"
             },
             {
@@ -23326,15 +23320,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -34998,15 +34983,6 @@
             "code": "SMA002",
             "displayCode": "002",
             "name": "XS",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
