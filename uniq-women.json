@@ -813,10 +813,6 @@
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 31143,
-            "name": "Sale"
-          },
-          {
             "id": 22368,
             "name": "Inner Tops"
           },
@@ -825,12 +821,16 @@
             "name": "＋J"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
+            "id": 31143,
+            "name": "Sale"
           },
           {
             "id": 22366,
             "name": "HEATTECH"
+          },
+          {
+            "id": 22347,
+            "name": "Jeans"
           },
           {
             "id": 22339,
@@ -841,6 +841,10 @@
             "name": "Relaco"
           },
           {
+            "id": 22377,
+            "name": "Room Shoes"
+          },
+          {
             "id": 22373,
             "name": "Others"
           },
@@ -849,24 +853,20 @@
             "name": "Casual Pants"
           },
           {
-            "id": 22377,
-            "name": "Room Shoes"
-          },
-          {
             "id": 22348,
             "name": "Leggings Pants"
           },
           {
-            "id": 22353,
-            "name": "Ankle Pants & Cropped Pants"
+            "id": 25838,
+            "name": "Sleeveless Tops"
           },
           {
             "id": 31202,
             "name": "Sunglasses"
           },
           {
-            "id": 25838,
-            "name": "Sleeveless Tops"
+            "id": 22353,
+            "name": "Ankle Pants & Cropped Pants"
           },
           {
             "id": 22350,
@@ -877,12 +877,12 @@
             "name": "Socks"
           },
           {
-            "id": 22379,
-            "name": "Others"
-          },
-          {
             "id": 22343,
             "name": "T-shirts"
+          },
+          {
+            "id": 22379,
+            "name": "Others"
           },
           {
             "id": 22388,
@@ -977,12 +977,12 @@
             "name": "Oversized"
           },
           {
-            "id": 30899,
-            "name": "Sale"
-          },
-          {
             "id": 12204,
             "name": "Ribbed"
+          },
+          {
+            "id": 30899,
+            "name": "Sale"
           },
           {
             "id": 11592,
@@ -1005,24 +1005,24 @@
             "name": "Corduroy"
           },
           {
-            "id": 23479,
-            "name": "Relaco"
-          },
-          {
             "id": 12176,
             "name": "Drape"
+          },
+          {
+            "id": 23479,
+            "name": "Relaco"
           },
           {
             "id": 28411,
             "name": "Rayon S/S"
           },
           {
-            "id": 31890,
-            "name": "Sale"
-          },
-          {
             "id": 12167,
             "name": "Premium Linen"
+          },
+          {
+            "id": 31890,
+            "name": "Sale"
           },
           {
             "id": 12168,
@@ -1069,12 +1069,12 @@
             "name": "Linen"
           },
           {
-            "id": 12320,
-            "name": "Easy"
-          },
-          {
             "id": 43217,
             "name": "Polo"
+          },
+          {
+            "id": 12320,
+            "name": "Easy"
           },
           {
             "id": 43213,
