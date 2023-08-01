@@ -798,16 +798,12 @@
             "name": "Jersey"
           },
           {
-            "id": 22371,
-            "name": "Underwear"
-          },
-          {
             "id": 27749,
             "name": "Linen"
           },
           {
-            "id": 13095,
-            "name": "＋J"
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 31143,
@@ -818,12 +814,16 @@
             "name": "Inner Tops"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
+            "id": 13095,
+            "name": "＋J"
           },
           {
             "id": 42320,
             "name": "Bottoms"
+          },
+          {
+            "id": 22347,
+            "name": "Jeans"
           },
           {
             "id": 22339,
@@ -834,12 +834,12 @@
             "name": "Relaco"
           },
           {
-            "id": 22373,
-            "name": "Others"
-          },
-          {
             "id": 22352,
             "name": "Casual Pants"
+          },
+          {
+            "id": 22373,
+            "name": "Others"
           },
           {
             "id": 22348,
@@ -862,12 +862,12 @@
             "name": "Trousers"
           },
           {
-            "id": 22343,
-            "name": "T-shirts"
-          },
-          {
             "id": 22379,
             "name": "Others"
+          },
+          {
+            "id": 22343,
+            "name": "T-shirts"
           },
           {
             "id": 22354,
@@ -886,12 +886,12 @@
             "name": "Others"
           },
           {
-            "id": 22345,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 22356,
             "name": "Others"
+          },
+          {
+            "id": 22345,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 12262,
@@ -954,20 +954,20 @@
             "name": "Oversized"
           },
           {
-            "id": 12204,
-            "name": "Ribbed"
-          },
-          {
             "id": 30899,
             "name": "Sale"
           },
           {
-            "id": 11592,
-            "name": "Others"
+            "id": 12204,
+            "name": "Ribbed"
           },
           {
             "id": 12196,
             "name": "Short Sleeve T-Shirts"
+          },
+          {
+            "id": 11592,
+            "name": "Others"
           },
           {
             "id": 31155,
@@ -982,20 +982,20 @@
             "name": "Corduroy"
           },
           {
-            "id": 23479,
-            "name": "Relaco"
-          },
-          {
             "id": 12176,
             "name": "Drape"
           },
           {
-            "id": 31890,
-            "name": "Sale"
+            "id": 23479,
+            "name": "Relaco"
           },
           {
             "id": 12167,
             "name": "Premium Linen"
+          },
+          {
+            "id": 31890,
+            "name": "Sale"
           },
           {
             "id": 12168,
@@ -1038,12 +1038,12 @@
             "name": "Room Shoes"
           },
           {
-            "id": 12321,
-            "name": "Cotton"
-          },
-          {
             "id": 43212,
             "name": "Coming Soon"
+          },
+          {
+            "id": 12321,
+            "name": "Cotton"
           },
           {
             "id": 43219,
@@ -39762,14 +39762,8 @@
         "longDescription": "- 2-way stretch fabric for a comfortable fit. <br>- Versatile mid-rise. <br>- Stylish design with carefully considered buttons, stitchwork, and back pocket sizing. <br>- Fully elastic waist. <br>- With belt loops.",
         "name": "Extra Stretch Denim Leggings Trousers",
         "prices": {
+          "promo": null,
           "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2990.0000"
-          },
-          "promo": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
@@ -39818,14 +39812,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -40005,14 +39992,8 @@
         "longDescription": "- 2-way stretch fabric for a comfortable fit. <br>- Versatile mid-rise. <br>- Stylish design with carefully considered buttons, stitchwork, and back pocket sizing. <br>- Fully elastic waist. <br>- With belt loops.",
         "name": "Extra Stretch Leggings Trousers",
         "prices": {
+          "promo": null,
           "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2990.0000"
-          },
-          "promo": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
@@ -40061,14 +40042,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
