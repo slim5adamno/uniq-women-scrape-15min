@@ -43604,19 +43604,13 @@
         "longDescription": "- Cool 100% high quality material made of 100% linen cultivated in Europe. <br>- Premium long fiber linen for a fine lustrous sheen. <br>- The fabric is processed to have fewer wrinkles after washing. <br>- The more you wear it, the softer it becomes. <br>- Roomy cut around the shoulders is balanced to allow easy movement without excess fabric. <br>- The perfect length and hem curve to wear either tucked in or out. <br>- Stitching thread and width carefully chosen to reduce puckering (wrinkling) in the French front for a more elegant impression. <br>- Simple, elegant design with a regular collar and French front that goes with a variety of styles. <br>- Great as an extra layer for warmth in chilly rooms.",
         "name": "Premium Linen Long Sleeve Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E455957-000",
@@ -43651,23 +43645,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL61",
-            "displayCode": "61",
-            "name": "BLUE",
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -43678,7 +43665,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07376701",
+          "l2Id": "07376764",
           "salesStartDate": "",
           "salesEndDate": ""
         },
