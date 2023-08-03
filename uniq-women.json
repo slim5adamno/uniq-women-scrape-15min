@@ -762,6 +762,10 @@
         ],
         "subcategories": [
           {
+            "id": 22367,
+            "name": "AIRism"
+          },
+          {
             "id": 22349,
             "name": "Wide Pants"
           },
@@ -770,28 +774,24 @@
             "name": "Sleeveless"
           },
           {
-            "id": 22367,
-            "name": "AIRism"
-          },
-          {
             "id": 22383,
             "name": "Bags"
           },
           {
-            "id": 22371,
-            "name": "Underwear"
-          },
-          {
-            "id": 27749,
-            "name": "Linen"
+            "id": 22374,
+            "name": "Loungewear & Pajamas"
           },
           {
             "id": 12268,
             "name": "Jersey"
           },
           {
-            "id": 22374,
-            "name": "Loungewear & Pajamas"
+            "id": 27749,
+            "name": "Linen"
+          },
+          {
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 31143,
@@ -802,16 +802,16 @@
             "name": "Inner Tops"
           },
           {
+            "id": 42320,
+            "name": "Bottoms"
+          },
+          {
             "id": 13095,
             "name": "＋J"
           },
           {
             "id": 22347,
             "name": "Jeans"
-          },
-          {
-            "id": 42320,
-            "name": "Bottoms"
           },
           {
             "id": 22339,
@@ -822,16 +822,16 @@
             "name": "Relaco"
           },
           {
+            "id": 22352,
+            "name": "Casual Pants"
+          },
+          {
             "id": 22373,
             "name": "Others"
           },
           {
             "id": 22377,
             "name": "Room Shoes"
-          },
-          {
-            "id": 22352,
-            "name": "Casual Pants"
           },
           {
             "id": 22353,
