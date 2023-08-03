@@ -4715,19 +4715,13 @@
         "longDescription": "- With odor control, deodorizing, and DRY technology. <br>- Perfect length to prevent chafing. <br>- Sporty gradient design. <br>- Sports socks that support the feet with a good fit.",
         "name": "Short Socks 3 Pack (Sports/Piled)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "790.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "590.0000"
           }
         },
         "productId": "E455333-000",
@@ -4762,27 +4756,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07369797",
+          "l2Id": "07369801",
           "salesStartDate": "",
           "salesEndDate": ""
         },
