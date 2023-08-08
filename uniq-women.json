@@ -758,14 +758,6 @@
         ],
         "subcategories": [
           {
-            "id": 49274,
-            "name": "Regular Warm"
-          },
-          {
-            "id": 26152,
-            "name": "Shorts"
-          },
-          {
             "id": 42320,
             "name": "Bottoms"
           },
@@ -774,20 +766,32 @@
             "name": "Wide Pants"
           },
           {
-            "id": 22383,
-            "name": "Bags"
+            "id": 49274,
+            "name": "Regular Warm"
+          },
+          {
+            "id": 26152,
+            "name": "Shorts"
           },
           {
             "id": 12262,
             "name": "Sleeveless"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
+            "id": 22383,
+            "name": "Bags"
           },
           {
             "id": 27749,
             "name": "Linen"
+          },
+          {
+            "id": 22347,
+            "name": "Jeans"
+          },
+          {
+            "id": 49296,
+            "name": "Flannel"
           },
           {
             "id": 12268,
@@ -796,10 +800,6 @@
           {
             "id": 49277,
             "name": "Sleeveless"
-          },
-          {
-            "id": 49296,
-            "name": "Flannel"
           },
           {
             "id": 22339,
@@ -814,12 +814,12 @@
             "name": "Ankle Pants & Cropped Pants"
           },
           {
-            "id": 22366,
-            "name": "HEATTECH"
-          },
-          {
             "id": 22350,
             "name": "Trousers"
+          },
+          {
+            "id": 22366,
+            "name": "HEATTECH"
           },
           {
             "id": 22354,
@@ -830,36 +830,36 @@
             "name": "Sleeveless Tops"
           },
           {
-            "id": 22367,
-            "name": "AIRism"
-          },
-          {
             "id": 31202,
             "name": "Sunglasses"
+          },
+          {
+            "id": 22367,
+            "name": "AIRism"
           },
           {
             "id": 22343,
             "name": "T-shirts"
           },
           {
-            "id": 22368,
-            "name": "Inner Tops"
-          },
-          {
             "id": 22344,
             "name": "Shirts & Blouses"
           },
           {
-            "id": 22388,
-            "name": "Others"
+            "id": 22368,
+            "name": "Inner Tops"
+          },
+          {
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 22377,
             "name": "Room Shoes"
           },
           {
-            "id": 22371,
-            "name": "Underwear"
+            "id": 22388,
+            "name": "Others"
           },
           {
             "id": 22379,
@@ -878,12 +878,12 @@
             "name": "Short Sleeve Dress"
           },
           {
-            "id": 11584,
-            "name": "Others"
-          },
-          {
             "id": 22345,
             "name": "UT(Graphic T-Shirts)"
+          },
+          {
+            "id": 11584,
+            "name": "Others"
           },
           {
             "id": 49235,
@@ -902,16 +902,16 @@
             "name": "Others"
           },
           {
+            "id": 12286,
+            "name": "Ankle"
+          },
+          {
             "id": 23511,
             "name": "Shoulder Bags"
           },
           {
             "id": 31143,
             "name": "Sale"
-          },
-          {
-            "id": 12286,
-            "name": "Ankle"
           },
           {
             "id": 24322,
@@ -1038,12 +1038,12 @@
             "name": "AIRism"
           },
           {
-            "id": 12256,
-            "name": "With Pokémon"
-          },
-          {
             "id": 11596,
             "name": "Others"
+          },
+          {
+            "id": 12256,
+            "name": "With Pokémon"
           },
           {
             "id": 42747,
@@ -1054,12 +1054,12 @@
             "name": "UTGP2023: MAGIC FOR ALL"
           },
           {
-            "id": 46045,
-            "name": "Ichikawa Danjūrō XIII, Hakuen | Shochiku Kabuki"
-          },
-          {
             "id": 49227,
             "name": "Short"
+          },
+          {
+            "id": 46045,
+            "name": "Ichikawa Danjūrō XIII, Hakuen | Shochiku Kabuki"
           },
           {
             "id": 12245,
