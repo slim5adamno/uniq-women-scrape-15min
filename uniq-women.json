@@ -597,7 +597,7 @@
           },
           {
             "id": 11567,
-            "name": "Fleece & Blouson"
+            "name": "Fleece & Hoodies"
           },
           {
             "id": 11564,
@@ -613,7 +613,7 @@
           },
           {
             "id": 11576,
-            "name": "Sweatshirts & Hoodies"
+            "name": "Sweat"
           },
           {
             "id": 11575,
@@ -758,44 +758,44 @@
         ],
         "subcategories": [
           {
-            "id": 42320,
-            "name": "Bottoms"
+            "id": 26152,
+            "name": "Shorts"
           },
           {
             "id": 22349,
             "name": "Wide Pants"
           },
           {
+            "id": 42320,
+            "name": "Bottoms"
+          },
+          {
             "id": 49274,
             "name": "Regular Warm"
-          },
-          {
-            "id": 26152,
-            "name": "Shorts"
-          },
-          {
-            "id": 12262,
-            "name": "Sleeveless"
           },
           {
             "id": 22383,
             "name": "Bags"
           },
           {
-            "id": 27749,
-            "name": "Linen"
+            "id": 12262,
+            "name": "Sleeveless"
           },
           {
             "id": 22347,
             "name": "Jeans"
           },
           {
-            "id": 49296,
-            "name": "Flannel"
+            "id": 27749,
+            "name": "Linen"
           },
           {
             "id": 12268,
             "name": "Jersey"
+          },
+          {
+            "id": 49296,
+            "name": "Flannel"
           },
           {
             "id": 49277,
@@ -814,12 +814,12 @@
             "name": "Ankle Pants & Cropped Pants"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
-          },
-          {
             "id": 22366,
             "name": "HEATTECH"
+          },
+          {
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 22354,
@@ -830,36 +830,36 @@
             "name": "Sleeveless Tops"
           },
           {
-            "id": 31202,
-            "name": "Sunglasses"
+            "id": 22343,
+            "name": "T-shirts"
           },
           {
             "id": 22367,
             "name": "AIRism"
           },
           {
-            "id": 22343,
-            "name": "T-shirts"
-          },
-          {
-            "id": 22344,
-            "name": "Shirts & Blouses"
+            "id": 31202,
+            "name": "Sunglasses"
           },
           {
             "id": 22368,
             "name": "Inner Tops"
           },
           {
-            "id": 22371,
-            "name": "Underwear"
+            "id": 22344,
+            "name": "Shirts & Blouses"
+          },
+          {
+            "id": 22388,
+            "name": "Others"
           },
           {
             "id": 22377,
             "name": "Room Shoes"
           },
           {
-            "id": 22388,
-            "name": "Others"
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 22379,
@@ -998,12 +998,12 @@
             "name": "U Crew"
           },
           {
-            "id": 11593,
-            "name": "Others"
-          },
-          {
             "id": 13093,
             "name": "UNIQLO and JW ANDERSON"
+          },
+          {
+            "id": 11593,
+            "name": "Others"
           },
           {
             "id": 31153,
@@ -1038,12 +1038,12 @@
             "name": "AIRism"
           },
           {
-            "id": 11596,
-            "name": "Others"
-          },
-          {
             "id": 12256,
             "name": "With Pokémon"
+          },
+          {
+            "id": 11596,
+            "name": "Others"
           },
           {
             "id": 42747,
