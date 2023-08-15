@@ -3826,19 +3826,13 @@
         "longDescription": "- Mixed colors for a touch of fun.",
         "name": "Short Socks 3 Pack (Mix Yarn Ribbed)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "790.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "590.0000"
           }
         },
         "productId": "E455331-000",
@@ -3873,27 +3867,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL63",
+            "displayCode": "63",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07369729",
+          "l2Id": "07369737",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -39582,19 +39569,13 @@
         "longDescription": "- Soft sweatpants. <br>- Ribbed fabric used for the waist and hem for a good fit and softness. <br>- Retro sports-inspired design with lines on both sides. <br>- Side lines create a sleek silhouette. <br>- Drawstring waist allows for easy size adjustment. <br>- Side pockets and right back pocket.",
         "name": "Sweat Pants",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E458568-000",
@@ -39629,8 +39610,8 @@
         },
         "representative": {
           "color": {
-            "code": "COL05",
-            "displayCode": "05",
+            "code": "COL03",
+            "displayCode": "03",
             "name": "GRAY",
             "display": {
               "showFlag": true,
@@ -39638,14 +39619,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -39656,7 +39630,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07410381",
+          "l2Id": "07410372",
           "salesStartDate": "",
           "salesEndDate": ""
         },
