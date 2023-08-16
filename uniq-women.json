@@ -6941,7 +6941,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -7103,7 +7103,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -7276,7 +7276,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 98,
           "count": 0,
           "items": []
         },
@@ -13948,7 +13948,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -14140,7 +14140,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -14350,7 +14350,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -14554,7 +14554,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -14743,7 +14743,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -14920,7 +14920,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -21401,7 +21401,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -21587,7 +21587,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -21749,7 +21749,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -21911,7 +21911,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -22073,7 +22073,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -36131,194 +36131,6 @@
             }
           }
         ],
-        "composition": "100% VISCOSE",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Women",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458658/item/ingoods_01_458658.jpg",
-              "colorCode": "01"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458658/item/ingoods_09_458658.jpg",
-              "colorCode": "09"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458658/chip/goods_01_458658_chip.jpg",
-              "colorCode": "01"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458658/chip/goods_09_458658_chip.jpg",
-              "colorCode": "09"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/458658/sub/ingoods_458658_sub9.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458658/sub/goods_458658_sub11.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458658/sub/goods_458658_sub12.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458658/sub/goods_458658_sub14.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458658/sub/goods_458658_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458658/sub/goods_458658_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458658/sub/goods_458658_sub19.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/458658/sub/goods_458658_sub23.jpg"
-            }
-          ]
-        },
-        "l1Id": "458658",
-        "longDescription": "- Soft viscose fabric with an elegant drape. <br>- Delicate straps and a sleek square neckline create a flattering open design. <br>- The length of the straps adjust for a snugger fit. <br>- Smocked at the back for a comfortable fit. <br>- Side fastener for easy dressing. <br>- Long, flared skirt flows softly as you move. <br>- The slit in the front allows free movement and flatters the legs. <br>- Hand-drawn style daisy print. <br>- An easy-to-wear printed camisole dress. <br>- A versatile dress for vacation and everyday wear.",
-        "name": "Printed Front Slit Camisole Dress",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "3990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
-          }
-        },
-        "productId": "E458658-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": null,
-          "count": 0,
-          "fit": null,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 0
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "07597554",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 98,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Fitted in the top with an elegant flared skirt. A versatile dress for any occasion.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/458658_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
         "composition": "[01 OFF WHITE] Body: 50% Linen, 50% Cotton/ Lining: 100% Polyester/ Pocket Lining: 80% Polyester, 20% Cotton [09 BLACK] Body: 50% Linen, 50% Cotton/ Pocket Lining: 80% Polyester, 20% Cotton",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
@@ -43914,9 +43726,9 @@
       }
     ],
     "pagination": {
-      "count": 214,
+      "count": 213,
       "total": 214,
-      "offset": 300
+      "offset": 301
     }
   }
 }
