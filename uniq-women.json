@@ -1309,9 +1309,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL22",
-            "displayCode": "22",
-            "name": "ORANGE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1336,7 +1336,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07438414",
+          "l2Id": "07438406",
           "salesStartDate": "",
           "salesEndDate": ""
         },
