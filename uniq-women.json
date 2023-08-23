@@ -1990,8 +1990,8 @@
         },
         "representative": {
           "color": {
-            "code": "COL67",
-            "displayCode": "67",
+            "code": "COL63",
+            "displayCode": "63",
             "name": "BLUE",
             "display": {
               "showFlag": true,
@@ -2017,7 +2017,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07574774",
+          "l2Id": "07574767",
           "salesStartDate": "",
           "salesEndDate": ""
         },
