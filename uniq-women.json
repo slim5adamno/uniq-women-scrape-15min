@@ -719,24 +719,20 @@
             "name": "Sleeveless"
           },
           {
-            "id": 27749,
-            "name": "Linen"
-          },
-          {
             "id": 22347,
             "name": "Jeans"
           },
           {
-            "id": 49296,
-            "name": "Flannel"
+            "id": 27749,
+            "name": "Linen"
           },
           {
             "id": 42323,
             "name": "Tops"
           },
           {
-            "id": 22352,
-            "name": "Casual Pants"
+            "id": 49296,
+            "name": "Flannel"
           },
           {
             "id": 12268,
@@ -745,6 +741,10 @@
           {
             "id": 22339,
             "name": "Rayon"
+          },
+          {
+            "id": 22352,
+            "name": "Casual Pants"
           },
           {
             "id": 31202,
@@ -779,12 +779,12 @@
             "name": "T-shirts"
           },
           {
-            "id": 22368,
-            "name": "Inner Tops"
-          },
-          {
             "id": 22344,
             "name": "Shirts & Blouses"
+          },
+          {
+            "id": 22368,
+            "name": "Inner Tops"
           },
           {
             "id": 22379,
@@ -795,12 +795,12 @@
             "name": "High Rise"
           },
           {
-            "id": 12263,
-            "name": "Short Sleeve Dress"
-          },
-          {
             "id": 22373,
             "name": "Others"
+          },
+          {
+            "id": 12263,
+            "name": "Short Sleeve Dress"
           },
           {
             "id": 11584,
@@ -847,12 +847,12 @@
             "name": "Mini"
           },
           {
-            "id": 31143,
-            "name": "Sale"
-          },
-          {
             "id": 12286,
             "name": "Ankle"
+          },
+          {
+            "id": 31143,
+            "name": "Sale"
           },
           {
             "id": 24322,
@@ -867,12 +867,12 @@
             "name": "High Rise"
           },
           {
-            "id": 12282,
-            "name": "Skinny Fit"
-          },
-          {
             "id": 30899,
             "name": "Sale"
+          },
+          {
+            "id": 12282,
+            "name": "Skinny Fit"
           },
           {
             "id": 11592,
