@@ -42050,7 +42050,7 @@
         "washingInformation": "Hand wash cold, Do not Dry Clean"
       },
       {
-        "careInstruction": "-",
+        "careInstruction": "<br>",
         "colors": [
           {
             "code": "COL69",
@@ -42216,7 +42216,7 @@
         "washingInformation": "Do not wash, Dry Clean"
       },
       {
-        "careInstruction": "-",
+        "careInstruction": "<br>",
         "colors": [
           {
             "code": "COL69",
@@ -42230,7 +42230,7 @@
         ],
         "composition": "Shell: 90% Polyester, 10% Wool/ Lining: 100% Polyester/ Pocket Lining: 100% Polyester",
         "designDetail": "",
-        "freeInformation": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
         "hideReview": false,
         "images": {
@@ -42402,7 +42402,7 @@
         "washingInformation": "Do not wash, Dry Clean"
       },
       {
-        "careInstruction": "-",
+        "careInstruction": "<br>",
         "colors": [
           {
             "code": "COL02",
@@ -42425,7 +42425,7 @@
         ],
         "composition": "Shell: 90% Polyester, 10% Wool/ Lining: 100% Polyester/ Pocket Lining: 100% Polyester",
         "designDetail": "",
-        "freeInformation": "",
+        "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
         "hideReview": false,
         "images": {
