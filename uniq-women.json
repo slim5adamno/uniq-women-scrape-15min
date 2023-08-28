@@ -704,12 +704,12 @@
         ],
         "subcategories": [
           {
-            "id": 22349,
-            "name": "Wide Pants"
-          },
-          {
             "id": 26152,
             "name": "Shorts"
+          },
+          {
+            "id": 22349,
+            "name": "Wide Pants"
           },
           {
             "id": 22347,
@@ -844,12 +844,12 @@
             "name": "Mini"
           },
           {
-            "id": 31143,
-            "name": "Sale"
-          },
-          {
             "id": 12286,
             "name": "Ankle"
+          },
+          {
+            "id": 31143,
+            "name": "Sale"
           },
           {
             "id": 24322,
