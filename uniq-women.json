@@ -41411,7 +41411,8 @@
             "name": "-",
             "isDummy": false,
             "states": [
-              "display"
+              "display",
+              "sale"
             ],
             "display": {
               "showFlag": false,
@@ -41451,12 +41452,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "comingSoon",
-                "id": 13,
-                "name": "Coming Soon",
-                "detail": "Available late Aug"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -42626,7 +42621,8 @@
             "name": "-",
             "isDummy": false,
             "states": [
-              "display"
+              "display",
+              "sale"
             ],
             "display": {
               "showFlag": false,
@@ -42666,12 +42662,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "comingSoon",
-                "id": 13,
-                "name": "Coming Soon",
-                "detail": "Available late Aug"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
@@ -42831,7 +42821,8 @@
             "name": "-",
             "isDummy": false,
             "states": [
-              "display"
+              "display",
+              "sale"
             ],
             "display": {
               "showFlag": false,
@@ -42871,12 +42862,6 @@
               }
             ],
             "productFlags": [
-              {
-                "code": "comingSoon",
-                "id": 13,
-                "name": "Coming Soon",
-                "detail": "Available late Aug"
-              },
               {
                 "code": "limitedStore",
                 "id": 3,
