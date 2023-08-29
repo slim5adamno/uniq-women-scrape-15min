@@ -40268,9 +40268,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL72",
-            "displayCode": "72",
-            "name": "PURPLE",
+            "code": "COL34",
+            "displayCode": "34",
+            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -40288,7 +40288,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07343661",
+          "l2Id": "07050798",
           "salesStartDate": "",
           "salesEndDate": ""
         },
