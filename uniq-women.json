@@ -38816,19 +38816,13 @@
         "longDescription": "- A wireless bra designed for relaxation. <br>- Seamless, flat edging at the neckline, armholes, and under-bust band for a supremely comfortable feel. <br>- Removable cups. <br>- Power netting and bonding from the cups to the shoulders provides support and prevents side spillage. <br>- Flattering V-neck design creates a natural outline.",
         "name": "Wireless Bra (Ultra Relax)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E450442-000",
@@ -38863,27 +38857,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL34",
-            "displayCode": "34",
-            "name": "BROWN",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07050798",
+          "l2Id": "07343640",
           "salesStartDate": "",
           "salesEndDate": ""
         },
