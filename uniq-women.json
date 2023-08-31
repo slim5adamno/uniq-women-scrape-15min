@@ -710,12 +710,12 @@
             "name": "Bra Tops"
           },
           {
-            "id": 27749,
-            "name": "Linen"
-          },
-          {
             "id": 22347,
             "name": "Jeans"
+          },
+          {
+            "id": 27749,
+            "name": "Linen"
           },
           {
             "id": 49296,
@@ -726,16 +726,16 @@
             "name": "Inner Tops"
           },
           {
-            "id": 22352,
-            "name": "Casual Pants"
-          },
-          {
             "id": 22339,
             "name": "Rayon"
           },
           {
             "id": 12262,
             "name": "Sleeveless"
+          },
+          {
+            "id": 22352,
+            "name": "Casual Pants"
           },
           {
             "id": 12268,
@@ -750,20 +750,20 @@
             "name": "Socks"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
-          },
-          {
             "id": 49277,
             "name": "Sleeveless"
           },
           {
-            "id": 25838,
-            "name": "Sleeveless Tops"
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 22354,
             "name": "Shorts"
+          },
+          {
+            "id": 25838,
+            "name": "Sleeveless Tops"
           },
           {
             "id": 22343,
@@ -778,12 +778,12 @@
             "name": "Shirts & Blouses"
           },
           {
-            "id": 22379,
-            "name": "Others"
-          },
-          {
             "id": 49260,
             "name": "High Rise"
+          },
+          {
+            "id": 22379,
+            "name": "Others"
           },
           {
             "id": 22373,
@@ -794,12 +794,12 @@
             "name": "Short Sleeve Dress"
           },
           {
-            "id": 22345,
-            "name": "UT(Graphic T-Shirts)"
-          },
-          {
             "id": 11584,
             "name": "Others"
+          },
+          {
+            "id": 22345,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 31368,
@@ -890,12 +890,12 @@
             "name": "Sale"
           },
           {
-            "id": 12167,
-            "name": "Premium Linen"
-          },
-          {
             "id": 12306,
             "name": "Straight Fit"
+          },
+          {
+            "id": 12167,
+            "name": "Premium Linen"
           },
           {
             "id": 12168,
@@ -970,12 +970,12 @@
             "name": "My Hero Academia"
           },
           {
-            "id": 48487,
-            "name": "L.A. EATS"
-          },
-          {
             "id": 11596,
             "name": "Others"
+          },
+          {
+            "id": 48487,
+            "name": "L.A. EATS"
           },
           {
             "id": 12256,
@@ -1010,12 +1010,12 @@
             "name": "Sanrio Characters The Great Gig"
           },
           {
-            "id": 12243,
-            "name": "#REALTALK CHAOS"
-          },
-          {
             "id": 31247,
             "name": "Sale"
+          },
+          {
+            "id": 12243,
+            "name": "#REALTALK CHAOS"
           },
           {
             "id": 12214,
