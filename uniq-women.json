@@ -64,11 +64,6 @@
           "name": "PINK"
         },
         {
-          "code": "COL13",
-          "displayCode": "13",
-          "name": "RED"
-        },
-        {
           "code": "COL15",
           "displayCode": "15",
           "name": "RED"
@@ -41596,15 +41591,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "INS024",
-            "displayCode": "024",
-            "name": "24inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
             "code": "INS025",
             "displayCode": "025",
             "name": "25inch",
@@ -45294,15 +45280,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL13",
-            "displayCode": "13",
-            "name": "RED",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Viscose",
@@ -45461,15 +45438,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
