@@ -600,7 +600,7 @@
           },
           {
             "id": 11588,
-            "name": "Casual & Cargo Pants"
+            "name": "Casual Pants"
           },
           {
             "id": 22321,
@@ -705,12 +705,12 @@
             "name": "Flannel"
           },
           {
-            "id": 22365,
-            "name": "Bra Tops"
-          },
-          {
             "id": 26152,
             "name": "Shorts"
+          },
+          {
+            "id": 22365,
+            "name": "Bra Tops"
           },
           {
             "id": 22347,
@@ -721,16 +721,16 @@
             "name": "Inner Tops"
           },
           {
-            "id": 22339,
-            "name": "Rayon"
-          },
-          {
             "id": 22352,
             "name": "Casual Pants"
           },
           {
             "id": 12262,
             "name": "Sleeveless"
+          },
+          {
+            "id": 22339,
+            "name": "Rayon"
           },
           {
             "id": 12268,
@@ -745,20 +745,20 @@
             "name": "Socks"
           },
           {
-            "id": 49277,
-            "name": "Sleeveless"
-          },
-          {
             "id": 22350,
             "name": "Trousers"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
+            "id": 49277,
+            "name": "Sleeveless"
           },
           {
             "id": 25838,
             "name": "Sleeveless Tops"
+          },
+          {
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 22343,
@@ -829,12 +829,12 @@
             "name": "Mini"
           },
           {
-            "id": 12286,
-            "name": "Ankle"
-          },
-          {
             "id": 31143,
             "name": "Sale"
+          },
+          {
+            "id": 12286,
+            "name": "Ankle"
           },
           {
             "id": 20183,
@@ -849,12 +849,12 @@
             "name": "High Rise"
           },
           {
-            "id": 12282,
-            "name": "Skinny Fit"
-          },
-          {
             "id": 30899,
             "name": "Sale"
+          },
+          {
+            "id": 12282,
+            "name": "Skinny Fit"
           },
           {
             "id": 11592,
@@ -909,12 +909,12 @@
             "name": "U Crew"
           },
           {
-            "id": 13093,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 11593,
             "name": "Others"
+          },
+          {
+            "id": 13093,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 31153,
