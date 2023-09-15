@@ -719,40 +719,40 @@
             "name": "Flannel"
           },
           {
-            "id": 22365,
-            "name": "Bra Tops"
-          },
-          {
             "id": 22310,
             "name": "Jackets"
+          },
+          {
+            "id": 22365,
+            "name": "Bra Tops"
           },
           {
             "id": 26152,
             "name": "Shorts"
           },
           {
-            "id": 42325,
-            "name": "Dress"
+            "id": 22347,
+            "name": "Jeans"
           },
           {
             "id": 27749,
             "name": "Linen"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
+            "id": 42325,
+            "name": "Dress"
           },
           {
             "id": 22368,
             "name": "Inner Tops"
           },
           {
-            "id": 22352,
-            "name": "Casual Pants"
-          },
-          {
             "id": 12262,
             "name": "Sleeveless"
+          },
+          {
+            "id": 22352,
+            "name": "Casual Pants"
           },
           {
             "id": 22339,
@@ -803,16 +803,16 @@
             "name": "Short Sleeve Dress"
           },
           {
-            "id": 49260,
-            "name": "High Rise"
+            "id": 22345,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 11584,
             "name": "Others"
           },
           {
-            "id": 22345,
-            "name": "UT(Graphic T-Shirts)"
+            "id": 49260,
+            "name": "High Rise"
           },
           {
             "id": 31368,
@@ -995,12 +995,12 @@
             "name": "L.A. EATS"
           },
           {
-            "id": 12256,
-            "name": "With Pokémon"
-          },
-          {
             "id": 49227,
             "name": "Short"
+          },
+          {
+            "id": 12256,
+            "name": "With Pokémon"
           },
           {
             "id": 44889,
