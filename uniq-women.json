@@ -762,28 +762,32 @@
             "name": "Shorts"
           },
           {
-            "id": 13096,
-            "name": "Ines De La Fressange"
+            "id": 22347,
+            "name": "Jeans"
           },
           {
             "id": 27749,
             "name": "Linen"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
+            "id": 13096,
+            "name": "Ines De La Fressange"
           },
           {
             "id": 26157,
             "name": "Dry Ex"
           },
           {
+            "id": 12266,
+            "name": "Cotton"
+          },
+          {
             "id": 22368,
             "name": "Inner Tops"
           },
           {
-            "id": 12266,
-            "name": "Cotton"
+            "id": 22352,
+            "name": "Casual Pants"
           },
           {
             "id": 22310,
@@ -792,10 +796,6 @@
           {
             "id": 22339,
             "name": "Rayon"
-          },
-          {
-            "id": 22352,
-            "name": "Casual Pants"
           },
           {
             "id": 22382,
@@ -826,12 +826,12 @@
             "name": "Trousers"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
-          },
-          {
             "id": 25838,
             "name": "Sleeveless Tops"
+          },
+          {
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 22343,
@@ -842,12 +842,12 @@
             "name": "Others"
           },
           {
-            "id": 27329,
-            "name": "Ines De La Fressange"
-          },
-          {
             "id": 22344,
             "name": "Shirts & Blouses"
+          },
+          {
+            "id": 27329,
+            "name": "Ines De La Fressange"
           },
           {
             "id": 12265,
@@ -858,24 +858,24 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 22345,
-            "name": "UT(Graphic T-Shirts)"
+            "id": 49260,
+            "name": "High Rise"
           },
           {
             "id": 11584,
             "name": "Others"
           },
           {
-            "id": 49260,
-            "name": "High Rise"
-          },
-          {
-            "id": 25844,
-            "name": "INES DE LA FRESSANGE"
+            "id": 22345,
+            "name": "UT(Graphic T-Shirts)"
           },
           {
             "id": 49312,
             "name": "AIRism"
+          },
+          {
+            "id": 25844,
+            "name": "INES DE LA FRESSANGE"
           },
           {
             "id": 22313,
@@ -994,20 +994,20 @@
             "name": "Pleated Pants"
           },
           {
-            "id": 12348,
-            "name": "Bratop"
-          },
-          {
             "id": 22360,
             "name": "INES DE LA FRESSANGE"
           },
           {
-            "id": 12277,
-            "name": "Extra Stretch"
+            "id": 12348,
+            "name": "Bratop"
           },
           {
             "id": 12199,
             "name": "Long Sleeve T-Shirts"
+          },
+          {
+            "id": 12277,
+            "name": "Extra Stretch"
           },
           {
             "id": 12196,
@@ -1078,12 +1078,12 @@
             "name": "With Pokémon"
           },
           {
-            "id": 45814,
-            "name": "DRAGON BALL"
-          },
-          {
             "id": 31247,
             "name": "Sale"
+          },
+          {
+            "id": 45814,
+            "name": "DRAGON BALL"
           },
           {
             "id": 30176,
