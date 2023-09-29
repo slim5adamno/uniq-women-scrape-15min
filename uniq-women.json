@@ -16661,9 +16661,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL18",
+            "displayCode": "18",
+            "name": "WINE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -16681,7 +16681,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07462897",
+          "l2Id": "07462899",
           "salesStartDate": "",
           "salesEndDate": ""
         },
