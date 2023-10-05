@@ -31162,19 +31162,13 @@
         "longDescription": "- 100% cotton flannel fabric. <br>- Double-ply thick count yarn creates a pleasant thickness. <br>- Brushed on both sides for softness and warmth. <br>- Relaxed regular fit styles on its own or as an outer layer.",
         "name": "Flannel Checked Long Sleeve Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E462405-000",
@@ -31209,23 +31203,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL63",
-            "displayCode": "63",
-            "name": "BLUE",
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -31236,7 +31223,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07653584",
+          "l2Id": "07653575",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -38823,19 +38810,13 @@
         "longDescription": "- 100% cotton flannel fabric. <br>- Double-ply thick count yarn creates a nice thickness. <br>- Brushed on both sides for softness and warmth. <br>- Looks great on its own or as a light outer layer.",
         "name": "Flannel Checked Long Sleeve Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E451295-000",
@@ -38870,23 +38851,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL65",
-            "displayCode": "65",
-            "name": "BLUE",
+            "code": "COL48",
+            "displayCode": "48",
+            "name": "YELLOW",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -38897,7 +38871,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07653400",
+          "l2Id": "07653390",
           "salesStartDate": "",
           "salesEndDate": ""
         },
