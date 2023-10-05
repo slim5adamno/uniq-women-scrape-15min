@@ -787,20 +787,20 @@
             "name": "Wireless Bras"
           },
           {
-            "id": 26152,
-            "name": "Shorts"
-          },
-          {
             "id": 19926,
             "name": "Flannel"
           },
           {
-            "id": 42325,
-            "name": "Dress"
+            "id": 26152,
+            "name": "Shorts"
           },
           {
             "id": 13096,
             "name": "Ines De La Fressange"
+          },
+          {
+            "id": 42325,
+            "name": "Dress"
           },
           {
             "id": 27749,
@@ -823,12 +823,12 @@
             "name": "Front open shirts"
           },
           {
-            "id": 22310,
-            "name": "Jackets"
-          },
-          {
             "id": 22352,
             "name": "Casual Pants"
+          },
+          {
+            "id": 22310,
+            "name": "Jackets"
           },
           {
             "id": 22348,
@@ -839,24 +839,24 @@
             "name": "Sleeveless"
           },
           {
-            "id": 42320,
-            "name": "Bottoms"
-          },
-          {
             "id": 22353,
             "name": "Ankle Pants & Cropped Pants"
+          },
+          {
+            "id": 42320,
+            "name": "Bottoms"
           },
           {
             "id": 22350,
             "name": "Trousers"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
-          },
-          {
             "id": 25838,
             "name": "Sleeveless Tops"
+          },
+          {
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 22343,
@@ -867,12 +867,12 @@
             "name": "Others"
           },
           {
-            "id": 22344,
-            "name": "Shirts & Blouses"
-          },
-          {
             "id": 27329,
             "name": "Ines De La Fressange"
+          },
+          {
+            "id": 22344,
+            "name": "Shirts & Blouses"
           },
           {
             "id": 22371,
@@ -911,12 +911,12 @@
             "name": "Sweaters"
           },
           {
-            "id": 25844,
-            "name": "INES DE LA FRESSANGE"
-          },
-          {
             "id": 49312,
             "name": "AIRism"
+          },
+          {
+            "id": 25844,
+            "name": "INES DE LA FRESSANGE"
           },
           {
             "id": 22313,
@@ -999,20 +999,20 @@
             "name": "Jersey"
           },
           {
-            "id": 28411,
-            "name": "Rayon S/S"
-          },
-          {
             "id": 12143,
             "name": "Tailored"
           },
           {
-            "id": 12297,
-            "name": "Linen"
+            "id": 28411,
+            "name": "Rayon S/S"
           },
           {
             "id": 13150,
             "name": "Ines De La Fressange"
+          },
+          {
+            "id": 12297,
+            "name": "Linen"
           },
           {
             "id": 12307,
