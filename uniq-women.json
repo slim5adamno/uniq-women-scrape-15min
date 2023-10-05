@@ -4329,15 +4329,15 @@
           }
         ],
         "rating": {
-          "average": 4.2,
-          "count": 5,
-          "fit": 2.2,
+          "average": 4.333333333333333,
+          "count": 6,
+          "fit": 2.1666666666666665,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 0,
             "four": 1,
-            "five": 3
+            "five": 4
           }
         },
         "representative": {
@@ -29335,15 +29335,15 @@
           }
         ],
         "rating": {
-          "average": 4.25,
-          "count": 8,
-          "fit": 3.125,
+          "average": 4.333333333333333,
+          "count": 9,
+          "fit": 3.111111111111111,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 1,
             "four": 1,
-            "five": 5
+            "five": 6
           }
         },
         "representative": {
