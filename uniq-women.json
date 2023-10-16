@@ -79,11 +79,6 @@
           "name": "WINE"
         },
         {
-          "code": "COL20",
-          "displayCode": "20",
-          "name": "LIGHT ORANGE"
-        },
-        {
           "code": "COL21",
           "displayCode": "21",
           "name": "LIGHT ORANGE"
@@ -25061,15 +25056,6 @@
               "showFlag": true,
               "chipType": 1
             }
-          },
-          {
-            "code": "INS034",
-            "displayCode": "034",
-            "name": "34inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
           }
         ],
         "unisexFlag": 0,
@@ -39543,15 +39529,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -39756,15 +39733,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL20",
-            "displayCode": "20",
-            "name": "LIGHT ORANGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL50",
             "displayCode": "50",
