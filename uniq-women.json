@@ -860,12 +860,12 @@
             "name": "Shirts & Blouses"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
-          },
-          {
             "id": 22371,
             "name": "Underwear"
+          },
+          {
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 25840,
@@ -988,24 +988,24 @@
             "name": "Rayon"
           },
           {
-            "id": 12146,
-            "name": "Blouson"
+            "id": 12395,
+            "name": "Scarves"
           },
           {
             "id": 12299,
             "name": "Jersey"
           },
           {
-            "id": 12395,
-            "name": "Scarves"
-          },
-          {
-            "id": 12143,
-            "name": "Tailored"
+            "id": 12146,
+            "name": "Blouson"
           },
           {
             "id": 28411,
             "name": "Rayon S/S"
+          },
+          {
+            "id": 12143,
+            "name": "Tailored"
           },
           {
             "id": 13150,
@@ -1020,12 +1020,12 @@
             "name": "Ines De La Fressange"
           },
           {
-            "id": 11579,
-            "name": "Others"
-          },
-          {
             "id": 53734,
             "name": "others"
+          },
+          {
+            "id": 11579,
+            "name": "Others"
           },
           {
             "id": 27334,
@@ -1052,12 +1052,12 @@
             "name": "Extra Stretch"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve T-Shirts"
-          },
-          {
             "id": 12199,
             "name": "Long Sleeve T-Shirts"
+          },
+          {
+            "id": 12196,
+            "name": "Short Sleeve T-Shirts"
           },
           {
             "id": 11593,
@@ -1084,20 +1084,20 @@
             "name": "The Marvel Art Collection by Mondo"
           },
           {
-            "id": 49675,
-            "name": "My Hero Academia"
-          },
-          {
             "id": 49227,
             "name": "Short"
           },
           {
-            "id": 48487,
-            "name": "L.A. EATS"
+            "id": 49675,
+            "name": "My Hero Academia"
           },
           {
             "id": 49228,
             "name": "CPJ"
+          },
+          {
+            "id": 48487,
+            "name": "L.A. EATS"
           },
           {
             "id": 31247,
