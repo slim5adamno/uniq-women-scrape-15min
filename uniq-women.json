@@ -3322,14 +3322,14 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2490.0000"
+            "value": "2990.0000"
           },
           "promo": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "390.0000"
+            "value": "1990.0000"
           }
         },
         "productId": "E450606-000",
@@ -3375,10 +3375,10 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until Oct 26"
               }
             ],
             "productFlags": [
@@ -3397,7 +3397,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07041450",
+          "l2Id": "07674103",
           "salesStartDate": "",
           "salesEndDate": ""
         },
