@@ -770,16 +770,16 @@
         ],
         "subcategories": [
           {
-            "id": 22364,
-            "name": "Wireless Bras"
+            "id": 24332,
+            "name": "UT Dress"
           },
           {
             "id": 22349,
             "name": "Wide Pants"
           },
           {
-            "id": 24332,
-            "name": "UT Dress"
+            "id": 22364,
+            "name": "Wireless Bras"
           },
           {
             "id": 19926,
@@ -806,12 +806,12 @@
             "name": "Cotton"
           },
           {
-            "id": 22382,
-            "name": "Scarves & Stoles"
-          },
-          {
             "id": 49273,
             "name": "Knit"
+          },
+          {
+            "id": 22339,
+            "name": "Rayon"
           },
           {
             "id": 22352,
@@ -822,24 +822,20 @@
             "name": "Front open shirts"
           },
           {
-            "id": 22339,
-            "name": "Rayon"
+            "id": 22382,
+            "name": "Scarves & Stoles"
           },
           {
             "id": 12262,
             "name": "Sleeveless"
           },
           {
-            "id": 22348,
-            "name": "Leggings Pants"
-          },
-          {
             "id": 22310,
             "name": "Jackets"
           },
           {
-            "id": 22353,
-            "name": "Ankle Pants & Cropped Pants"
+            "id": 22348,
+            "name": "Leggings Pants"
           },
           {
             "id": 12268,
@@ -850,44 +846,48 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
+            "id": 22353,
+            "name": "Ankle Pants & Cropped Pants"
           },
           {
-            "id": 22343,
-            "name": "T-shirts"
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 22354,
             "name": "Shorts"
           },
           {
-            "id": 22344,
-            "name": "Shirts & Blouses"
+            "id": 22343,
+            "name": "T-shirts"
           },
           {
             "id": 22308,
             "name": "Coats"
           },
           {
-            "id": 27329,
-            "name": "Ines De La Fressange"
+            "id": 22344,
+            "name": "Shirts & Blouses"
           },
           {
             "id": 25840,
             "name": "Long Sleeve"
           },
           {
-            "id": 22341,
-            "name": "Cardigans"
+            "id": 27329,
+            "name": "Ines De La Fressange"
+          },
+          {
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 22371,
             "name": "Underwear"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
+            "id": 22341,
+            "name": "Cardigans"
           },
           {
             "id": 25837,
@@ -902,16 +902,16 @@
             "name": "Sweaters"
           },
           {
+            "id": 49260,
+            "name": "High Rise"
+          },
+          {
             "id": 11584,
             "name": "Others"
           },
           {
             "id": 25844,
             "name": "INES DE LA FRESSANGE"
-          },
-          {
-            "id": 49260,
-            "name": "High Rise"
           },
           {
             "id": 49215,
@@ -938,12 +938,12 @@
             "name": "Others"
           },
           {
-            "id": 12182,
-            "name": "Lambswool"
-          },
-          {
             "id": 31139,
             "name": "Mini"
+          },
+          {
+            "id": 12182,
+            "name": "Lambswool"
           },
           {
             "id": 12281,
@@ -1006,16 +1006,16 @@
             "name": "Tunic"
           },
           {
-            "id": 12395,
-            "name": "Scarves"
-          },
-          {
             "id": 12299,
             "name": "Jersey"
           },
           {
             "id": 12146,
             "name": "Blouson"
+          },
+          {
+            "id": 12395,
+            "name": "Scarves"
           },
           {
             "id": 12143,
