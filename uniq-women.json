@@ -738,16 +738,16 @@
         ],
         "subcategories": [
           {
-            "id": 22349,
-            "name": "Wide Pants"
-          },
-          {
             "id": 22364,
             "name": "Wireless Bras"
           },
           {
             "id": 24332,
             "name": "UT Dress"
+          },
+          {
+            "id": 22349,
+            "name": "Wide Pants"
           },
           {
             "id": 28409,
@@ -758,28 +758,24 @@
             "name": "Flannel"
           },
           {
-            "id": 42325,
-            "name": "Dress"
-          },
-          {
-            "id": 22381,
-            "name": "Hats & Caps"
-          },
-          {
             "id": 22347,
             "name": "Jeans"
+          },
+          {
+            "id": 42325,
+            "name": "Dress"
           },
           {
             "id": 13096,
             "name": "Ines De La Fressange"
           },
           {
-            "id": 12266,
-            "name": "Cotton"
+            "id": 22381,
+            "name": "Hats & Caps"
           },
           {
-            "id": 22339,
-            "name": "Rayon"
+            "id": 12266,
+            "name": "Cotton"
           },
           {
             "id": 49273,
@@ -794,24 +790,24 @@
             "name": "Front open shirts"
           },
           {
+            "id": 22339,
+            "name": "Rayon"
+          },
+          {
             "id": 22382,
             "name": "Scarves & Stoles"
-          },
-          {
-            "id": 12262,
-            "name": "Sleeveless"
-          },
-          {
-            "id": 22310,
-            "name": "Jackets"
           },
           {
             "id": 22348,
             "name": "Leggings Pants"
           },
           {
-            "id": 22353,
-            "name": "Ankle Pants & Cropped Pants"
+            "id": 22310,
+            "name": "Jackets"
+          },
+          {
+            "id": 12262,
+            "name": "Sleeveless"
           },
           {
             "id": 12268,
@@ -822,24 +818,28 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
+            "id": 22353,
+            "name": "Ankle Pants & Cropped Pants"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 22343,
             "name": "T-shirts"
           },
           {
-            "id": 22308,
-            "name": "Coats"
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 22344,
             "name": "Shirts & Blouses"
+          },
+          {
+            "id": 22308,
+            "name": "Coats"
           },
           {
             "id": 25840,
@@ -850,20 +850,20 @@
             "name": "Ines De La Fressange"
           },
           {
-            "id": 22341,
-            "name": "Cardigans"
-          },
-          {
-            "id": 22371,
-            "name": "Underwear"
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 25837,
             "name": "Uniqlo U"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
+            "id": 22341,
+            "name": "Cardigans"
+          },
+          {
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 22342,
@@ -874,12 +874,12 @@
             "name": "Sweaters"
           },
           {
-            "id": 49260,
-            "name": "High Rise"
-          },
-          {
             "id": 25844,
             "name": "INES DE LA FRESSANGE"
+          },
+          {
+            "id": 49260,
+            "name": "High Rise"
           },
           {
             "id": 11584,
@@ -914,24 +914,24 @@
             "name": "Lounge Set"
           },
           {
-            "id": 12281,
-            "name": "Ultra Stretch"
-          },
-          {
             "id": 31139,
             "name": "Mini"
+          },
+          {
+            "id": 12281,
+            "name": "Ultra Stretch"
           },
           {
             "id": 12182,
             "name": "Lambswool"
           },
           {
-            "id": 31141,
-            "name": "Maxi"
-          },
-          {
             "id": 12179,
             "name": "3D Knit"
+          },
+          {
+            "id": 31141,
+            "name": "Maxi"
           },
           {
             "id": 12180,
@@ -1006,12 +1006,12 @@
             "name": "Denim"
           },
           {
-            "id": 13150,
-            "name": "Ines De La Fressange"
-          },
-          {
             "id": 12144,
             "name": "Jersey"
+          },
+          {
+            "id": 13150,
+            "name": "Ines De La Fressange"
           },
           {
             "id": 12307,
@@ -41606,15 +41606,6 @@
             "code": "COL30",
             "displayCode": "30",
             "name": "NATURAL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
