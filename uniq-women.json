@@ -17454,19 +17454,13 @@
         "longDescription": "- Warm 'HEATTECH' outer with a soft pile lining. <br>- Attractive texture suitable for casual styling. <br>- Plenty of stretch for comfort. <br>- Sleek and non-bulky single-layer construction. <br>- Cocoon silhouette is roomy around the shoulders for easy layering. <br>- Hood drawstrings add a casual look. <br>- Just the right length to pair with any bottoms.",
         "name": "HEATTECH Pile Lined Sweat Full-Zip Hoodie",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
+            "value": "3990.0000"
           }
         },
         "productId": "E449878-000",
@@ -17501,27 +17495,27 @@
         },
         "representative": {
           "color": {
-            "code": "COL12",
-            "displayCode": "12",
-            "name": "PINK",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
+            "priceFlags": [],
+            "productFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
               }
-            ],
-            "productFlags": []
+            ]
           },
           "isFavorite": false,
-          "l2Id": "07142833",
+          "l2Id": "07682124",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -27833,9 +27827,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -27844,10 +27838,10 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until Nov 9"
               }
             ],
             "productFlags": [
@@ -27860,7 +27854,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07785060",
+          "l2Id": "07785068",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30559,9 +30553,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL25",
-            "displayCode": "25",
-            "name": "ORANGE",
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -30586,7 +30580,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07706271",
+          "l2Id": "07706278",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -42810,9 +42804,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -42837,7 +42831,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07774765",
+          "l2Id": "07774757",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -45890,9 +45884,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -45917,7 +45911,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07057538",
+          "l2Id": "07057530",
           "salesStartDate": "",
           "salesEndDate": ""
         },
