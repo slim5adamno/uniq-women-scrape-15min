@@ -12214,9 +12214,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL19",
-            "displayCode": "19",
-            "name": "WINE",
+            "code": "COL02",
+            "displayCode": "02",
+            "name": "LIGHT GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -12241,7 +12241,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07809882",
+          "l2Id": "07809866",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -12807,9 +12807,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL50",
-            "displayCode": "50",
-            "name": "LIGHT GREEN",
+            "code": "COL63",
+            "displayCode": "63",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -12834,7 +12834,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07858664",
+          "l2Id": "07858673",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -23746,9 +23746,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -23763,10 +23763,17 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "preSales",
+                "id": 5,
+                "name": "Exclusive Size Online Only",
+                "detail": "Exclusive Size Online Only"
+              }
+            ]
           },
           "isFavorite": false,
-          "l2Id": "07674894",
+          "l2Id": "07674887",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30363,9 +30370,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL15",
-            "displayCode": "15",
-            "name": "RED",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -30390,7 +30397,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07706236",
+          "l2Id": "07706215",
           "salesStartDate": "",
           "salesEndDate": ""
         },
