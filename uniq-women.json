@@ -751,6 +751,10 @@
         ],
         "subcategories": [
           {
+            "id": 22364,
+            "name": "Wireless Bras"
+          },
+          {
             "id": 24332,
             "name": "UT Dress"
           },
@@ -759,12 +763,12 @@
             "name": "Wide Pants"
           },
           {
-            "id": 22364,
-            "name": "Wireless Bras"
-          },
-          {
             "id": 19926,
             "name": "Flannel"
+          },
+          {
+            "id": 22381,
+            "name": "Hats & Caps"
           },
           {
             "id": 22347,
@@ -775,10 +779,6 @@
             "name": "Ines De La Fressange"
           },
           {
-            "id": 22381,
-            "name": "Hats & Caps"
-          },
-          {
             "id": 42325,
             "name": "Dress"
           },
@@ -787,40 +787,40 @@
             "name": "Cotton"
           },
           {
-            "id": 22382,
-            "name": "Scarves & Stoles"
-          },
-          {
-            "id": 22352,
-            "name": "Casual Pants"
+            "id": 22339,
+            "name": "Rayon"
           },
           {
             "id": 42324,
             "name": "Front open shirts"
           },
           {
-            "id": 22339,
-            "name": "Rayon"
+            "id": 22352,
+            "name": "Casual Pants"
           },
           {
-            "id": 22310,
-            "name": "Jackets"
-          },
-          {
-            "id": 12262,
-            "name": "Sleeveless"
+            "id": 22382,
+            "name": "Scarves & Stoles"
           },
           {
             "id": 22348,
             "name": "Leggings Pants"
           },
           {
-            "id": 25845,
-            "name": "Uniqlo U"
+            "id": 12262,
+            "name": "Sleeveless"
+          },
+          {
+            "id": 22310,
+            "name": "Jackets"
           },
           {
             "id": 22353,
             "name": "Ankle Pants & Cropped Pants"
+          },
+          {
+            "id": 25845,
+            "name": "Uniqlo U"
           },
           {
             "id": 24732,
@@ -851,24 +851,24 @@
             "name": "Coats"
           },
           {
-            "id": 25840,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 27329,
             "name": "Ines De La Fressange"
+          },
+          {
+            "id": 25840,
+            "name": "Long Sleeve"
           },
           {
             "id": 22341,
             "name": "Cardigans"
           },
           {
-            "id": 25837,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12265,
             "name": "Long Sleeve Dress"
+          },
+          {
+            "id": 25837,
+            "name": "Uniqlo U"
           },
           {
             "id": 22371,
@@ -887,12 +887,12 @@
             "name": "INES DE LA FRESSANGE"
           },
           {
-            "id": 49260,
-            "name": "High Rise"
-          },
-          {
             "id": 11584,
             "name": "Others"
+          },
+          {
+            "id": 49260,
+            "name": "High Rise"
           },
           {
             "id": 49215,
@@ -923,20 +923,20 @@
             "name": "Lambswool"
           },
           {
-            "id": 12281,
-            "name": "Ultra Stretch"
-          },
-          {
             "id": 31139,
             "name": "Mini"
           },
           {
-            "id": 12179,
-            "name": "3D Knit"
+            "id": 12281,
+            "name": "Ultra Stretch"
           },
           {
             "id": 31141,
             "name": "Maxi"
+          },
+          {
+            "id": 12179,
+            "name": "3D Knit"
           },
           {
             "id": 12180,
@@ -983,44 +983,44 @@
             "name": "Tunic"
           },
           {
-            "id": 12299,
-            "name": "Jersey"
-          },
-          {
             "id": 12146,
             "name": "Blouson"
           },
           {
-            "id": 28411,
-            "name": "Rayon S/S"
+            "id": 12299,
+            "name": "Jersey"
           },
           {
             "id": 12143,
             "name": "Tailored"
           },
           {
-            "id": 12140,
-            "name": "Denim"
+            "id": 28411,
+            "name": "Rayon S/S"
           },
           {
-            "id": 12144,
-            "name": "Jersey"
+            "id": 12140,
+            "name": "Denim"
           },
           {
             "id": 13150,
             "name": "Ines De La Fressange"
           },
           {
+            "id": 12144,
+            "name": "Jersey"
+          },
+          {
             "id": 12307,
             "name": "Wide Fit"
           },
           {
-            "id": 13102,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12150,
             "name": "Fleece"
+          },
+          {
+            "id": 13102,
+            "name": "Uniqlo U"
           },
           {
             "id": 12306,
@@ -1079,12 +1079,12 @@
             "name": "Others"
           },
           {
-            "id": 12400,
-            "name": "Regular"
-          },
-          {
             "id": 13074,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 12400,
+            "name": "Regular"
           },
           {
             "id": 48884,
@@ -1099,12 +1099,12 @@
             "name": "The Marvel Art Collection by Mondo"
           },
           {
-            "id": 48487,
-            "name": "L.A. EATS"
-          },
-          {
             "id": 49227,
             "name": "Short"
+          },
+          {
+            "id": 48487,
+            "name": "L.A. EATS"
           },
           {
             "id": 49228,
