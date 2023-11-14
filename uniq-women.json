@@ -337,57 +337,57 @@
         {
           "rating": 0,
           "accumulated": 225,
-          "count": 124
+          "count": 123
         },
         {
           "rating": 0.5,
-          "accumulated": 101,
+          "accumulated": 102,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 101,
+          "accumulated": 102,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 101,
+          "accumulated": 102,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 101,
+          "accumulated": 102,
           "count": 3
         },
         {
           "rating": 2.5,
-          "accumulated": 98,
+          "accumulated": 99,
           "count": 2
         },
         {
           "rating": 3,
-          "accumulated": 96,
+          "accumulated": 97,
           "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 94,
+          "accumulated": 95,
           "count": 0
         },
         {
           "rating": 4,
-          "accumulated": 94,
+          "accumulated": 95,
           "count": 16
         },
         {
           "rating": 4.5,
-          "accumulated": 78,
+          "accumulated": 79,
           "count": 22
         },
         {
           "rating": 5,
-          "accumulated": 56,
-          "count": 56
+          "accumulated": 57,
+          "count": 57
         }
       ],
       "sizes": [
@@ -33595,15 +33595,15 @@
           }
         ],
         "rating": {
-          "average": 4.5,
-          "count": 2,
-          "fit": 2.5,
+          "average": 4.666666666666667,
+          "count": 3,
+          "fit": 2.3333333333333335,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
