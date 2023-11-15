@@ -956,6 +956,10 @@
             "name": "Unisex"
           },
           {
+            "id": 11573,
+            "name": "Others"
+          },
+          {
             "id": 12178,
             "name": "Tunic"
           },
@@ -966,10 +970,6 @@
           {
             "id": 12299,
             "name": "Jersey"
-          },
-          {
-            "id": 12395,
-            "name": "Scarves"
           },
           {
             "id": 28411,
