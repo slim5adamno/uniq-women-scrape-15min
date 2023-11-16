@@ -754,12 +754,12 @@
         ],
         "subcategories": [
           {
-            "id": 22349,
-            "name": "Wide Pants"
-          },
-          {
             "id": 22364,
             "name": "Wireless Bras"
+          },
+          {
+            "id": 22349,
+            "name": "Wide Pants"
           },
           {
             "id": 24332,
@@ -786,6 +786,10 @@
             "name": "Cotton"
           },
           {
+            "id": 22352,
+            "name": "Casual Pants"
+          },
+          {
             "id": 22382,
             "name": "Scarves & Stoles"
           },
@@ -798,20 +802,16 @@
             "name": "Rayon"
           },
           {
-            "id": 22352,
-            "name": "Casual Pants"
-          },
-          {
-            "id": 22310,
-            "name": "Jackets"
-          },
-          {
             "id": 22348,
             "name": "Leggings Pants"
           },
           {
             "id": 12262,
             "name": "Sleeveless"
+          },
+          {
+            "id": 22310,
+            "name": "Jackets"
           },
           {
             "id": 22353,
@@ -830,12 +830,12 @@
             "name": "Trousers"
           },
           {
-            "id": 22343,
-            "name": "T-shirts"
-          },
-          {
             "id": 22354,
             "name": "Shorts"
+          },
+          {
+            "id": 22343,
+            "name": "T-shirts"
           },
           {
             "id": 22308,
@@ -854,16 +854,16 @@
             "name": "Ines De La Fressange"
           },
           {
-            "id": 22341,
-            "name": "Cardigans"
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 25837,
             "name": "Uniqlo U"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
+            "id": 22341,
+            "name": "Cardigans"
           },
           {
             "id": 22342,
@@ -878,16 +878,16 @@
             "name": "Sweaters"
           },
           {
-            "id": 49260,
-            "name": "High Rise"
-          },
-          {
             "id": 11584,
             "name": "Others"
           },
           {
             "id": 25844,
             "name": "INES DE LA FRESSANGE"
+          },
+          {
+            "id": 49260,
+            "name": "High Rise"
           },
           {
             "id": 49215,
@@ -978,20 +978,20 @@
             "name": "Tunic"
           },
           {
-            "id": 12299,
-            "name": "Jersey"
-          },
-          {
             "id": 12146,
             "name": "Blouson"
           },
           {
-            "id": 28411,
-            "name": "Rayon S/S"
+            "id": 12299,
+            "name": "Jersey"
           },
           {
             "id": 12143,
             "name": "Tailored"
+          },
+          {
+            "id": 28411,
+            "name": "Rayon S/S"
           },
           {
             "id": 12140,
@@ -1010,12 +1010,12 @@
             "name": "Wide Fit"
           },
           {
-            "id": 13102,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 12150,
             "name": "Fleece"
+          },
+          {
+            "id": 13102,
+            "name": "Uniqlo U"
           },
           {
             "id": 12306,
