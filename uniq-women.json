@@ -20794,19 +20794,13 @@
         "longDescription": "- Soft ribbed fabric that is thin yet warm. <br>- Knit in the round using a special machine to achieve seamless comfort. <br>- 1.5 times* warmer than our regular 'HEATTECH'. *Based on CLO values, which indicate the thermal insulation of clothing. Comparison with standard 'HEATTECH'. <br>- High-performance fabric with Heat of Absorption, HEAT RETENTION, odor control, and moisture-wicking comfort features. <br>- Ultra Stretch for freedom of movement and easy layering. <br>- Flattering, gently fitted cut. <br>- Turtleneck for extra warmth. <br>- Striped pattern looks great styled alone or layered.",
         "name": "HEATTECH Extra Warm Seamless Turtleneck T-Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E460519-000",
@@ -20841,23 +20835,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -20868,7 +20855,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07785728",
+          "l2Id": "07785736",
           "salesStartDate": "",
           "salesEndDate": ""
         },
