@@ -781,44 +781,36 @@
             "name": "Cotton"
           },
           {
-            "id": 42324,
-            "name": "Front open shirts"
+            "id": 22352,
+            "name": "Casual Pants"
           },
           {
             "id": 22339,
             "name": "Rayon"
           },
           {
-            "id": 49273,
-            "name": "Knit"
-          },
-          {
             "id": 22374,
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22352,
-            "name": "Casual Pants"
+            "id": 42324,
+            "name": "Front open shirts"
           },
           {
-            "id": 22348,
-            "name": "Leggings Pants"
+            "id": 49273,
+            "name": "Knit"
           },
           {
             "id": 22310,
             "name": "Jackets"
           },
           {
+            "id": 22348,
+            "name": "Leggings Pants"
+          },
+          {
             "id": 12262,
             "name": "Sleeveless"
-          },
-          {
-            "id": 23538,
-            "name": "Bottoms"
-          },
-          {
-            "id": 25845,
-            "name": "Uniqlo U"
           },
           {
             "id": 49299,
@@ -829,12 +821,20 @@
             "name": "Ankle Pants & Cropped Pants"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
+            "id": 23538,
+            "name": "Bottoms"
+          },
+          {
+            "id": 25845,
+            "name": "Uniqlo U"
           },
           {
             "id": 24732,
             "name": "Socks"
+          },
+          {
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 22354,
@@ -849,12 +849,12 @@
             "name": "Down Jackets & Coats"
           },
           {
-            "id": 22344,
-            "name": "Shirts & Blouses"
-          },
-          {
             "id": 22308,
             "name": "Coats"
+          },
+          {
+            "id": 22344,
+            "name": "Shirts & Blouses"
           },
           {
             "id": 25840,
@@ -865,20 +865,20 @@
             "name": "Ines De La Fressange"
           },
           {
-            "id": 22341,
-            "name": "Cardigans"
-          },
-          {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
+            "id": 25837,
+            "name": "Uniqlo U"
           },
           {
             "id": 22371,
             "name": "Underwear"
           },
           {
-            "id": 25837,
-            "name": "Uniqlo U"
+            "id": 22341,
+            "name": "Cardigans"
+          },
+          {
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 12263,
@@ -889,16 +889,16 @@
             "name": "Sweaters"
           },
           {
+            "id": 49260,
+            "name": "High Rise"
+          },
+          {
             "id": 25844,
             "name": "INES DE LA FRESSANGE"
           },
           {
             "id": 11584,
             "name": "Others"
-          },
-          {
-            "id": 49260,
-            "name": "High Rise"
           },
           {
             "id": 49215,
@@ -1053,12 +1053,12 @@
             "name": "Flannel"
           },
           {
-            "id": 53734,
-            "name": "others"
-          },
-          {
             "id": 11579,
             "name": "Others"
+          },
+          {
+            "id": 53734,
+            "name": "others"
           },
           {
             "id": 12204,
@@ -1073,48 +1073,48 @@
             "name": "Short Sleeve T-Shirts"
           },
           {
-            "id": 49226,
-            "name": "Long"
-          },
-          {
             "id": 13773,
             "name": "Others"
+          },
+          {
+            "id": 49226,
+            "name": "Long"
           },
           {
             "id": 13074,
             "name": "Uniqlo U"
           },
           {
-            "id": 12277,
-            "name": "Extra Stretch"
-          },
-          {
             "id": 12400,
             "name": "Regular"
           },
           {
-            "id": 11593,
-            "name": "Others"
+            "id": 12277,
+            "name": "Extra Stretch"
           },
           {
             "id": 49227,
             "name": "Short"
           },
           {
-            "id": 50489,
-            "name": "Disney Good Vibes"
+            "id": 11593,
+            "name": "Others"
           },
           {
             "id": 49228,
             "name": "CPJ"
           },
           {
-            "id": 12130,
-            "name": "Double Face"
+            "id": 50489,
+            "name": "Disney Good Vibes"
           },
           {
             "id": 50336,
             "name": "The Marvel Art Collection by Mondo"
+          },
+          {
+            "id": 12130,
+            "name": "Double Face"
           },
           {
             "id": 12214,
