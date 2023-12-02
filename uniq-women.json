@@ -4915,15 +4915,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL44",
-            "displayCode": "44",
-            "name": "YELLOW",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: 53% Cotton, 47% Linen/ Pocket Lining: 80% Polyester, 20% Cotton",
@@ -22743,6 +22734,15 @@
         "careInstruction": "<br>",
         "colors": [
           {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL30",
             "displayCode": "30",
             "name": "NATURAL",
@@ -22919,6 +22919,15 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
