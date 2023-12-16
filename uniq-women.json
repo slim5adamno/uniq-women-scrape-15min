@@ -37103,15 +37103,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL44",
             "displayCode": "44",
             "name": "YELLOW",
