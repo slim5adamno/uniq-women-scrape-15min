@@ -574,11 +574,6 @@
           "name": "M/L"
         },
         {
-          "code": "SMM007",
-          "displayCode": "007",
-          "name": "XL/XXL"
-        },
-        {
           "code": "WSC023",
           "displayCode": "023",
           "name": "23-25cm"
@@ -17694,15 +17689,6 @@
             }
           },
           {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
@@ -18614,15 +18600,6 @@
             "display": {
               "showFlag": true,
               "chipType": 0
-            }
-          },
-          {
-            "code": "SMM007",
-            "displayCode": "007",
-            "name": "XL/XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
             }
           }
         ],
