@@ -17080,9 +17080,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL06",
+            "displayCode": "06",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -17107,7 +17107,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07653299",
+          "l2Id": "07653308",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -24285,19 +24285,13 @@
         "longDescription": "- 100% cotton flannel fabric. <br>- Double-ply thick count yarn creates a nice thickness. <br>- Brushed on both sides for softness and warmth. <br>- Looks great on its own or as a light outer layer.",
         "name": "Flannel Checked Long Sleeve Shirt",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E462400-000",
@@ -24332,23 +24326,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL47",
-            "displayCode": "47",
-            "name": "YELLOW",
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -24359,7 +24346,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07653416",
+          "l2Id": "07653407",
           "salesStartDate": "",
           "salesEndDate": ""
         },
