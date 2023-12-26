@@ -34315,7 +34315,7 @@
               "colorCode": "09"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/433604/item/ingoods_10_433604.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433604/item/goods_10_433604.jpg",
               "colorCode": "10"
             },
             {
@@ -34371,7 +34371,7 @@
               "colorCode": "69"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/433604/item/ingoods_71_433604.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433604/item/goods_71_433604.jpg",
               "colorCode": "71"
             }
           ],
@@ -35986,19 +35986,13 @@
         "longDescription": "- Soft, smooth feel. <br>- Wrinkle-resistant for easy care. *Shape to dry after washing. <br>- Skipper collar design accentuates the neck.",
         "name": "Rayon Skipper Collar 3/4 Sleeve Blouse",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2490.0000"
           }
         },
         "productId": "E461143-000",
@@ -36033,23 +36027,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -36060,7 +36047,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07670934",
+          "l2Id": "07671006",
           "salesStartDate": "",
           "salesEndDate": ""
         },
