@@ -12835,7 +12835,7 @@
               "colorCode": "08"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461148/item/goods_09_461148.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/461148/item/ingoods_09_461148.jpg",
               "colorCode": "09"
             },
             {
@@ -12843,11 +12843,11 @@
               "colorCode": "27"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461148/item/goods_52_461148.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/461148/item/ingoods_52_461148.jpg",
               "colorCode": "52"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461148/item/goods_74_461148.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/461148/item/ingoods_74_461148.jpg",
               "colorCode": "74"
             }
           ],
@@ -14782,9 +14782,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL65",
-            "displayCode": "65",
-            "name": "BLUE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -14802,7 +14802,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07438043",
+          "l2Id": "07438051",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -16353,9 +16353,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL67",
-            "displayCode": "67",
-            "name": "BLUE",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -16380,7 +16380,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07709049",
+          "l2Id": "07708969",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -27014,9 +27014,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL60",
-            "displayCode": "60",
-            "name": "LIGHT BLUE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -27041,7 +27041,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07788746",
+          "l2Id": "07788730",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -28474,9 +28474,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
+            "code": "COL41",
+            "displayCode": "41",
+            "name": "YELLOW",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -28501,7 +28501,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07676506",
+          "l2Id": "07675358",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -34526,9 +34526,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -34546,7 +34546,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07798364",
+          "l2Id": "07798332",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -35703,9 +35703,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -35730,7 +35730,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07630269",
+          "l2Id": "07630093",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -36250,9 +36250,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL27",
-            "displayCode": "27",
-            "name": "ORANGE",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -36277,7 +36277,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07997316",
+          "l2Id": "07997330",
           "salesStartDate": "",
           "salesEndDate": ""
         },
