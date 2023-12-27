@@ -8698,7 +8698,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "790.0000"
+            "value": "390.0000"
           }
         },
         "productId": "E424873-000",
@@ -8733,9 +8733,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL17",
+            "displayCode": "17",
+            "name": "RED",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8760,7 +8760,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "05075764",
+          "l2Id": "07688837",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -14423,9 +14423,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL55",
-            "displayCode": "55",
-            "name": "GREEN",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -14450,7 +14450,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07654882",
+          "l2Id": "07654850",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -43612,9 +43612,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -43639,7 +43639,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07707446",
+          "l2Id": "07680260",
           "salesStartDate": "",
           "salesEndDate": ""
         },
