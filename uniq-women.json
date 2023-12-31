@@ -12454,15 +12454,6 @@
             }
           },
           {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -24001,15 +23992,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA008",
             "displayCode": "008",
             "name": "3XL",
@@ -29466,15 +29448,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Wool",
@@ -30959,15 +30932,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL69",
             "displayCode": "69",
@@ -33517,15 +33481,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL32",
             "displayCode": "32",
             "name": "BEIGE",
@@ -33720,15 +33675,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
