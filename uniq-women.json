@@ -811,16 +811,20 @@
             "name": "3D"
           },
           {
-            "id": 27754,
-            "name": "AIRism Set"
-          },
-          {
             "id": 31201,
             "name": "Gloves"
           },
           {
             "id": 42321,
             "name": "Leggings"
+          },
+          {
+            "id": 27754,
+            "name": "AIRism Set"
+          },
+          {
+            "id": 42325,
+            "name": "Dress"
           },
           {
             "id": 22347,
@@ -831,12 +835,12 @@
             "name": "Scarves & Stoles"
           },
           {
-            "id": 42325,
-            "name": "Dress"
-          },
-          {
             "id": 49217,
             "name": "Ultra Light Down"
+          },
+          {
+            "id": 31246,
+            "name": "Lined"
           },
           {
             "id": 22352,
@@ -851,8 +855,12 @@
             "name": "Outer"
           },
           {
-            "id": 31246,
-            "name": "Lined"
+            "id": 24732,
+            "name": "Socks"
+          },
+          {
+            "id": 25842,
+            "name": "DRY-EX"
           },
           {
             "id": 22310,
@@ -863,36 +871,28 @@
             "name": "Leggings Pants"
           },
           {
-            "id": 25842,
-            "name": "DRY-EX"
-          },
-          {
-            "id": 24732,
-            "name": "Socks"
-          },
-          {
-            "id": 22388,
-            "name": "Others"
-          },
-          {
-            "id": 49299,
-            "name": "Loungewear Bottoms"
-          },
-          {
             "id": 25845,
             "name": "Uniqlo U"
-          },
-          {
-            "id": 22312,
-            "name": "Parka"
           },
           {
             "id": 42320,
             "name": "Bottoms"
           },
           {
+            "id": 49299,
+            "name": "Loungewear Bottoms"
+          },
+          {
             "id": 22353,
             "name": "Ankle Pants & Cropped Pants"
+          },
+          {
+            "id": 22388,
+            "name": "Others"
+          },
+          {
+            "id": 22312,
+            "name": "Parka"
           },
           {
             "id": 22350,
@@ -907,44 +907,44 @@
             "name": "Down Jackets & Coats"
           },
           {
-            "id": 22344,
-            "name": "Shirts & Blouses"
-          },
-          {
             "id": 22308,
             "name": "Coats"
           },
           {
-            "id": 25840,
-            "name": "Long Sleeve"
+            "id": 22344,
+            "name": "Shirts & Blouses"
           },
           {
             "id": 22366,
             "name": "HEATTECH"
           },
           {
-            "id": 25837,
-            "name": "Uniqlo U"
-          },
-          {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
+            "id": 25840,
+            "name": "Long Sleeve"
           },
           {
             "id": 22371,
             "name": "Underwear"
           },
           {
+            "id": 12265,
+            "name": "Long Sleeve Dress"
+          },
+          {
+            "id": 25837,
+            "name": "Uniqlo U"
+          },
+          {
             "id": 22342,
             "name": "Sweat Collections"
           },
           {
-            "id": 22340,
-            "name": "Sweaters"
-          },
-          {
             "id": 12263,
             "name": "Short Sleeve Dress"
+          },
+          {
+            "id": 22340,
+            "name": "Sweaters"
           },
           {
             "id": 11584,
@@ -1007,36 +1007,36 @@
             "name": "Flannel"
           },
           {
-            "id": 12183,
-            "name": "Souffle Yarn"
-          },
-          {
             "id": 12283,
             "name": "Slim Fit"
+          },
+          {
+            "id": 12183,
+            "name": "Souffle Yarn"
           },
           {
             "id": 12180,
             "name": "Merino"
           },
           {
-            "id": 31350,
-            "name": "Baggy"
-          },
-          {
             "id": 11574,
             "name": "Others"
+          },
+          {
+            "id": 31350,
+            "name": "Baggy"
           },
           {
             "id": 12182,
             "name": "Lambswool"
           },
           {
-            "id": 25847,
-            "name": "Pants"
-          },
-          {
             "id": 12163,
             "name": "Fleece"
+          },
+          {
+            "id": 25847,
+            "name": "Pants"
           },
           {
             "id": 23481,
@@ -1143,12 +1143,12 @@
             "name": "Roy Lichtenstein"
           },
           {
-            "id": 11593,
-            "name": "Others"
-          },
-          {
             "id": 48884,
             "name": "Sanrio characters: Kuromi & My Melody"
+          },
+          {
+            "id": 11593,
+            "name": "Others"
           },
           {
             "id": 12130,
