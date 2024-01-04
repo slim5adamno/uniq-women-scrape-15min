@@ -769,52 +769,56 @@
             "name": "Flannel"
           },
           {
-            "id": 22364,
-            "name": "Wireless Bras"
+            "id": 28409,
+            "name": "3D"
           },
           {
             "id": 25835,
             "name": "Vest"
           },
           {
-            "id": 28409,
-            "name": "3D"
+            "id": 22364,
+            "name": "Wireless Bras"
           },
           {
             "id": 27570,
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 31201,
-            "name": "Gloves"
+            "id": 22347,
+            "name": "Jeans"
           },
           {
             "id": 27754,
             "name": "AIRism Set"
           },
           {
-            "id": 42325,
-            "name": "Dress"
+            "id": 31201,
+            "name": "Gloves"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
+            "id": 42325,
+            "name": "Dress"
           },
           {
             "id": 22382,
             "name": "Scarves & Stoles"
           },
           {
+            "id": 22352,
+            "name": "Casual Pants"
+          },
+          {
+            "id": 22348,
+            "name": "Leggings Pants"
+          },
+          {
             "id": 49217,
             "name": "Ultra Light Down"
           },
           {
-            "id": 31246,
-            "name": "Lined"
-          },
-          {
-            "id": 22352,
-            "name": "Casual Pants"
+            "id": 22353,
+            "name": "Ankle Pants & Cropped Pants"
           },
           {
             "id": 22374,
@@ -825,40 +829,36 @@
             "name": "Knit"
           },
           {
-            "id": 25842,
-            "name": "DRY-EX"
+            "id": 31246,
+            "name": "Lined"
+          },
+          {
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 22310,
             "name": "Jackets"
           },
           {
-            "id": 22348,
-            "name": "Leggings Pants"
-          },
-          {
-            "id": 42320,
-            "name": "Bottoms"
+            "id": 25842,
+            "name": "DRY-EX"
           },
           {
             "id": 49299,
             "name": "Loungewear Bottoms"
           },
           {
-            "id": 22353,
-            "name": "Ankle Pants & Cropped Pants"
-          },
-          {
             "id": 22312,
             "name": "Parka"
           },
           {
-            "id": 49315,
-            "name": "Innerwear"
+            "id": 42320,
+            "name": "Bottoms"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
+            "id": 49315,
+            "name": "Innerwear"
           },
           {
             "id": 22343,
@@ -869,32 +869,36 @@
             "name": "Down Jackets & Coats"
           },
           {
-            "id": 22308,
-            "name": "Coats"
-          },
-          {
             "id": 22344,
             "name": "Shirts & Blouses"
+          },
+          {
+            "id": 22308,
+            "name": "Coats"
           },
           {
             "id": 25840,
             "name": "Long Sleeve"
           },
           {
-            "id": 22371,
-            "name": "Underwear"
+            "id": 25837,
+            "name": "Uniqlo U"
           },
           {
             "id": 12265,
             "name": "Long Sleeve Dress"
           },
           {
-            "id": 25837,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 22341,
             "name": "Cardigans"
+          },
+          {
+            "id": 22371,
+            "name": "Underwear"
+          },
+          {
+            "id": 49260,
+            "name": "High Rise"
           },
           {
             "id": 12263,
@@ -903,10 +907,6 @@
           {
             "id": 22340,
             "name": "Sweaters"
-          },
-          {
-            "id": 49260,
-            "name": "High Rise"
           },
           {
             "id": 49215,
@@ -949,6 +949,10 @@
             "name": "Others"
           },
           {
+            "id": 12369,
+            "name": "AIRism"
+          },
+          {
             "id": 49258,
             "name": "Jacket"
           },
@@ -957,20 +961,16 @@
             "name": "Maxi"
           },
           {
-            "id": 12369,
-            "name": "AIRism"
-          },
-          {
             "id": 49301,
             "name": "Flannel"
           },
           {
-            "id": 12283,
-            "name": "Slim Fit"
-          },
-          {
             "id": 12183,
             "name": "Souffle Yarn"
+          },
+          {
+            "id": 12283,
+            "name": "Slim Fit"
           },
           {
             "id": 12180,
@@ -989,12 +989,12 @@
             "name": "Lambswool"
           },
           {
-            "id": 12163,
-            "name": "Fleece"
-          },
-          {
             "id": 25847,
             "name": "Pants"
+          },
+          {
+            "id": 12163,
+            "name": "Fleece"
           },
           {
             "id": 23481,
@@ -1045,12 +1045,12 @@
             "name": "Others"
           },
           {
-            "id": 12307,
-            "name": "Wide Fit"
-          },
-          {
             "id": 12174,
             "name": "Flannel"
+          },
+          {
+            "id": 12307,
+            "name": "Wide Fit"
           },
           {
             "id": 19930,
