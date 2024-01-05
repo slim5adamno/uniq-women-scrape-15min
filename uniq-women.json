@@ -782,16 +782,12 @@
             "name": "HEATTECH"
           },
           {
-            "id": 49296,
-            "name": "Flannel"
-          },
-          {
             "id": 22349,
             "name": "Wide Pants"
           },
           {
-            "id": 22364,
-            "name": "Wireless Bras"
+            "id": 49296,
+            "name": "Flannel"
           },
           {
             "id": 25835,
@@ -806,76 +802,80 @@
             "name": "3D"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
-          },
-          {
-            "id": 26157,
-            "name": "Dry Ex"
+            "id": 22364,
+            "name": "Wireless Bras"
           },
           {
             "id": 27754,
             "name": "AIRism Set"
           },
           {
-            "id": 31201,
-            "name": "Gloves"
+            "id": 26157,
+            "name": "Dry Ex"
           },
           {
-            "id": 22382,
-            "name": "Scarves & Stoles"
+            "id": 22347,
+            "name": "Jeans"
+          },
+          {
+            "id": 31201,
+            "name": "Gloves"
           },
           {
             "id": 22352,
             "name": "Casual Pants"
           },
           {
-            "id": 42325,
-            "name": "Dress"
+            "id": 22382,
+            "name": "Scarves & Stoles"
           },
           {
-            "id": 49217,
-            "name": "Ultra Light Down"
+            "id": 42325,
+            "name": "Dress"
           },
           {
             "id": 22348,
             "name": "Leggings Pants"
           },
           {
-            "id": 22353,
-            "name": "Ankle Pants & Cropped Pants"
+            "id": 49217,
+            "name": "Ultra Light Down"
           },
           {
-            "id": 31246,
-            "name": "Lined"
+            "id": 22353,
+            "name": "Ankle Pants & Cropped Pants"
           },
           {
             "id": 22374,
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 22310,
-            "name": "Jackets"
+            "id": 31246,
+            "name": "Lined"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
+            "id": 22310,
+            "name": "Jackets"
           },
           {
             "id": 25842,
             "name": "DRY-EX"
           },
           {
+            "id": 22350,
+            "name": "Trousers"
+          },
+          {
             "id": 22312,
             "name": "Parka"
           },
           {
-            "id": 42320,
-            "name": "Bottoms"
-          },
-          {
             "id": 49299,
             "name": "Loungewear Bottoms"
+          },
+          {
+            "id": 42320,
+            "name": "Bottoms"
           },
           {
             "id": 22343,
@@ -886,12 +886,12 @@
             "name": "Down Jackets & Coats"
           },
           {
-            "id": 22308,
-            "name": "Coats"
-          },
-          {
             "id": 22344,
             "name": "Shirts & Blouses"
+          },
+          {
+            "id": 22308,
+            "name": "Coats"
           },
           {
             "id": 25840,
@@ -914,12 +914,12 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 49260,
-            "name": "High Rise"
-          },
-          {
             "id": 22342,
             "name": "Sweat Collections"
+          },
+          {
+            "id": 49260,
+            "name": "High Rise"
           },
           {
             "id": 12263,
@@ -970,6 +970,10 @@
             "name": "Midi"
           },
           {
+            "id": 49258,
+            "name": "Jacket"
+          },
+          {
             "id": 12369,
             "name": "AIRism"
           },
@@ -978,20 +982,16 @@
             "name": "Maxi"
           },
           {
-            "id": 49258,
-            "name": "Jacket"
-          },
-          {
             "id": 49301,
             "name": "Flannel"
           },
           {
-            "id": 12283,
-            "name": "Slim Fit"
-          },
-          {
             "id": 12183,
             "name": "Souffle Yarn"
+          },
+          {
+            "id": 12283,
+            "name": "Slim Fit"
           },
           {
             "id": 12180,
@@ -1010,16 +1010,16 @@
             "name": "Lambswool"
           },
           {
-            "id": 25847,
-            "name": "Pants"
+            "id": 12163,
+            "name": "Fleece"
           },
           {
             "id": 12179,
             "name": "3D Knit"
           },
           {
-            "id": 12163,
-            "name": "Fleece"
+            "id": 25847,
+            "name": "Pants"
           },
           {
             "id": 12181,
@@ -12723,19 +12723,13 @@
         "longDescription": "- Elegant, premium-look material. <br>- Two-way stretch fabric. <br>- Hidden elastic waistband. <br>- With belt loops. <br>- Gently tapered silhouette with room at the knees. <br>- These flattering pants are not too figure-hugging around the thighs and calves. <br>- Versatile design that easily dresses up or down. <br>- Perfect for pairing with a T-shirt or blouse tucked in. <br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check “Materials” on the price tag or care label for details.",
         "name": "Smart Ankle Trousers",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E450606-000",
@@ -12770,35 +12764,22 @@
         },
         "representative": {
           "color": {
-            "code": "COL00",
-            "displayCode": "00",
-            "name": "WHITE",
+            "code": "COL10",
+            "displayCode": "10",
+            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
                 "id": 5,
                 "name": "Exclusive Size Online Only",
                 "detail": "Exclusive Size Online Only"
-              },
-              {
-                "code": "newSKU",
-                "id": 7,
-                "name": "New Color",
-                "detail": "New Color"
               },
               {
                 "code": "extraLargeStoreOnly",
@@ -12809,7 +12790,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07279350",
+          "l2Id": "07909756",
           "salesStartDate": "",
           "salesEndDate": ""
         },
