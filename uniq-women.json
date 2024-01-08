@@ -20737,9 +20737,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL27",
+            "displayCode": "27",
+            "name": "ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -20764,7 +20764,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07647198",
+          "l2Id": "07647182",
           "salesStartDate": "",
           "salesEndDate": ""
         },
