@@ -741,28 +741,24 @@
             "name": "Flannel"
           },
           {
-            "id": 25835,
-            "name": "Vest"
+            "id": 22381,
+            "name": "Hats & Caps"
           },
           {
-            "id": 24332,
-            "name": "UT Dress"
+            "id": 25835,
+            "name": "Vest"
           },
           {
             "id": 27570,
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 22381,
-            "name": "Hats & Caps"
+            "id": 24332,
+            "name": "UT Dress"
           },
           {
             "id": 28409,
             "name": "3D"
-          },
-          {
-            "id": 27754,
-            "name": "AIRism Set"
           },
           {
             "id": 31201,
@@ -773,16 +769,20 @@
             "name": "Jeans"
           },
           {
+            "id": 27754,
+            "name": "AIRism Set"
+          },
+          {
             "id": 42325,
             "name": "Dress"
           },
           {
-            "id": 22382,
-            "name": "Scarves & Stoles"
-          },
-          {
             "id": 22352,
             "name": "Casual Pants"
+          },
+          {
+            "id": 22382,
+            "name": "Scarves & Stoles"
           },
           {
             "id": 49217,
@@ -793,64 +793,64 @@
             "name": "Leggings Pants"
           },
           {
-            "id": 49273,
-            "name": "Knit"
+            "id": 31246,
+            "name": "Lined"
           },
           {
             "id": 22374,
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 31246,
-            "name": "Lined"
+            "id": 49273,
+            "name": "Knit"
           },
           {
             "id": 22353,
             "name": "Ankle Pants & Cropped Pants"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
+            "id": 24732,
+            "name": "Socks"
           },
           {
             "id": 22310,
             "name": "Jackets"
           },
           {
-            "id": 24732,
-            "name": "Socks"
-          },
-          {
-            "id": 22312,
-            "name": "Parka"
+            "id": 22350,
+            "name": "Trousers"
           },
           {
             "id": 49299,
             "name": "Loungewear Bottoms"
           },
           {
-            "id": 42320,
-            "name": "Bottoms"
+            "id": 22312,
+            "name": "Parka"
           },
           {
-            "id": 22309,
-            "name": "Hoodies"
+            "id": 42320,
+            "name": "Bottoms"
           },
           {
             "id": 22343,
             "name": "T-shirts"
           },
           {
+            "id": 22309,
+            "name": "Hoodies"
+          },
+          {
             "id": 31243,
             "name": "Down Jackets & Coats"
           },
           {
-            "id": 22344,
-            "name": "Shirts & Blouses"
-          },
-          {
             "id": 22308,
             "name": "Coats"
+          },
+          {
+            "id": 22344,
+            "name": "Shirts & Blouses"
           },
           {
             "id": 25840,
@@ -861,16 +861,16 @@
             "name": "Underwear"
           },
           {
-            "id": 12265,
-            "name": "Long Sleeve Dress"
+            "id": 22341,
+            "name": "Cardigans"
           },
           {
             "id": 25837,
             "name": "Uniqlo U"
           },
           {
-            "id": 22341,
-            "name": "Cardigans"
+            "id": 12265,
+            "name": "Long Sleeve Dress"
           },
           {
             "id": 49260,
@@ -933,16 +933,16 @@
             "name": "Baggy"
           },
           {
+            "id": 49258,
+            "name": "Jacket"
+          },
+          {
             "id": 31141,
             "name": "Maxi"
           },
           {
             "id": 12369,
             "name": "AIRism"
-          },
-          {
-            "id": 49258,
-            "name": "Jacket"
           },
           {
             "id": 11615,
@@ -1065,24 +1065,24 @@
             "name": "HEATTECH"
           },
           {
-            "id": 49226,
-            "name": "Long"
-          },
-          {
             "id": 11596,
             "name": "Others"
+          },
+          {
+            "id": 49226,
+            "name": "Long"
           },
           {
             "id": 13074,
             "name": "Uniqlo U"
           },
           {
-            "id": 12400,
-            "name": "Regular"
-          },
-          {
             "id": 12310,
             "name": "Smart Ankle Pants"
+          },
+          {
+            "id": 12400,
+            "name": "Regular"
           },
           {
             "id": 55026,
