@@ -379,12 +379,12 @@
         {
           "rating": 4.5,
           "accumulated": 88,
-          "count": 40
+          "count": 41
         },
         {
           "rating": 5,
-          "accumulated": 48,
-          "count": 48
+          "accumulated": 47,
+          "count": 47
         }
       ],
       "sizes": [
@@ -23264,9 +23264,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL06",
-            "displayCode": "06",
-            "name": "GRAY",
+            "code": "COL66",
+            "displayCode": "66",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -23291,7 +23291,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07672233",
+          "l2Id": "07672265",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -28059,9 +28059,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -28086,7 +28086,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07682124",
+          "l2Id": "07682100",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30145,9 +30145,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL58",
-            "displayCode": "58",
-            "name": "DARK GREEN",
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -30172,7 +30172,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07698709",
+          "l2Id": "07674951",
           "salesStartDate": "",
           "salesEndDate": ""
         },
