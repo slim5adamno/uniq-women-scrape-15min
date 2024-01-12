@@ -740,12 +740,12 @@
             "name": "Wide Pants"
           },
           {
-            "id": 24332,
-            "name": "UT Dress"
-          },
-          {
             "id": 28409,
             "name": "3D"
+          },
+          {
+            "id": 24332,
+            "name": "UT Dress"
           },
           {
             "id": 25835,
@@ -756,12 +756,12 @@
             "name": "Hats & Caps"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
-          },
-          {
             "id": 31201,
             "name": "Gloves"
+          },
+          {
+            "id": 22347,
+            "name": "Jeans"
           },
           {
             "id": 27754,
@@ -776,48 +776,48 @@
             "name": "Casual Pants"
           },
           {
-            "id": 49217,
-            "name": "Ultra Light Down"
-          },
-          {
             "id": 22348,
             "name": "Leggings Pants"
           },
           {
-            "id": 22353,
-            "name": "Ankle Pants & Cropped Pants"
+            "id": 49217,
+            "name": "Ultra Light Down"
           },
           {
             "id": 22374,
             "name": "Loungewear & Pajamas"
           },
           {
-            "id": 49273,
-            "name": "Knit"
+            "id": 22353,
+            "name": "Ankle Pants & Cropped Pants"
           },
           {
-            "id": 22350,
-            "name": "Trousers"
+            "id": 49273,
+            "name": "Knit"
           },
           {
             "id": 22310,
             "name": "Jackets"
           },
           {
-            "id": 42320,
-            "name": "Bottoms"
+            "id": 22350,
+            "name": "Trousers"
           },
           {
-            "id": 22312,
-            "name": "Parka"
+            "id": 25845,
+            "name": "Uniqlo U"
+          },
+          {
+            "id": 42320,
+            "name": "Bottoms"
           },
           {
             "id": 49299,
             "name": "Loungewear Bottoms"
           },
           {
-            "id": 25845,
-            "name": "Uniqlo U"
+            "id": 22312,
+            "name": "Parka"
           },
           {
             "id": 22343,
@@ -936,32 +936,36 @@
             "name": "AIRism"
           },
           {
-            "id": 49258,
-            "name": "Jacket"
-          },
-          {
             "id": 31141,
             "name": "Maxi"
+          },
+          {
+            "id": 49258,
+            "name": "Jacket"
           },
           {
             "id": 11615,
             "name": "Others"
           },
           {
-            "id": 49301,
-            "name": "Flannel"
+            "id": 25847,
+            "name": "Pants"
           },
           {
             "id": 12183,
             "name": "Souffle Yarn"
           },
           {
-            "id": 23500,
-            "name": "Hats"
+            "id": 49301,
+            "name": "Flannel"
           },
           {
             "id": 12180,
             "name": "Merino"
+          },
+          {
+            "id": 23500,
+            "name": "Hats"
           },
           {
             "id": 11574,
@@ -974,10 +978,6 @@
           {
             "id": 12163,
             "name": "Fleece"
-          },
-          {
-            "id": 25847,
-            "name": "Pants"
           },
           {
             "id": 12181,
@@ -1004,12 +1004,12 @@
             "name": "Hoodies"
           },
           {
-            "id": 49251,
-            "name": "Unisex"
-          },
-          {
             "id": 12307,
             "name": "Wide Fit"
+          },
+          {
+            "id": 49251,
+            "name": "Unisex"
           },
           {
             "id": 13104,
@@ -1072,12 +1072,12 @@
             "name": "Light"
           },
           {
-            "id": 11596,
-            "name": "Others"
-          },
-          {
             "id": 49226,
             "name": "Long"
+          },
+          {
+            "id": 11596,
+            "name": "Others"
           },
           {
             "id": 55026,
