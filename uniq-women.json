@@ -7640,15 +7640,15 @@
           }
         ],
         "rating": {
-          "average": 4.928571428571429,
-          "count": 14,
-          "fit": 3.0714285714285716,
+          "average": 4.933333333333334,
+          "count": 15,
+          "fit": 3.066666666666667,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 13
+            "five": 14
           }
         },
         "representative": {
@@ -13150,15 +13150,15 @@
           }
         ],
         "rating": {
-          "average": 4.407407407407407,
-          "count": 27,
-          "fit": 2.962962962962963,
+          "average": 4.428571428571429,
+          "count": 28,
+          "fit": 2.9642857142857144,
           "rateCount": {
             "one": 2,
             "two": 0,
             "three": 2,
             "four": 4,
-            "five": 19
+            "five": 20
           }
         },
         "representative": {
@@ -14531,15 +14531,15 @@
           }
         ],
         "rating": {
-          "average": 4.407407407407407,
-          "count": 27,
-          "fit": 2.962962962962963,
+          "average": 4.428571428571429,
+          "count": 28,
+          "fit": 2.9642857142857144,
           "rateCount": {
             "one": 2,
             "two": 0,
             "three": 2,
             "four": 4,
-            "five": 19
+            "five": 20
           }
         },
         "representative": {
