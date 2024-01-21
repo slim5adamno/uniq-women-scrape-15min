@@ -664,12 +664,12 @@
         ],
         "subcategories": [
           {
-            "id": 49303,
-            "name": "HEATTECH"
-          },
-          {
             "id": 23542,
             "name": "Others"
+          },
+          {
+            "id": 49303,
+            "name": "HEATTECH"
           },
           {
             "id": 49296,
@@ -680,6 +680,10 @@
             "name": "Wide Pants"
           },
           {
+            "id": 22381,
+            "name": "Hats & Caps"
+          },
+          {
             "id": 28409,
             "name": "3D"
           },
@@ -688,16 +692,12 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 22381,
-            "name": "Hats & Caps"
+            "id": 22347,
+            "name": "Jeans"
           },
           {
             "id": 27754,
             "name": "AIRism Set"
-          },
-          {
-            "id": 22347,
-            "name": "Jeans"
           },
           {
             "id": 22352,
@@ -712,20 +712,20 @@
             "name": "Leggings Pants"
           },
           {
-            "id": 23535,
-            "name": "Outer"
+            "id": 22353,
+            "name": "Ankle Pants & Cropped Pants"
           },
           {
             "id": 31246,
             "name": "Lined"
           },
           {
-            "id": 22374,
-            "name": "Loungewear & Pajamas"
+            "id": 23535,
+            "name": "Outer"
           },
           {
-            "id": 22353,
-            "name": "Ankle Pants & Cropped Pants"
+            "id": 22374,
+            "name": "Loungewear & Pajamas"
           },
           {
             "id": 22350,
@@ -736,16 +736,16 @@
             "name": "Jackets"
           },
           {
-            "id": 22312,
-            "name": "Parka"
-          },
-          {
             "id": 42320,
             "name": "Bottoms"
           },
           {
             "id": 49299,
             "name": "Loungewear Bottoms"
+          },
+          {
+            "id": 22312,
+            "name": "Parka"
           },
           {
             "id": 22343,
@@ -772,12 +772,12 @@
             "name": "Long Sleeve Dress"
           },
           {
-            "id": 22371,
-            "name": "Underwear"
-          },
-          {
             "id": 25837,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 22371,
+            "name": "Underwear"
           },
           {
             "id": 49260,
@@ -840,16 +840,16 @@
             "name": "Baggy"
           },
           {
-            "id": 49258,
-            "name": "Jacket"
+            "id": 12369,
+            "name": "AIRism"
           },
           {
             "id": 31141,
             "name": "Maxi"
           },
           {
-            "id": 12369,
-            "name": "AIRism"
+            "id": 49258,
+            "name": "Jacket"
           },
           {
             "id": 12284,
@@ -864,12 +864,12 @@
             "name": "Maternity"
           },
           {
-            "id": 12183,
-            "name": "Souffle Yarn"
-          },
-          {
             "id": 12160,
             "name": "Reversible"
+          },
+          {
+            "id": 12183,
+            "name": "Souffle Yarn"
           },
           {
             "id": 49301,
@@ -888,12 +888,12 @@
             "name": "Others"
           },
           {
-            "id": 12182,
-            "name": "Lambswool"
-          },
-          {
             "id": 12163,
             "name": "Fleece"
+          },
+          {
+            "id": 12182,
+            "name": "Lambswool"
           },
           {
             "id": 12179,
