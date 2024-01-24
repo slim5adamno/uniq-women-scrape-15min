@@ -240,13 +240,6 @@
           "lazy": false
         },
         {
-          "code": "comingSoon",
-          "name": "Coming Soon",
-          "rank": 11,
-          "id": 13,
-          "lazy": false
-        },
-        {
           "code": "limitedStore",
           "name": "Limited Store",
           "rank": 13,
@@ -13623,15 +13616,15 @@
           }
         ],
         "rating": {
-          "average": 4.735294117647059,
-          "count": 34,
-          "fit": 3.264705882352941,
+          "average": 4.742857142857143,
+          "count": 35,
+          "fit": 3.2857142857142856,
           "rateCount": {
             "one": 2,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 31
+            "five": 32
           }
         },
         "representative": {
@@ -14945,15 +14938,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL28",
             "displayCode": "28",
