@@ -10576,19 +10576,13 @@
         "longDescription": "A collection by Clare Waight Keller, who brings effortless sophistication to the high-quality daily essentials of LifeWear. Timeless pieces are reimagined with both oversized and fluid silhouettes in modern fabrics for an elevated everyday.<br><br>- Made of soft, high-quality synthetic leather. <br>- Padded for an airy texture. <br>- Lightweight material for easy carrying. <br>- Ideal capacity for daily use. <br>- This deceptively roomy bag has tucks on both sides and a gusset that expands when you put items inside. <br>- Rounded shape fits comfortably for easy carrying. <br>- Adjustable shoulder strap. <br>- Two interior pockets with 2 compartments.",
         "name": "Faux Leather Round Shoulder Bag",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E462420-000",
@@ -10600,8 +10594,7 @@
             "name": "-",
             "isDummy": false,
             "states": [
-              "display",
-              "sale"
+              "display"
             ],
             "display": {
               "showFlag": false,
@@ -10612,34 +10605,27 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL41",
-            "displayCode": "41",
-            "name": "YELLOW",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
-                "code": "limitedStore",
-                "id": 3,
-                "name": "Limited Store",
-                "detail": "Limited Store"
+                "code": "comingSoon",
+                "id": 13,
+                "name": "Coming Soon",
+                "detail": "Available late Feb"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "07758048",
+          "l2Id": "08096101",
           "salesStartDate": "",
           "salesEndDate": ""
         },
