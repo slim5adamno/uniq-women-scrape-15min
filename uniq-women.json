@@ -15242,9 +15242,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -15265,17 +15265,11 @@
                 "id": 5,
                 "name": "Exclusive Size Online Only",
                 "detail": "Exclusive Size Online Only"
-              },
-              {
-                "code": "limitedStore",
-                "id": 3,
-                "name": "Limited Store",
-                "detail": "Limited Store"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "07679212",
+          "l2Id": "07679232",
           "salesStartDate": "",
           "salesEndDate": ""
         },
