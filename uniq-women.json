@@ -1973,15 +1973,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL36",
-            "displayCode": "36",
-            "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Shell: 100% Cotton/ Lining: 100% Polyester/ Filling: 100% Polyester/ Shoulder: 100% Polyester",
@@ -6546,7 +6537,7 @@
           ]
         },
         "l1Id": "461147",
-        "longDescription": "- Soft, smooth brushed fabric. <br>- Style it with 2 buttons open as a skipper collar. <br>- Slightly relaxed regular fit with added gather details. <br>- Styles on its own or as a light outer layer.",
+        "longDescription": "- Brushed for extra softness. <br>- Styles on its own or as a light outer layer.",
         "name": "Soft Brushed Long Sleeve Shirt",
         "prices": {
           "base": {
