@@ -1853,7 +1853,7 @@
                 "code": "comingSoon",
                 "id": 13,
                 "name": "Coming Soon",
-                "detail": "Available Mid-Feb"
+                "detail": "Available late Feb"
               }
             ]
           },
@@ -10684,9 +10684,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460594/sub/goods_460594_sub21.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460594/sub/ingoods_460594_sub29.jpg"
             }
           ]
         },
@@ -12949,12 +12946,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461108/sub/goods_461108_sub18.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/461108/sub/ingoods_461108_sub28.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/461108/sub/ingoods_461108_sub29.jpg"
             }
           ]
         },
@@ -13334,9 +13325,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/461808/sub/goods_461808_sub23.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/461808/sub/ingoods_461808_sub29.jpg"
             }
           ]
         },
