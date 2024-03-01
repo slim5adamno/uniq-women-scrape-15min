@@ -20518,14 +20518,14 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "3990.0000"
+            "value": "2990.0000"
           },
           "promo": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "2490.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E450524-000",
@@ -20560,8 +20560,8 @@
         },
         "representative": {
           "color": {
-            "code": "COL68",
-            "displayCode": "68",
+            "code": "COL67",
+            "displayCode": "67",
             "name": "BLUE",
             "display": {
               "showFlag": true,
@@ -20587,7 +20587,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07679228",
+          "l2Id": "07350884",
           "salesStartDate": "",
           "salesEndDate": ""
         },
