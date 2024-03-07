@@ -195,7 +195,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 7
+          "count": 6
         },
         {
           "from": 1000,
@@ -221,53 +221,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 41,
+          "accumulated": 40,
           "count": 9
         },
         {
           "rating": 0.5,
-          "accumulated": 32,
+          "accumulated": 31,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 32,
+          "accumulated": 31,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 32,
+          "accumulated": 31,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 32,
+          "accumulated": 31,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 32,
+          "accumulated": 31,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 32,
+          "accumulated": 31,
           "count": 1
         },
         {
           "rating": 3.5,
-          "accumulated": 31,
+          "accumulated": 30,
           "count": 0
         },
         {
           "rating": 4,
-          "accumulated": 31,
+          "accumulated": 30,
           "count": 8
         },
         {
           "rating": 4.5,
-          "accumulated": 23,
-          "count": 16
+          "accumulated": 22,
+          "count": 15
         },
         {
           "rating": 5,
@@ -483,10 +483,6 @@
           {
             "id": 23456,
             "name": "Bags"
-          },
-          {
-            "id": 23455,
-            "name": "Hats & Caps"
           },
           {
             "id": 42317,
@@ -819,28 +815,8 @@
             "name": "Bags"
           },
           {
-            "id": 49303,
-            "name": "HEATTECH"
-          },
-          {
-            "id": 22381,
-            "name": "Hats & Caps"
-          },
-          {
             "id": 23511,
             "name": "Shoulder Bags"
-          },
-          {
-            "id": 23500,
-            "name": "Hats"
-          },
-          {
-            "id": 23507,
-            "name": "Unisex"
-          },
-          {
-            "id": 67680,
-            "name": "Beanie"
           },
           {
             "id": 42321,
@@ -1014,7 +990,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -1184,7 +1160,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -1363,7 +1339,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -1383,218 +1359,6 @@
         ],
         "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "80% Acrylic, 10% Polyamide, 9% Wool, 1% Elastane",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/item/goods_01_459725.jpg",
-              "colorCode": "01"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/item/goods_08_459725.jpg",
-              "colorCode": "08"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/item/goods_09_459725.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/item/goods_12_459725.jpg",
-              "colorCode": "12"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/item/goods_16_459725.jpg",
-              "colorCode": "16"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/item/goods_32_459725.jpg",
-              "colorCode": "32"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/item/goods_44_459725.jpg",
-              "colorCode": "44"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/item/goods_56_459725.jpg",
-              "colorCode": "56"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/item/goods_62_459725.jpg",
-              "colorCode": "62"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/item/goods_67_459725.jpg",
-              "colorCode": "67"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/chip/goods_01_459725_chip.jpg",
-              "colorCode": "01"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/chip/goods_08_459725_chip.jpg",
-              "colorCode": "08"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/chip/goods_09_459725_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/chip/goods_12_459725_chip.jpg",
-              "colorCode": "12"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/chip/goods_16_459725_chip.jpg",
-              "colorCode": "16"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/chip/goods_32_459725_chip.jpg",
-              "colorCode": "32"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/chip/goods_44_459725_chip.jpg",
-              "colorCode": "44"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/chip/goods_56_459725_chip.jpg",
-              "colorCode": "56"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/chip/goods_62_459725_chip.jpg",
-              "colorCode": "62"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/chip/goods_67_459725_chip.jpg",
-              "colorCode": "67"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/sub/goods_459725_sub9.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/459725/sub/goods_459725_sub17.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/459725/sub/ingoods_459725_sub28.jpg"
-            }
-          ]
-        },
-        "l1Id": "459725",
-        "longDescription": "- Updated rib width on the top for a better fit. <br>- Warm ‘HEATTECH’ with Heat Absorption comfort features. <br>- Smooth nylon blend. <br>- Narrower ribs on the folded brim for improved comfort and style. <br>- Basic design is easy to mix and match in any outfit.",
-        "name": "HEATTECH Ribbed Beanie",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "590.0000"
-          }
-        },
-        "productId": "E459725-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.733333333333333,
-          "count": 15,
-          "fit": 3.1333333333333333,
-          "rateCount": {
-            "one": 0,
-            "two": 1,
-            "three": 0,
-            "four": 1,
-            "five": 13
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "07774743",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 40,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "Warm and cozy ‘HEATTECH’. Adds an accent to any outfit.",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/459725_size.html",
-        "sizeInformation": "Around the Head: 45cm, Height: 21cm",
-        "sizes": [
-          {
-            "code": "SIZ999",
-            "displayCode": "999",
-            "name": "No Control",
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Do not tumble dry."
       },
       {
         "careInstruction": "<br>",
@@ -1783,7 +1547,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -1976,7 +1740,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -2169,7 +1933,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -2351,7 +2115,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -2507,7 +2271,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -2691,7 +2455,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -3055,7 +2819,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -3236,7 +3000,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -3430,7 +3194,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -3646,7 +3410,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -3866,7 +3630,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -4109,7 +3873,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -4306,7 +4070,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -4489,7 +4253,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -4676,7 +4440,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -4906,7 +4670,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -5123,7 +4887,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -5354,7 +5118,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -5615,7 +5379,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -5890,7 +5654,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -6130,7 +5894,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -6301,7 +6065,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -6487,7 +6251,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -6679,7 +6443,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -6847,7 +6611,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -7063,7 +6827,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -7270,7 +7034,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -7468,7 +7232,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -7636,7 +7400,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -7849,7 +7613,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -8033,7 +7797,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -8275,7 +8039,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -8512,7 +8276,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -8737,7 +8501,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -8917,7 +8681,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -9170,7 +8934,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -9225,15 +8989,6 @@
             "code": "COL31",
             "displayCode": "31",
             "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL58",
-            "displayCode": "58",
-            "name": "DARK GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -9493,7 +9248,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 39,
           "count": 0,
           "items": []
         },
@@ -9534,8 +9289,8 @@
       }
     ],
     "pagination": {
-      "count": 41,
-      "total": 41,
+      "count": 40,
+      "total": 40,
       "offset": 300
     }
   }
