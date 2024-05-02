@@ -1137,7 +1137,7 @@
         "designDetail": "",
         "freeInformation": "Brandix Apparel India Pvt Ltd BAI-II, Plot #18, BIACPL, SEZ, Pudimadaka Road, Atchutapuram Mandal,Visakhapatnam– 531011, Andhra Pradesh, India",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -1391,7 +1391,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 5,
+          "fit": 3.4,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 5
+          }
+        },
         "representative": {
           "color": {
             "code": "COL54",
@@ -1426,7 +1437,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -1464,7 +1475,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -1542,7 +1553,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 2,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 2
+          }
+        },
         "representative": {
           "color": {
             "code": "COL66",
@@ -1577,7 +1599,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -1642,7 +1664,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -1720,7 +1742,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.5,
+          "count": 2,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -1755,7 +1788,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -1820,7 +1853,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -1898,7 +1931,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL69",
@@ -1933,7 +1977,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -2007,7 +2051,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -2088,7 +2132,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -2123,7 +2178,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -2206,7 +2261,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -2287,7 +2342,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -2322,7 +2388,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -2369,7 +2435,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -2447,7 +2513,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.666666666666667,
+          "count": 3,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 2
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -2482,7 +2559,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -2529,7 +2606,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -2607,7 +2684,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -2642,7 +2730,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -2680,7 +2768,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -2761,7 +2849,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 4,
+          "fit": 3.75,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 4
+          }
+        },
         "representative": {
           "color": {
             "code": "COL08",
@@ -2796,7 +2895,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -2879,7 +2978,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -2960,7 +3059,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.5,
+          "count": 2,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL08",
@@ -2995,7 +3105,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -3060,7 +3170,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -3138,7 +3248,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -3173,7 +3294,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -3211,7 +3332,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -3280,7 +3401,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.6,
+          "count": 5,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 2,
+            "five": 3
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -3315,7 +3447,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -3398,7 +3530,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -3464,7 +3596,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 4,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 4
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -3499,7 +3642,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -3618,7 +3761,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -3730,7 +3873,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.8,
+          "count": 5,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 4
+          }
+        },
         "representative": {
           "color": {
             "code": "COL11",
@@ -3765,7 +3919,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -3839,7 +3993,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -3976,7 +4130,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -4011,7 +4176,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -4058,7 +4223,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -4136,7 +4301,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 2,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 2
+          }
+        },
         "representative": {
           "color": {
             "code": "COL63",
@@ -4171,7 +4347,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -4236,7 +4412,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -4317,7 +4493,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -4352,7 +4539,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -4426,7 +4613,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -4510,7 +4697,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -4545,7 +4743,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -4619,7 +4817,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -4685,7 +4883,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4,
+          "count": 1,
+          "fit": 2,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL58",
@@ -4720,7 +4929,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -4758,7 +4967,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -4842,7 +5051,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -4877,7 +5097,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -4915,7 +5135,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -4993,7 +5213,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -5028,7 +5259,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -5075,7 +5306,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -5150,7 +5381,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -5185,7 +5427,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -5223,7 +5465,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -5304,7 +5546,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL07",
@@ -5339,7 +5592,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -5377,7 +5630,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -5461,7 +5714,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -5496,7 +5760,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -5534,7 +5798,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -5615,7 +5879,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL30",
@@ -5650,7 +5925,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -5697,7 +5972,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -5778,7 +6053,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -5813,7 +6099,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -5887,7 +6173,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -5965,7 +6251,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -6000,7 +6297,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -6074,7 +6371,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -6179,7 +6476,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL34",
@@ -6214,7 +6522,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -6306,7 +6614,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -6391,7 +6699,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL56",
@@ -6426,7 +6745,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -6500,7 +6819,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -6578,7 +6897,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -6613,7 +6943,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -6678,7 +7008,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -6759,7 +7089,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 4,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -6794,7 +7135,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -6832,7 +7173,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -6910,7 +7251,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL03",
@@ -6945,7 +7297,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -7010,7 +7362,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -7079,7 +7431,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -7114,7 +7477,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -7197,7 +7560,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -7278,7 +7641,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL43",
@@ -7313,7 +7687,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -7351,7 +7725,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -7432,7 +7806,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL67",
@@ -7467,7 +7852,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -7541,7 +7926,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -7613,7 +7998,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL50",
@@ -7648,7 +8044,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -7731,7 +8127,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -7803,7 +8199,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL34",
@@ -7838,7 +8245,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -7903,7 +8310,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -7975,7 +8382,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL10",
@@ -8010,7 +8428,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -8066,7 +8484,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -8138,7 +8556,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL08",
@@ -8173,7 +8602,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -8247,7 +8676,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -8313,7 +8742,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -8348,7 +8788,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -8431,7 +8871,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -8503,7 +8943,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -8538,7 +8989,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -8603,7 +9054,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -8681,7 +9132,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -8716,7 +9178,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -8772,7 +9234,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -8853,7 +9315,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL60",
@@ -8888,7 +9361,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -8935,7 +9408,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -9013,7 +9486,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL10",
@@ -9048,7 +9532,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -9113,7 +9597,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -9197,7 +9681,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -9232,7 +9727,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -9270,7 +9765,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -9357,7 +9852,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL73",
@@ -9392,7 +9898,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -9439,7 +9945,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -9517,7 +10023,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL10",
@@ -9552,7 +10069,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -9617,7 +10134,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -9692,7 +10209,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4,
+          "count": 2,
+          "fit": 4,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 2,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -9727,7 +10255,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -9819,7 +10347,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -9926,7 +10454,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL52",
@@ -9954,7 +10493,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -10037,7 +10576,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -10112,7 +10651,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -10147,7 +10697,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -10230,7 +10780,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -10305,7 +10855,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -10340,7 +10901,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -10378,7 +10939,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -10462,7 +11023,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -10497,7 +11069,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -10544,7 +11116,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -10625,7 +11197,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -10660,7 +11243,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -10734,7 +11317,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -10827,7 +11410,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 3.6666666666666665,
+          "count": 3,
+          "fit": 4,
+          "rateCount": {
+            "one": 1,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 2
+          }
+        },
         "representative": {
           "color": {
             "code": "COL64",
@@ -10862,7 +11456,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -10963,7 +11557,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -11179,7 +11773,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.857142857142857,
+          "count": 21,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 3,
+            "five": 18
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -11207,7 +11812,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -11272,7 +11877,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -11351,7 +11956,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL08",
@@ -11386,7 +12002,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -11442,7 +12058,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -11527,7 +12143,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL15",
@@ -11562,7 +12189,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -11600,7 +12227,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -11678,7 +12305,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.833333333333333,
+          "count": 18,
+          "fit": 3.1666666666666665,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 3,
+            "five": 15
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -11713,7 +12351,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -11769,7 +12407,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -11857,7 +12495,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL65",
@@ -11892,7 +12541,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -11975,7 +12624,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -12096,7 +12745,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 3,
+          "fit": 3.3333333333333335,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 3
+          }
+        },
         "representative": {
           "color": {
             "code": "COL10",
@@ -12131,7 +12791,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -12223,7 +12883,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -12328,7 +12988,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.5,
+          "count": 2,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -12363,7 +13034,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -12455,7 +13126,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -12557,7 +13228,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL31",
@@ -12592,7 +13274,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -12666,7 +13348,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -12760,7 +13442,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL07",
@@ -12795,7 +13488,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -12869,7 +13562,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -12962,7 +13655,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL36",
@@ -12997,7 +13701,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -13053,7 +13757,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -13152,7 +13856,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL36",
@@ -13187,7 +13902,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -13252,7 +13967,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -13346,7 +14061,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL33",
@@ -13381,7 +14107,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -13455,7 +14181,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -13540,7 +14266,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL32",
@@ -13575,7 +14312,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -13658,7 +14395,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -13760,7 +14497,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4,
+          "count": 1,
+          "fit": 5,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -13795,7 +14543,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -13878,7 +14626,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -13993,7 +14741,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 7,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 7
+          }
+        },
         "representative": {
           "color": {
             "code": "COL30",
@@ -14028,7 +14787,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -14111,7 +14870,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -14199,7 +14958,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.666666666666667,
+          "count": 9,
+          "fit": 3.2222222222222223,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 3,
+            "five": 6
+          }
+        },
         "representative": {
           "color": {
             "code": "COL05",
@@ -14234,7 +15004,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -14272,7 +15042,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -14352,7 +15122,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 4,
+          "fit": 3.25,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 4
+          }
+        },
         "representative": {
           "color": {
             "code": "COL31",
@@ -14387,7 +15168,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -14425,7 +15206,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -14540,7 +15321,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.741935483870968,
+          "count": 31,
+          "fit": 3.096774193548387,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 8,
+            "five": 23
+          }
+        },
         "representative": {
           "color": {
             "code": "COL06",
@@ -14575,7 +15367,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -14631,7 +15423,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -14744,7 +15536,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.866666666666666,
+          "count": 30,
+          "fit": 3.066666666666667,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 1,
+            "four": 2,
+            "five": 27
+          }
+        },
         "representative": {
           "color": {
             "code": "COL08",
@@ -14785,7 +15588,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -14832,7 +15635,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -14909,7 +15712,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -14944,7 +15758,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -14991,7 +15805,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -15079,7 +15893,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -15114,7 +15939,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -15170,7 +15995,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -15269,7 +16094,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL31",
@@ -15304,7 +16140,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -15396,7 +16232,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -15478,7 +16314,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -15513,7 +16360,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -15569,7 +16416,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -15657,7 +16504,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL69",
@@ -15692,7 +16550,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -15757,7 +16615,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -15849,7 +16707,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -15884,7 +16753,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -15940,7 +16809,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -16026,7 +16895,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -16061,7 +16941,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -16126,7 +17006,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -16215,7 +17095,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -16250,7 +17141,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -16342,7 +17233,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -16436,7 +17327,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL37",
@@ -16471,7 +17373,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -16536,7 +17438,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -16628,7 +17530,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.5,
+          "count": 2,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -16663,7 +17576,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -16764,7 +17677,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -16861,7 +17774,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL55",
@@ -16889,7 +17813,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -16954,7 +17878,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -17043,7 +17967,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL65",
@@ -17078,7 +18013,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -17161,7 +18096,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -17275,7 +18210,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 4,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL56",
@@ -17316,7 +18262,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -17417,7 +18363,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -17517,7 +18463,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL30",
@@ -17552,7 +18509,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -17635,7 +18592,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -17728,7 +18685,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL74",
@@ -17769,7 +18737,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -17852,7 +18820,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -17954,7 +18922,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.666666666666667,
+          "count": 3,
+          "fit": 3.3333333333333335,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 2
+          }
+        },
         "representative": {
           "color": {
             "code": "COL30",
@@ -17982,7 +18961,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -18092,7 +19071,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.<br><br>■Inseam alteration is available for this product<br>- Depending on the length of the alteration, a seam may remain after the thread is unwound. Also, products with a distressed finish will not have distressed hems after inseam alteration. Your understanding is appreciated. <br>- Please refer to \"Alteration Finishes\" for alteration specifications.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -18191,7 +19170,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL33",
@@ -18226,7 +19216,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -18300,7 +19290,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -18380,7 +19370,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -18415,7 +19416,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -18507,7 +19508,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -18628,7 +19629,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 2,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL65",
@@ -18663,7 +19675,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -18737,7 +19749,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -18825,7 +19837,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL10",
@@ -18860,7 +19883,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -18943,7 +19966,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -19045,7 +20068,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL43",
@@ -19080,7 +20114,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -19154,7 +20188,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -19242,7 +20276,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL55",
@@ -19277,7 +20322,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -19369,7 +20414,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -19463,7 +20508,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL56",
@@ -19498,7 +20554,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -19590,7 +20646,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -19695,7 +20751,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.5,
+          "count": 2,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL69",
@@ -19730,7 +20797,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -19822,7 +20889,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -19919,7 +20986,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -19954,7 +21032,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -20019,7 +21097,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -20113,7 +21191,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -20148,7 +21237,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -20222,7 +21311,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -20313,7 +21402,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -20348,7 +21448,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -20440,7 +21540,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -20582,7 +21682,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.333333333333333,
+          "count": 3,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 2,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL11",
@@ -20617,7 +21728,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -20691,7 +21802,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -20788,7 +21899,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 4,
+          "fit": 3.25,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 4
+          }
+        },
         "representative": {
           "color": {
             "code": "COL02",
@@ -20829,7 +21951,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -20912,7 +22034,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -21000,7 +22122,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL51",
@@ -21041,7 +22174,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -21142,7 +22275,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.<br><br>■Inseam alteration is available for this product<br>- Depending on the length of the alteration, a seam may remain after the thread is unwound. Also, products with a distressed finish will not have distressed hems after inseam alteration. Your understanding is appreciated. <br>- Please refer to \"Alteration Finishes\" for alteration specifications.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -21222,7 +22355,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 2,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 1,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL69",
@@ -21257,7 +22401,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -21331,7 +22475,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -21446,7 +22590,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.733333333333333,
+          "count": 45,
+          "fit": 3.111111111111111,
+          "rateCount": {
+            "one": 2,
+            "two": 0,
+            "three": 0,
+            "four": 4,
+            "five": 39
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -21474,7 +22629,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -21530,7 +22685,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -21633,7 +22788,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 5,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL30",
@@ -21661,7 +22827,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -21708,7 +22874,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -21797,7 +22963,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL51",
@@ -21832,7 +23009,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -21933,7 +23110,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -22035,7 +23212,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.8,
+          "count": 5,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 4
+          }
+        },
         "representative": {
           "color": {
             "code": "COL61",
@@ -22070,7 +23258,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -22153,7 +23341,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -22242,7 +23430,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL70",
@@ -22283,7 +23482,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -22357,7 +23556,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -22445,7 +23644,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 3,
+          "fit": 3.6666666666666665,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 3
+          }
+        },
         "representative": {
           "color": {
             "code": "COL31",
@@ -22486,7 +23696,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -22578,7 +23788,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -22658,7 +23868,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -22699,7 +23920,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -22800,7 +24021,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -22885,7 +24106,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL61",
@@ -22920,7 +24152,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -22985,7 +24217,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -23085,7 +24317,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.666666666666667,
+          "count": 3,
+          "fit": 4.333333333333333,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 2
+          }
+        },
         "representative": {
           "color": {
             "code": "COL30",
@@ -23120,7 +24363,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -23185,7 +24428,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -23282,7 +24525,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -23323,7 +24577,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -23397,7 +24651,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -23505,7 +24759,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL52",
@@ -23540,7 +24805,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -23605,7 +24870,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -23705,7 +24970,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL15",
@@ -23746,7 +25022,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -23856,7 +25132,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -23971,7 +25247,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL65",
@@ -24006,7 +25293,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -24116,7 +25403,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -24227,7 +25514,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -24262,7 +25560,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -24327,7 +25625,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -24422,7 +25720,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -24457,7 +25766,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -24522,7 +25831,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -24616,7 +25925,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 3,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 3
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
@@ -24651,7 +25971,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -24725,7 +26045,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -24813,7 +26133,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 3,
+          "fit": 3.6666666666666665,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 3
+          }
+        },
         "representative": {
           "color": {
             "code": "COL55",
@@ -24848,7 +26179,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -24931,7 +26262,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -25034,7 +26365,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL32",
@@ -25069,7 +26411,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -25161,7 +26503,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -25257,7 +26599,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 2,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 2
+          }
+        },
         "representative": {
           "color": {
             "code": "COL41",
@@ -25298,7 +26651,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -25408,7 +26761,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -25522,7 +26875,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL68",
@@ -25550,7 +26914,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -25633,7 +26997,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -25742,7 +27106,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL54",
@@ -25770,7 +27145,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -25853,7 +27228,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -25952,7 +27327,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL31",
@@ -25987,7 +27373,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -26043,7 +27429,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -26112,7 +27498,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL68",
@@ -26147,7 +27544,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -26194,7 +27591,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -26263,7 +27660,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL65",
@@ -26298,7 +27706,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -26390,7 +27798,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -26490,7 +27898,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL04",
@@ -26525,7 +27944,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -26608,7 +28027,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -26713,7 +28132,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL15",
@@ -26748,7 +28178,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -26813,7 +28243,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -26882,7 +28312,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL60",
@@ -26917,7 +28358,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -26964,7 +28405,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -27036,7 +28477,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL08",
@@ -27071,7 +28523,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -27118,7 +28570,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -27190,7 +28642,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL07",
@@ -27225,7 +28688,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -27272,7 +28735,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -27368,7 +28831,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -27403,7 +28877,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -27468,7 +28942,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -27553,7 +29027,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 1,
+          "count": 1,
+          "fit": 1,
+          "rateCount": {
+            "one": 1,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL56",
@@ -27588,7 +29073,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -27671,7 +29156,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -27757,7 +29242,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 1,
+          "count": 1,
+          "fit": 5,
+          "rateCount": {
+            "one": 1,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -27792,7 +29288,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -27857,7 +29353,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -27937,7 +29433,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL02",
@@ -27972,7 +29479,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -28037,7 +29544,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -28131,7 +29638,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL24",
@@ -28166,7 +29684,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -28222,7 +29740,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -28313,7 +29831,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL32",
@@ -28348,7 +29877,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -28413,7 +29942,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -28517,7 +30046,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4.666666666666667,
+          "count": 6,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 1,
+            "four": 0,
+            "five": 5
+          }
+        },
         "representative": {
           "color": {
             "code": "COL31",
@@ -28552,7 +30092,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -28617,7 +30157,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -28741,7 +30281,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL30",
@@ -28782,7 +30333,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -28829,7 +30380,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -28898,7 +30449,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL60",
@@ -28933,7 +30495,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 51,
           "count": 0,
           "items": []
         },
@@ -28980,7 +30542,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -29061,7 +30623,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL63",
@@ -29096,7 +30669,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -29170,7 +30743,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -29267,7 +30840,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL32",
@@ -29302,7 +30886,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -29376,7 +30960,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -29453,7 +31037,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL69",
@@ -29488,7 +31083,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -29562,7 +31157,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -29668,7 +31263,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL36",
@@ -29703,7 +31309,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -29759,7 +31365,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -29840,7 +31446,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL68",
@@ -29875,7 +31492,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -29949,7 +31566,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -30052,7 +31669,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL56",
@@ -30087,7 +31715,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -30170,7 +31798,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -30264,7 +31892,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL56",
@@ -30299,7 +31938,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -30364,7 +32003,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -30441,7 +32080,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL02",
@@ -30476,7 +32126,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
@@ -30550,7 +32200,7 @@
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
-        "hideReview": true,
+        "hideReview": false,
         "images": {
           "main": [
             {
@@ -30659,7 +32309,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": null,
+          "count": 0,
+          "fit": null,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL30",
@@ -30694,7 +32355,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 97,
           "count": 0,
           "items": []
         },
