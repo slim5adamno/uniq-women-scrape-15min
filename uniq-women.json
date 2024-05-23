@@ -3577,7 +3577,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "990.0000"
+            "value": "790.0000"
           }
         },
         "productId": "E465749-000",
@@ -3612,9 +3612,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL11",
-            "displayCode": "11",
-            "name": "PINK",
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -3629,17 +3629,10 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": [
-              {
-                "code": "preSales",
-                "id": 5,
-                "name": "Exclusive Size Online Only",
-                "detail": "Exclusive Size Online Only"
-              }
-            ]
+            "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07923543",
+          "l2Id": "07923527",
           "salesStartDate": "",
           "salesEndDate": ""
         },
