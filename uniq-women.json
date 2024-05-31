@@ -685,24 +685,24 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 22343,
-            "name": "T-shirts"
-          },
-          {
             "id": 22350,
             "name": "Trousers"
+          },
+          {
+            "id": 22343,
+            "name": "T-shirts"
           },
           {
             "id": 28409,
             "name": "3D"
           },
           {
-            "id": 25840,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 49262,
             "name": "Sweat"
+          },
+          {
+            "id": 25840,
+            "name": "Long Sleeve"
           },
           {
             "id": 22341,
@@ -725,12 +725,12 @@
             "name": "UNIQLO : C"
           },
           {
-            "id": 79731,
-            "name": "others"
-          },
-          {
             "id": 49235,
             "name": "Crew Neck"
+          },
+          {
+            "id": 79731,
+            "name": "others"
           },
           {
             "id": 67598,
@@ -3794,14 +3794,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 1,
+          "count": 2,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -11109,15 +11109,15 @@
           }
         ],
         "rating": {
-          "average": 4.666666666666667,
-          "count": 6,
-          "fit": 3.1666666666666665,
+          "average": 4.714285714285714,
+          "count": 7,
+          "fit": 3.142857142857143,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 0,
-            "five": 5
+            "five": 6
           }
         },
         "representative": {
