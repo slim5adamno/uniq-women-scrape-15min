@@ -627,12 +627,12 @@
             "name": "Linen"
           },
           {
-            "id": 22347,
-            "name": "Jeans"
-          },
-          {
             "id": 22344,
             "name": "Shirts & Blouses"
+          },
+          {
+            "id": 22347,
+            "name": "Jeans"
           },
           {
             "id": 25845,
@@ -763,12 +763,12 @@
             "name": "Others"
           },
           {
-            "id": 41218,
-            "name": "Sweat"
-          },
-          {
             "id": 12173,
             "name": "Extra Fine Cotton"
+          },
+          {
+            "id": 41218,
+            "name": "Sweat"
           },
           {
             "id": 12165,
