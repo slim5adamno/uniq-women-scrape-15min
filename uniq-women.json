@@ -625,12 +625,12 @@
         ],
         "subcategories": [
           {
-            "id": 22339,
-            "name": "Rayon"
-          },
-          {
             "id": 22353,
             "name": "Ankle"
+          },
+          {
+            "id": 22339,
+            "name": "Rayon"
           },
           {
             "id": 67595,
@@ -653,12 +653,12 @@
             "name": "Shirts & Blouses"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
-          },
-          {
             "id": 25845,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 22343,
