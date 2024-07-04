@@ -666,20 +666,20 @@
             "name": "Shirts & Blouses"
           },
           {
-            "id": 25845,
-            "name": "Uniqlo U"
-          },
-          {
             "id": 22347,
             "name": "Jeans"
           },
           {
-            "id": 22354,
-            "name": "Shorts"
+            "id": 25845,
+            "name": "Uniqlo U"
           },
           {
             "id": 22343,
             "name": "T-shirts"
+          },
+          {
+            "id": 22354,
+            "name": "Shorts"
           },
           {
             "id": 28409,
