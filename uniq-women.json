@@ -19700,19 +19700,13 @@
         "longDescription": "- Made with a rayon-linen-cotton blend fabric for a natural slub look. <br>- Pre-washed for a casual feel. <br>- Elasticized drawstring waist. <br>- Front tucks. <br>- Pockets at both sides. <br>- Roomy fit. <br>- Striped pattern. <br>- The casual design is perfect for relaxing at home or wearing around the neighborhood.",
         "name": "Linen Blend Easy Pants",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E466024-000",
@@ -19747,23 +19741,16 @@
         },
         "representative": {
           "color": {
-            "code": "COL67",
-            "displayCode": "67",
-            "name": "BLUE",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "preSales",
@@ -19780,7 +19767,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "07916451",
+          "l2Id": "07916443",
           "salesStartDate": "",
           "salesEndDate": ""
         },
