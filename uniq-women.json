@@ -3761,9 +3761,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL61",
-            "displayCode": "61",
-            "name": "BLUE",
+            "code": "COL11",
+            "displayCode": "11",
+            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -3788,7 +3788,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08078765",
+          "l2Id": "08078763",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -25893,19 +25893,13 @@
         "longDescription": "- Smooth 'AIRism' fabric with the look of cotton. <br>- All-direction stretch for comfort and easy outfit changes. <br>- Built-in cups provide secure support. <br>- Sleek, straight cut. <br>- Long length creates a casual yet elegant impression. <br>- Pockets on both sides. <br>- Comfort and style all in one.",
         "name": "AIRism Cotton Short Sleeve Bra Dress",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
           }
         },
         "productId": "E464791-000",
@@ -25940,27 +25934,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07982271",
+          "l2Id": "07982303",
           "salesStartDate": "",
           "salesEndDate": ""
         },
