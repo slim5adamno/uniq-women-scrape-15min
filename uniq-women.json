@@ -673,12 +673,12 @@
             "name": "Ankle"
           },
           {
-            "id": 22352,
-            "name": "Casual Pants"
-          },
-          {
             "id": 25838,
             "name": "Sleeveless"
+          },
+          {
+            "id": 22352,
+            "name": "Casual Pants"
           },
           {
             "id": 67592,
@@ -709,12 +709,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 49262,
-            "name": "Sweat"
-          },
-          {
             "id": 22341,
             "name": "Cardigans"
+          },
+          {
+            "id": 49262,
+            "name": "Sweat"
           },
           {
             "id": 22340,
