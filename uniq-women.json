@@ -12599,15 +12599,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -25464,9 +25455,6 @@
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/467640/sub/goods_467640_sub17.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/467640/sub/ingoods_467640_sub28.jpg"
-            },
-            {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/467640/sub/ingoods_467640_sub30.jpg"
             }
           ]
@@ -32275,9 +32263,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/466362/sub/goods_466362_sub19.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/466362/sub/ingoods_466362_sub28.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/466362/sub/ingoods_466362_sub30.jpg"
