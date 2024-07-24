@@ -32391,9 +32391,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL62",
-            "displayCode": "62",
-            "name": "BLUE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -32418,7 +32418,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08089758",
+          "l2Id": "08073548",
           "salesStartDate": "",
           "salesEndDate": ""
         },
