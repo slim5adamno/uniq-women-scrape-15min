@@ -496,7 +496,7 @@
           },
           {
             "id": 11519,
-            "name": "TOPS"
+            "name": "T-Shirts, Sweats & Fleece"
           },
           {
             "id": 11521,
@@ -558,7 +558,7 @@
           },
           {
             "id": 22319,
-            "name": "All Tops"
+            "name": "All T-shirts &Sweat & Fleece"
           },
           {
             "id": 11577,
@@ -578,7 +578,7 @@
           },
           {
             "id": 11568,
-            "name": "Sweaters & Cardigans"
+            "name": "Knitwear"
           },
           {
             "id": 22320,
@@ -751,12 +751,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 49262,
-            "name": "Sweat"
-          },
-          {
             "id": 22341,
             "name": "Cardigans"
+          },
+          {
+            "id": 49262,
+            "name": "Sweat"
           },
           {
             "id": 22340,
@@ -935,12 +935,12 @@
             "name": "UT Archive Andy Warhol Keith Haring Jean Michel Basquiat"
           },
           {
-            "id": 31358,
-            "name": "Wide"
-          },
-          {
             "id": 11580,
             "name": "Others"
+          },
+          {
+            "id": 31358,
+            "name": "Wide"
           },
           {
             "id": 19829,
