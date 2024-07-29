@@ -33258,6 +33258,12 @@
                 "detail": "Exclusive Size Online Only"
               },
               {
+                "code": "newSKU",
+                "id": 7,
+                "name": "New Color",
+                "detail": "New Color"
+              },
+              {
                 "code": "limitedStore",
                 "id": 3,
                 "name": "Limited Store",
