@@ -21983,7 +21983,7 @@
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453703/sub/goods_453703_sub1.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453703/sub/goods_453703_sub2.jpg"
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/453703/sub/ingoods_453703_sub2.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/453703/sub/goods_453703_sub17.jpg"
@@ -24115,15 +24115,15 @@
           }
         ],
         "rating": {
-          "average": 4.7272727272727275,
-          "count": 11,
-          "fit": 2.909090909090909,
+          "average": 4.75,
+          "count": 12,
+          "fit": 2.9166666666666665,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 1,
-            "five": 9
+            "five": 10
           }
         },
         "representative": {
@@ -26242,14 +26242,14 @@
           }
         ],
         "rating": {
-          "average": 4.75,
-          "count": 4,
-          "fit": 3.5,
+          "average": 4.6,
+          "count": 5,
+          "fit": 3.6,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 1,
+            "four": 2,
             "five": 3
           }
         },
@@ -37005,15 +37005,15 @@
           }
         ],
         "rating": {
-          "average": 4.571428571428571,
-          "count": 14,
-          "fit": 3.0714285714285716,
+          "average": 4.6,
+          "count": 15,
+          "fit": 3.066666666666667,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 11
+            "five": 12
           }
         },
         "representative": {
