@@ -742,20 +742,20 @@
         ],
         "subcategories": [
           {
-            "id": 95891,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 22339,
             "name": "Rayon"
           },
           {
-            "id": 95893,
-            "name": "Short Sleeve"
+            "id": 95891,
+            "name": "Long Sleeve"
           },
           {
             "id": 27749,
             "name": "Linen"
+          },
+          {
+            "id": 95893,
+            "name": "Short Sleeve"
           },
           {
             "id": 95894,
@@ -790,12 +790,12 @@
             "name": "3D"
           },
           {
-            "id": 25840,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 95887,
             "name": "Crew Neck"
+          },
+          {
+            "id": 25840,
+            "name": "Long Sleeve"
           },
           {
             "id": 22341,
@@ -862,20 +862,20 @@
             "name": "Wide"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 12306,
             "name": "Straight"
           },
           {
-            "id": 12296,
-            "name": "Sweat"
+            "id": 12196,
+            "name": "Short Sleeve"
           },
           {
             "id": 12195,
             "name": "Sleeveless"
+          },
+          {
+            "id": 12296,
+            "name": "Sweat"
           },
           {
             "id": 11581,
