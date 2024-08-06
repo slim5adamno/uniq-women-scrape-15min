@@ -768,12 +768,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 27749,
-            "name": "Linen"
-          },
-          {
             "id": 95893,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 27749,
+            "name": "Linen"
           },
           {
             "id": 95894,
@@ -1012,12 +1012,12 @@
             "name": "Others"
           },
           {
-            "id": 31358,
-            "name": "Wide"
-          },
-          {
             "id": 11580,
             "name": "Others"
+          },
+          {
+            "id": 31358,
+            "name": "Wide"
           },
           {
             "id": 19829,
