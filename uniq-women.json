@@ -766,12 +766,12 @@
             "name": "Sleeveles"
           },
           {
-            "id": 25839,
-            "name": "Oversized"
-          },
-          {
             "id": 95895,
             "name": "Rayon"
+          },
+          {
+            "id": 25839,
+            "name": "Oversized"
           },
           {
             "id": 25838,
@@ -782,24 +782,24 @@
             "name": "Shirts & Blouses"
           },
           {
-            "id": 22343,
-            "name": "T-shirts"
-          },
-          {
             "id": 95885,
             "name": "Knit Cardigans"
+          },
+          {
+            "id": 22343,
+            "name": "T-shirts"
           },
           {
             "id": 28409,
             "name": "3D"
           },
           {
-            "id": 25840,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 95887,
             "name": "Crew Neck"
+          },
+          {
+            "id": 25840,
+            "name": "Long Sleeve"
           },
           {
             "id": 22341,
@@ -33030,15 +33030,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
