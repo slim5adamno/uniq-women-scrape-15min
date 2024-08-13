@@ -780,12 +780,12 @@
             "name": "Shirts & Blouses"
           },
           {
-            "id": 22343,
-            "name": "T-shirts"
-          },
-          {
             "id": 95885,
             "name": "Knit Cardigans"
+          },
+          {
+            "id": 22343,
+            "name": "T-shirts"
           },
           {
             "id": 28409,
@@ -808,12 +808,12 @@
             "name": "Sweaters"
           },
           {
-            "id": 95909,
-            "name": "Others"
-          },
-          {
             "id": 79729,
             "name": "Sunglasses"
+          },
+          {
+            "id": 95909,
+            "name": "Others"
           },
           {
             "id": 22345,
@@ -880,12 +880,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 12204,
-            "name": "Rib"
-          },
-          {
             "id": 13104,
             "name": "Ines De La Fressange"
+          },
+          {
+            "id": 12204,
+            "name": "Rib"
           },
           {
             "id": 49244,
@@ -39244,7 +39244,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08148046",
+          "l2Id": "08148047",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -39445,7 +39445,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08148094",
+          "l2Id": "08148095",
           "salesStartDate": "",
           "salesEndDate": ""
         },
