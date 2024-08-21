@@ -755,12 +755,12 @@
             "name": "Sleeveles"
           },
           {
-            "id": 95895,
-            "name": "Rayon"
-          },
-          {
             "id": 25839,
             "name": "Oversized"
+          },
+          {
+            "id": 95895,
+            "name": "Rayon"
           },
           {
             "id": 25838,
@@ -771,20 +771,20 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 95885,
-            "name": "Knit Cardigans"
-          },
-          {
             "id": 22343,
             "name": "T-shirts"
           },
           {
-            "id": 25840,
-            "name": "Long Sleeve"
+            "id": 95885,
+            "name": "Knit Cardigans"
           },
           {
             "id": 95887,
             "name": "Crew Neck"
+          },
+          {
+            "id": 25840,
+            "name": "Long Sleeve"
           },
           {
             "id": 79729,
@@ -855,20 +855,20 @@
             "name": "Wide"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 12306,
             "name": "Straight"
           },
           {
-            "id": 12296,
-            "name": "Sweat"
+            "id": 12196,
+            "name": "Short Sleeve"
           },
           {
             "id": 12195,
             "name": "Sleeveless"
+          },
+          {
+            "id": 12296,
+            "name": "Sweat"
           },
           {
             "id": 12204,
