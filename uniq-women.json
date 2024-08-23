@@ -748,12 +748,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 95894,
-            "name": "Sleeveles"
-          },
-          {
             "id": 25839,
             "name": "Oversized"
+          },
+          {
+            "id": 95894,
+            "name": "Sleeveles"
           },
           {
             "id": 25838,
@@ -836,12 +836,12 @@
             "name": "Wide"
           },
           {
-            "id": 12306,
-            "name": "Straight"
-          },
-          {
             "id": 12196,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 12306,
+            "name": "Straight"
           },
           {
             "id": 12296,
