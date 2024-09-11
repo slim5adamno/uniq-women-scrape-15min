@@ -1456,19 +1456,13 @@
         "longDescription": "- Gentle cotton fabric contours to your body.<br>- Made with fine-knit, high-gauge fabric for a smooth feel.<br>- Designed for a comfortable fit. <br>- Low-rise hip-hugger style.",
         "name": "Hiphugger (Basic)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "290.0000"
           }
         },
         "productId": "E469726-000",
@@ -1503,27 +1497,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07993534",
+          "l2Id": "07993545",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -1710,9 +1697,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL60",
-            "displayCode": "60",
-            "name": "LIGHT BLUE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1730,7 +1717,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07993639",
+          "l2Id": "07993623",
           "salesStartDate": "",
           "salesEndDate": ""
         },
