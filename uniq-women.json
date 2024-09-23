@@ -714,12 +714,12 @@
             "name": "Cotton"
           },
           {
-            "id": 95891,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 95885,
             "name": "Knit Cardigans"
+          },
+          {
+            "id": 95891,
+            "name": "Long Sleeve"
           },
           {
             "id": 95892,
@@ -798,28 +798,28 @@
             "name": "Regular"
           },
           {
-            "id": 27751,
-            "name": "Oversized"
-          },
-          {
             "id": 101315,
             "name": "Soft Brushed"
+          },
+          {
+            "id": 27751,
+            "name": "Oversized"
           },
           {
             "id": 101310,
             "name": "Long Sleeve"
           },
           {
-            "id": 12300,
-            "name": "Relaxed"
+            "id": 93806,
+            "name": "Pleated"
           },
           {
             "id": 101312,
             "name": "Short Sleeve"
           },
           {
-            "id": 93806,
-            "name": "Pleated"
+            "id": 12300,
+            "name": "Relaxed"
           },
           {
             "id": 50490,
@@ -846,12 +846,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 12306,
-            "name": "Straight"
-          },
-          {
             "id": 12204,
             "name": "Rib"
+          },
+          {
+            "id": 12306,
+            "name": "Straight"
           },
           {
             "id": 12199,
