@@ -535,10 +535,6 @@
             "name": "Accessories"
           },
           {
-            "id": 11564,
-            "name": "Jackets & Blazers"
-          },
-          {
             "id": 22307,
             "name": "All Outerwear"
           },
@@ -549,6 +545,10 @@
           {
             "id": 21030,
             "name": "Ultra Light Down & PUFFTECH"
+          },
+          {
+            "id": 11564,
+            "name": "Jackets & Blazers"
           },
           {
             "id": 22319,
@@ -673,6 +673,10 @@
             "name": "Sunglasses"
           },
           {
+            "id": 22310,
+            "name": "Jackets"
+          },
+          {
             "id": 93817,
             "name": "Leggings"
           },
@@ -723,10 +727,6 @@
           {
             "id": 93662,
             "name": "Shoulder Bags"
-          },
-          {
-            "id": 22310,
-            "name": "Jackets"
           },
           {
             "id": 25839,
@@ -14933,15 +14933,6 @@
             "code": "COL00",
             "displayCode": "00",
             "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL05",
-            "displayCode": "05",
-            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
