@@ -6232,19 +6232,13 @@
         "longDescription": "\"Godzilla Minus One\"<br>Designed for the movie \"Godzilla Minus One\" released in 2023. The poster from the movie is printed on the front and the title logo on the back.<br><br>Godzilla 70th Anniversary<br><br>To celebrate the 70th anniversary of the release of the first film, we have selected iconic visuals from Godzilla movie posters and other sources and designed them into T-shirts. Among the series, the most popular films around the world have been selected.<br><br>TM ＆ © TOHO CO., LTD.",
         "name": "GODZILLA UT (Short Sleeve Graphic T-Shirt)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E476664-000",
@@ -6277,14 +6271,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
@@ -6409,19 +6396,13 @@
         "longDescription": "\"Terror of Mechagodzilla\"<br>Designed for the movie \"Terror of Mechagodzilla\" released in 1975. The visual from the movie poster of the time is printed on the back. The title logo and Godzilla's face are also printed on the front.<br><br>Godzilla 70th Anniversary<br><br>To celebrate the 70th anniversary of the release of the first film, we have selected iconic visuals from Godzilla movie posters and other sources and designed them into T-shirts. Among the series, the most popular films around the world have been selected.<br><br>TM ＆ © TOHO CO., LTD.",
         "name": "GODZILLA UT (Short Sleeve Graphic T-Shirt)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E476663-000",
@@ -6454,14 +6435,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
@@ -6583,19 +6557,13 @@
         "longDescription": "\"Godzilla vs. Gigan\"<br>The design is based on the movie \"Godzilla vs. Gigan\" released in 1972. Part of the visual from the movie poster of the time and the logo of the title of the film are printed.<br><br>Godzilla 70th Anniversary<br><br>To celebrate the 70th anniversary of the release of the first film, we have selected iconic visuals from Godzilla movie posters and other sources and designed them into T-shirts. Among the series, the most popular films around the world have been selected.<br><br>TM ＆ © TOHO CO., LTD.",
         "name": "GODZILLA UT (Short Sleeve Graphic T-Shirt)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E476662-000",
@@ -6628,14 +6596,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
@@ -6760,19 +6721,13 @@
         "longDescription": "\"Godzilla Raids Again\"<br>Designed for the movie “Godzilla Raids Again” released in 1955. Part of the visual from the movie poster of the time and the logo of the title of the film are printed on the back. On the front, silhouettes of Godzilla and Anguirus are printed.<br><br>Godzilla 70th Anniversary<br><br>To celebrate the 70th anniversary of the release of the first film, we have selected iconic visuals from Godzilla movie posters and other sources and designed them into T-shirts. Among the series, the most popular films around the world have been selected.<br><br>TM ＆ © TOHO CO., LTD.",
         "name": "GODZILLA UT (Short Sleeve Graphic T-Shirt)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E476661-000",
@@ -6805,14 +6760,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
@@ -6934,19 +6882,13 @@
         "longDescription": "\"Godzilla\"<br>The design is based on the movie \"Godzilla,\" which was first released in 1954. Part of a visual from a movie poster of the time and the \"Godzilla\" logo are printed.<br><br>Godzilla 70th Anniversary<br><br>To celebrate the 70th anniversary of the release of the first film, we have selected iconic visuals from Godzilla movie posters and other sources and designed them into T-shirts. Among the series, the most popular films around the world have been selected.<br><br>TM ＆ © TOHO CO., LTD.",
         "name": "GODZILLA UT (Short Sleeve Graphic T-Shirt)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E474465-000",
@@ -6979,14 +6921,7 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
