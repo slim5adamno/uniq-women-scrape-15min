@@ -6858,9 +6858,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6878,7 +6878,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08144743",
+          "l2Id": "08144727",
           "salesStartDate": "",
           "salesEndDate": ""
         },
