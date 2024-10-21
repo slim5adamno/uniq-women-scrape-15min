@@ -365,17 +365,17 @@
         {
           "rating": 4,
           "accumulated": 78,
-          "count": 7
+          "count": 6
         },
         {
           "rating": 4.5,
-          "accumulated": 71,
-          "count": 30
+          "accumulated": 72,
+          "count": 32
         },
         {
           "rating": 5,
-          "accumulated": 41,
-          "count": 41
+          "accumulated": 40,
+          "count": 40
         }
       ],
       "sizes": [
@@ -5007,15 +5007,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -25790,15 +25781,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL12",
-            "displayCode": "12",
-            "name": "PINK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL74",
             "displayCode": "74",
             "name": "PURPLE",
@@ -26017,15 +25999,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/450311_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA007",
             "displayCode": "007",
