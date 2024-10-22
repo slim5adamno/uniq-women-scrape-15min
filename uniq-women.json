@@ -352,57 +352,57 @@
         {
           "rating": 0,
           "accumulated": 161,
-          "count": 72
+          "count": 69
         },
         {
           "rating": 0.5,
-          "accumulated": 89,
+          "accumulated": 92,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 89,
+          "accumulated": 92,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 89,
+          "accumulated": 92,
           "count": 1
         },
         {
           "rating": 2,
-          "accumulated": 88,
+          "accumulated": 91,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 88,
+          "accumulated": 91,
           "count": 1
         },
         {
           "rating": 3,
-          "accumulated": 87,
+          "accumulated": 90,
           "count": 4
         },
         {
           "rating": 3.5,
-          "accumulated": 83,
+          "accumulated": 86,
           "count": 2
         },
         {
           "rating": 4,
-          "accumulated": 81,
-          "count": 7
+          "accumulated": 84,
+          "count": 8
         },
         {
           "rating": 4.5,
-          "accumulated": 74,
+          "accumulated": 76,
           "count": 32
         },
         {
           "rating": 5,
-          "accumulated": 42,
-          "count": 42
+          "accumulated": 44,
+          "count": 44
         }
       ],
       "sizes": [
@@ -8604,7 +8604,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08323131",
+          "l2Id": "08323132",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -8778,7 +8778,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08323122",
+          "l2Id": "08323123",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -8955,7 +8955,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08323113",
+          "l2Id": "08323114",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -9132,7 +9132,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08323104",
+          "l2Id": "08323105",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -23550,7 +23550,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08229914",
+          "l2Id": "08229915",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -23747,7 +23747,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08303679",
+          "l2Id": "08303680",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -23944,7 +23944,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08229970",
+          "l2Id": "08229971",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -26747,7 +26747,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08229688",
+          "l2Id": "08229689",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -29687,7 +29687,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08230124",
+          "l2Id": "08230125",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30843,7 +30843,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08229556",
+          "l2Id": "08229557",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -31773,7 +31773,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08229400",
+          "l2Id": "08229401",
           "salesStartDate": "",
           "salesEndDate": ""
         },
