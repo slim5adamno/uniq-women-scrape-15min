@@ -23131,9 +23131,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL59",
-            "displayCode": "59",
-            "name": "DARK GREEN",
+            "code": "COL12",
+            "displayCode": "12",
+            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -23151,7 +23151,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08176100",
+          "l2Id": "08176092",
           "salesStartDate": "",
           "salesEndDate": ""
         },
