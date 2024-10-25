@@ -17713,9 +17713,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -17733,7 +17733,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08142196",
+          "l2Id": "08142175",
           "salesStartDate": "",
           "salesEndDate": ""
         },
