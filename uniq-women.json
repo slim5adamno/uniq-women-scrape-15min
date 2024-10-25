@@ -8080,9 +8080,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL10",
-            "displayCode": "10",
-            "name": "PINK",
+            "code": "COL24",
+            "displayCode": "24",
+            "name": "ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -8100,7 +8100,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07924000",
+          "l2Id": "07924008",
           "salesStartDate": "",
           "salesEndDate": ""
         },
