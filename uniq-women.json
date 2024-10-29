@@ -19410,9 +19410,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL71",
-            "displayCode": "71",
-            "name": "PURPLE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -19430,7 +19430,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07986969",
+          "l2Id": "07986913",
           "salesStartDate": "",
           "salesEndDate": ""
         },
