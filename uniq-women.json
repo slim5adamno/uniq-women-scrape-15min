@@ -30324,6 +30324,24 @@
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465471/sub/ingoods_465471_sub28.jpg"
             }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465471/feature/ingoods_465471_feature1.jpg",
+              "text": "Reversible design in comfy jersey fabric and durable water-repellent polyester. *The fabric is coated with a water-repellent agent so the effect lasts. The finish is not permanent. *Although great in light rain, please note that this item is not fully waterproof."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465471/feature/ingoods_465471_feature2.jpg",
+              "text": "Smooth jersey lining."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465471/feature/ingoods_465471_feature3.jpg",
+              "text": "Hem adjusters let you create your own silhouette."
+            },
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/465471/feature/ingoods_465471_feature4.jpg",
+              "text": "Adjustable hood keeps cold air out."
+            }
           ]
         },
         "l1Id": "469779",
