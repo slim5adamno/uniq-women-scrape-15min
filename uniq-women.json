@@ -806,12 +806,12 @@
             "name": "Oversized"
           },
           {
-            "id": 12143,
-            "name": "Tailored"
-          },
-          {
             "id": 93791,
             "name": "Fleece"
+          },
+          {
+            "id": 12143,
+            "name": "Tailored"
           },
           {
             "id": 102509,
@@ -17036,9 +17036,6 @@
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/466432/sub/goods_466432_sub23.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/466432/sub/ingoods_466432_sub28.jpg"
             }
           ]
         },
