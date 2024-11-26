@@ -815,12 +815,12 @@
             "name": "Oversized"
           },
           {
-            "id": 12143,
-            "name": "Tailored"
-          },
-          {
             "id": 93791,
             "name": "Fleece"
+          },
+          {
+            "id": 12143,
+            "name": "Tailored"
           },
           {
             "id": 102509,
@@ -26285,7 +26285,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08287418",
+          "l2Id": "08287419",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -26494,7 +26494,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08287338",
+          "l2Id": "08287339",
           "salesStartDate": "",
           "salesEndDate": ""
         },
