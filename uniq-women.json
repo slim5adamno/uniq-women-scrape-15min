@@ -11105,9 +11105,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL36",
-            "displayCode": "36",
-            "name": "BROWN",
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -11125,7 +11125,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08229783",
+          "l2Id": "08229794",
           "salesStartDate": "",
           "salesEndDate": ""
         },
