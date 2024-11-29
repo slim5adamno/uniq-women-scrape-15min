@@ -23690,9 +23690,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL04",
+            "displayCode": "04",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -23710,7 +23710,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08142030",
+          "l2Id": "08142014",
           "salesStartDate": "",
           "salesEndDate": ""
         },
