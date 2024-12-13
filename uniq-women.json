@@ -16656,6 +16656,15 @@
             }
           },
           {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -22530,15 +22539,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -22845,6 +22845,15 @@
               "showFlag": true,
               "chipType": 0
             }
+          },
+          {
+            "code": "COL08",
+            "displayCode": "08",
+            "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
           }
         ],
         "composition": "Body: 90% Polyester, 10% Wool/ Pocket Lining: Trim: 100% Polyester",
@@ -23017,6 +23026,15 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -28194,6 +28212,15 @@
             "code": "COL08",
             "displayCode": "08",
             "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
