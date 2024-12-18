@@ -360,52 +360,52 @@
         {
           "rating": 0,
           "accumulated": 153,
-          "count": 48
+          "count": 47
         },
         {
           "rating": 0.5,
-          "accumulated": 105,
+          "accumulated": 106,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 105,
+          "accumulated": 106,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 105,
+          "accumulated": 106,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 105,
-          "count": 1
+          "accumulated": 106,
+          "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 104,
+          "accumulated": 106,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 104,
-          "count": 0
+          "accumulated": 106,
+          "count": 1
         },
         {
           "rating": 3.5,
-          "accumulated": 104,
+          "accumulated": 105,
           "count": 0
         },
         {
           "rating": 4,
-          "accumulated": 104,
-          "count": 11
+          "accumulated": 105,
+          "count": 10
         },
         {
           "rating": 4.5,
-          "accumulated": 93,
-          "count": 45
+          "accumulated": 95,
+          "count": 47
         },
         {
           "rating": 5,
@@ -17699,15 +17699,6 @@
             }
           },
           {
-            "code": "INS030",
-            "displayCode": "030",
-            "name": "30inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
             "code": "INS032",
             "displayCode": "032",
             "name": "32inch",
@@ -17903,15 +17894,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
