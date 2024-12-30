@@ -328,7 +328,7 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 40
+          "count": 41
         },
         {
           "from": 2000,
@@ -349,53 +349,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 133,
+          "accumulated": 134,
           "count": 33
         },
         {
           "rating": 0.5,
-          "accumulated": 100,
+          "accumulated": 101,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 100,
+          "accumulated": 101,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 100,
+          "accumulated": 101,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 100,
+          "accumulated": 101,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 100,
+          "accumulated": 101,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 100,
+          "accumulated": 101,
           "count": 1
         },
         {
           "rating": 3.5,
-          "accumulated": 99,
+          "accumulated": 100,
           "count": 3
         },
         {
           "rating": 4,
-          "accumulated": 96,
+          "accumulated": 97,
           "count": 6
         },
         {
           "rating": 4.5,
-          "accumulated": 90,
-          "count": 45
+          "accumulated": 91,
+          "count": 46
         },
         {
           "rating": 5,
@@ -4361,7 +4361,7 @@
         "images": {
           "main": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/473493/item/ingoods_00_473493_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473493/item/goods_00_473493_3x4.jpg",
               "colorCode": "00"
             }
           ],
@@ -4372,12 +4372,6 @@
             }
           ],
           "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/473493/sub/ingoods_473493_sub1_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/473493/sub/ingoods_473493_sub7_3x4.jpg"
-            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473493/sub/goods_473493_sub14_3x4.jpg"
             },
@@ -17212,6 +17206,162 @@
         "careInstruction": "<br>",
         "colors": [
           {
+            "code": "COL06",
+            "displayCode": "06",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "65% Cotton, 35% Polyester",
+        "designDetail": "- Sheer: Not Sheer<br>- Fit: Oversized<br>- Pockets: No Pockets",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/472561/item/ingoods_06_472561_3x4.jpg",
+              "colorCode": "06"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/472561/item/ingoods_08_472561_3x4.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/472561/item/ingoods_31_472561_3x4.jpg",
+              "colorCode": "31"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/472561/item/ingoods_57_472561_3x4.jpg",
+              "colorCode": "57"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/472561/chip/goods_06_472561_chip.jpg",
+              "colorCode": "06"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/472561/chip/goods_08_472561_chip.jpg",
+              "colorCode": "08"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/472561/chip/goods_31_472561_chip.jpg",
+              "colorCode": "31"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/472561/chip/goods_57_472561_chip.jpg",
+              "colorCode": "57"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/472561/sub/ingoods_472561_sub7_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/472561/sub/goods_472561_sub13_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/472561/sub/goods_472561_sub14_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/472561/sub/ingoods_472561_sub23_3x4.jpg"
+            }
+          ]
+        },
+        "l1Id": "472561",
+        "longDescription": "- Cotton blend fabric brushed for warmth and extra softness.<br>- Half-zip for quick dressing. <br>- Easy to care for.",
+        "name": "Brushed Jersey Half-Zip Pullover Shirt",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "2490.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1990.0000"
+          }
+        },
+        "productId": "E472561-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "displayOrder": 1,
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {},
+        "representative": {
+          "color": {
+            "code": "COL06",
+            "displayCode": "06",
+            "name": "GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "08223596",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 61,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/472561_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Do not tumble dry."
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
             "code": "COL03",
             "displayCode": "03",
             "name": "GRAY",
@@ -17469,7 +17619,7 @@
               "colorCode": "03"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470134/item/ingoods_09_470134_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470134/item/goods_09_470134_3x4.jpg",
               "colorCode": "09"
             },
             {
@@ -17975,7 +18125,7 @@
               "colorCode": "01"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/464906/item/ingoods_69_464906_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464906/item/goods_69_464906_3x4.jpg",
               "colorCode": "69"
             }
           ],
@@ -24551,7 +24701,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 61,
+          "total": 14,
           "count": 0,
           "items": []
         },
@@ -28288,8 +28438,8 @@
       }
     ],
     "pagination": {
-      "count": 133,
-      "total": 133,
+      "count": 134,
+      "total": 134,
       "offset": 300
     }
   }
