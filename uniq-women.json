@@ -726,20 +726,20 @@
         ],
         "subcategories": [
           {
-            "id": 106305,
-            "name": "Outerwear"
-          },
-          {
             "id": 108634,
             "name": "Crew Neck"
           },
           {
-            "id": 108635,
-            "name": "High Neck"
+            "id": 106305,
+            "name": "Outerwear"
           },
           {
             "id": 106306,
             "name": "Bottoms"
+          },
+          {
+            "id": 108635,
+            "name": "High Neck"
           },
           {
             "id": 106309,
@@ -770,12 +770,12 @@
             "name": "Pocketable"
           },
           {
-            "id": 108641,
-            "name": "Scarf"
-          },
-          {
             "id": 20538,
             "name": "Parka"
+          },
+          {
+            "id": 108641,
+            "name": "Scarf"
           },
           {
             "id": 108642,
@@ -802,24 +802,24 @@
             "name": "Outerwear"
           },
           {
-            "id": 106339,
-            "name": "Sweaters And Cardigan"
-          },
-          {
             "id": 102510,
             "name": "Down"
+          },
+          {
+            "id": 106339,
+            "name": "Sweaters And Cardigan"
           },
           {
             "id": 102508,
             "name": "Pufftech"
           },
           {
-            "id": 106341,
-            "name": "Warm Goods"
-          },
-          {
             "id": 24154,
             "name": "Oversized"
+          },
+          {
+            "id": 106341,
+            "name": "Warm Goods"
           },
           {
             "id": 102509,
@@ -1010,16 +1010,16 @@
             "name": "Others"
           },
           {
+            "id": 12297,
+            "name": "Linen"
+          },
+          {
             "id": 12300,
             "name": "Relaxed"
           },
           {
             "id": 12299,
             "name": "Jersey"
-          },
-          {
-            "id": 12297,
-            "name": "Linen"
           },
           {
             "id": 12307,
