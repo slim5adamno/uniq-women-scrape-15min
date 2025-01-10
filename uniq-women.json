@@ -375,12 +375,12 @@
         {
           "rating": 3.5,
           "accumulated": 106,
-          "count": 1
+          "count": 0
         },
         {
           "rating": 4,
-          "accumulated": 105,
-          "count": 11
+          "accumulated": 106,
+          "count": 12
         },
         {
           "rating": 4.5,
