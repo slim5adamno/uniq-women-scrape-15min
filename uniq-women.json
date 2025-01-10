@@ -370,17 +370,17 @@
         {
           "rating": 4,
           "accumulated": 96,
-          "count": 11
+          "count": 12
         },
         {
           "rating": 4.5,
-          "accumulated": 85,
+          "accumulated": 84,
           "count": 46
         },
         {
           "rating": 5,
-          "accumulated": 39,
-          "count": 39
+          "accumulated": 38,
+          "count": 38
         }
       ],
       "sizes": [
