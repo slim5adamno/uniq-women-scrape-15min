@@ -6249,15 +6249,6 @@
             }
           },
           {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL49",
             "displayCode": "49",
             "name": "MUSTARD",
