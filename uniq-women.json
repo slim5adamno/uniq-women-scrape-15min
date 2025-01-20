@@ -23819,9 +23819,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -23839,7 +23839,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08192986",
+          "l2Id": "08193014",
           "salesStartDate": "",
           "salesEndDate": ""
         },
