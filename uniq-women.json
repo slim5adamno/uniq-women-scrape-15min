@@ -1546,9 +1546,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL18",
+            "displayCode": "18",
+            "name": "WINE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1566,7 +1566,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08150388",
+          "l2Id": "08150396",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -14370,19 +14370,13 @@
         "longDescription": "- The body is made of a fabric with a chunky feel.<br>- Warms the neck with a collar that stands up firmly, with special attention paid to height and interlining.<br>- Piping at the cuffs and hem prevents wind from entering and keeps warmth in.<br>- Machine washable for easy care.",
         "name": "Fleece Full-Zip Jacket",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E469956-000",
@@ -14406,23 +14400,16 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL57",
-            "displayCode": "57",
-            "name": "OLIVE",
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": [
               {
                 "code": "extraLargeStoreOnly",
@@ -14433,7 +14420,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08156865",
+          "l2Id": "08156847",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -26363,9 +26350,9 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL57",
+            "displayCode": "57",
+            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -26383,7 +26370,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08141455",
+          "l2Id": "08141479",
           "salesStartDate": "",
           "salesEndDate": ""
         },
