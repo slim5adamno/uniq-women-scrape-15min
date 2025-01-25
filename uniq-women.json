@@ -3738,7 +3738,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07511246",
+          "l2Id": "07511247",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -3751,6 +3751,15 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/452668_size.html",
         "sizeInformation": "",
         "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
           {
             "code": "SMA007",
             "displayCode": "007",
