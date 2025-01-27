@@ -779,12 +779,12 @@
             "name": "Down"
           },
           {
-            "id": 102508,
-            "name": "Pufftech"
-          },
-          {
             "id": 106341,
             "name": "Warm Goods"
+          },
+          {
+            "id": 102508,
+            "name": "Pufftech"
           },
           {
             "id": 24154,
@@ -2734,7 +2734,7 @@
         "images": {
           "main": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/466944/item/ingoods_00_466944_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/466944/item/goods_00_466944_3x4.jpg",
               "colorCode": "00"
             }
           ],
