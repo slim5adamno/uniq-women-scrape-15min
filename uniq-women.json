@@ -725,12 +725,12 @@
             "name": "Crew Neck"
           },
           {
-            "id": 108635,
-            "name": "High Neck"
-          },
-          {
             "id": 106306,
             "name": "Bottoms"
+          },
+          {
+            "id": 108635,
+            "name": "High Neck"
           },
           {
             "id": 108636,
@@ -773,12 +773,12 @@
             "name": "Seamless Down"
           },
           {
-            "id": 12150,
-            "name": "Fleece"
-          },
-          {
             "id": 106339,
             "name": "Sweaters And Cardigan"
+          },
+          {
+            "id": 12150,
+            "name": "Fleece"
           },
           {
             "id": 102510,
