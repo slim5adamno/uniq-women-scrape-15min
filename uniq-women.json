@@ -597,7 +597,7 @@
           },
           {
             "id": 101309,
-            "name": "Casual Shirts & Flannel"
+            "name": "Casual Shirts"
           },
           {
             "id": 11586,
@@ -734,12 +734,12 @@
             "name": "Crew Neck"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
             "id": 108635,
             "name": "High Neck"
+          },
+          {
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 108636,
@@ -794,12 +794,12 @@
             "name": "Down"
           },
           {
-            "id": 106341,
-            "name": "Warm Goods"
-          },
-          {
             "id": 102508,
             "name": "Pufftech"
+          },
+          {
+            "id": 106341,
+            "name": "Warm Goods"
           },
           {
             "id": 102509,
