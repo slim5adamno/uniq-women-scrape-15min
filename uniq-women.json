@@ -5172,15 +5172,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -9690,14 +9681,14 @@
         ],
         "rating": {
           "average": 4.8,
-          "count": 40,
+          "count": 41,
           "fit": 3.1,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 8,
-            "five": 32
+            "five": 33
           }
         },
         "representative": {
@@ -9734,7 +9725,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 40,
+          "total": 41,
           "count": 0,
           "items": []
         },
