@@ -79,11 +79,6 @@
           "name": "WINE"
         },
         {
-          "code": "COL23",
-          "displayCode": "23",
-          "name": "ORANGE"
-        },
-        {
           "code": "COL30",
           "displayCode": "30",
           "name": "NATURAL"
@@ -126,11 +121,6 @@
         {
           "code": "COL41",
           "displayCode": "41",
-          "name": "YELLOW"
-        },
-        {
-          "code": "COL44",
-          "displayCode": "44",
           "name": "YELLOW"
         },
         {
@@ -293,12 +283,12 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 52
+          "count": 50
         },
         {
           "from": 1000,
           "to": 2000,
-          "count": 44
+          "count": 38
         },
         {
           "from": 2000,
@@ -319,58 +309,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 116,
+          "accumulated": 108,
           "count": 25
         },
         {
           "rating": 0.5,
-          "accumulated": 91,
+          "accumulated": 83,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 91,
+          "accumulated": 83,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 91,
+          "accumulated": 83,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 91,
+          "accumulated": 83,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 91,
+          "accumulated": 83,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 91,
+          "accumulated": 83,
           "count": 0
         },
         {
           "rating": 3.5,
-          "accumulated": 91,
+          "accumulated": 83,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 90,
+          "accumulated": 82,
           "count": 9
         },
         {
           "rating": 4.5,
-          "accumulated": 81,
-          "count": 55
+          "accumulated": 73,
+          "count": 48
         },
         {
           "rating": 5,
-          "accumulated": 26,
-          "count": 26
+          "accumulated": 25,
+          "count": 25
         }
       ],
       "sizes": [
@@ -581,10 +571,6 @@
             "name": "Formal Shirts"
           },
           {
-            "id": 101309,
-            "name": "Casual Shirts"
-          },
-          {
             "id": 11586,
             "name": "Jeans"
           },
@@ -719,12 +705,12 @@
             "name": "Crew Neck"
           },
           {
-            "id": 108635,
-            "name": "High Neck"
-          },
-          {
             "id": 106306,
             "name": "Bottoms"
+          },
+          {
+            "id": 108635,
+            "name": "High Neck"
           },
           {
             "id": 108636,
@@ -939,36 +925,8 @@
             "name": "Turtle Neck"
           },
           {
-            "id": 101302,
-            "name": "Rayon"
-          },
-          {
-            "id": 101298,
-            "name": "Long Sleeve"
-          },
-          {
-            "id": 101793,
-            "name": "Flannel"
-          },
-          {
-            "id": 101308,
-            "name": "Others"
-          },
-          {
-            "id": 101310,
-            "name": "Long Sleeve"
-          },
-          {
-            "id": 101315,
-            "name": "Soft Brushed"
-          },
-          {
-            "id": 101799,
-            "name": "Three Quarter Sleeve"
-          },
-          {
-            "id": 101312,
-            "name": "Short Sleeve"
+            "id": 101797,
+            "name": "Stand Collar"
           },
           {
             "id": 12285,
@@ -995,6 +953,10 @@
             "name": "Wide"
           },
           {
+            "id": 12306,
+            "name": "Straight"
+          },
+          {
             "id": 12296,
             "name": "Sweat"
           },
@@ -1019,8 +981,20 @@
             "name": "Pleated Pants"
           },
           {
+            "id": 12272,
+            "name": "Ankle"
+          },
+          {
+            "id": 12290,
+            "name": "AIRism"
+          },
+          {
             "id": 11594,
             "name": "Others"
+          },
+          {
+            "id": 12321,
+            "name": "Cotton"
           },
           {
             "id": 24330,
@@ -1037,6 +1011,10 @@
           {
             "id": 101825,
             "name": "Warm Pants"
+          },
+          {
+            "id": 12263,
+            "name": "Short Sleeve"
           },
           {
             "id": 31139,
@@ -1057,6 +1035,14 @@
           {
             "id": 67659,
             "name": "Others"
+          },
+          {
+            "id": 12341,
+            "name": "Camisole"
+          },
+          {
+            "id": 12339,
+            "name": "AIRism"
           },
           {
             "id": 11607,
@@ -23345,8 +23331,8 @@
     ],
     "pagination": {
       "count": 108,
-      "total": 116,
-      "offset": 308
+      "total": 108,
+      "offset": 300
     }
   }
 }
