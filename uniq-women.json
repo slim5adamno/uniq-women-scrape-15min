@@ -288,7 +288,7 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 42
+          "count": 41
         },
         {
           "from": 2000,
@@ -309,53 +309,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 103,
+          "accumulated": 102,
           "count": 20
         },
         {
           "rating": 0.5,
-          "accumulated": 83,
+          "accumulated": 82,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 83,
+          "accumulated": 82,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 83,
+          "accumulated": 82,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 83,
+          "accumulated": 82,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 83,
+          "accumulated": 82,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 83,
+          "accumulated": 82,
           "count": 0
         },
         {
           "rating": 3.5,
-          "accumulated": 83,
+          "accumulated": 82,
           "count": 2
         },
         {
           "rating": 4,
-          "accumulated": 81,
+          "accumulated": 80,
           "count": 11
         },
         {
           "rating": 4.5,
-          "accumulated": 70,
-          "count": 47
+          "accumulated": 69,
+          "count": 46
         },
         {
           "rating": 5,
@@ -663,10 +663,6 @@
             "name": "Hats & Caps"
           },
           {
-            "id": 11619,
-            "name": "Others"
-          },
-          {
             "id": 101726,
             "name": "Gloves & Scarves"
           },
@@ -677,10 +673,6 @@
           {
             "id": 108632,
             "name": "Bottoms"
-          },
-          {
-            "id": 108633,
-            "name": "Accessory"
           },
           {
             "id": 90120,
@@ -745,8 +737,12 @@
             "name": "Down"
           },
           {
-            "id": 108641,
-            "name": "Scarf"
+            "id": 20539,
+            "name": "Vest"
+          },
+          {
+            "id": 21103,
+            "name": "Coat"
           },
           {
             "id": 101751,
@@ -1091,10 +1087,6 @@
           {
             "id": 101863,
             "name": "Wool"
-          },
-          {
-            "id": 11623,
-            "name": "Others"
           },
           {
             "id": 101864,
@@ -7881,15 +7873,6 @@
             }
           },
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
@@ -8796,154 +8779,6 @@
         ],
         "unisexFlag": 1,
         "washingInformation": "Hand wash cold, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "65% Acrylic, 35% Wool",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470022001/item/goods_03_470022001_3x4.jpg",
-              "colorCode": "03"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470022001/item/goods_69_470022001_3x4.jpg",
-              "colorCode": "69"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470022001/chip/goods_03_470022001_chip.jpg",
-              "colorCode": "03"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470022001/chip/goods_69_470022001_chip.jpg",
-              "colorCode": "69"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470022001/sub/goods_470022001_sub1_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/470022001/sub/goods_470022001_sub2_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/470022001/sub/ingoods_470022001_sub24_3x4.jpg"
-            }
-          ]
-        },
-        "l1Id": "470022",
-        "longDescription": "- Warm and cozy ‘HEATTECH’ with Heat of Absorption features.<br>- Made with 35% fine wool fibers for a natural feel without the itch.<br>- Basic checked pattern is easy to coordinate.",
-        "name": "HEATTECH Scarf",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          }
-        },
-        "productId": "E470022-001",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.83,
-          "count": 6,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 5
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "08201745",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 5,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/470022001_size.html",
-        "sizeInformation": "180cm x 50cm, Fringe: 8cm x 2",
-        "sizes": [
-          {
-            "code": "SIZ999",
-            "displayCode": "999",
-            "name": "No Control",
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Hand wash cold, Dry Clean, Do not tumble dry."
       },
       {
         "careInstruction": "<br>",
@@ -17416,15 +17251,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -22652,8 +22478,8 @@
       }
     ],
     "pagination": {
-      "count": 103,
-      "total": 103,
+      "count": 102,
+      "total": 102,
       "offset": 300
     }
   }
