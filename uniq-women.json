@@ -760,12 +760,12 @@
             "name": "Seamless Down"
           },
           {
-            "id": 12150,
-            "name": "Fleece"
-          },
-          {
             "id": 106339,
             "name": "Sweaters And Cardigan"
+          },
+          {
+            "id": 12150,
+            "name": "Fleece"
           },
           {
             "id": 102510,
@@ -940,10 +940,6 @@
             "name": "Flannel"
           },
           {
-            "id": 113694,
-            "name": "Unisex"
-          },
-          {
             "id": 101797,
             "name": "Stand Collar"
           },
@@ -1010,6 +1006,10 @@
           {
             "id": 11594,
             "name": "Others"
+          },
+          {
+            "id": 24330,
+            "name": "Linen"
           },
           {
             "id": 49265,
@@ -12352,19 +12352,13 @@
         "longDescription": "- The sheet inside the cups supports your changing bust.<br>- Built-in power netting from the cups to the shoulders. The non-wired design provides support and prevents side spillage.<br>- Special processing at the back provides support and a smooth fit. Slim adjusters on the shoulder straps ensure a sleek look from the back.<br>- 4 hooks let you adjust the fit.",
         "name": "Wireless Bra (3D Hold)",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
           }
         },
         "productId": "E464333-000",
@@ -12399,27 +12393,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08151622",
+          "l2Id": "08151247",
           "salesStartDate": "",
           "salesEndDate": ""
         },
