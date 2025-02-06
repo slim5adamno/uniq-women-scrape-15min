@@ -9237,6 +9237,12 @@
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/471611/sub/ingoods_471611_sub23_3x4.jpg"
             }
+          ],
+          "features": [
+            {
+              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/471611/feature/ingoods_471611_feature6.jpg",
+              "text": "Soft cotton blend."
+            }
           ]
         },
         "l1Id": "471611",
