@@ -2676,13 +2676,13 @@
         ],
         "rating": {
           "average": 4.79,
-          "count": 126,
-          "fit": 3.29,
+          "count": 127,
+          "fit": 3.28,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 3,
-            "four": 17,
+            "four": 18,
             "five": 105
           }
         },
@@ -2713,7 +2713,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 126,
+          "total": 127,
           "count": 0,
           "items": []
         },
