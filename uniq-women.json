@@ -300,7 +300,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 36
+          "count": 35
         },
         {
           "from": 1000,
@@ -326,53 +326,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 95,
+          "accumulated": 94,
           "count": 20
         },
         {
           "rating": 0.5,
-          "accumulated": 75,
+          "accumulated": 74,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 75,
+          "accumulated": 74,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 75,
+          "accumulated": 74,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 75,
+          "accumulated": 74,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 75,
+          "accumulated": 74,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 75,
+          "accumulated": 74,
           "count": 0
         },
         {
           "rating": 3.5,
-          "accumulated": 75,
+          "accumulated": 74,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 74,
+          "accumulated": 73,
           "count": 7
         },
         {
           "rating": 4.5,
-          "accumulated": 67,
-          "count": 47
+          "accumulated": 66,
+          "count": 46
         },
         {
           "rating": 5,
@@ -659,10 +659,6 @@
             "name": "Outerwear"
           },
           {
-            "id": 90120,
-            "name": "Bottoms"
-          },
-          {
             "id": 90122,
             "name": "T Shirts"
           },
@@ -833,6 +829,10 @@
             "name": "Others"
           },
           {
+            "id": 49251,
+            "name": "Unisex"
+          },
+          {
             "id": 109444,
             "name": "PEANUTS"
           },
@@ -989,8 +989,8 @@
             "name": "AIRism"
           },
           {
-            "id": 11594,
-            "name": "Others"
+            "id": 49265,
+            "name": "Skort"
           },
           {
             "id": 11597,
@@ -1011,10 +1011,6 @@
           {
             "id": 67651,
             "name": "Sweat"
-          },
-          {
-            "id": 67659,
-            "name": "Others"
           },
           {
             "id": 12341,
@@ -4102,205 +4098,6 @@
         ],
         "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle"
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "[01 OFF WHITE] 52% Cotton, 33% Polyester, 15% Elastane [05 GRAY, 09 BLACK, 56 OLIVE] 51% Cotton, 33% Polyester, 16% Elastane",
-        "designDetail": "- Sheer: Not Sheer(Only 01 Off White is slightly sheer)<br>- Fit: Skinny<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
-        "freeInformation": "- The images shown may include colors that are not available.<br><br>■Inseam alteration is available for this product<br>- Depending on the length of the alteration, a seam may remain after the thread is unwound. Also, products with a distressed finish will not have distressed hems after inseam alteration. Your understanding is appreciated. <br>- Please refer to \"Alteration Finishes\" for alteration specifications.",
-        "genderName": "Women",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/464148/item/ingoods_01_464148_3x4.jpg",
-              "colorCode": "01"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/item/goods_05_464148_3x4.jpg",
-              "colorCode": "05"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/464148/item/ingoods_08_464148_3x4.jpg",
-              "colorCode": "08"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/item/goods_09_464148_3x4.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/464148/item/ingoods_34_464148_3x4.jpg",
-              "colorCode": "34"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/item/goods_56_464148_3x4.jpg",
-              "colorCode": "56"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/464148/item/ingoods_58_464148_3x4.jpg",
-              "colorCode": "58"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/chip/goods_01_464148_chip.jpg",
-              "colorCode": "01"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/chip/goods_05_464148_chip.jpg",
-              "colorCode": "05"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/chip/goods_08_464148_chip.jpg",
-              "colorCode": "08"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/chip/goods_09_464148_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/chip/goods_34_464148_chip.jpg",
-              "colorCode": "34"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/chip/goods_56_464148_chip.jpg",
-              "colorCode": "56"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/chip/goods_58_464148_chip.jpg",
-              "colorCode": "58"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/sub/goods_464148_sub14_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/464148/sub/goods_464148_sub15_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/464148/feature/ingoods_464148_feature6.jpg",
-              "text": "Ultra Stretch jersey fabric with all-direction stretch."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/464148/feature/ingoods_464148_feature7.jpg",
-              "text": "Fully elasticated mid-waist for a comfortable fit. Button size and stitch work designed to look great worn alone."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/464148/feature/ingoods_464148_feature8.jpg",
-              "text": "Perfectly sized rear pockets."
-            }
-          ]
-        },
-        "l1Id": "473640",
-        "longDescription": "<br>",
-        "name": "Extra Stretch Leggings Pants",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "790.0000"
-          }
-        },
-        "productId": "E464148-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.93,
-          "count": 14,
-          "fit": 3.07,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 13
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "07939480",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 14,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/464148_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
       },
       {
         "careInstruction": "<br>",
@@ -21195,8 +20992,8 @@
       }
     ],
     "pagination": {
-      "count": 95,
-      "total": 95,
+      "count": 94,
+      "total": 94,
       "offset": 300
     }
   }
