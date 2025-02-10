@@ -454,14 +454,6 @@
         ],
         "classes": [
           {
-            "id": 11518,
-            "name": "Outerwear"
-          },
-          {
-            "id": 95865,
-            "name": "Sweaters"
-          },
-          {
             "id": 11519,
             "name": "T-Shirts, Sweats & Fleece"
           },
@@ -476,6 +468,14 @@
           {
             "id": 11520,
             "name": "Dresses & Skirts"
+          },
+          {
+            "id": 11518,
+            "name": "Outerwear"
+          },
+          {
+            "id": 95865,
+            "name": "Sweaters"
           },
           {
             "id": 11526,
@@ -494,43 +494,19 @@
             "name": "Accessories"
           },
           {
+            "id": 106276,
+            "name": "Special Collaborations"
+          },
+          {
             "id": 108629,
             "name": "HEATTECH"
           },
           {
             "id": 90113,
             "name": "2025 Spring/Summer"
-          },
-          {
-            "id": 106276,
-            "name": "Special Collaborations"
           }
         ],
         "categories": [
-          {
-            "id": 11567,
-            "name": "Hoodies"
-          },
-          {
-            "id": 21030,
-            "name": "Ultra Light Down & PUFFTECH"
-          },
-          {
-            "id": 11564,
-            "name": "Jackets & Blazers"
-          },
-          {
-            "id": 11563,
-            "name": "Coats"
-          },
-          {
-            "id": 101722,
-            "name": "Down"
-          },
-          {
-            "id": 95873,
-            "name": "Sweaters & Cardigans"
-          },
           {
             "id": 86788,
             "name": "Bra Tops"
@@ -596,6 +572,30 @@
             "name": "Skirts & Skorts"
           },
           {
+            "id": 11567,
+            "name": "Hoodies"
+          },
+          {
+            "id": 21030,
+            "name": "Ultra Light Down & PUFFTECH"
+          },
+          {
+            "id": 11564,
+            "name": "Jackets & Blazers"
+          },
+          {
+            "id": 11563,
+            "name": "Coats"
+          },
+          {
+            "id": 101722,
+            "name": "Down"
+          },
+          {
+            "id": 95873,
+            "name": "Sweaters & Cardigans"
+          },
+          {
             "id": 67530,
             "name": "Tops"
           },
@@ -644,6 +644,14 @@
             "name": "Gloves & Scarves"
           },
           {
+            "id": 106279,
+            "name": "Uniqlo U"
+          },
+          {
+            "id": 106282,
+            "name": "UNIQLO x ANYA HINDMARCH"
+          },
+          {
             "id": 108631,
             "name": "Tops"
           },
@@ -662,14 +670,6 @@
           {
             "id": 90122,
             "name": "T Shirts"
-          },
-          {
-            "id": 106279,
-            "name": "Uniqlo U"
-          },
-          {
-            "id": 106282,
-            "name": "UNIQLO x ANYA HINDMARCH"
           }
         ],
         "subcategories": [
