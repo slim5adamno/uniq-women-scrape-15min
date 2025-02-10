@@ -479,6 +479,14 @@
             "name": "Accessories"
           },
           {
+            "id": 114868,
+            "name": "Linen"
+          },
+          {
+            "id": 114869,
+            "name": "AIRism"
+          },
+          {
             "id": 106276,
             "name": "Special Collaborations"
           },
@@ -617,6 +625,18 @@
             "name": "Hats & Caps"
           },
           {
+            "id": 114870,
+            "name": "Bottoms"
+          },
+          {
+            "id": 114875,
+            "name": "Tops & Bratops"
+          },
+          {
+            "id": 114876,
+            "name": "Bottoms"
+          },
+          {
             "id": 106279,
             "name": "Uniqlo U"
           },
@@ -651,12 +671,32 @@
             "name": "Crew Neck"
           },
           {
+            "id": 114871,
+            "name": "Easy Pants"
+          },
+          {
+            "id": 114872,
+            "name": "Others"
+          },
+          {
+            "id": 114879,
+            "name": "Long Sleeve"
+          },
+          {
             "id": 106306,
             "name": "Bottoms"
           },
           {
             "id": 108636,
             "name": "Boat Neck"
+          },
+          {
+            "id": 114881,
+            "name": "Others"
+          },
+          {
+            "id": 114882,
+            "name": "Leggings"
           },
           {
             "id": 12199,
@@ -669,10 +709,6 @@
           {
             "id": 108639,
             "name": "Warm lined"
-          },
-          {
-            "id": 27752,
-            "name": "Supima Cotton"
           },
           {
             "id": 12196,
@@ -707,12 +743,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 20539,
-            "name": "Vest"
-          },
-          {
             "id": 108642,
             "name": "Beanie"
+          },
+          {
+            "id": 20539,
+            "name": "Vest"
           },
           {
             "id": 21103,
@@ -797,10 +833,6 @@
           {
             "id": 11580,
             "name": "Others"
-          },
-          {
-            "id": 49227,
-            "name": "Short"
           },
           {
             "id": 49226,
@@ -947,10 +979,6 @@
             "name": "Sweat"
           },
           {
-            "id": 31358,
-            "name": "Wide"
-          },
-          {
             "id": 101819,
             "name": "Wide Pants"
           },
@@ -1029,14 +1057,6 @@
           {
             "id": 23481,
             "name": "Others"
-          },
-          {
-            "id": 23520,
-            "name": "Unisex"
-          },
-          {
-            "id": 23500,
-            "name": "Hats"
           },
           {
             "id": 101863,
