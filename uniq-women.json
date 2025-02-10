@@ -460,7 +460,7 @@
         "classes": [
           {
             "id": 11519,
-            "name": "Tops & Bratops"
+            "name": "T-Shirts & Bra Tops"
           },
           {
             "id": 95866,
@@ -480,7 +480,7 @@
           },
           {
             "id": 95865,
-            "name": "Sweaters"
+            "name": "Knitwear"
           },
           {
             "id": 11526,
@@ -594,7 +594,7 @@
           },
           {
             "id": 95873,
-            "name": "Sweaters & Cardigans"
+            "name": "Knitwear"
           },
           {
             "id": 67530,
@@ -683,12 +683,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 108639,
-            "name": "Warm lined"
-          },
-          {
             "id": 19719,
             "name": "HEATTECH"
+          },
+          {
+            "id": 108639,
+            "name": "Warm lined"
           },
           {
             "id": 27752,
@@ -763,20 +763,20 @@
             "name": "Down"
           },
           {
-            "id": 102508,
-            "name": "Pufftech"
-          },
-          {
             "id": 106341,
             "name": "Warm Goods"
           },
           {
-            "id": 109444,
-            "name": "PEANUTS"
+            "id": 102508,
+            "name": "Pufftech"
           },
           {
             "id": 24154,
             "name": "Oversized"
+          },
+          {
+            "id": 109444,
+            "name": "PEANUTS"
           },
           {
             "id": 103235,
