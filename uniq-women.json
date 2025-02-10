@@ -683,12 +683,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 19719,
-            "name": "HEATTECH"
-          },
-          {
             "id": 108639,
             "name": "Warm lined"
+          },
+          {
+            "id": 19719,
+            "name": "HEATTECH"
           },
           {
             "id": 27752,
@@ -751,12 +751,12 @@
             "name": "Seamless Down"
           },
           {
-            "id": 12150,
-            "name": "Fleece"
-          },
-          {
             "id": 106339,
             "name": "Sweaters And Cardigan"
+          },
+          {
+            "id": 12150,
+            "name": "Fleece"
           },
           {
             "id": 102510,
