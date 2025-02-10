@@ -460,7 +460,7 @@
         "classes": [
           {
             "id": 11519,
-            "name": "Tops"
+            "name": "Tops & Bratops"
           },
           {
             "id": 95866,
@@ -771,12 +771,12 @@
             "name": "Warm Goods"
           },
           {
-            "id": 24154,
-            "name": "Oversized"
-          },
-          {
             "id": 109444,
             "name": "PEANUTS"
+          },
+          {
+            "id": 24154,
+            "name": "Oversized"
           },
           {
             "id": 103235,
