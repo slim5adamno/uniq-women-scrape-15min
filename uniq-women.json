@@ -645,6 +645,10 @@
             "name": "Hats & Caps"
           },
           {
+            "id": 114928,
+            "name": "T-Shirts, Shirts and Cardigan"
+          },
+          {
             "id": 114870,
             "name": "Bottoms"
           },
@@ -707,24 +711,20 @@
         ],
         "subcategories": [
           {
-            "id": 114871,
-            "name": "Easy Pants"
-          },
-          {
             "id": 108634,
             "name": "Crew Neck"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
-            "id": 114872,
-            "name": "Others"
-          },
-          {
             "id": 114879,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 114931,
+            "name": "Short Sleeve"
+          },
+          {
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 108636,
@@ -735,24 +735,36 @@
             "name": "Sleeveles"
           },
           {
-            "id": 114881,
-            "name": "Others"
+            "id": 114932,
+            "name": "Full Open"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
+            "id": 114881,
+            "name": "Others"
           },
           {
             "id": 114882,
             "name": "Leggings"
           },
           {
-            "id": 108639,
-            "name": "Warm lined"
+            "id": 114871,
+            "name": "Easy Pants"
+          },
+          {
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 19719,
             "name": "HEATTECH"
+          },
+          {
+            "id": 108639,
+            "name": "Warm lined"
+          },
+          {
+            "id": 114872,
+            "name": "Others"
           },
           {
             "id": 12196,
@@ -1065,14 +1077,6 @@
           {
             "id": 67651,
             "name": "Sweat"
-          },
-          {
-            "id": 12341,
-            "name": "Camisole"
-          },
-          {
-            "id": 12339,
-            "name": "AIRism"
           },
           {
             "id": 11607,
@@ -7792,15 +7796,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL54",
-            "displayCode": "54",
-            "name": "GREEN",
             "display": {
               "showFlag": true,
               "chipType": 0
