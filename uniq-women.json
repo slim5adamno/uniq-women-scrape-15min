@@ -691,24 +691,24 @@
         ],
         "subcategories": [
           {
-            "id": 108634,
-            "name": "Crew Neck"
-          },
-          {
             "id": 114871,
             "name": "Easy Pants"
+          },
+          {
+            "id": 108634,
+            "name": "Crew Neck"
           },
           {
             "id": 114872,
             "name": "Others"
           },
           {
-            "id": 114879,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 106306,
             "name": "Bottoms"
+          },
+          {
+            "id": 114879,
+            "name": "Long Sleeve"
           },
           {
             "id": 108636,
@@ -787,12 +787,12 @@
             "name": "Warm Goods"
           },
           {
-            "id": 24154,
-            "name": "Oversized"
-          },
-          {
             "id": 109444,
             "name": "PEANUTS"
+          },
+          {
+            "id": 24154,
+            "name": "Oversized"
           },
           {
             "id": 103235,
@@ -811,12 +811,12 @@
             "name": "MAGIC FOR ALL with Yu Nagaba"
           },
           {
-            "id": 109361,
-            "name": "Flare"
-          },
-          {
             "id": 12149,
             "name": "Vest"
+          },
+          {
+            "id": 109361,
+            "name": "Flare"
           },
           {
             "id": 100386,
