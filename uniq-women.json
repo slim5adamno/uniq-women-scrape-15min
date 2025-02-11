@@ -661,6 +661,10 @@
             "name": "Bottoms"
           },
           {
+            "id": 114877,
+            "name": "Innerwear"
+          },
+          {
             "id": 79706,
             "name": "UV Protection"
           },
@@ -797,6 +801,10 @@
           {
             "id": 86790,
             "name": "Sleeveless"
+          },
+          {
+            "id": 114885,
+            "name": "Bra"
           },
           {
             "id": 101751,
@@ -1053,10 +1061,6 @@
           {
             "id": 12272,
             "name": "Ankle"
-          },
-          {
-            "id": 12290,
-            "name": "AIRism"
           },
           {
             "id": 11597,
