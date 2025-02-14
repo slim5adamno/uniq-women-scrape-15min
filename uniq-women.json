@@ -692,20 +692,20 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
             "id": 114879,
             "name": "Long Sleeve"
           },
           {
-            "id": 114932,
-            "name": "Full Open"
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 108636,
             "name": "Boat Neck"
+          },
+          {
+            "id": 114932,
+            "name": "Full Open"
           },
           {
             "id": 114881,
@@ -800,12 +800,12 @@
             "name": "Down"
           },
           {
-            "id": 102508,
-            "name": "Pufftech"
-          },
-          {
             "id": 106341,
             "name": "Warm Goods"
+          },
+          {
+            "id": 102508,
+            "name": "Pufftech"
           },
           {
             "id": 24154,
@@ -828,12 +828,16 @@
             "name": "Ukiyo-e"
           },
           {
+            "id": 11570,
+            "name": "Others"
+          },
+          {
             "id": 109358,
             "name": "Skirts"
           },
           {
-            "id": 11570,
-            "name": "Others"
+            "id": 101520,
+            "name": "MAGIC FOR ALL with Yu Nagaba"
           },
           {
             "id": 12149,
@@ -842,10 +846,6 @@
           {
             "id": 109361,
             "name": "Flare"
-          },
-          {
-            "id": 101520,
-            "name": "MAGIC FOR ALL with Yu Nagaba"
           },
           {
             "id": 12140,
