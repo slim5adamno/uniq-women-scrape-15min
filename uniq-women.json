@@ -693,12 +693,12 @@
             "name": "Cap"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 114882,
             "name": "Leggings"
+          },
+          {
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 19719,
@@ -721,12 +721,12 @@
             "name": "Unisex"
           },
           {
-            "id": 12201,
-            "name": "Cotton"
-          },
-          {
             "id": 67562,
             "name": "Full Zip"
+          },
+          {
+            "id": 12201,
+            "name": "Cotton"
           },
           {
             "id": 49244,
