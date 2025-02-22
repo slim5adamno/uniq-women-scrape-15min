@@ -288,7 +288,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 30
+          "count": 31
         },
         {
           "from": 1000,
@@ -314,61 +314,66 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 99,
+          "accumulated": 100,
           "count": 27
         },
         {
           "rating": 0.5,
-          "accumulated": 72,
+          "accumulated": 73,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 72,
+          "accumulated": 73,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 71,
+          "accumulated": 72,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 71,
+          "accumulated": 72,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 71,
+          "accumulated": 72,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 71,
+          "accumulated": 72,
           "count": 0
         },
         {
           "rating": 3.5,
-          "accumulated": 71,
+          "accumulated": 72,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 70,
+          "accumulated": 71,
           "count": 5
         },
         {
           "rating": 4.5,
-          "accumulated": 65,
+          "accumulated": 66,
           "count": 41
         },
         {
           "rating": 5,
-          "accumulated": 24,
-          "count": 24
+          "accumulated": 25,
+          "count": 25
         }
       ],
       "sizes": [
+        {
+          "code": "INS025",
+          "displayCode": "025",
+          "name": "25inch"
+        },
         {
           "code": "SIZ999",
           "displayCode": "999",
@@ -507,6 +512,10 @@
           {
             "id": 101309,
             "name": "Casual Shirts"
+          },
+          {
+            "id": 11586,
+            "name": "Jeans"
           },
           {
             "id": 11588,
@@ -739,6 +748,14 @@
             "name": "AIRism"
           },
           {
+            "id": 12285,
+            "name": "Regular"
+          },
+          {
+            "id": 11592,
+            "name": "Others"
+          },
+          {
             "id": 86790,
             "name": "Sleeveless"
           },
@@ -773,10 +790,6 @@
           {
             "id": 27334,
             "name": "Ines De La Fressange"
-          },
-          {
-            "id": 93749,
-            "name": "Long"
           },
           {
             "id": 87959,
@@ -853,10 +866,6 @@
           {
             "id": 93694,
             "name": "Pajamas"
-          },
-          {
-            "id": 93700,
-            "name": "Long Sleeve"
           },
           {
             "id": 93655,
@@ -1954,6 +1963,168 @@
         ],
         "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL66",
+            "displayCode": "66",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "[09 BLACK] Body: 88% Cotton, 8% Polyester, 4% Elastane/ Pocket Lining: 65% Polyester, 35% Cotton [66 BLUE, 69 NAVY] Body: 90% Cotton, 7% Polyester, 3% Elastane/ Pocket Lining: 65% Polyester, 35% Cotton",
+        "designDetail": "- Sheer: Not Sheer<br>- Fit: Skinny<br>- Silhouette: Straight<br>- Pockets: With Pockets",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Women",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469818/item/ingoods_09_469818_3x4.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469818/item/ingoods_66_469818_3x4.jpg",
+              "colorCode": "66"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469818/item/ingoods_69_469818_3x4.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469818/chip/goods_09_469818_chip.jpg",
+              "colorCode": "09"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469818/chip/goods_66_469818_chip.jpg",
+              "colorCode": "66"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469818/chip/goods_69_469818_chip.jpg",
+              "colorCode": "69"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469818/sub/ingoods_469818_sub9_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469818/sub/goods_469818_sub13_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469818/sub/goods_469818_sub14_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469818/sub/goods_469818_sub15_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469818/sub/ingoods_469818_sub23_3x4.jpg"
+            }
+          ]
+        },
+        "l1Id": "469818",
+        "longDescription": "- Incredible stretch for a comfortable fit.<br>- All-direction contouring fabric for comfort and easy movement. <br>- Updated from the conventional casual five-pocket design with single-stitched pockets and minimal belt loops for a sleeker look. <br>- Darts added at the back for a more refined style. <br>- Elegant skinny high-rise. <br>- Straight cut below the knees and a flattering fit at the thighs.",
+        "name": "Extra Stretch Comfort Jeans",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "2990.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "790.0000"
+          }
+        },
+        "productId": "E469818-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "displayOrder": 1,
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display",
+              "sale"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {
+          "average": 5,
+          "count": 18,
+          "fit": 3.17,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 18
+          }
+        },
+        "representative": {
+          "color": {
+            "code": "COL66",
+            "displayCode": "66",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": []
+          },
+          "isFavorite": false,
+          "l2Id": "08117556",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 18,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/469818_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "INS025",
+            "displayCode": "025",
+            "name": "25inch",
+            "display": {
+              "showFlag": true,
+              "chipType": 1
+            }
+          }
+        ],
+        "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, Do not Dry Clean, Do not tumble dry."
       },
       {
         "careInstruction": "<br>",
@@ -5720,6 +5891,15 @@
               "showFlag": true,
               "chipType": 0
             }
+          },
+          {
+            "code": "COL10",
+            "displayCode": "10",
+            "name": "PINK",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
           }
         ],
         "composition": "47% Viscose, 35% Linen, 18% Cotton",
@@ -5902,15 +6082,6 @@
             "code": "COL01",
             "displayCode": "01",
             "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL12",
-            "displayCode": "12",
-            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6102,15 +6273,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/464739_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA008",
             "displayCode": "008",
@@ -11342,15 +11504,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -16067,6 +16220,15 @@
             }
           },
           {
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL34",
             "displayCode": "34",
             "name": "BROWN",
@@ -16463,9 +16625,9 @@
             }
           },
           {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -18857,15 +19019,6 @@
             "code": "COL34",
             "displayCode": "34",
             "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL60",
-            "displayCode": "60",
-            "name": "LIGHT BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -21916,8 +22069,8 @@
       }
     ],
     "pagination": {
-      "count": 99,
-      "total": 99,
+      "count": 100,
+      "total": 100,
       "offset": 300
     }
   }
