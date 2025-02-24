@@ -14470,15 +14470,15 @@
           }
         ],
         "rating": {
-          "average": 4.71,
-          "count": 52,
-          "fit": 2.92,
+          "average": 4.72,
+          "count": 53,
+          "fit": 2.96,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 11,
-            "five": 40
+            "five": 41
           }
         },
         "representative": {
@@ -18043,12 +18043,12 @@
           }
         ],
         "rating": {
-          "average": 4.91,
-          "count": 65,
+          "average": 4.86,
+          "count": 66,
           "fit": 3,
           "rateCount": {
             "one": 1,
-            "two": 0,
+            "two": 1,
             "three": 0,
             "four": 2,
             "five": 62
