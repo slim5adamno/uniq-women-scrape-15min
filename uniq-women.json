@@ -20338,15 +20338,15 @@
           }
         ],
         "rating": {
-          "average": 4.83,
-          "count": 6,
-          "fit": 3.5,
+          "average": 4.86,
+          "count": 7,
+          "fit": 3.29,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 5
+            "five": 6
           }
         },
         "representative": {
@@ -20383,7 +20383,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 6,
+          "total": 7,
           "count": 0,
           "items": []
         },
