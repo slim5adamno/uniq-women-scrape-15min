@@ -671,12 +671,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 114931,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 114879,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 114931,
+            "name": "Short Sleeve"
           },
           {
             "id": 114932,
@@ -691,12 +691,12 @@
             "name": "Cap"
           },
           {
-            "id": 114882,
-            "name": "Leggings"
-          },
-          {
             "id": 12199,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 114882,
+            "name": "Leggings"
           },
           {
             "id": 19719,
@@ -715,20 +715,20 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 12161,
-            "name": "Oversized"
-          },
-          {
             "id": 12197,
             "name": "Half Sleeve"
           },
           {
-            "id": 49220,
-            "name": "Unisex"
+            "id": 12161,
+            "name": "Oversized"
           },
           {
             "id": 101781,
             "name": "UNIQLO and JW ANDERSON"
+          },
+          {
+            "id": 49220,
+            "name": "Unisex"
           },
           {
             "id": 12201,
@@ -763,12 +763,12 @@
             "name": "Coat"
           },
           {
-            "id": 101751,
-            "name": "Ultra Light Down"
-          },
-          {
             "id": 13102,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 101751,
+            "name": "Ultra Light Down"
           },
           {
             "id": 101757,
