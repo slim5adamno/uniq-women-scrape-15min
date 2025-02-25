@@ -2799,15 +2799,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL66",
-            "displayCode": "66",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -2825,15 +2816,15 @@
         "images": {
           "main": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469818/item/ingoods_09_469818_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469818/item/goods_09_469818_3x4.jpg",
               "colorCode": "09"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469818/item/ingoods_66_469818_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469818/item/goods_66_469818_3x4.jpg",
               "colorCode": "66"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469818/item/ingoods_69_469818_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469818/item/goods_69_469818_3x4.jpg",
               "colorCode": "69"
             }
           ],
@@ -2852,9 +2843,6 @@
             }
           ],
           "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469818/sub/ingoods_469818_sub9_3x4.jpg"
-            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469818/sub/goods_469818_sub13_3x4.jpg"
             },
@@ -21474,7 +21462,7 @@
               "colorCode": "30"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469912/item/ingoods_57_469912_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469912/item/goods_57_469912_3x4.jpg",
               "colorCode": "57"
             },
             {
