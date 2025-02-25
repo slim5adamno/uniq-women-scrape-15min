@@ -7981,15 +7981,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -20749,15 +20740,6 @@
             "code": "COL01",
             "displayCode": "01",
             "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
