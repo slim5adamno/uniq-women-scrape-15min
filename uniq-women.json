@@ -14093,7 +14093,14 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "extraLargeStoreOnly",
+                "id": 1,
+                "name": "Made with Recycled Materials",
+                "detail": "Made with Recycled Materials"
+              }
+            ]
           },
           "isFavorite": false,
           "l2Id": "08352804",
@@ -17495,6 +17502,12 @@
                 "id": 3,
                 "name": "Limited Store",
                 "detail": "Limited Store"
+              },
+              {
+                "code": "extraLargeStoreOnly",
+                "id": 1,
+                "name": "Made with Recycled Materials",
+                "detail": "Made with Recycled Materials"
               }
             ]
           },
