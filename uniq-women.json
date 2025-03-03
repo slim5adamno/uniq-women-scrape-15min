@@ -625,12 +625,12 @@
             "name": "Parka"
           },
           {
-            "id": 114879,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 114931,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 114879,
+            "name": "Long Sleeve"
           },
           {
             "id": 114932,
@@ -657,10 +657,6 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 19719,
-            "name": "HEATTECH"
-          },
-          {
             "id": 11573,
             "name": "Others"
           },
@@ -669,16 +665,20 @@
             "name": "Down"
           },
           {
+            "id": 19719,
+            "name": "HEATTECH"
+          },
+          {
             "id": 12161,
             "name": "Oversized"
           },
           {
-            "id": 101781,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 49220,
             "name": "Unisex"
+          },
+          {
+            "id": 101781,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 67562,
@@ -769,12 +769,12 @@
             "name": "Chino"
           },
           {
-            "id": 67607,
-            "name": "Wide"
-          },
-          {
             "id": 93787,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 67607,
+            "name": "Wide"
           },
           {
             "id": 101787,
@@ -941,10 +941,6 @@
             "name": "Others"
           },
           {
-            "id": 67639,
-            "name": "Bratop"
-          },
-          {
             "id": 67646,
             "name": "Unisex"
           },
@@ -965,8 +961,8 @@
             "name": "Caps & Hats"
           },
           {
-            "id": 12339,
-            "name": "AIRism"
+            "id": 101840,
+            "name": "HEATTECH"
           },
           {
             "id": 12362,
@@ -1993,15 +1989,6 @@
             "code": "COL00",
             "displayCode": "00",
             "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
