@@ -635,6 +635,10 @@
             "name": "Leggings"
           },
           {
+            "id": 114872,
+            "name": "Others"
+          },
+          {
             "id": 114871,
             "name": "Easy Pants"
           },
@@ -727,12 +731,12 @@
             "name": "MAGIC FOR ALL ICONS"
           },
           {
-            "id": 28468,
-            "name": "Linen"
-          },
-          {
             "id": 93789,
             "name": "Sleeveless"
+          },
+          {
+            "id": 28468,
+            "name": "Linen"
           },
           {
             "id": 12310,
@@ -743,12 +747,12 @@
             "name": "Chino"
           },
           {
-            "id": 67607,
-            "name": "Wide"
-          },
-          {
             "id": 93787,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 67607,
+            "name": "Wide"
           },
           {
             "id": 101787,
