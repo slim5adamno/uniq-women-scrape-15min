@@ -611,12 +611,12 @@
         ],
         "subcategories": [
           {
-            "id": 114931,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 114879,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 114931,
+            "name": "Short Sleeve"
           },
           {
             "id": 114932,
@@ -631,12 +631,12 @@
             "name": "Cap"
           },
           {
-            "id": 114871,
-            "name": "Easy Pants"
-          },
-          {
             "id": 114882,
             "name": "Leggings"
+          },
+          {
+            "id": 114871,
+            "name": "Easy Pants"
           },
           {
             "id": 12199,
@@ -707,12 +707,12 @@
             "name": "PEANUTS"
           },
           {
-            "id": 109361,
-            "name": "Flare"
-          },
-          {
             "id": 103235,
             "name": "Ukiyo-e"
+          },
+          {
+            "id": 109361,
+            "name": "Flare"
           },
           {
             "id": 27334,
@@ -743,12 +743,12 @@
             "name": "Chino"
           },
           {
-            "id": 93787,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 67607,
             "name": "Wide"
+          },
+          {
+            "id": 93787,
+            "name": "Long Sleeve"
           },
           {
             "id": 101787,
