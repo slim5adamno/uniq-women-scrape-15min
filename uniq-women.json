@@ -646,24 +646,24 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 114874,
-            "name": "Skorts"
-          },
-          {
             "id": 109349,
             "name": "Miracle Air"
+          },
+          {
+            "id": 114874,
+            "name": "Skorts"
           },
           {
             "id": 19719,
             "name": "HEATTECH"
           },
           {
-            "id": 12194,
-            "name": "Waffle"
-          },
-          {
             "id": 93816,
             "name": "Dress Pants"
+          },
+          {
+            "id": 12194,
+            "name": "Waffle"
           },
           {
             "id": 12161,
@@ -698,6 +698,10 @@
             "name": "AIRism"
           },
           {
+            "id": 11570,
+            "name": "Others"
+          },
+          {
             "id": 12307,
             "name": "Wide"
           },
@@ -710,8 +714,8 @@
             "name": "tapered"
           },
           {
-            "id": 11570,
-            "name": "Others"
+            "id": 27334,
+            "name": "Ines De La Fressange"
           },
           {
             "id": 109358,
@@ -730,16 +734,20 @@
             "name": "Flare"
           },
           {
-            "id": 27334,
-            "name": "Ines De La Fressange"
-          },
-          {
             "id": 93749,
             "name": "Long"
           },
           {
             "id": 87959,
             "name": "MAGIC FOR ALL ICONS"
+          },
+          {
+            "id": 41199,
+            "name": "AirSense"
+          },
+          {
+            "id": 41200,
+            "name": "Others"
           },
           {
             "id": 41227,
@@ -771,14 +779,6 @@
           },
           {
             "id": 11596,
-            "name": "Others"
-          },
-          {
-            "id": 41199,
-            "name": "AirSense"
-          },
-          {
-            "id": 41200,
             "name": "Others"
           },
           {
