@@ -658,12 +658,12 @@
             "name": "HEATTECH"
           },
           {
-            "id": 93816,
-            "name": "Dress Pants"
-          },
-          {
             "id": 12194,
             "name": "Waffle"
+          },
+          {
+            "id": 93816,
+            "name": "Dress Pants"
           },
           {
             "id": 12161,
@@ -722,12 +722,12 @@
             "name": "PEANUTS"
           },
           {
-            "id": 109361,
-            "name": "Flare"
-          },
-          {
             "id": 103235,
             "name": "Ukiyo-e"
+          },
+          {
+            "id": 109361,
+            "name": "Flare"
           },
           {
             "id": 27334,
@@ -746,12 +746,12 @@
             "name": "AirSense Pants"
           },
           {
-            "id": 93789,
-            "name": "Sleeveless"
-          },
-          {
             "id": 12310,
             "name": "Smart"
+          },
+          {
+            "id": 93789,
+            "name": "Sleeveless"
           },
           {
             "id": 28468,
