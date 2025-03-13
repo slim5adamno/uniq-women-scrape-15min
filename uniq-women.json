@@ -11721,6 +11721,15 @@
             }
           },
           {
+            "code": "COL33",
+            "displayCode": "33",
+            "name": "KHAKI",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL52",
             "displayCode": "52",
             "name": "GREEN",
@@ -13175,14 +13184,14 @@
         ],
         "rating": {
           "average": 4.89,
-          "count": 54,
-          "fit": 3.3,
+          "count": 55,
+          "fit": 3.31,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 6,
-            "five": 48
+            "five": 49
           }
         },
         "representative": {
@@ -13443,14 +13452,14 @@
         ],
         "rating": {
           "average": 4.89,
-          "count": 54,
-          "fit": 3.3,
+          "count": 55,
+          "fit": 3.31,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 6,
-            "five": 48
+            "five": 49
           }
         },
         "representative": {
@@ -13480,7 +13489,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 23,
+          "total": 24,
           "count": 0,
           "items": []
         },
