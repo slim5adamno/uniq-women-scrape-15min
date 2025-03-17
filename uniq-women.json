@@ -725,12 +725,12 @@
             "name": "AirSense Pants"
           },
           {
-            "id": 93789,
-            "name": "Sleeveless"
-          },
-          {
             "id": 12310,
             "name": "Smart"
+          },
+          {
+            "id": 93789,
+            "name": "Sleeveless"
           },
           {
             "id": 28468,
@@ -741,12 +741,12 @@
             "name": "Chino"
           },
           {
-            "id": 67607,
-            "name": "Wide"
-          },
-          {
             "id": 93787,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 67607,
+            "name": "Wide"
           },
           {
             "id": 101787,
