@@ -628,12 +628,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 114931,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 106316,
             "name": "Sweaters"
+          },
+          {
+            "id": 114931,
+            "name": "Short Sleeve"
           },
           {
             "id": 114932,
@@ -740,12 +740,12 @@
             "name": "Skirts"
           },
           {
-            "id": 109444,
-            "name": "PEANUTS"
-          },
-          {
             "id": 109361,
             "name": "Flare"
+          },
+          {
+            "id": 109444,
+            "name": "PEANUTS"
           },
           {
             "id": 87959,
@@ -780,12 +780,12 @@
             "name": "Chino"
           },
           {
-            "id": 67607,
-            "name": "Wide"
-          },
-          {
             "id": 93787,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 67607,
+            "name": "Wide"
           },
           {
             "id": 101787,
@@ -14723,7 +14723,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 4,
           "count": 0,
           "items": []
         },
