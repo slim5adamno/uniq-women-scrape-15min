@@ -530,10 +530,6 @@
             "name": "Outerwear"
           },
           {
-            "id": 67530,
-            "name": "Tops"
-          },
-          {
             "id": 67531,
             "name": "Bottoms"
           },
@@ -616,12 +612,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 106316,
-            "name": "Sweaters"
-          },
-          {
             "id": 114931,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 106316,
+            "name": "Sweaters"
           },
           {
             "id": 114879,
@@ -664,12 +660,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 114874,
-            "name": "Skorts"
-          },
-          {
             "id": 109349,
             "name": "Miracle Air"
+          },
+          {
+            "id": 114874,
+            "name": "Skorts"
           },
           {
             "id": 19719,
@@ -728,12 +724,12 @@
             "name": "Skirts"
           },
           {
-            "id": 109361,
-            "name": "Flare"
-          },
-          {
             "id": 109444,
             "name": "PEANUTS"
+          },
+          {
+            "id": 109361,
+            "name": "Flare"
           },
           {
             "id": 93749,
@@ -822,6 +818,10 @@
           {
             "id": 109374,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 93759,
+            "name": "Knit Cardigans"
           },
           {
             "id": 11594,
@@ -944,16 +944,12 @@
             "name": "Others"
           },
           {
-            "id": 67647,
+            "id": 67655,
             "name": "Others"
           },
           {
             "id": 67649,
             "name": "AIRism"
-          },
-          {
-            "id": 67655,
-            "name": "Others"
           },
           {
             "id": 67658,
