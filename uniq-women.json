@@ -416,6 +416,10 @@
             "name": "Sport Utility Wear"
           },
           {
+            "id": 114869,
+            "name": "AIRism"
+          },
+          {
             "id": 11522,
             "name": "Innerwear"
           },
@@ -426,10 +430,6 @@
           {
             "id": 11525,
             "name": "Accessories"
-          },
-          {
-            "id": 114869,
-            "name": "AIRism"
           },
           {
             "id": 79705,
@@ -546,6 +546,14 @@
             "name": "Accessories"
           },
           {
+            "id": 114875,
+            "name": "Tops & Bratops"
+          },
+          {
+            "id": 114876,
+            "name": "Bottoms"
+          },
+          {
             "id": 11600,
             "name": "Bra Tops"
           },
@@ -568,14 +576,6 @@
           {
             "id": 11619,
             "name": "Others"
-          },
-          {
-            "id": 114875,
-            "name": "Tops & Bratops"
-          },
-          {
-            "id": 114876,
-            "name": "Bottoms"
           },
           {
             "id": 79706,
@@ -668,12 +668,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 109349,
-            "name": "Miracle Air"
-          },
-          {
             "id": 114874,
             "name": "Skorts"
+          },
+          {
+            "id": 109349,
+            "name": "Miracle Air"
           },
           {
             "id": 19719,
