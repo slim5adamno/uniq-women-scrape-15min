@@ -626,12 +626,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 106316,
-            "name": "Sweaters"
-          },
-          {
             "id": 114931,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 106316,
+            "name": "Sweaters"
           },
           {
             "id": 114879,
@@ -774,12 +774,12 @@
             "name": "Chino"
           },
           {
-            "id": 67607,
-            "name": "Wide"
-          },
-          {
             "id": 93787,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 67607,
+            "name": "Wide"
           },
           {
             "id": 101787,
