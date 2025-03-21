@@ -624,12 +624,12 @@
             "name": "Sweaters"
           },
           {
-            "id": 114879,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 114932,
             "name": "Full Open"
+          },
+          {
+            "id": 114879,
+            "name": "Long Sleeve"
           },
           {
             "id": 106319,
@@ -656,12 +656,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 114874,
-            "name": "Skorts"
-          },
-          {
             "id": 109349,
             "name": "Miracle Air"
+          },
+          {
+            "id": 114874,
+            "name": "Skorts"
           },
           {
             "id": 19719,
@@ -728,12 +728,12 @@
             "name": "Skirts"
           },
           {
-            "id": 109444,
-            "name": "PEANUTS"
-          },
-          {
             "id": 109361,
             "name": "Flare"
+          },
+          {
+            "id": 109444,
+            "name": "PEANUTS"
           },
           {
             "id": 87959,
@@ -768,12 +768,12 @@
             "name": "Chino"
           },
           {
-            "id": 93787,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 67607,
             "name": "Wide"
+          },
+          {
+            "id": 93787,
+            "name": "Long Sleeve"
           },
           {
             "id": 101787,
@@ -1018,15 +1018,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL31",
             "displayCode": "31",
