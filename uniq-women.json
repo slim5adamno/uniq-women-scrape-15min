@@ -672,12 +672,12 @@
             "name": "Waffle"
           },
           {
-            "id": 12161,
-            "name": "Oversized"
-          },
-          {
             "id": 93817,
             "name": "Leggings"
+          },
+          {
+            "id": 12161,
+            "name": "Oversized"
           },
           {
             "id": 49220,
@@ -728,12 +728,12 @@
             "name": "Skirts"
           },
           {
-            "id": 109361,
-            "name": "Flare"
-          },
-          {
             "id": 109444,
             "name": "PEANUTS"
+          },
+          {
+            "id": 109361,
+            "name": "Flare"
           },
           {
             "id": 87959,
@@ -1124,19 +1124,13 @@
         "longDescription": "<br>",
         "name": "Extra Stretch Leggings Pants",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "790.0000"
           }
         },
         "productId": "E464148-000",
@@ -1171,27 +1165,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08160896",
+          "l2Id": "08389204",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -12893,7 +12880,7 @@
         "composition": "Body: 66% Cotton, 23% Polyester, 9% Viscose, 2% Elastane/ Pocket Lining: 65% Polyester, 35% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Loose<br>- Silhouette: Straight<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.<br>- The back pockets are temporarily sewn with a tailoring thread to prevent them from losing their shape. Please remove it before wearing.",
-        "genderName": "Women",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -13103,7 +13090,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Do not tumble dry."
       },
       {
@@ -13718,7 +13705,7 @@
         "composition": "Body: 53% Linen, 47% Cotton/ Pocket Lining: 100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Women",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -13895,7 +13882,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Do not tumble dry."
       },
       {
@@ -13941,7 +13928,7 @@
         "composition": "Body: 50% Linen, 50% Cotton/ Pocket Lining: 100% Cotton",
         "designDetail": "- Sheer: Not Sheer(Only 01 Off White/32 Beige is slightly sheer)<br>- Fit: Regular<br>- Silhouette: Tapered<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Women",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -14148,7 +14135,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Do not tumble dry."
       },
       {
@@ -15095,9 +15082,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL38",
-            "displayCode": "38",
-            "name": "DARK BROWN",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -15122,7 +15109,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08363548",
+          "l2Id": "08363547",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -16730,7 +16717,7 @@
         "composition": "Body: 100% Polyester/ Pocket Lining: 100% Polyester",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Loose<br>- Silhouette: Straight<br>- Pockets: With Pockets<br>- Rise: Mid",
         "freeInformation": "- There may be wrinkles due to being folded in the box during shipping. <br>- The model is wearing an item 3cm longer than the actual product. <br>- The images shown may include colors that are not available.",
-        "genderName": "Women",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -16896,7 +16883,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
       },
       {
