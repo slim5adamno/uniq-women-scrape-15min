@@ -612,20 +612,20 @@
             "name": "Outerwear"
           },
           {
-            "id": 114931,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 106316,
             "name": "Sweaters"
           },
           {
-            "id": 114932,
-            "name": "Full Open"
+            "id": 114931,
+            "name": "Short Sleeve"
           },
           {
             "id": 114879,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 114932,
+            "name": "Full Open"
           },
           {
             "id": 106319,
@@ -660,12 +660,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 114874,
-            "name": "Skorts"
-          },
-          {
             "id": 109349,
             "name": "Miracle Air"
+          },
+          {
+            "id": 114874,
+            "name": "Skorts"
           },
           {
             "id": 19719,
@@ -724,12 +724,12 @@
             "name": "Skirts"
           },
           {
-            "id": 109444,
-            "name": "PEANUTS"
-          },
-          {
             "id": 109361,
             "name": "Flare"
+          },
+          {
+            "id": 109444,
+            "name": "PEANUTS"
           },
           {
             "id": 93749,
