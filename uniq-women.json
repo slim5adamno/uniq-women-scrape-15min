@@ -617,12 +617,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 106316,
-            "name": "Sweaters"
-          },
-          {
             "id": 114931,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 106316,
+            "name": "Sweaters"
           },
           {
             "id": 114879,
