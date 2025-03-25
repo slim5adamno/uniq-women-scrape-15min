@@ -617,10 +617,6 @@
             "name": "T Shirts"
           },
           {
-            "id": 90126,
-            "name": "Knitwear"
-          },
-          {
             "id": 90130,
             "name": "Accessories"
           },
@@ -633,10 +629,6 @@
           {
             "id": 106314,
             "name": "Outerwear"
-          },
-          {
-            "id": 106316,
-            "name": "Sweaters"
           },
           {
             "id": 114931,
@@ -763,20 +755,28 @@
             "name": "Sleeveless"
           },
           {
-            "id": 109358,
-            "name": "Skirts"
+            "id": 93736,
+            "name": "Long Sleeve"
           },
           {
-            "id": 109361,
-            "name": "Flare"
+            "id": 109358,
+            "name": "Skirts"
           },
           {
             "id": 109444,
             "name": "PEANUTS"
           },
           {
+            "id": 109361,
+            "name": "Flare"
+          },
+          {
             "id": 103235,
             "name": "Ukiyo-e"
+          },
+          {
+            "id": 93749,
+            "name": "Long"
           },
           {
             "id": 87959,
@@ -849,10 +849,6 @@
           {
             "id": 101819,
             "name": "Wide Pants"
-          },
-          {
-            "id": 109371,
-            "name": "Sleeveless"
           },
           {
             "id": 12290,
