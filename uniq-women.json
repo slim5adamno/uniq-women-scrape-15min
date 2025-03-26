@@ -699,10 +699,6 @@
             "name": "Oversized"
           },
           {
-            "id": 93820,
-            "name": "Wide Pants"
-          },
-          {
             "id": 49220,
             "name": "Unisex"
           },
@@ -913,6 +909,10 @@
           {
             "id": 101310,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 101315,
+            "name": "Soft Brushed"
           },
           {
             "id": 101801,
@@ -10383,7 +10383,7 @@
         "composition": "Body: 100% Polyester/ Pocket Lining: 100% Polyester",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Relaxed<br>- Silhouette: Straight<br>- Pockets: With Pockets<br>- Rise: Mid",
         "freeInformation": "- There may be wrinkles due to being folded in the box during shipping.<br>- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Women",
         "hideReview": false,
         "images": {
           "main": [
@@ -10590,7 +10590,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
       },
       {
