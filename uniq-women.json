@@ -688,12 +688,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 114879,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 114932,
             "name": "Full Open"
+          },
+          {
+            "id": 114879,
+            "name": "Long Sleeve"
           },
           {
             "id": 106319,
@@ -704,12 +704,12 @@
             "name": "Skirt"
           },
           {
-            "id": 109347,
-            "name": "Miracle Air"
-          },
-          {
             "id": 106321,
             "name": "Dresses"
+          },
+          {
+            "id": 109347,
+            "name": "Miracle Air"
           },
           {
             "id": 106323,
@@ -720,16 +720,16 @@
             "name": "Others"
           },
           {
-            "id": 114882,
-            "name": "Leggings"
-          },
-          {
             "id": 113673,
             "name": "Outerwear"
           },
           {
             "id": 114872,
             "name": "Others"
+          },
+          {
+            "id": 114882,
+            "name": "Leggings"
           },
           {
             "id": 113674,
@@ -740,12 +740,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 109349,
-            "name": "Miracle Air"
-          },
-          {
             "id": 114874,
             "name": "Skorts"
+          },
+          {
+            "id": 109349,
+            "name": "Miracle Air"
           },
           {
             "id": 113676,
@@ -796,12 +796,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 50490,
-            "name": "Utility Pants"
-          },
-          {
             "id": 12142,
             "name": "Linen"
+          },
+          {
+            "id": 50490,
+            "name": "Utility Pants"
           },
           {
             "id": 113690,
@@ -872,12 +872,12 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 109368,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 11580,
             "name": "Others"
+          },
+          {
+            "id": 109368,
+            "name": "Long Sleeve"
           },
           {
             "id": 12187,
