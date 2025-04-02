@@ -325,17 +325,17 @@
         {
           "rating": 4,
           "accumulated": 50,
-          "count": 2
+          "count": 3
         },
         {
           "rating": 4.5,
-          "accumulated": 48,
+          "accumulated": 47,
           "count": 25
         },
         {
           "rating": 5,
-          "accumulated": 23,
-          "count": 23
+          "accumulated": 22,
+          "count": 22
         }
       ],
       "sizes": [
