@@ -275,57 +275,57 @@
         {
           "rating": 0,
           "accumulated": 90,
-          "count": 41
+          "count": 40
         },
         {
           "rating": 0.5,
-          "accumulated": 49,
+          "accumulated": 50,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 49,
+          "accumulated": 50,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 48,
+          "accumulated": 49,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 48,
+          "accumulated": 49,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 48,
+          "accumulated": 49,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 48,
+          "accumulated": 49,
           "count": 0
         },
         {
           "rating": 3.5,
-          "accumulated": 48,
+          "accumulated": 49,
           "count": 0
         },
         {
           "rating": 4,
-          "accumulated": 48,
+          "accumulated": 49,
           "count": 3
         },
         {
           "rating": 4.5,
-          "accumulated": 45,
+          "accumulated": 46,
           "count": 25
         },
         {
           "rating": 5,
-          "accumulated": 20,
-          "count": 20
+          "accumulated": 21,
+          "count": 21
         }
       ],
       "sizes": [
@@ -494,16 +494,16 @@
             "name": "Casual Pants"
           },
           {
+            "id": 11590,
+            "name": "Shorts & Skorts"
+          },
+          {
             "id": 41184,
             "name": "AirSense Pants"
           },
           {
             "id": 11589,
             "name": "Trousers"
-          },
-          {
-            "id": 11590,
-            "name": "Shorts & Skorts"
           },
           {
             "id": 22321,
@@ -648,12 +648,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 106315,
-            "name": "Shirts"
-          },
-          {
             "id": 114930,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 106315,
+            "name": "Shirts"
           },
           {
             "id": 114931,
@@ -692,16 +692,16 @@
             "name": "Others"
           },
           {
-            "id": 114882,
-            "name": "Leggings"
-          },
-          {
             "id": 114872,
             "name": "Others"
           },
           {
             "id": 113673,
             "name": "Outerwear"
+          },
+          {
+            "id": 114882,
+            "name": "Leggings"
           },
           {
             "id": 113674,
@@ -712,16 +712,16 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 114874,
-            "name": "Skorts"
-          },
-          {
             "id": 113676,
             "name": "Bottoms"
           },
           {
             "id": 109349,
             "name": "Miracle Air"
+          },
+          {
+            "id": 114874,
+            "name": "Skorts"
           },
           {
             "id": 19719,
@@ -764,20 +764,20 @@
             "name": "Relaxed"
           },
           {
-            "id": 50490,
-            "name": "Utility Pants"
-          },
-          {
             "id": 12142,
             "name": "Linen"
           },
           {
-            "id": 113690,
-            "name": "Others"
+            "id": 50490,
+            "name": "Utility Pants"
           },
           {
             "id": 12307,
             "name": "Wide"
+          },
+          {
+            "id": 113690,
+            "name": "Others"
           },
           {
             "id": 12306,
@@ -796,6 +796,10 @@
             "name": "Skirts"
           },
           {
+            "id": 11597,
+            "name": "Others"
+          },
+          {
             "id": 109361,
             "name": "Flare"
           },
@@ -812,23 +816,15 @@
             "name": "Others"
           },
           {
+            "id": 93787,
+            "name": "Long Sleeve"
+          },
+          {
             "id": 41227,
             "name": "AirSense Pants"
           },
           {
             "id": 41228,
-            "name": "Others"
-          },
-          {
-            "id": 12310,
-            "name": "Smart"
-          },
-          {
-            "id": 93787,
-            "name": "Long Sleeve"
-          },
-          {
-            "id": 11596,
             "name": "Others"
           },
           {
@@ -840,6 +836,10 @@
             "name": "Sweat Shirt"
           },
           {
+            "id": 12310,
+            "name": "Smart"
+          },
+          {
             "id": 109368,
             "name": "Long Sleeve"
           },
@@ -848,12 +848,12 @@
             "name": "Others"
           },
           {
-            "id": 12187,
-            "name": "Hoodies"
+            "id": 11596,
+            "name": "Others"
           },
           {
-            "id": 11597,
-            "name": "Others"
+            "id": 12187,
+            "name": "Hoodies"
           },
           {
             "id": 49251,
