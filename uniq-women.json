@@ -723,12 +723,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 114932,
-            "name": "Full Open"
-          },
-          {
             "id": 114879,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 114932,
+            "name": "Full Open"
           },
           {
             "id": 106319,
@@ -763,16 +763,16 @@
             "name": "Others"
           },
           {
-            "id": 113673,
-            "name": "Outerwear"
-          },
-          {
             "id": 114882,
             "name": "Leggings"
           },
           {
             "id": 12196,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 113673,
+            "name": "Outerwear"
           },
           {
             "id": 12195,
@@ -883,16 +883,16 @@
             "name": "Sweaters"
           },
           {
-            "id": 109358,
-            "name": "Skirts"
+            "id": 106312,
+            "name": "Dresses"
           },
           {
             "id": 78121,
             "name": "Ines De La Fressange"
           },
           {
-            "id": 106312,
-            "name": "Dresses"
+            "id": 109358,
+            "name": "Skirts"
           },
           {
             "id": 106313,
@@ -935,12 +935,12 @@
             "name": "Pullover"
           },
           {
-            "id": 11580,
-            "name": "Others"
-          },
-          {
             "id": 109368,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 11580,
+            "name": "Others"
           },
           {
             "id": 11596,
