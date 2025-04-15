@@ -778,12 +778,12 @@
             "name": "Others"
           },
           {
-            "id": 114882,
-            "name": "Leggings"
-          },
-          {
             "id": 113673,
             "name": "Outerwear"
+          },
+          {
+            "id": 114882,
+            "name": "Leggings"
           },
           {
             "id": 113674,
@@ -850,12 +850,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 12307,
-            "name": "Wide"
-          },
-          {
             "id": 113690,
             "name": "Others"
+          },
+          {
+            "id": 12307,
+            "name": "Wide"
           },
           {
             "id": 12306,
@@ -1505,7 +1505,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08372242",
+          "l2Id": "08372243",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -2595,7 +2595,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08372154",
+          "l2Id": "08372155",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -10868,7 +10868,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08373128",
+          "l2Id": "08373129",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -11064,7 +11064,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08512259",
+          "l2Id": "08512260",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -15024,7 +15024,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08373058",
+          "l2Id": "08373059",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -15227,7 +15227,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08373004",
+          "l2Id": "08373005",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -15426,7 +15426,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08372067",
+          "l2Id": "08372068",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -15628,7 +15628,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08371902",
+          "l2Id": "08371903",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -15820,7 +15820,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08373214",
+          "l2Id": "08373215",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -19806,7 +19806,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08372916",
+          "l2Id": "08372917",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -19992,7 +19992,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08504584",
+          "l2Id": "08504585",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -20448,7 +20448,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08371536",
+          "l2Id": "08371537",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -20650,7 +20650,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08373166",
+          "l2Id": "08373167",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -22974,7 +22974,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08371373",
+          "l2Id": "08371374",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -24746,7 +24746,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08371501",
+          "l2Id": "08371502",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -25698,7 +25698,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08371437",
+          "l2Id": "08371438",
           "salesStartDate": "",
           "salesEndDate": ""
         },
