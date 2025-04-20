@@ -8754,15 +8754,15 @@
           }
         ],
         "rating": {
-          "average": 4.56,
-          "count": 9,
-          "fit": 3.44,
+          "average": 4.6,
+          "count": 10,
+          "fit": 3.5,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 8
+            "five": 9
           }
         },
         "representative": {
@@ -8792,7 +8792,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 9,
+          "total": 10,
           "count": 0,
           "items": []
         },
