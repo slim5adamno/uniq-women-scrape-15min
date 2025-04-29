@@ -8135,14 +8135,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 3,
+          "count": 4,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 3
+            "five": 4
           }
         },
         "representative": {
@@ -8458,15 +8458,15 @@
           }
         ],
         "rating": {
-          "average": 4.82,
-          "count": 11,
-          "fit": 2.73,
+          "average": 4.83,
+          "count": 12,
+          "fit": 2.75,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 9
+            "five": 10
           }
         },
         "representative": {
@@ -9208,7 +9208,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL09",
