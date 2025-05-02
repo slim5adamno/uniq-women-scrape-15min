@@ -310,52 +310,52 @@
         {
           "rating": 0,
           "accumulated": 126,
-          "count": 54
+          "count": 53
         },
         {
           "rating": 0.5,
-          "accumulated": 72,
+          "accumulated": 73,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 72,
+          "accumulated": 73,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 70,
+          "accumulated": 71,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 70,
+          "accumulated": 71,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 70,
+          "accumulated": 71,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 70,
+          "accumulated": 71,
           "count": 1
         },
         {
           "rating": 3.5,
-          "accumulated": 69,
+          "accumulated": 70,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 68,
+          "accumulated": 69,
           "count": 6
         },
         {
           "rating": 4.5,
-          "accumulated": 62,
-          "count": 25
+          "accumulated": 63,
+          "count": 26
         },
         {
           "rating": 5,
