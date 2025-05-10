@@ -9430,15 +9430,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL15",
-            "displayCode": "15",
-            "name": "RED",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL34",
             "displayCode": "34",
             "name": "BROWN",
@@ -9791,6 +9782,15 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/478928_size.html",
         "sizeInformation": "",
         "sizes": [
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
           {
             "code": "SMA007",
             "displayCode": "007",
@@ -12931,15 +12931,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/475854_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA006",
             "displayCode": "006",
