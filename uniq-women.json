@@ -788,6 +788,10 @@
             "name": "Outerwear"
           },
           {
+            "id": 12195,
+            "name": "Sleeveless"
+          },
+          {
             "id": 106315,
             "name": "Shirts"
           },
@@ -796,16 +800,12 @@
             "name": "Linen"
           },
           {
-            "id": 12195,
-            "name": "Sleeveless"
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 106316,
             "name": "Sweaters"
-          },
-          {
-            "id": 12199,
-            "name": "Long Sleeve"
           },
           {
             "id": 106319,
@@ -840,12 +840,12 @@
             "name": "Scorts"
           },
           {
-            "id": 27751,
-            "name": "Oversized"
-          },
-          {
             "id": 106330,
             "name": "Others"
+          },
+          {
+            "id": 27751,
+            "name": "Oversized"
           },
           {
             "id": 13092,
@@ -868,12 +868,12 @@
             "name": "Dresses"
           },
           {
-            "id": 102509,
-            "name": "Relaxed"
-          },
-          {
             "id": 113674,
             "name": "Shirts"
+          },
+          {
+            "id": 102509,
+            "name": "Relaxed"
           },
           {
             "id": 12139,
@@ -904,12 +904,12 @@
             "name": "Pajamas"
           },
           {
-            "id": 78121,
-            "name": "Ines De La Fressange"
-          },
-          {
             "id": 109358,
             "name": "Skirts"
+          },
+          {
+            "id": 78121,
+            "name": "Ines De La Fressange"
           },
           {
             "id": 78122,
@@ -948,12 +948,12 @@
             "name": "AirSense"
           },
           {
-            "id": 93789,
-            "name": "Sleeveless"
-          },
-          {
             "id": 106305,
             "name": "Outerwear"
+          },
+          {
+            "id": 93789,
+            "name": "Sleeveless"
           },
           {
             "id": 106306,
@@ -3655,14 +3655,14 @@
         ],
         "rating": {
           "average": 4.96,
-          "count": 56,
+          "count": 57,
           "fit": 3.04,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 54
+            "five": 55
           }
         },
         "representative": {
@@ -3692,7 +3692,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 56,
+          "total": 57,
           "count": 0,
           "items": []
         },
@@ -24338,15 +24338,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
