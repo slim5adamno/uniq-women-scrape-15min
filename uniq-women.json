@@ -788,24 +788,24 @@
             "name": "Outerwear"
           },
           {
-            "id": 109348,
-            "name": "Linen"
-          },
-          {
             "id": 106315,
             "name": "Shirts"
+          },
+          {
+            "id": 109348,
+            "name": "Linen"
           },
           {
             "id": 12195,
             "name": "Sleeveless"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 106316,
             "name": "Sweaters"
+          },
+          {
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 106319,
@@ -816,12 +816,12 @@
             "name": "Skirt"
           },
           {
-            "id": 93819,
-            "name": "Casual Pants"
-          },
-          {
             "id": 106321,
             "name": "Dresses"
+          },
+          {
+            "id": 93819,
+            "name": "Casual Pants"
           },
           {
             "id": 27750,
@@ -840,12 +840,12 @@
             "name": "Scorts"
           },
           {
-            "id": 106330,
-            "name": "Others"
-          },
-          {
             "id": 27751,
             "name": "Oversized"
+          },
+          {
+            "id": 106330,
+            "name": "Others"
           },
           {
             "id": 13092,
@@ -948,24 +948,24 @@
             "name": "AirSense"
           },
           {
-            "id": 106305,
-            "name": "Outerwear"
-          },
-          {
             "id": 93789,
             "name": "Sleeveless"
+          },
+          {
+            "id": 106305,
+            "name": "Outerwear"
           },
           {
             "id": 106306,
             "name": "Bottoms"
           },
           {
-            "id": 93787,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 106308,
             "name": "T-Shirts"
+          },
+          {
+            "id": 93787,
+            "name": "Long Sleeve"
           },
           {
             "id": 106309,
