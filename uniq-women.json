@@ -10385,15 +10385,15 @@
           }
         ],
         "rating": {
-          "average": 4.78,
-          "count": 9,
-          "fit": 2.89,
+          "average": 4.8,
+          "count": 10,
+          "fit": 2.9,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 7
+            "five": 8
           }
         },
         "representative": {
@@ -10423,7 +10423,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 9,
+          "total": 10,
           "count": 0,
           "items": []
         },
@@ -12664,7 +12664,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL70",
@@ -13888,14 +13899,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 7,
+          "count": 8,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 7
+            "five": 8
           }
         },
         "representative": {
@@ -13932,7 +13943,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 7,
+          "total": 8,
           "count": 0,
           "items": []
         },
@@ -15887,15 +15898,15 @@
           }
         ],
         "rating": {
-          "average": 4.25,
-          "count": 4,
-          "fit": 3.5,
+          "average": 4.4,
+          "count": 5,
+          "fit": 3.4,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 1,
-            "five": 2
+            "five": 3
           }
         },
         "representative": {
@@ -18546,7 +18557,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 4,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL57",
@@ -18581,7 +18603,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 1,
           "count": 0,
           "items": []
         },
