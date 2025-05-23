@@ -16644,14 +16644,14 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
+          "average": 4.5,
+          "count": 2,
           "fit": 4,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 0,
+            "four": 1,
             "five": 1
           }
         },
@@ -16689,7 +16689,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 2,
           "count": 0,
           "items": []
         },
