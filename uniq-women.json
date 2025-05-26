@@ -830,12 +830,12 @@
             "name": "Skirt"
           },
           {
-            "id": 93819,
-            "name": "Casual Pants"
-          },
-          {
             "id": 106321,
             "name": "Dresses"
+          },
+          {
+            "id": 93819,
+            "name": "Casual Pants"
           },
           {
             "id": 27750,
@@ -870,12 +870,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 114934,
-            "name": "Dresses"
-          },
-          {
             "id": 11570,
             "name": "Others"
+          },
+          {
+            "id": 114934,
+            "name": "Dresses"
           },
           {
             "id": 113674,
@@ -946,12 +946,12 @@
             "name": "AirSense"
           },
           {
-            "id": 106305,
-            "name": "Outerwear"
-          },
-          {
             "id": 93789,
             "name": "Sleeveless"
+          },
+          {
+            "id": 106305,
+            "name": "Outerwear"
           },
           {
             "id": 106306,
@@ -10235,14 +10235,14 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 15,
+          "average": 4.94,
+          "count": 16,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 0,
+            "four": 1,
             "five": 15
           }
         },
@@ -10273,7 +10273,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 15,
+          "total": 16,
           "count": 0,
           "items": []
         },
@@ -11688,14 +11688,14 @@
         ],
         "rating": {
           "average": 4.83,
-          "count": 80,
+          "count": 81,
           "fit": 3.15,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 12,
-            "five": 67
+            "five": 68
           }
         },
         "representative": {
@@ -11725,7 +11725,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 59,
+          "total": 60,
           "count": 0,
           "items": []
         },
@@ -13840,15 +13840,6 @@
             "code": "CMD064",
             "displayCode": "064",
             "name": "64cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD070",
-            "displayCode": "070",
-            "name": "70cm",
             "display": {
               "showFlag": true,
               "chipType": 1
@@ -17410,15 +17401,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -18927,15 +18909,15 @@
           }
         ],
         "rating": {
-          "average": 4.73,
-          "count": 26,
+          "average": 4.74,
+          "count": 27,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 5,
-            "five": 20
+            "five": 21
           }
         },
         "representative": {
@@ -18965,7 +18947,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 26,
+          "total": 27,
           "count": 0,
           "items": []
         },
@@ -28286,14 +28268,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 1,
+          "count": 2,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -28323,7 +28305,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 2,
           "count": 0,
           "items": []
         },
