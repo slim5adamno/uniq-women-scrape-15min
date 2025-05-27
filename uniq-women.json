@@ -819,12 +819,12 @@
             "name": "Shirts"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 106316,
             "name": "Sweaters"
+          },
+          {
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 106319,
@@ -835,12 +835,12 @@
             "name": "Skirt"
           },
           {
-            "id": 106321,
-            "name": "Dresses"
-          },
-          {
             "id": 93819,
             "name": "Casual Pants"
+          },
+          {
+            "id": 106321,
+            "name": "Dresses"
           },
           {
             "id": 27750,
@@ -855,12 +855,12 @@
             "name": "Scorts"
           },
           {
-            "id": 106330,
-            "name": "Others"
-          },
-          {
             "id": 27751,
             "name": "Oversized"
+          },
+          {
+            "id": 106330,
+            "name": "Others"
           },
           {
             "id": 13092,
@@ -883,12 +883,12 @@
             "name": "Dresses"
           },
           {
-            "id": 113674,
-            "name": "Shirts"
-          },
-          {
             "id": 102509,
             "name": "Relaxed"
+          },
+          {
+            "id": 113674,
+            "name": "Shirts"
           },
           {
             "id": 86793,
@@ -911,12 +911,12 @@
             "name": "Skort"
           },
           {
-            "id": 93734,
-            "name": "Sleeveless"
-          },
-          {
             "id": 109444,
             "name": "PEANUTS"
+          },
+          {
+            "id": 93734,
+            "name": "Sleeveless"
           },
           {
             "id": 93735,
@@ -955,12 +955,12 @@
             "name": "Others"
           },
           {
-            "id": 93789,
-            "name": "Sleeveless"
-          },
-          {
             "id": 106305,
             "name": "Outerwear"
+          },
+          {
+            "id": 93789,
+            "name": "Sleeveless"
           },
           {
             "id": 106306,
