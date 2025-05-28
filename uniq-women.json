@@ -567,12 +567,12 @@
             "name": "Sweat"
           },
           {
-            "id": 101297,
-            "name": "Formal Shirts"
-          },
-          {
             "id": 101309,
             "name": "Casual Shirts"
+          },
+          {
+            "id": 101297,
+            "name": "Formal Shirts"
           },
           {
             "id": 11588,
@@ -797,6 +797,14 @@
             "name": "Sweaters"
           },
           {
+            "id": 101316,
+            "name": "Others"
+          },
+          {
+            "id": 113765,
+            "name": "Unisex"
+          },
+          {
             "id": 106319,
             "name": "Bottoms"
           },
@@ -821,6 +829,10 @@
             "name": "Sweat"
           },
           {
+            "id": 109424,
+            "name": "Shorts"
+          },
+          {
             "id": 109352,
             "name": "Scorts"
           },
@@ -841,6 +853,10 @@
             "name": "Relaxed"
           },
           {
+            "id": 101302,
+            "name": "Rayon"
+          },
+          {
             "id": 114934,
             "name": "Dresses"
           },
@@ -853,8 +869,16 @@
             "name": "Relaxed"
           },
           {
+            "id": 101308,
+            "name": "Others"
+          },
+          {
             "id": 86793,
             "name": "Others"
+          },
+          {
+            "id": 101789,
+            "name": "Three Quarter Sleeve"
           },
           {
             "id": 12307,
@@ -889,12 +913,12 @@
             "name": "Pajamas"
           },
           {
-            "id": 109358,
-            "name": "Skirts"
-          },
-          {
             "id": 78121,
             "name": "Ines De La Fressange"
+          },
+          {
+            "id": 109358,
+            "name": "Skirts"
           },
           {
             "id": 78122,
@@ -917,6 +941,10 @@
             "name": "MAGNUM PHOTOS"
           },
           {
+            "id": 109446,
+            "name": "Museum of Fine Arts Boston Ukiyo-e"
+          },
+          {
             "id": 75185,
             "name": "Curated by Tate"
           },
@@ -925,24 +953,24 @@
             "name": "Others"
           },
           {
-            "id": 93789,
-            "name": "Sleeveless"
-          },
-          {
             "id": 106305,
             "name": "Outerwear"
+          },
+          {
+            "id": 93789,
+            "name": "Sleeveless"
           },
           {
             "id": 106306,
             "name": "Bottoms"
           },
           {
-            "id": 106308,
-            "name": "T-Shirts"
-          },
-          {
             "id": 93787,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 106308,
+            "name": "T-Shirts"
           },
           {
             "id": 106309,
@@ -965,12 +993,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 109366,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 101787,
             "name": "Sweat Shirt"
+          },
+          {
+            "id": 109366,
+            "name": "Short Sleeve"
           },
           {
             "id": 109368,
@@ -993,6 +1021,10 @@
             "name": "Wide"
           },
           {
+            "id": 109374,
+            "name": "Long Sleeve"
+          },
+          {
             "id": 93710,
             "name": "Socks"
           },
@@ -1001,16 +1033,32 @@
             "name": "Regular Socks"
           },
           {
+            "id": 109422,
+            "name": "Short Socks"
+          },
+          {
             "id": 93694,
             "name": "Pajamas"
+          },
+          {
+            "id": 109386,
+            "name": "Tops"
           },
           {
             "id": 93700,
             "name": "Long Sleeve"
           },
           {
+            "id": 109393,
+            "name": "Outerwear"
+          },
+          {
             "id": 109395,
             "name": "Tops"
+          },
+          {
+            "id": 109399,
+            "name": "AIRism"
           },
           {
             "id": 109404,
@@ -1023,54 +1071,6 @@
           {
             "id": 95884,
             "name": "markdown"
-          },
-          {
-            "id": 101302,
-            "name": "Rayon"
-          },
-          {
-            "id": 113693,
-            "name": "Cotton"
-          },
-          {
-            "id": 101308,
-            "name": "Others"
-          },
-          {
-            "id": 101298,
-            "name": "Long Sleeve"
-          },
-          {
-            "id": 101789,
-            "name": "Three Quarter Sleeve"
-          },
-          {
-            "id": 101790,
-            "name": "Short Sleeve"
-          },
-          {
-            "id": 113764,
-            "name": "Cotton"
-          },
-          {
-            "id": 113765,
-            "name": "Unisex"
-          },
-          {
-            "id": 101310,
-            "name": "Long Sleeve"
-          },
-          {
-            "id": 101315,
-            "name": "Soft Brushed"
-          },
-          {
-            "id": 101801,
-            "name": "Rayon"
-          },
-          {
-            "id": 101312,
-            "name": "Short Sleeve"
           },
           {
             "id": 12259,
