@@ -813,16 +813,16 @@
             "name": "Skirt"
           },
           {
+            "id": 101812,
+            "name": "Warm Line"
+          },
+          {
             "id": 106321,
             "name": "Dresses"
           },
           {
             "id": 27750,
             "name": "U Crew"
-          },
-          {
-            "id": 12307,
-            "name": "Wide"
           },
           {
             "id": 106323,
@@ -839,10 +839,6 @@
           {
             "id": 109352,
             "name": "Scorts"
-          },
-          {
-            "id": 67601,
-            "name": "tapered"
           },
           {
             "id": 13092,
@@ -875,6 +871,10 @@
           {
             "id": 113674,
             "name": "Shirts"
+          },
+          {
+            "id": 113676,
+            "name": "Bottoms"
           },
           {
             "id": 86793,
@@ -965,12 +965,12 @@
             "name": "Bottoms"
           },
           {
-            "id": 93787,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 106308,
             "name": "T-Shirts"
+          },
+          {
+            "id": 93787,
+            "name": "Long Sleeve"
           },
           {
             "id": 106309,
@@ -7580,8 +7580,8 @@
         "rating": {},
         "representative": {
           "color": {
-            "code": "COL64",
-            "displayCode": "64",
+            "code": "COL66",
+            "displayCode": "66",
             "name": "BLUE",
             "display": {
               "showFlag": true,
@@ -7600,7 +7600,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08427139",
+          "l2Id": "08583810",
           "salesStartDate": "",
           "salesEndDate": ""
         },
