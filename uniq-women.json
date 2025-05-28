@@ -20861,9 +20861,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL61",
-            "displayCode": "61",
-            "name": "BLUE",
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -20881,7 +20881,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08345745",
+          "l2Id": "08155870",
           "salesStartDate": "",
           "salesEndDate": ""
         },
