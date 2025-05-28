@@ -781,12 +781,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 106315,
-            "name": "Shirts"
-          },
-          {
             "id": 109348,
             "name": "Linen"
+          },
+          {
+            "id": 106315,
+            "name": "Shirts"
           },
           {
             "id": 106316,
@@ -825,12 +825,12 @@
             "name": "U Crew"
           },
           {
-            "id": 106323,
-            "name": "Sport Utility Wear"
-          },
-          {
             "id": 25012,
             "name": "Sweat"
+          },
+          {
+            "id": 106323,
+            "name": "Sport Utility Wear"
           },
           {
             "id": 109424,
@@ -857,20 +857,20 @@
             "name": "Relaxed"
           },
           {
-            "id": 101302,
-            "name": "Rayon"
-          },
-          {
             "id": 114934,
             "name": "Dresses"
           },
           {
-            "id": 102509,
-            "name": "Relaxed"
+            "id": 101302,
+            "name": "Rayon"
           },
           {
             "id": 113674,
             "name": "Shirts"
+          },
+          {
+            "id": 102509,
+            "name": "Relaxed"
           },
           {
             "id": 113676,
@@ -913,12 +913,12 @@
             "name": "Pajamas"
           },
           {
-            "id": 109358,
-            "name": "Skirts"
-          },
-          {
             "id": 78121,
             "name": "Ines De La Fressange"
+          },
+          {
+            "id": 109358,
+            "name": "Skirts"
           },
           {
             "id": 78122,
@@ -965,12 +965,12 @@
             "name": "Bottoms"
           },
           {
-            "id": 106308,
-            "name": "T-Shirts"
-          },
-          {
             "id": 93787,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 106308,
+            "name": "T-Shirts"
           },
           {
             "id": 106309,
@@ -993,12 +993,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 109366,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 101787,
             "name": "Sweat Shirt"
+          },
+          {
+            "id": 109366,
+            "name": "Short Sleeve"
           },
           {
             "id": 109368,
