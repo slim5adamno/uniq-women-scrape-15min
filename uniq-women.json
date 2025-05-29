@@ -5908,6 +5908,15 @@
         "sizeInformation": "",
         "sizes": [
           {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -9126,15 +9135,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Cotton",
@@ -9564,15 +9564,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL10",
-            "displayCode": "10",
-            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
