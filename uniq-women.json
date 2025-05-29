@@ -798,12 +798,12 @@
             "name": "Shirts"
           },
           {
-            "id": 109348,
-            "name": "Linen"
-          },
-          {
             "id": 12195,
             "name": "Sleeveless"
+          },
+          {
+            "id": 109348,
+            "name": "Linen"
           },
           {
             "id": 12199,
@@ -818,44 +818,44 @@
             "name": "Others"
           },
           {
-            "id": 106319,
-            "name": "Bottoms"
-          },
-          {
             "id": 113765,
             "name": "Unisex"
+          },
+          {
+            "id": 106319,
+            "name": "Bottoms"
           },
           {
             "id": 106320,
             "name": "Skirt"
           },
           {
-            "id": 101315,
-            "name": "Soft Brushed"
+            "id": 93819,
+            "name": "Casual Pants"
           },
           {
             "id": 106321,
             "name": "Dresses"
           },
           {
-            "id": 93819,
-            "name": "Casual Pants"
-          },
-          {
             "id": 101812,
             "name": "Warm Line"
+          },
+          {
+            "id": 101315,
+            "name": "Soft Brushed"
           },
           {
             "id": 27750,
             "name": "U Crew"
           },
           {
-            "id": 106323,
-            "name": "Sport Utility Wear"
-          },
-          {
             "id": 25012,
             "name": "Sweat"
+          },
+          {
+            "id": 106323,
+            "name": "Sport Utility Wear"
           },
           {
             "id": 109352,
@@ -890,12 +890,12 @@
             "name": "Rayon"
           },
           {
-            "id": 113674,
-            "name": "Shirts"
-          },
-          {
             "id": 102509,
             "name": "Relaxed"
+          },
+          {
+            "id": 113674,
+            "name": "Shirts"
           },
           {
             "id": 101308,
@@ -918,12 +918,12 @@
             "name": "Skort"
           },
           {
-            "id": 93734,
-            "name": "Sleeveless"
-          },
-          {
             "id": 109444,
             "name": "PEANUTS"
+          },
+          {
+            "id": 93734,
+            "name": "Sleeveless"
           },
           {
             "id": 93735,
@@ -934,12 +934,12 @@
             "name": "Pajamas"
           },
           {
-            "id": 109358,
-            "name": "Skirts"
-          },
-          {
             "id": 78121,
             "name": "Ines De La Fressange"
+          },
+          {
+            "id": 109358,
+            "name": "Skirts"
           },
           {
             "id": 78122,
@@ -970,24 +970,24 @@
             "name": "Others"
           },
           {
-            "id": 106305,
-            "name": "Outerwear"
-          },
-          {
             "id": 93789,
             "name": "Sleeveless"
+          },
+          {
+            "id": 106305,
+            "name": "Outerwear"
           },
           {
             "id": 106306,
             "name": "Bottoms"
           },
           {
-            "id": 93787,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 106308,
             "name": "T-Shirts"
+          },
+          {
+            "id": 93787,
+            "name": "Long Sleeve"
           },
           {
             "id": 106309,
@@ -1014,12 +1014,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 109366,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 101787,
             "name": "Sweat Shirt"
+          },
+          {
+            "id": 109366,
+            "name": "Short Sleeve"
           },
           {
             "id": 109368,
