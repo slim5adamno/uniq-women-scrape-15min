@@ -325,52 +325,52 @@
         {
           "rating": 0,
           "accumulated": 132,
-          "count": 35
+          "count": 34
         },
         {
           "rating": 0.5,
-          "accumulated": 97,
+          "accumulated": 98,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 97,
+          "accumulated": 98,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 95,
+          "accumulated": 96,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 95,
+          "accumulated": 96,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 95,
+          "accumulated": 96,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 95,
+          "accumulated": 96,
           "count": 0
         },
         {
           "rating": 3.5,
-          "accumulated": 95,
+          "accumulated": 96,
           "count": 2
         },
         {
           "rating": 4,
-          "accumulated": 93,
+          "accumulated": 94,
           "count": 4
         },
         {
           "rating": 4.5,
-          "accumulated": 89,
-          "count": 30
+          "accumulated": 90,
+          "count": 31
         },
         {
           "rating": 5,
@@ -23672,7 +23672,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08156618",
+          "l2Id": "08156616",
           "salesStartDate": "",
           "salesEndDate": ""
         },
