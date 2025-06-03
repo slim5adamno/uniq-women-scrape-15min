@@ -6892,14 +6892,14 @@
           }
         ],
         "rating": {
-          "average": 4.93,
-          "count": 15,
-          "fit": 3.07,
+          "average": 4.88,
+          "count": 16,
+          "fit": 3.13,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 1,
+            "four": 2,
             "five": 14
           }
         },
@@ -6937,7 +6937,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 15,
+          "total": 16,
           "count": 0,
           "items": []
         },
@@ -8300,14 +8300,14 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 7,
+          "average": 4.88,
+          "count": 8,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 0,
+            "four": 1,
             "five": 7
           }
         },
@@ -8338,7 +8338,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 7,
+          "total": 8,
           "count": 0,
           "items": []
         },
@@ -9461,13 +9461,13 @@
           }
         ],
         "rating": {
-          "average": 4.88,
-          "count": 8,
+          "average": 4.67,
+          "count": 9,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
-            "three": 0,
+            "three": 1,
             "four": 1,
             "five": 7
           }
@@ -9506,7 +9506,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 8,
+          "total": 9,
           "count": 0,
           "items": []
         },
@@ -11328,14 +11328,14 @@
         ],
         "rating": {
           "average": 4.83,
-          "count": 83,
+          "count": 84,
           "fit": 3.14,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 12,
-            "five": 70
+            "five": 71
           }
         },
         "representative": {
@@ -11372,7 +11372,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 62,
+          "total": 63,
           "count": 0,
           "items": []
         },
@@ -14141,14 +14141,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 4,
-          "fit": 3.25,
+          "count": 5,
+          "fit": 3.2,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 4
+            "five": 5
           }
         },
         "representative": {
@@ -14178,7 +14178,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 5,
           "count": 0,
           "items": []
         },
@@ -15664,13 +15664,13 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 4,
+          "average": 4.6,
+          "count": 5,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
-            "three": 0,
+            "three": 1,
             "four": 0,
             "five": 4
           }
@@ -15709,7 +15709,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 5,
           "count": 0,
           "items": []
         },
@@ -19996,15 +19996,15 @@
           }
         ],
         "rating": {
-          "average": 4.8,
-          "count": 10,
-          "fit": 3.1,
+          "average": 4.82,
+          "count": 11,
+          "fit": 3.09,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 8
+            "five": 9
           }
         },
         "representative": {
@@ -20034,7 +20034,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 10,
+          "total": 11,
           "count": 0,
           "items": []
         },
