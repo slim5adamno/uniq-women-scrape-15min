@@ -641,12 +641,12 @@
             "name": "Accessories"
           },
           {
-            "id": 114877,
-            "name": "Inner & Loungewear"
-          },
-          {
             "id": 114875,
             "name": "Tops & Bratops"
+          },
+          {
+            "id": 114877,
+            "name": "Inner & Loungewear"
           },
           {
             "id": 11600,
@@ -755,12 +755,12 @@
             "name": "Jackets"
           },
           {
-            "id": 106314,
-            "name": "Outerwear"
-          },
-          {
             "id": 114872,
             "name": "Others"
+          },
+          {
+            "id": 106314,
+            "name": "Outerwear"
           },
           {
             "id": 106315,
@@ -775,12 +775,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 114873,
-            "name": "Shorts"
-          },
-          {
             "id": 106316,
             "name": "Sweaters"
+          },
+          {
+            "id": 114873,
+            "name": "Shorts"
           },
           {
             "id": 113764,
@@ -791,20 +791,16 @@
             "name": "Others"
           },
           {
-            "id": 113765,
-            "name": "Unisex"
-          },
-          {
             "id": 106319,
             "name": "Bottoms"
           },
           {
-            "id": 106320,
-            "name": "Skirt"
+            "id": 113765,
+            "name": "Unisex"
           },
           {
-            "id": 101812,
-            "name": "Warm Line"
+            "id": 106320,
+            "name": "Skirt"
           },
           {
             "id": 106321,
@@ -851,12 +847,12 @@
             "name": "Dresses"
           },
           {
-            "id": 102509,
-            "name": "Relaxed"
-          },
-          {
             "id": 113674,
             "name": "Shirts"
+          },
+          {
+            "id": 102509,
+            "name": "Relaxed"
           },
           {
             "id": 12139,
@@ -883,16 +879,20 @@
             "name": "Three Quarter Sleeve"
           },
           {
+            "id": 101812,
+            "name": "Warm Line"
+          },
+          {
             "id": 49265,
             "name": "Skort"
           },
           {
-            "id": 113684,
-            "name": "T-Shirts"
-          },
-          {
             "id": 93734,
             "name": "Sleeveless"
+          },
+          {
+            "id": 113684,
+            "name": "T-Shirts"
           },
           {
             "id": 113685,
@@ -955,12 +955,12 @@
             "name": "AirSense"
           },
           {
-            "id": 93789,
-            "name": "Sleeveless"
-          },
-          {
             "id": 106305,
             "name": "Outerwear"
+          },
+          {
+            "id": 93789,
+            "name": "Sleeveless"
           },
           {
             "id": 106306,
