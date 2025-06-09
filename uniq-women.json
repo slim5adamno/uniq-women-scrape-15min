@@ -758,16 +758,16 @@
             "name": "Outerwear"
           },
           {
+            "id": 109348,
+            "name": "Linen"
+          },
+          {
             "id": 106315,
             "name": "Shirts"
           },
           {
             "id": 12195,
             "name": "Sleeveless"
-          },
-          {
-            "id": 109348,
-            "name": "Linen"
           },
           {
             "id": 106316,
@@ -822,12 +822,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 101302,
-            "name": "Rayon"
-          },
-          {
             "id": 114934,
             "name": "Dresses"
+          },
+          {
+            "id": 101302,
+            "name": "Rayon"
           },
           {
             "id": 102509,
@@ -866,12 +866,12 @@
             "name": "Skort"
           },
           {
-            "id": 113684,
-            "name": "T-Shirts"
-          },
-          {
             "id": 93734,
             "name": "Sleeveless"
+          },
+          {
+            "id": 113684,
+            "name": "T-Shirts"
           },
           {
             "id": 113685,
@@ -882,16 +882,16 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 109444,
-            "name": "PEANUTS"
-          },
-          {
             "id": 113686,
             "name": "Pajamas"
           },
           {
             "id": 12316,
             "name": "Relax"
+          },
+          {
+            "id": 109444,
+            "name": "PEANUTS"
           },
           {
             "id": 24326,
@@ -906,12 +906,12 @@
             "name": "Skirts"
           },
           {
-            "id": 78122,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 113690,
             "name": "Others"
+          },
+          {
+            "id": 78122,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 11597,
@@ -982,12 +982,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 109366,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 101787,
             "name": "Sweat Shirt"
+          },
+          {
+            "id": 109366,
+            "name": "Short Sleeve"
           },
           {
             "id": 109368,
@@ -1082,6 +1082,10 @@
             "name": "Others"
           },
           {
+            "id": 67621,
+            "name": "Long"
+          },
+          {
             "id": 31140,
             "name": "Midi"
           },
@@ -1092,10 +1096,6 @@
           {
             "id": 31142,
             "name": "Others"
-          },
-          {
-            "id": 67621,
-            "name": "Long"
           },
           {
             "id": 67629,
