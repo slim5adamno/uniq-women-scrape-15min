@@ -15581,14 +15581,14 @@
         ],
         "rating": {
           "average": 4.92,
-          "count": 25,
+          "count": 26,
           "fit": 3.04,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 23
+            "five": 24
           }
         },
         "representative": {
@@ -15618,7 +15618,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 25,
+          "total": 26,
           "count": 0,
           "items": []
         },
