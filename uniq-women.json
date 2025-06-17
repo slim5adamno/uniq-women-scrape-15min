@@ -724,12 +724,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 79712,
-            "name": "Jacket"
-          },
-          {
             "id": 106339,
             "name": "Sweaters And Cardigan"
+          },
+          {
+            "id": 79712,
+            "name": "Jacket"
           },
           {
             "id": 106341,
@@ -780,12 +780,12 @@
             "name": "Bottoms"
           },
           {
-            "id": 101310,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 106320,
             "name": "Skirt"
+          },
+          {
+            "id": 101310,
+            "name": "Long Sleeve"
           },
           {
             "id": 93819,
@@ -856,11 +856,11 @@
             "name": "Cotton"
           },
           {
-            "id": 101308,
+            "id": 86793,
             "name": "Others"
           },
           {
-            "id": 86793,
+            "id": 101308,
             "name": "Others"
           },
           {
@@ -880,12 +880,12 @@
             "name": "Cotton"
           },
           {
-            "id": 115467,
-            "name": "UT ARCHIVE ONE PIECE"
-          },
-          {
             "id": 93734,
             "name": "Sleeveless"
+          },
+          {
+            "id": 115467,
+            "name": "UT ARCHIVE ONE PIECE"
           },
           {
             "id": 93735,
@@ -936,12 +936,12 @@
             "name": "AirSense"
           },
           {
-            "id": 106305,
-            "name": "Outerwear"
-          },
-          {
             "id": 93789,
             "name": "Sleeveless"
+          },
+          {
+            "id": 106305,
+            "name": "Outerwear"
           },
           {
             "id": 106306,
@@ -968,12 +968,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 109366,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 101787,
             "name": "Sweat Shirt"
+          },
+          {
+            "id": 109366,
+            "name": "Short Sleeve"
           },
           {
             "id": 11596,
@@ -21240,15 +21240,15 @@
           }
         ],
         "rating": {
-          "average": 4.88,
-          "count": 8,
+          "average": 4.89,
+          "count": 9,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 7
+            "five": 8
           }
         },
         "representative": {
@@ -21278,7 +21278,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 8,
+          "total": 9,
           "count": 0,
           "items": []
         },
