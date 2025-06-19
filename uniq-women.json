@@ -828,28 +828,28 @@
             "name": "Skirt"
           },
           {
-            "id": 93819,
-            "name": "Casual Pants"
-          },
-          {
             "id": 106321,
             "name": "Dresses"
           },
           {
-            "id": 101801,
-            "name": "Rayon"
+            "id": 93819,
+            "name": "Casual Pants"
           },
           {
             "id": 27750,
             "name": "U Crew"
           },
           {
-            "id": 25012,
-            "name": "Sweat"
+            "id": 101801,
+            "name": "Rayon"
           },
           {
             "id": 101799,
             "name": "Three Quarter Sleeve"
+          },
+          {
+            "id": 25012,
+            "name": "Sweat"
           },
           {
             "id": 109424,
@@ -3509,13 +3509,13 @@
           }
         ],
         "rating": {
-          "average": 4.89,
-          "count": 9,
+          "average": 4.7,
+          "count": 10,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
-            "three": 0,
+            "three": 1,
             "four": 1,
             "five": 8
           }
@@ -3547,7 +3547,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 9,
+          "total": 10,
           "count": 0,
           "items": []
         },
