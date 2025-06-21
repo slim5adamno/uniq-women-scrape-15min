@@ -4120,15 +4120,15 @@
           }
         ],
         "rating": {
-          "average": 4.5,
-          "count": 8,
-          "fit": 3.25,
+          "average": 4.56,
+          "count": 9,
+          "fit": 3.22,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 2,
-            "five": 5
+            "five": 6
           }
         },
         "representative": {
@@ -17135,15 +17135,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL10",
             "displayCode": "10",
