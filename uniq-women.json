@@ -12776,15 +12776,6 @@
             }
           },
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -18038,14 +18029,14 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 3,
-          "fit": 3.33,
+          "average": 4.2,
+          "count": 5,
+          "fit": 3.2,
           "rateCount": {
             "one": 0,
-            "two": 0,
+            "two": 1,
             "three": 0,
-            "four": 0,
+            "four": 1,
             "five": 3
           }
         },
@@ -18076,7 +18067,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 5,
           "count": 0,
           "items": []
         },
