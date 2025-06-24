@@ -4030,15 +4030,15 @@
           }
         ],
         "rating": {
-          "average": 4.8,
-          "count": 10,
-          "fit": 3.2,
+          "average": 4.83,
+          "count": 12,
+          "fit": 3.17,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 8
+            "five": 10
           }
         },
         "representative": {
@@ -10971,15 +10971,15 @@
           }
         ],
         "rating": {
-          "average": 4.72,
-          "count": 18,
-          "fit": 2.94,
+          "average": 4.74,
+          "count": 19,
+          "fit": 2.95,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 5,
-            "five": 13
+            "five": 14
           }
         },
         "representative": {
@@ -12388,14 +12388,14 @@
           }
         ],
         "rating": {
-          "average": 4.58,
-          "count": 12,
+          "average": 4.54,
+          "count": 13,
           "fit": 2.92,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 2,
-            "four": 1,
+            "four": 2,
             "five": 9
           }
         },
@@ -17957,14 +17957,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 10,
-          "fit": 3.2,
+          "count": 11,
+          "fit": 3.18,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 10
+            "five": 11
           }
         },
         "representative": {
@@ -22474,14 +22474,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 4,
+          "count": 5,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 4
+            "five": 5
           }
         },
         "representative": {
@@ -26029,15 +26029,15 @@
           }
         ],
         "rating": {
-          "average": 4.82,
-          "count": 11,
-          "fit": 3.18,
+          "average": 4.83,
+          "count": 12,
+          "fit": 3.17,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 9
+            "five": 10
           }
         },
         "representative": {
