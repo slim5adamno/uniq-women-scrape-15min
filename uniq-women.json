@@ -750,20 +750,20 @@
         ],
         "subcategories": [
           {
-            "id": 114878,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 106338,
             "name": "Outerwear"
           },
           {
-            "id": 79712,
-            "name": "Jacket"
+            "id": 114878,
+            "name": "Short Sleeve"
           },
           {
             "id": 106339,
             "name": "Sweaters And Cardigan"
+          },
+          {
+            "id": 79712,
+            "name": "Jacket"
           },
           {
             "id": 106341,
@@ -894,11 +894,11 @@
             "name": "Cotton"
           },
           {
-            "id": 86793,
+            "id": 101308,
             "name": "Others"
           },
           {
-            "id": 101308,
+            "id": 86793,
             "name": "Others"
           },
           {
@@ -918,32 +918,32 @@
             "name": "Sleeveless"
           },
           {
-            "id": 115467,
-            "name": "UT ARCHIVE ONE PIECE"
-          },
-          {
             "id": 93735,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 115467,
+            "name": "UT ARCHIVE ONE PIECE"
           },
           {
             "id": 12316,
             "name": "Relax"
           },
           {
-            "id": 109444,
-            "name": "PEANUTS"
-          },
-          {
             "id": 78122,
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 113940,
-            "name": "Disney in Blue"
-          },
-          {
             "id": 11597,
             "name": "Others"
+          },
+          {
+            "id": 109444,
+            "name": "PEANUTS"
+          },
+          {
+            "id": 113940,
+            "name": "Disney in Blue"
           },
           {
             "id": 81028,
@@ -966,12 +966,12 @@
             "name": "Others"
           },
           {
-            "id": 93789,
-            "name": "Sleeveless"
-          },
-          {
             "id": 106305,
             "name": "Outerwear"
+          },
+          {
+            "id": 93789,
+            "name": "Sleeveless"
           },
           {
             "id": 106306,
@@ -1244,7 +1244,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -8509,14 +8520,14 @@
         ],
         "rating": {
           "average": 4.92,
-          "count": 25,
-          "fit": 3.12,
+          "count": 26,
+          "fit": 3.15,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 23
+            "five": 24
           }
         },
         "representative": {
