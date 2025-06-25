@@ -794,12 +794,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 12195,
-            "name": "Sleeveless"
-          },
-          {
             "id": 113761,
             "name": "Linen"
+          },
+          {
+            "id": 12195,
+            "name": "Sleeveless"
           },
           {
             "id": 106316,
@@ -810,24 +810,24 @@
             "name": "Others"
           },
           {
-            "id": 113765,
-            "name": "Unisex"
-          },
-          {
             "id": 106319,
             "name": "Bottoms"
+          },
+          {
+            "id": 113765,
+            "name": "Unisex"
           },
           {
             "id": 106320,
             "name": "Skirt"
           },
           {
-            "id": 106321,
-            "name": "Dresses"
-          },
-          {
             "id": 93819,
             "name": "Casual Pants"
+          },
+          {
+            "id": 106321,
+            "name": "Dresses"
           },
           {
             "id": 101801,
@@ -874,10 +874,6 @@
             "name": "Relaxed"
           },
           {
-            "id": 114934,
-            "name": "Dresses"
-          },
-          {
             "id": 86790,
             "name": "Sleeveless"
           },
@@ -886,12 +882,16 @@
             "name": "Rayon"
           },
           {
-            "id": 113691,
-            "name": "Linen"
+            "id": 114934,
+            "name": "Dresses"
           },
           {
             "id": 113674,
             "name": "Shirts"
+          },
+          {
+            "id": 113691,
+            "name": "Linen"
           },
           {
             "id": 113693,
@@ -978,12 +978,12 @@
             "name": "Others"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
             "id": 93788,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 93787,
