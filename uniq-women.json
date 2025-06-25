@@ -4858,15 +4858,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "449860: Body: 60% Cotton, 40% Polyester/ Rib: 72% Cotton, 28% Elastomultiester<br>455723: 459786: Body: 60% Cotton, 40% Polyester/ Rib: 72% Cotton, 28% Polyester",
@@ -18954,15 +18945,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
