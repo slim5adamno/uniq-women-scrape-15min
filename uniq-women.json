@@ -12210,9 +12210,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL02",
+            "displayCode": "02",
+            "name": "LIGHT GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -12237,7 +12237,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08383712",
+          "l2Id": "08383705",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -21044,9 +21044,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL40",
-            "displayCode": "40",
-            "name": "CREAM",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -21064,7 +21064,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08603414",
+          "l2Id": "08361138",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30497,9 +30497,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL19",
-            "displayCode": "19",
-            "name": "WINE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -30524,7 +30524,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08383656",
+          "l2Id": "08383649",
           "salesStartDate": "",
           "salesEndDate": ""
         },
