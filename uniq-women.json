@@ -754,7 +754,7 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 113761,
+            "id": 109348,
             "name": "Linen"
           },
           {
@@ -778,10 +778,6 @@
             "name": "Bottoms"
           },
           {
-            "id": 101310,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 23481,
             "name": "Others"
           },
@@ -794,20 +790,8 @@
             "name": "Casual Pants"
           },
           {
-            "id": 101801,
-            "name": "Rayon"
-          },
-          {
             "id": 27750,
             "name": "U Crew"
-          },
-          {
-            "id": 101799,
-            "name": "Three Quarter Sleeve"
-          },
-          {
-            "id": 101312,
-            "name": "Short Sleeve"
           },
           {
             "id": 109424,
@@ -970,6 +954,10 @@
             "name": "AirSense Pants"
           },
           {
+            "id": 109365,
+            "name": "Sleeveless"
+          },
+          {
             "id": 109366,
             "name": "Short Sleeve"
           },
@@ -990,6 +978,10 @@
             "name": "Others"
           },
           {
+            "id": 109374,
+            "name": "Long Sleeve"
+          },
+          {
             "id": 93710,
             "name": "Socks"
           },
@@ -1000,6 +992,10 @@
           {
             "id": 93694,
             "name": "Pajamas"
+          },
+          {
+            "id": 109388,
+            "name": "Shorts"
           },
           {
             "id": 93700,
@@ -1020,6 +1016,10 @@
           {
             "id": 109399,
             "name": "AIRism"
+          },
+          {
+            "id": 109403,
+            "name": "Short Sleeve"
           },
           {
             "id": 109404,
