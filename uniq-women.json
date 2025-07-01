@@ -6903,15 +6903,15 @@
           }
         ],
         "rating": {
-          "average": 4.58,
-          "count": 12,
-          "fit": 3.25,
+          "average": 4.62,
+          "count": 13,
+          "fit": 3.23,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 3,
-            "five": 8
+            "five": 9
           }
         },
         "representative": {
@@ -6941,7 +6941,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 12,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -10187,7 +10187,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL07",
@@ -10222,7 +10233,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 1,
           "count": 0,
           "items": []
         },
@@ -16380,10 +16391,10 @@
           ],
           "sub": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/474984/sub/ingoods_474984_sub7_3x4.jpg"
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/474984/sub/goods_474984_sub1_3x4.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/474984/sub/goods_474984_sub13_3x4.jpg"
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/474984/sub/ingoods_474984_sub7_3x4.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/474984/sub/goods_474984_sub14_3x4.jpg"
@@ -27964,14 +27975,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 4,
-          "fit": 3.5,
+          "count": 5,
+          "fit": 3.4,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 4
+            "five": 5
           }
         },
         "representative": {
@@ -28001,7 +28012,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 5,
           "count": 0,
           "items": []
         },
