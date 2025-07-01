@@ -89,11 +89,6 @@
           "name": "LIGHT ORANGE"
         },
         {
-          "code": "COL26",
-          "displayCode": "26",
-          "name": "ORANGE"
-        },
-        {
           "code": "COL30",
           "displayCode": "30",
           "name": "NATURAL"
@@ -293,7 +288,7 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 61
+          "count": 59
         },
         {
           "from": 2000,
@@ -314,53 +309,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 161,
+          "accumulated": 159,
           "count": 35
         },
         {
           "rating": 0.5,
-          "accumulated": 126,
+          "accumulated": 124,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 126,
-          "count": 1
-        },
-        {
-          "rating": 1.5,
-          "accumulated": 125,
-          "count": 0
-        },
-        {
-          "rating": 2,
-          "accumulated": 125,
-          "count": 0
-        },
-        {
-          "rating": 2.5,
-          "accumulated": 125,
-          "count": 0
-        },
-        {
-          "rating": 3,
-          "accumulated": 125,
-          "count": 1
-        },
-        {
-          "rating": 3.5,
           "accumulated": 124,
           "count": 1
         },
         {
-          "rating": 4,
+          "rating": 1.5,
           "accumulated": 123,
+          "count": 0
+        },
+        {
+          "rating": 2,
+          "accumulated": 123,
+          "count": 0
+        },
+        {
+          "rating": 2.5,
+          "accumulated": 123,
+          "count": 0
+        },
+        {
+          "rating": 3,
+          "accumulated": 123,
+          "count": 1
+        },
+        {
+          "rating": 3.5,
+          "accumulated": 122,
+          "count": 1
+        },
+        {
+          "rating": 4,
+          "accumulated": 121,
           "count": 6
         },
         {
           "rating": 4.5,
-          "accumulated": 117,
-          "count": 52
+          "accumulated": 115,
+          "count": 50
         },
         {
           "rating": 5,
@@ -3046,15 +3041,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -6316,15 +6302,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL61",
-            "displayCode": "61",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "74% Polyester, 26% Elastane ( 74% Uses Recycled Polyester Fiber )",
@@ -6492,15 +6469,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -14835,15 +14803,6 @@
             }
           },
           {
-            "code": "COL26",
-            "displayCode": "26",
-            "name": "ORANGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL68",
             "displayCode": "68",
             "name": "BLUE",
@@ -19217,15 +19176,6 @@
               "showFlag": true,
               "chipType": 1
             }
-          },
-          {
-            "code": "CMD061",
-            "displayCode": "061",
-            "name": "61cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
           }
         ],
         "unisexFlag": 0,
@@ -20343,169 +20293,6 @@
         ],
         "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Body: 78% Polyamide, 22% Elastane/ Pocket Lining: 100% Polyester",
-        "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular<br>- Pockets: With Pockets",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/476144/item/ingoods_04_476144_3x4.jpg",
-              "colorCode": "04"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/476144/item/ingoods_09_476144_3x4.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/476144/item/ingoods_66_476144_3x4.jpg",
-              "colorCode": "66"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476144/chip/goods_04_476144_chip.jpg",
-              "colorCode": "04"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476144/chip/goods_09_476144_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476144/chip/goods_66_476144_chip.jpg",
-              "colorCode": "66"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476144/sub/goods_476144_sub13_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/476144/sub/goods_476144_sub14_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/476144/feature/ingoods_476144_feature1.jpg",
-              "text": "Jersey material with Ultra Stretch technology and nylon tricot. With DRY technology."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/476144/feature/ingoods_476144_feature2.jpg",
-              "text": "With UV Protection technology."
-            }
-          ]
-        },
-        "l1Id": "476144",
-        "longDescription": "- Versatile design for active wear or casual styling. <br>- The moderately roomy cut makes it a great outer layer.<br>- UPF50+ / JIS L 1925 : 2019",
-        "name": "Extra Stretch Active Track Jacket",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1490.0000"
-          }
-        },
-        "productId": "E476144-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.91,
-          "count": 11,
-          "fit": 3.18,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 1,
-            "five": 10
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "08345979",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 11,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/476144_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, Do not Dry Clean, Do not tumble dry."
       },
       {
         "careInstruction": "<br>",
@@ -26422,161 +26209,6 @@
         "careInstruction": "Recommendations for care:<br>When using a washing machine, select a cold temperature setting and cycle with lowest spin. No Tumbler/Dryer.<br>Remove your linen quickly from washer.<br>Adjust it to cut down wrinkles by hand.<br>Hang it to dry in the shade using a hanger. Avoid direct sunlight.",
         "colors": [
           {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "51% Viscose, 32% Linen, 17% Cotton",
-        "designDetail": "- Sheer: Not Sheer<br>- Lining: No Lined<br>- Pockets: With Pockets",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Women",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477619/item/ingoods_69_477619_3x4.jpg",
-              "colorCode": "69"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477619/chip/goods_69_477619_chip.jpg",
-              "colorCode": "69"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477619/sub/ingoods_477619_sub8_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477619/sub/goods_477619_sub14_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477619/feature/ingoods_477619_feature1.jpg",
-              "text": "Linen blended with cotton and rayon for a beautiful drape and a soft feel."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477619/feature/ingoods_477619_feature2.jpg",
-              "text": "Kaftan with a relaxed design. Stand collar."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477619/feature/ingoods_477619_feature3.jpg",
-              "text": "The silhouette is not too figure-hugging and can be adjusted with the matching waist tie."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477619/feature/ingoods_477619_feature4.jpg",
-              "text": "Side seam pockets."
-            }
-          ]
-        },
-        "l1Id": "477619",
-        "longDescription": "- Wide, straight cut. <br>- Front opening design.",
-        "name": "Linen Blend Relaxed Dress Short Sleeve",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "3990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
-          }
-        },
-        "productId": "E477619-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.6,
-          "count": 5,
-          "fit": 4,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 2,
-            "five": 3
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "08366797",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 5,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/477619_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "Recommendations for care:<br>When using a washing machine, select a cold temperature setting and cycle with lowest spin. No Tumbler/Dryer.<br>Remove your linen quickly from washer.<br>Adjust it to cut down wrinkles by hand.<br>Hang it to dry in the shade using a hanger. Avoid direct sunlight.",
-        "colors": [
-          {
             "code": "COL06",
             "displayCode": "06",
             "name": "GRAY",
@@ -31003,15 +30635,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
@@ -32063,8 +31686,8 @@
       }
     ],
     "pagination": {
-      "count": 161,
-      "total": 161,
+      "count": 159,
+      "total": 159,
       "offset": 300
     }
   }
