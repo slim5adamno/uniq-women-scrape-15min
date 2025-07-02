@@ -8369,15 +8369,15 @@
           }
         ],
         "rating": {
-          "average": 4.83,
-          "count": 90,
+          "average": 4.84,
+          "count": 91,
           "fit": 3.14,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 13,
-            "five": 76
+            "five": 77
           }
         },
         "representative": {
@@ -8414,7 +8414,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 70,
           "count": 0,
           "items": []
         },
@@ -11439,7 +11439,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL69",
@@ -11467,7 +11478,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 1,
           "count": 0,
           "items": []
         },
@@ -15435,15 +15446,15 @@
           }
         ],
         "rating": {
-          "average": 4.54,
-          "count": 13,
-          "fit": 2.92,
+          "average": 4.57,
+          "count": 14,
+          "fit": 2.93,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 2,
             "four": 2,
-            "five": 9
+            "five": 10
           }
         },
         "representative": {
@@ -15480,7 +15491,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 14,
           "count": 0,
           "items": []
         },
