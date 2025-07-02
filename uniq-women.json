@@ -678,10 +678,6 @@
             "name": "UNIQLO x ANYA HINDMARCH"
           },
           {
-            "id": 106280,
-            "name": "UNIQLO : C"
-          },
-          {
             "id": 113629,
             "name": "UNIQLO and COMPTOIR DES COTONNIERS"
           },
@@ -798,10 +794,6 @@
           {
             "id": 113765,
             "name": "Unisex"
-          },
-          {
-            "id": 106320,
-            "name": "Skirt"
           },
           {
             "id": 23481,
@@ -1058,6 +1050,10 @@
           {
             "id": 101827,
             "name": "UT Dress"
+          },
+          {
+            "id": 101828,
+            "name": "Flannel"
           },
           {
             "id": 12266,
