@@ -949,10 +949,6 @@
             "name": "Sweaters"
           },
           {
-            "id": 106312,
-            "name": "Dresses"
-          },
-          {
             "id": 101787,
             "name": "Sweat Shirt"
           },
@@ -971,6 +967,10 @@
           {
             "id": 31358,
             "name": "Wide"
+          },
+          {
+            "id": 101821,
+            "name": "Long Length"
           },
           {
             "id": 101843,
@@ -1350,19 +1350,13 @@
         "longDescription": "- Seamless design stays hidden under outer layers.<br>- Smooth, quick-drying 'AIRism' fabric.<br>- Soft cotton gusset is gentle on the skin.<br>- Designed for a comfortable fit. Low-rise hip-hugger style.",
         "name": "AIRism Seamless Shorts Hiphugger",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "390.0000"
           }
         },
         "productId": "E473944-000",
@@ -1397,27 +1391,20 @@
         },
         "representative": {
           "color": {
-            "code": "COL50",
-            "displayCode": "50",
-            "name": "LIGHT GREEN",
+            "code": "COL31",
+            "displayCode": "31",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08368722",
+          "l2Id": "08368681",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -14988,15 +14975,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL31",
             "displayCode": "31",
             "name": "BEIGE",
@@ -16877,15 +16855,6 @@
             "code": "CMD058",
             "displayCode": "058",
             "name": "58cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD061",
-            "displayCode": "061",
-            "name": "61cm",
             "display": {
               "showFlag": true,
               "chipType": 1
