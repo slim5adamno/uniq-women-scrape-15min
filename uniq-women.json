@@ -12087,11 +12087,11 @@
         "images": {
           "main": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475677/item/goods_01_475677_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475677/item/ingoods_01_475677_3x4.jpg",
               "colorCode": "01"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475677/item/goods_09_475677_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475677/item/ingoods_09_475677_3x4.jpg",
               "colorCode": "09"
             }
           ],
@@ -12108,6 +12108,12 @@
           "sub": [
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475677/sub/ingoods_475677_sub1_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475677/sub/ingoods_475677_sub7_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475677/sub/ingoods_475677_sub9_3x4.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475677/sub/goods_475677_sub13_3x4.jpg"
@@ -20670,15 +20676,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
