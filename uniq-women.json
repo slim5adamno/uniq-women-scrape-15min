@@ -9836,15 +9836,6 @@
             }
           },
           {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -19859,15 +19850,15 @@
           }
         ],
         "rating": {
-          "average": 4.71,
-          "count": 56,
-          "fit": 3.14,
+          "average": 4.72,
+          "count": 57,
+          "fit": 3.18,
           "rateCount": {
             "one": 2,
             "two": 1,
             "three": 0,
             "four": 5,
-            "five": 48
+            "five": 49
           }
         },
         "representative": {
@@ -20363,15 +20354,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/464905_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA005",
             "displayCode": "005",
