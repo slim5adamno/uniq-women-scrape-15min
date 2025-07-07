@@ -8610,15 +8610,6 @@
             }
           },
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -17333,9 +17324,6 @@
           "sub": [
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/474075/sub/ingoods_474075_sub7_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/474075/sub/goods_474075_sub13_3x4.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/474075/sub/goods_474075_sub14_3x4.jpg"
