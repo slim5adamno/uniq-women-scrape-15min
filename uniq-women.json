@@ -729,12 +729,12 @@
             "name": "Cap"
           },
           {
-            "id": 101853,
-            "name": "Cotton Relax"
-          },
-          {
             "id": 12196,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 101853,
+            "name": "Cotton Relax"
           },
           {
             "id": 109348,
@@ -793,36 +793,36 @@
             "name": "Relaxed"
           },
           {
-            "id": 114934,
-            "name": "Dresses"
-          },
-          {
             "id": 101302,
             "name": "Rayon"
+          },
+          {
+            "id": 114934,
+            "name": "Dresses"
           },
           {
             "id": 86790,
             "name": "Sleeveless"
           },
           {
-            "id": 102509,
-            "name": "Relaxed"
+            "id": 113691,
+            "name": "Linen"
           },
           {
             "id": 114885,
             "name": "Bra"
           },
           {
-            "id": 113691,
-            "name": "Linen"
-          },
-          {
-            "id": 114936,
-            "name": "Others"
+            "id": 102509,
+            "name": "Relaxed"
           },
           {
             "id": 113693,
             "name": "Cotton"
+          },
+          {
+            "id": 114936,
+            "name": "Others"
           },
           {
             "id": 101308,
@@ -877,12 +877,12 @@
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 115469,
-            "name": "Doraemon meets the Louvre"
-          },
-          {
             "id": 11597,
             "name": "Others"
+          },
+          {
+            "id": 115469,
+            "name": "Doraemon meets the Louvre"
           },
           {
             "id": 113940,
@@ -925,12 +925,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 93793,
-            "name": "AIRism"
-          },
-          {
             "id": 106309,
             "name": "Shirts"
+          },
+          {
+            "id": 93793,
+            "name": "AIRism"
           },
           {
             "id": 106310,
@@ -16920,7 +16920,7 @@
               "colorCode": "32"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/475672/item/goods_69_475672_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/475672/item/ingoods_69_475672_3x4.jpg",
               "colorCode": "69"
             }
           ],
