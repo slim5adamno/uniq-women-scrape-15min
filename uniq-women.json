@@ -2284,15 +2284,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -6075,15 +6066,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -18747,15 +18729,6 @@
       {
         "careInstruction": "Recommendations for care:<br>When using a washing machine, select a cold temperature setting and cycle with lowest spin. No Tumbler/Dryer.<br>Remove your linen quickly from washer.<br>Adjust it to cut down wrinkles by hand.<br>Hang it to dry in the shade using a hanger. Avoid direct sunlight.",
         "colors": [
-          {
-            "code": "COL63",
-            "displayCode": "63",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL69",
             "displayCode": "69",
@@ -32469,7 +32442,7 @@
               "colorCode": "09"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460311/item/goods_30_460311_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460311/item/ingoods_30_460311_3x4.jpg",
               "colorCode": "30"
             },
             {
@@ -32477,7 +32450,7 @@
               "colorCode": "31"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460311/item/goods_32_460311_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460311/item/ingoods_32_460311_3x4.jpg",
               "colorCode": "32"
             },
             {
@@ -32491,6 +32464,10 @@
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460311/item/ingoods_56_460311_3x4.jpg",
               "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460311/item/ingoods_58_460311_3x4.jpg",
+              "colorCode": "58"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/460311/item/ingoods_69_460311_3x4.jpg",
@@ -32537,6 +32514,10 @@
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460311/chip/goods_56_460311_chip.jpg",
               "colorCode": "56"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460311/chip/goods_58_460311_chip.jpg",
+              "colorCode": "58"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/460311/chip/goods_69_460311_chip.jpg",
