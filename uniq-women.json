@@ -761,12 +761,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 106339,
-            "name": "Sweaters And Cardigan"
-          },
-          {
             "id": 79712,
             "name": "Jacket"
+          },
+          {
+            "id": 106339,
+            "name": "Sweaters And Cardigan"
           },
           {
             "id": 114931,
@@ -797,12 +797,12 @@
             "name": "Sunglasses"
           },
           {
-            "id": 101853,
-            "name": "Cotton Relax"
-          },
-          {
             "id": 12196,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 101853,
+            "name": "Cotton Relax"
           },
           {
             "id": 12195,
@@ -813,12 +813,12 @@
             "name": "Pants"
           },
           {
-            "id": 101316,
-            "name": "Others"
-          },
-          {
             "id": 25846,
             "name": "Cotton"
+          },
+          {
+            "id": 101316,
+            "name": "Others"
           },
           {
             "id": 113765,
@@ -857,16 +857,16 @@
             "name": "Relaxed"
           },
           {
-            "id": 114934,
-            "name": "Dresses"
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
             "id": 101302,
             "name": "Rayon"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
+            "id": 114934,
+            "name": "Dresses"
           },
           {
             "id": 113691,
@@ -933,20 +933,20 @@
             "name": "Relax"
           },
           {
-            "id": 78122,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 115467,
             "name": "UT ARCHIVE ONE PIECE"
           },
           {
-            "id": 11597,
-            "name": "Others"
+            "id": 78122,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 115469,
             "name": "Doraemon meets the Louvre"
+          },
+          {
+            "id": 11597,
+            "name": "Others"
           },
           {
             "id": 113940,
@@ -15761,7 +15761,7 @@
         "composition": "100% Cotton",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Oversized<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -15964,7 +15964,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
       },
       {
@@ -20298,7 +20298,7 @@
         "composition": "Body: 65% Polyester, 35% Polyamide ( 65% Uses Recycled Polyester Fiber )/ Collar: 93% Polyester, 7% Elastane ( 93% Uses Recycled Polyester Fiber )",
         "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
-        "genderName": "Unisex",
+        "genderName": "Men",
         "hideReview": false,
         "images": {
           "main": [
@@ -20491,7 +20491,7 @@
             }
           }
         ],
-        "unisexFlag": 1,
+        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
       },
       {
