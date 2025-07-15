@@ -14599,19 +14599,13 @@
         "longDescription": "- Short length pairs well with any bottoms.",
         "name": "Smooth Cotton Crew Neck Sweater",
         "prices": {
+          "promo": null,
           "base": {
             "currency": {
               "code": "INR",
               "symbol": "Rs."
             },
             "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
           }
         },
         "productId": "E475053-000",
@@ -14655,18 +14649,11 @@
             }
           },
           "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
+            "priceFlags": [],
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08341743",
+          "l2Id": "08897139",
           "salesStartDate": "",
           "salesEndDate": ""
         },
