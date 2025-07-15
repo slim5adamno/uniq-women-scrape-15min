@@ -766,12 +766,12 @@
             "name": "Sweaters And Cardigan"
           },
           {
-            "id": 114931,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 106341,
             "name": "Warm Goods"
+          },
+          {
+            "id": 114931,
+            "name": "Short Sleeve"
           },
           {
             "id": 106342,
@@ -802,16 +802,12 @@
             "name": "Cotton Relax"
           },
           {
-            "id": 109348,
-            "name": "Linen"
-          },
-          {
             "id": 12195,
             "name": "Sleeveless"
           },
           {
-            "id": 101851,
-            "name": "Pants"
+            "id": 109348,
+            "name": "Linen"
           },
           {
             "id": 12199,
@@ -822,12 +818,16 @@
             "name": "Shorts"
           },
           {
-            "id": 101316,
-            "name": "Others"
+            "id": 101851,
+            "name": "Pants"
           },
           {
             "id": 25846,
             "name": "Cotton"
+          },
+          {
+            "id": 101316,
+            "name": "Others"
           },
           {
             "id": 113765,
@@ -870,6 +870,10 @@
             "name": "Relaxed"
           },
           {
+            "id": 114934,
+            "name": "Dresses"
+          },
+          {
             "id": 86790,
             "name": "Sleeveless"
           },
@@ -878,20 +882,16 @@
             "name": "Rayon"
           },
           {
-            "id": 114934,
-            "name": "Dresses"
-          },
-          {
             "id": 113691,
             "name": "Linen"
           },
           {
-            "id": 114936,
-            "name": "Others"
-          },
-          {
             "id": 113693,
             "name": "Cotton"
+          },
+          {
+            "id": 114936,
+            "name": "Others"
           },
           {
             "id": 50490,
@@ -930,12 +930,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 93735,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 24330,
             "name": "Linen"
+          },
+          {
+            "id": 93735,
+            "name": "Short Sleeve"
           },
           {
             "id": 12316,
@@ -986,12 +986,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
             "id": 93788,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 11596,
