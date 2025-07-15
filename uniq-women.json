@@ -794,20 +794,20 @@
             "name": "Sunglasses"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 101853,
             "name": "Cotton Relax"
           },
           {
-            "id": 12195,
-            "name": "Sleeveless"
+            "id": 12196,
+            "name": "Short Sleeve"
           },
           {
             "id": 109348,
             "name": "Linen"
+          },
+          {
+            "id": 12195,
+            "name": "Sleeveless"
           },
           {
             "id": 12199,
@@ -822,12 +822,12 @@
             "name": "Pants"
           },
           {
-            "id": 25846,
-            "name": "Cotton"
-          },
-          {
             "id": 101316,
             "name": "Others"
+          },
+          {
+            "id": 25846,
+            "name": "Cotton"
           },
           {
             "id": 113765,
@@ -886,12 +886,12 @@
             "name": "Linen"
           },
           {
-            "id": 113693,
-            "name": "Cotton"
-          },
-          {
             "id": 114936,
             "name": "Others"
+          },
+          {
+            "id": 113693,
+            "name": "Cotton"
           },
           {
             "id": 50490,
