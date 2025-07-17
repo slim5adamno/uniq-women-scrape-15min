@@ -799,12 +799,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 109348,
-            "name": "Linen"
-          },
-          {
             "id": 12195,
             "name": "Sleeveless"
+          },
+          {
+            "id": 109348,
+            "name": "Linen"
           },
           {
             "id": 114873,
@@ -859,20 +859,20 @@
             "name": "Relaxed"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 114934,
             "name": "Dresses"
           },
           {
-            "id": 102509,
-            "name": "Relaxed"
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
             "id": 113674,
             "name": "Shirts"
+          },
+          {
+            "id": 102509,
+            "name": "Relaxed"
           },
           {
             "id": 114936,
