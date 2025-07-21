@@ -380,11 +380,6 @@
           "name": "64cm"
         },
         {
-          "code": "CMD070",
-          "displayCode": "070",
-          "name": "70cm"
-        },
-        {
           "code": "FBU500",
           "displayCode": "500",
           "name": "30/32 AA A"
@@ -423,11 +418,6 @@
           "code": "INS027",
           "displayCode": "027",
           "name": "27inch"
-        },
-        {
-          "code": "INS028",
-          "displayCode": "028",
-          "name": "28inch"
         },
         {
           "code": "SIZ999",
@@ -6696,15 +6686,6 @@
             "code": "INS027",
             "displayCode": "027",
             "name": "27inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "INS028",
-            "displayCode": "028",
-            "name": "28inch",
             "display": {
               "showFlag": true,
               "chipType": 1
@@ -13470,15 +13451,6 @@
             "code": "CMD061",
             "displayCode": "061",
             "name": "61cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "CMD070",
-            "displayCode": "070",
-            "name": "70cm",
             "display": {
               "showFlag": true,
               "chipType": 1
