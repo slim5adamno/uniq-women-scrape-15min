@@ -829,20 +829,20 @@
             "name": "Linen"
           },
           {
-            "id": 12195,
-            "name": "Sleeveless"
-          },
-          {
             "id": 106339,
             "name": "Sweaters And Cardigan"
           },
           {
-            "id": 101851,
-            "name": "Pants"
+            "id": 12195,
+            "name": "Sleeveless"
           },
           {
             "id": 12199,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 101851,
+            "name": "Pants"
           },
           {
             "id": 114873,
@@ -853,12 +853,12 @@
             "name": "Warm Goods"
           },
           {
-            "id": 101316,
-            "name": "Others"
-          },
-          {
             "id": 106342,
             "name": "Bags"
+          },
+          {
+            "id": 101316,
+            "name": "Others"
           },
           {
             "id": 23481,
@@ -933,12 +933,12 @@
             "name": "Cotton"
           },
           {
-            "id": 50490,
-            "name": "Utility Pants"
-          },
-          {
             "id": 101308,
             "name": "Others"
+          },
+          {
+            "id": 50490,
+            "name": "Utility Pants"
           },
           {
             "id": 101789,
