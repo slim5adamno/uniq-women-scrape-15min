@@ -833,6 +833,10 @@
             "name": "Sweaters And Cardigan"
           },
           {
+            "id": 113761,
+            "name": "Linen"
+          },
+          {
             "id": 12195,
             "name": "Sleeveless"
           },
@@ -847,6 +851,10 @@
           {
             "id": 106341,
             "name": "Warm Goods"
+          },
+          {
+            "id": 113764,
+            "name": "Cotton"
           },
           {
             "id": 106342,
@@ -927,10 +935,6 @@
           {
             "id": 86790,
             "name": "Sleeveless"
-          },
-          {
-            "id": 102509,
-            "name": "Relaxed"
           },
           {
             "id": 86789,
@@ -1143,10 +1147,6 @@
           {
             "id": 95884,
             "name": "markdown"
-          },
-          {
-            "id": 101827,
-            "name": "UT Dress"
           },
           {
             "id": 101828,
