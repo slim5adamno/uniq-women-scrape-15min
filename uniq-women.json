@@ -4088,8 +4088,8 @@
         },
         "representative": {
           "color": {
-            "code": "COL61",
-            "displayCode": "61",
+            "code": "COL68",
+            "displayCode": "68",
             "name": "BLUE",
             "display": {
               "showFlag": true,
@@ -4108,7 +4108,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08399441",
+          "l2Id": "08399449",
           "salesStartDate": "",
           "salesEndDate": ""
         },
