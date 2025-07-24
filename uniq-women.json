@@ -818,12 +818,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 109348,
-            "name": "Linen"
-          },
-          {
             "id": 106339,
             "name": "Sweaters And Cardigan"
+          },
+          {
+            "id": 109348,
+            "name": "Linen"
           },
           {
             "id": 113761,
@@ -910,16 +910,16 @@
             "name": "Relaxed"
           },
           {
+            "id": 86790,
+            "name": "Sleeveless"
+          },
+          {
             "id": 101811,
             "name": "Wool"
           },
           {
             "id": 114934,
             "name": "Dresses"
-          },
-          {
-            "id": 86790,
-            "name": "Sleeveless"
           },
           {
             "id": 102509,
@@ -1034,12 +1034,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
             "id": 93788,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 11596,
