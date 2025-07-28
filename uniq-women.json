@@ -2501,26 +2501,8 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL31",
             "displayCode": "31",
-            "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL32",
-            "displayCode": "32",
             "name": "BEIGE",
             "display": {
               "showFlag": true,
