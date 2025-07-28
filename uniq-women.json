@@ -787,10 +787,6 @@
             "name": "Sleeveless"
           },
           {
-            "id": 109348,
-            "name": "Linen"
-          },
-          {
             "id": 113761,
             "name": "Linen"
           },
@@ -799,24 +795,28 @@
             "name": "Sweaters And Cardigan"
           },
           {
-            "id": 114873,
-            "name": "Shorts"
+            "id": 109348,
+            "name": "Linen"
           },
           {
-            "id": 113764,
-            "name": "Cotton"
+            "id": 114873,
+            "name": "Shorts"
           },
           {
             "id": 106341,
             "name": "Warm Goods"
           },
           {
-            "id": 101316,
-            "name": "Others"
+            "id": 113764,
+            "name": "Cotton"
           },
           {
             "id": 106342,
             "name": "Bags"
+          },
+          {
+            "id": 101316,
+            "name": "Others"
           },
           {
             "id": 113765,
@@ -827,20 +827,20 @@
             "name": "Others"
           },
           {
-            "id": 101315,
-            "name": "Soft Brushed"
-          },
-          {
             "id": 93819,
             "name": "Casual Pants"
           },
           {
-            "id": 101801,
-            "name": "Rayon"
+            "id": 101315,
+            "name": "Soft Brushed"
           },
           {
             "id": 27750,
             "name": "U Crew"
+          },
+          {
+            "id": 101801,
+            "name": "Rayon"
           },
           {
             "id": 101312,
