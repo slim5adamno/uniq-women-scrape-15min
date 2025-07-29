@@ -825,11 +825,15 @@
             "name": "Short Sleeve"
           },
           {
+            "id": 113761,
+            "name": "Linen"
+          },
+          {
             "id": 12195,
             "name": "Sleeveless"
           },
           {
-            "id": 113761,
+            "id": 109348,
             "name": "Linen"
           },
           {
@@ -837,28 +841,24 @@
             "name": "Sweaters And Cardigan"
           },
           {
-            "id": 109348,
-            "name": "Linen"
-          },
-          {
             "id": 114873,
             "name": "Shorts"
-          },
-          {
-            "id": 106341,
-            "name": "Warm Goods"
           },
           {
             "id": 113764,
             "name": "Cotton"
           },
           {
-            "id": 106342,
-            "name": "Bags"
+            "id": 106341,
+            "name": "Warm Goods"
           },
           {
             "id": 101316,
             "name": "Others"
+          },
+          {
+            "id": 106342,
+            "name": "Bags"
           },
           {
             "id": 113765,
@@ -1021,12 +1021,12 @@
             "name": "Others"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
             "id": 93788,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 109365,
@@ -4522,15 +4522,15 @@
           }
         ],
         "rating": {
-          "average": 4.69,
-          "count": 16,
-          "fit": 3.31,
+          "average": 4.71,
+          "count": 17,
+          "fit": 3.29,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 3,
-            "five": 12
+            "five": 13
           }
         },
         "representative": {
@@ -4560,7 +4560,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 16,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -24502,14 +24502,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 5,
-          "fit": 2.6,
+          "count": 6,
+          "fit": 2.67,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 5
+            "five": 6
           }
         },
         "representative": {
@@ -24539,7 +24539,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 5,
+          "total": 6,
           "count": 0,
           "items": []
         },
@@ -28237,7 +28237,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E474481-000",
