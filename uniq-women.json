@@ -636,7 +636,7 @@
           },
           {
             "id": 11567,
-            "name": "Hoodies"
+            "name": "Blouson & Hoodies"
           },
           {
             "id": 11564,
@@ -813,12 +813,16 @@
             "name": "Sportglasses"
           },
           {
+            "id": 12196,
+            "name": "Short Sleeve"
+          },
+          {
             "id": 106338,
             "name": "Outerwear"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve"
+            "id": 113761,
+            "name": "Linen"
           },
           {
             "id": 106339,
@@ -833,20 +837,16 @@
             "name": "Linen"
           },
           {
-            "id": 113761,
-            "name": "Linen"
-          },
-          {
             "id": 114873,
             "name": "Shorts"
           },
           {
-            "id": 113764,
-            "name": "Cotton"
-          },
-          {
             "id": 106341,
             "name": "Warm Goods"
+          },
+          {
+            "id": 113764,
+            "name": "Cotton"
           },
           {
             "id": 101316,
@@ -1017,12 +1017,12 @@
             "name": "Others"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
             "id": 93788,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 109365,
