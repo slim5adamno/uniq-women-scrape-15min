@@ -298,7 +298,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 79
+          "count": 78
         },
         {
           "from": 1000,
@@ -324,58 +324,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 163,
+          "accumulated": 162,
           "count": 30
         },
         {
           "rating": 0.5,
-          "accumulated": 133,
+          "accumulated": 132,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 133,
+          "accumulated": 132,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 133,
+          "accumulated": 132,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 133,
+          "accumulated": 132,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 133,
+          "accumulated": 132,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 133,
+          "accumulated": 132,
           "count": 0
         },
         {
           "rating": 3.5,
-          "accumulated": 133,
+          "accumulated": 132,
           "count": 4
         },
         {
           "rating": 4,
-          "accumulated": 129,
+          "accumulated": 128,
           "count": 4
         },
         {
           "rating": 4.5,
-          "accumulated": 125,
+          "accumulated": 124,
           "count": 56
         },
         {
           "rating": 5,
-          "accumulated": 69,
-          "count": 69
+          "accumulated": 68,
+          "count": 68
         }
       ],
       "sizes": [
@@ -805,10 +805,6 @@
             "name": "Pants"
           },
           {
-            "id": 79725,
-            "name": "Cap"
-          },
-          {
             "id": 79729,
             "name": "Sunglasses"
           },
@@ -829,16 +825,16 @@
             "name": "Sleeveless"
           },
           {
-            "id": 109348,
-            "name": "Linen"
-          },
-          {
             "id": 113761,
             "name": "Linen"
           },
           {
             "id": 106339,
             "name": "Sweaters And Cardigan"
+          },
+          {
+            "id": 109348,
+            "name": "Linen"
           },
           {
             "id": 114873,
@@ -909,12 +905,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 101811,
             "name": "Wool"
+          },
+          {
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
             "id": 86789,
@@ -1073,12 +1069,20 @@
             "name": "Others"
           },
           {
+            "id": 93706,
+            "name": "Bra Tops"
+          },
+          {
             "id": 93710,
             "name": "Socks"
           },
           {
             "id": 93711,
             "name": "Underwear"
+          },
+          {
+            "id": 93719,
+            "name": "Sleeveless"
           },
           {
             "id": 109422,
@@ -1101,8 +1105,12 @@
             "name": "Pajamas"
           },
           {
-            "id": 93656,
-            "name": "Hats & Caps"
+            "id": 93699,
+            "name": "Short Sleeve"
+          },
+          {
+            "id": 93700,
+            "name": "Long Sleeve"
           },
           {
             "id": 109394,
@@ -1111,10 +1119,6 @@
           {
             "id": 109396,
             "name": "Innerwear"
-          },
-          {
-            "id": 109398,
-            "name": "Accessory"
           },
           {
             "id": 109399,
@@ -1183,10 +1187,6 @@
           {
             "id": 23521,
             "name": "Others"
-          },
-          {
-            "id": 23500,
-            "name": "Hats"
           },
           {
             "id": 41233,
@@ -10439,189 +10439,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL56",
-            "displayCode": "56",
-            "name": "OLIVE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Shell: 100% Polyamide/ Lining: 100% Polyester",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Women",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477525/item/goods_09_477525_3x4.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477525/item/goods_10_477525_3x4.jpg",
-              "colorCode": "10"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477525/item/goods_30_477525_3x4.jpg",
-              "colorCode": "30"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477525/item/goods_56_477525_3x4.jpg",
-              "colorCode": "56"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477525/chip/goods_09_477525_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477525/chip/goods_10_477525_chip.jpg",
-              "colorCode": "10"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477525/chip/goods_30_477525_chip.jpg",
-              "colorCode": "30"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477525/chip/goods_56_477525_chip.jpg",
-              "colorCode": "56"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477525/sub/goods_477525_sub1_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477525/sub/goods_477525_sub2_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477525/feature/ingoods_477525_feature1.jpg",
-              "text": "With UV Protection technology."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477525/feature/ingoods_477525_feature2.jpg",
-              "text": "Water-repellent finish offers protection from light rain, ideal for outdoor wear. *The finish is not permanent."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477525/feature/ingoods_477525_feature3.jpg",
-              "text": "Size adjuster on the inside."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477525/feature/ingoods_477525_feature4.jpg",
-              "text": "Chin strap prevents your hat from blowing away."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477525/feature/ingoods_477525_feature5.jpg",
-              "text": "Foldable design for easy carrying."
-            }
-          ]
-        },
-        "l1Id": "477525",
-        "longDescription": "-UPF50+ / JIS L 1925 : 2019",
-        "name": "UV Protection Washable Hat",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          }
-        },
-        "productId": "E477525-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 5,
-          "count": 2,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 2
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL56",
-            "displayCode": "56",
-            "name": "OLIVE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "08364162",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 2,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/477525_size.html",
-        "sizeInformation": "Size: ～58cm, Brim: 8cm",
-        "sizes": [
-          {
-            "code": "SIZ999",
-            "displayCode": "999",
-            "name": "No Control",
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -17596,15 +17413,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL37",
             "displayCode": "37",
@@ -27609,15 +27417,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
@@ -32601,8 +32400,8 @@
       }
     ],
     "pagination": {
-      "count": 163,
-      "total": 163,
+      "count": 162,
+      "total": 162,
       "offset": 300
     }
   }
