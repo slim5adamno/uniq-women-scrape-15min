@@ -410,11 +410,6 @@
           "name": "34/36 AA A"
         },
         {
-          "code": "FBU506",
-          "displayCode": "506",
-          "name": "34/36 B C"
-        },
-        {
           "code": "INS025",
           "displayCode": "025",
           "name": "25inch"
@@ -19480,15 +19475,6 @@
             "code": "FBU505",
             "displayCode": "505",
             "name": "34/36 AA A",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "FBU506",
-            "displayCode": "506",
-            "name": "34/36 B C",
             "display": {
               "showFlag": true,
               "chipType": 1
