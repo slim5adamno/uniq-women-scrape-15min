@@ -797,40 +797,40 @@
             "name": "Sportglasses"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 106338,
             "name": "Outerwear"
           },
           {
-            "id": 109348,
-            "name": "Linen"
-          },
-          {
-            "id": 12195,
-            "name": "Sleeveless"
-          },
-          {
-            "id": 106339,
-            "name": "Sweaters And Cardigan"
+            "id": 12196,
+            "name": "Short Sleeve"
           },
           {
             "id": 113761,
             "name": "Linen"
           },
           {
+            "id": 109348,
+            "name": "Linen"
+          },
+          {
+            "id": 106339,
+            "name": "Sweaters And Cardigan"
+          },
+          {
+            "id": 12195,
+            "name": "Sleeveless"
+          },
+          {
             "id": 114873,
             "name": "Shorts"
           },
           {
-            "id": 113764,
-            "name": "Cotton"
-          },
-          {
             "id": 106341,
             "name": "Warm Goods"
+          },
+          {
+            "id": 113764,
+            "name": "Cotton"
           },
           {
             "id": 101316,
@@ -861,12 +861,12 @@
             "name": "Rayon"
           },
           {
-            "id": 101312,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 93820,
             "name": "Wide Pants"
+          },
+          {
+            "id": 101312,
+            "name": "Short Sleeve"
           },
           {
             "id": 109424,
@@ -905,12 +905,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 101811,
-            "name": "Wool"
-          },
-          {
             "id": 86790,
             "name": "Sleeveless"
+          },
+          {
+            "id": 101811,
+            "name": "Wool"
           },
           {
             "id": 86789,
@@ -1021,12 +1021,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
             "id": 93788,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 109365,
@@ -13061,15 +13061,6 @@
             "code": "COL37",
             "displayCode": "37",
             "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL61",
-            "displayCode": "61",
-            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
