@@ -817,11 +817,11 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 106339,
-            "name": "Sweaters And Cardigan"
+            "id": 113761,
+            "name": "Linen"
           },
           {
-            "id": 113761,
+            "id": 109348,
             "name": "Linen"
           },
           {
@@ -829,8 +829,8 @@
             "name": "Sleeveless"
           },
           {
-            "id": 109348,
-            "name": "Linen"
+            "id": 106339,
+            "name": "Sweaters And Cardigan"
           },
           {
             "id": 114873,
@@ -845,12 +845,12 @@
             "name": "Cotton"
           },
           {
-            "id": 101316,
-            "name": "Others"
-          },
-          {
             "id": 106342,
             "name": "Bags"
+          },
+          {
+            "id": 101316,
+            "name": "Others"
           },
           {
             "id": 23481,
@@ -861,12 +861,12 @@
             "name": "Soft Brushed"
           },
           {
-            "id": 27750,
-            "name": "U Crew"
-          },
-          {
             "id": 101801,
             "name": "Rayon"
+          },
+          {
+            "id": 27750,
+            "name": "U Crew"
           },
           {
             "id": 109424,
@@ -901,16 +901,16 @@
             "name": "Relaxed"
           },
           {
-            "id": 114934,
-            "name": "Dresses"
+            "id": 101811,
+            "name": "Wool"
           },
           {
             "id": 86790,
             "name": "Sleeveless"
           },
           {
-            "id": 101811,
-            "name": "Wool"
+            "id": 114934,
+            "name": "Dresses"
           },
           {
             "id": 86789,
