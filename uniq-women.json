@@ -849,11 +849,15 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 113761,
+            "id": 109348,
             "name": "Linen"
           },
           {
-            "id": 109348,
+            "id": 106339,
+            "name": "Sweaters And Cardigan"
+          },
+          {
+            "id": 113761,
             "name": "Linen"
           },
           {
@@ -861,16 +865,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 106339,
-            "name": "Sweaters And Cardigan"
+            "id": 114873,
+            "name": "Shorts"
           },
           {
             "id": 12199,
             "name": "Long Sleeve"
-          },
-          {
-            "id": 114873,
-            "name": "Shorts"
           },
           {
             "id": 106341,
