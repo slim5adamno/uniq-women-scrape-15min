@@ -104,6 +104,11 @@
           "name": "ORANGE"
         },
         {
+          "code": "COL26",
+          "displayCode": "26",
+          "name": "ORANGE"
+        },
+        {
           "code": "COL30",
           "displayCode": "30",
           "name": "NATURAL"
@@ -278,10 +283,10 @@
           "lazy": true
         },
         {
-          "code": "salesStart",
-          "name": "New Arrivals",
-          "rank": 9,
-          "id": 6,
+          "code": "comingSoon",
+          "name": "Coming Soon",
+          "rank": 11,
+          "id": 13,
           "lazy": false
         },
         {
@@ -10049,15 +10054,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/480836_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA006",
             "displayCode": "006",
@@ -25317,6 +25313,15 @@
         "careInstruction": "<br>",
         "colors": [
           {
+            "code": "COL26",
+            "displayCode": "26",
+            "name": "ORANGE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -25460,9 +25465,27 @@
             }
           },
           {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
