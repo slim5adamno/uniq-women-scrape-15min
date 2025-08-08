@@ -777,16 +777,20 @@
             "name": "Leggings"
           },
           {
-            "id": 106338,
-            "name": "Outerwear"
-          },
-          {
             "id": 12196,
             "name": "Short Sleeve"
           },
           {
+            "id": 106338,
+            "name": "Outerwear"
+          },
+          {
             "id": 114882,
             "name": "Leggings"
+          },
+          {
+            "id": 113761,
+            "name": "Linen"
           },
           {
             "id": 12195,
@@ -795,10 +799,6 @@
           {
             "id": 106339,
             "name": "Sweaters And Cardigan"
-          },
-          {
-            "id": 113761,
-            "name": "Linen"
           },
           {
             "id": 114873,
@@ -833,12 +833,12 @@
             "name": "Soft Brushed"
           },
           {
-            "id": 27750,
-            "name": "U Crew"
-          },
-          {
             "id": 101801,
             "name": "Rayon"
+          },
+          {
+            "id": 27750,
+            "name": "U Crew"
           },
           {
             "id": 101312,
@@ -877,12 +877,12 @@
             "name": "Dresses"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 101811,
             "name": "Wool"
+          },
+          {
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
             "id": 113674,
@@ -917,12 +917,12 @@
             "name": "EZY"
           },
           {
-            "id": 101797,
-            "name": "Stand Collar"
-          },
-          {
             "id": 67601,
             "name": "tapered"
+          },
+          {
+            "id": 101797,
+            "name": "Stand Collar"
           },
           {
             "id": 12343,
@@ -961,12 +961,12 @@
             "name": "Others"
           },
           {
-            "id": 109446,
-            "name": "Museum of Fine Arts Boston Ukiyo-e"
-          },
-          {
             "id": 78122,
             "name": "UNIQLO and JW ANDERSON"
+          },
+          {
+            "id": 109446,
+            "name": "Museum of Fine Arts Boston Ukiyo-e"
           },
           {
             "id": 11597,
@@ -18508,15 +18508,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Cotton",
@@ -18742,15 +18733,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/461090_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA007",
             "displayCode": "007",
@@ -19319,15 +19301,6 @@
             "code": "COL30",
             "displayCode": "30",
             "name": "NATURAL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL38",
-            "displayCode": "38",
-            "name": "DARK BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
