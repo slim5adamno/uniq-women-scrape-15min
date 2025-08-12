@@ -325,7 +325,7 @@
         {
           "from": 1000,
           "to": 2000,
-          "count": 41
+          "count": 40
         },
         {
           "from": 2000,
@@ -346,58 +346,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 140,
+          "accumulated": 139,
           "count": 37
         },
         {
           "rating": 0.5,
-          "accumulated": 103,
+          "accumulated": 102,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 103,
+          "accumulated": 102,
           "count": 0
         },
         {
           "rating": 1.5,
-          "accumulated": 103,
+          "accumulated": 102,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 103,
+          "accumulated": 102,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 103,
+          "accumulated": 102,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 103,
+          "accumulated": 102,
           "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 101,
+          "accumulated": 100,
           "count": 0
         },
         {
           "rating": 4,
-          "accumulated": 101,
+          "accumulated": 100,
           "count": 3
         },
         {
           "rating": 4.5,
-          "accumulated": 98,
+          "accumulated": 97,
           "count": 49
         },
         {
           "rating": 5,
-          "accumulated": 49,
-          "count": 49
+          "accumulated": 48,
+          "count": 48
         }
       ],
       "sizes": [
@@ -790,10 +790,6 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 114879,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 114932,
             "name": "Full Open"
           },
@@ -960,6 +956,10 @@
           {
             "id": 12307,
             "name": "Wide"
+          },
+          {
+            "id": 12306,
+            "name": "Straight"
           },
           {
             "id": 101797,
@@ -28181,8 +28181,8 @@
     ],
     "pagination": {
       "count": 139,
-      "total": 140,
-      "offset": 301
+      "total": 139,
+      "offset": 300
     }
   }
 }
