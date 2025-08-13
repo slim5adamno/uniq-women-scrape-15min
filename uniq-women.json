@@ -2315,8 +2315,8 @@
         },
         "representative": {
           "color": {
-            "code": "COL61",
-            "displayCode": "61",
+            "code": "COL68",
+            "displayCode": "68",
             "name": "BLUE",
             "display": {
               "showFlag": true,
@@ -2335,7 +2335,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08399441",
+          "l2Id": "08399449",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -2990,14 +2990,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 1,
+          "count": 2,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -3034,7 +3034,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 2,
           "count": 0,
           "items": []
         },
@@ -6984,15 +6984,15 @@
           }
         ],
         "rating": {
-          "average": 4.7,
-          "count": 27,
-          "fit": 3.11,
+          "average": 4.71,
+          "count": 28,
+          "fit": 3.18,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 3,
             "four": 2,
-            "five": 22
+            "five": 23
           }
         },
         "representative": {
@@ -7022,7 +7022,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 27,
+          "total": 28,
           "count": 0,
           "items": []
         },
@@ -14574,9 +14574,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL02",
+            "displayCode": "02",
+            "name": "LIGHT GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -14601,7 +14601,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08504585",
+          "l2Id": "08504569",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -15842,9 +15842,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL36",
+            "displayCode": "36",
+            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -15862,7 +15862,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08374333",
+          "l2Id": "08374341",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -18550,9 +18550,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL01",
-            "displayCode": "01",
-            "name": "OFF WHITE",
+            "code": "COL32",
+            "displayCode": "32",
+            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -18570,7 +18570,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07963799",
+          "l2Id": "07963847",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -20083,14 +20083,14 @@
           }
         ],
         "rating": {
-          "average": 4.76,
-          "count": 17,
+          "average": 4.72,
+          "count": 18,
           "fit": 3.06,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 4,
+            "four": 5,
             "five": 13
           }
         },
@@ -20121,7 +20121,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 17,
+          "total": 18,
           "count": 0,
           "items": []
         },
@@ -23571,15 +23571,15 @@
           }
         ],
         "rating": {
-          "average": 4.91,
-          "count": 23,
-          "fit": 3.04,
+          "average": 4.92,
+          "count": 24,
+          "fit": 3.08,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 21
+            "five": 22
           }
         },
         "representative": {
@@ -23609,7 +23609,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 23,
+          "total": 24,
           "count": 0,
           "items": []
         },
@@ -24003,14 +24003,14 @@
           }
         ],
         "rating": {
-          "average": 4.73,
-          "count": 22,
+          "average": 4.7,
+          "count": 23,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
-            "four": 4,
+            "four": 5,
             "five": 17
           }
         },
@@ -24041,7 +24041,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 22,
+          "total": 23,
           "count": 0,
           "items": []
         },
@@ -27392,15 +27392,15 @@
           }
         ],
         "rating": {
-          "average": 4.83,
-          "count": 6,
+          "average": 4.86,
+          "count": 7,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 5
+            "five": 6
           }
         },
         "representative": {
@@ -27430,7 +27430,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 6,
+          "total": 7,
           "count": 0,
           "items": []
         },
@@ -28321,14 +28321,14 @@
         ],
         "rating": {
           "average": 4.76,
-          "count": 45,
+          "count": 46,
           "fit": 3.07,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 1,
             "four": 6,
-            "five": 37
+            "five": 38
           }
         },
         "representative": {
@@ -28365,7 +28365,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 45,
+          "total": 46,
           "count": 0,
           "items": []
         },
@@ -31462,9 +31462,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -31489,7 +31489,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08371438",
+          "l2Id": "08371430",
           "salesStartDate": "",
           "salesEndDate": ""
         },
