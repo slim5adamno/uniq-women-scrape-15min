@@ -536,7 +536,7 @@
           },
           {
             "id": 11519,
-            "name": "T-Shirts, Bra Tops & Sweat"
+            "name": "T-Shirts, Sweat & Fleece"
           },
           {
             "id": 95866,
@@ -787,32 +787,32 @@
             "name": "Others"
           },
           {
-            "id": 108638,
-            "name": "Leggings"
-          },
-          {
-            "id": 114882,
-            "name": "Leggings"
+            "id": 106338,
+            "name": "Outerwear"
           },
           {
             "id": 12196,
             "name": "Short Sleeve"
           },
           {
-            "id": 106338,
-            "name": "Outerwear"
+            "id": 114882,
+            "name": "Leggings"
+          },
+          {
+            "id": 108638,
+            "name": "Leggings"
           },
           {
             "id": 12195,
             "name": "Sleeveless"
           },
           {
-            "id": 113761,
-            "name": "Linen"
-          },
-          {
             "id": 106339,
             "name": "Sweaters And Cardigan"
+          },
+          {
+            "id": 113761,
+            "name": "Linen"
           },
           {
             "id": 114873,
@@ -823,12 +823,12 @@
             "name": "Satin"
           },
           {
-            "id": 113764,
-            "name": "Cotton"
-          },
-          {
             "id": 106341,
             "name": "Warm Goods"
+          },
+          {
+            "id": 113764,
+            "name": "Cotton"
           },
           {
             "id": 101316,
@@ -887,10 +887,6 @@
             "name": "Relaxed"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 114934,
             "name": "Dresses"
           },
@@ -899,20 +895,24 @@
             "name": "Wool"
           },
           {
-            "id": 86789,
-            "name": "Cotton"
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
-            "id": 113674,
-            "name": "Shirts"
+            "id": 114885,
+            "name": "Bra"
+          },
+          {
+            "id": 86789,
+            "name": "Cotton"
           },
           {
             "id": 113691,
             "name": "Linen"
           },
           {
-            "id": 114885,
-            "name": "Bra"
+            "id": 113674,
+            "name": "Shirts"
           },
           {
             "id": 114886,
