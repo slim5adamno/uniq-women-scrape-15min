@@ -5095,15 +5095,15 @@
           }
         ],
         "rating": {
-          "average": 4.71,
-          "count": 24,
-          "fit": 2.79,
+          "average": 4.72,
+          "count": 25,
+          "fit": 2.8,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 5,
-            "five": 18
+            "five": 19
           }
         },
         "representative": {
@@ -5140,7 +5140,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 24,
+          "total": 25,
           "count": 0,
           "items": []
         },
@@ -8839,7 +8839,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL00",
@@ -8874,7 +8885,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 1,
           "count": 0,
           "items": []
         },
@@ -9311,14 +9322,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 1,
+          "count": 2,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 1
+            "five": 2
           }
         },
         "representative": {
@@ -9348,7 +9359,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 2,
           "count": 0,
           "items": []
         },
@@ -11345,15 +11356,15 @@
           }
         ],
         "rating": {
-          "average": 4.73,
-          "count": 15,
-          "fit": 3.27,
+          "average": 4.75,
+          "count": 16,
+          "fit": 3.25,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 2,
-            "five": 12
+            "five": 13
           }
         },
         "representative": {
@@ -11390,7 +11401,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 15,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -12321,15 +12332,15 @@
           }
         ],
         "rating": {
-          "average": 4.8,
-          "count": 20,
-          "fit": 3.15,
+          "average": 4.81,
+          "count": 21,
+          "fit": 3.14,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 4,
-            "five": 16
+            "five": 17
           }
         },
         "representative": {
@@ -12359,7 +12370,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 20,
+          "total": 21,
           "count": 0,
           "items": []
         },
@@ -17489,15 +17500,15 @@
           }
         ],
         "rating": {
-          "average": 4.78,
-          "count": 27,
-          "fit": 3.15,
+          "average": 4.79,
+          "count": 28,
+          "fit": 3.14,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 24
+            "five": 25
           }
         },
         "representative": {
@@ -17527,7 +17538,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 27,
+          "total": 28,
           "count": 0,
           "items": []
         },
@@ -18461,14 +18472,14 @@
         ],
         "rating": {
           "average": 4.88,
-          "count": 74,
+          "count": 76,
           "fit": 3.11,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 5,
-            "five": 68
+            "five": 70
           }
         },
         "representative": {
@@ -18505,7 +18516,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 74,
+          "total": 76,
           "count": 0,
           "items": []
         },
@@ -18757,15 +18768,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/469419_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA004",
             "displayCode": "004",
@@ -20236,7 +20238,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL08",
@@ -20264,7 +20277,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 1,
           "count": 0,
           "items": []
         },
