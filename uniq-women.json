@@ -722,12 +722,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 113761,
-            "name": "Linen"
-          },
-          {
             "id": 12195,
             "name": "Sleeveless"
+          },
+          {
+            "id": 113761,
+            "name": "Linen"
           },
           {
             "id": 114871,
@@ -738,12 +738,12 @@
             "name": "Satin"
           },
           {
-            "id": 114873,
-            "name": "Shorts"
-          },
-          {
             "id": 101851,
             "name": "Pants"
+          },
+          {
+            "id": 114873,
+            "name": "Shorts"
           },
           {
             "id": 12199,
@@ -810,24 +810,28 @@
             "name": "Relaxed"
           },
           {
-            "id": 106338,
-            "name": "Outerwear"
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
             "id": 101811,
             "name": "Wool"
           },
           {
+            "id": 106338,
+            "name": "Outerwear"
+          },
+          {
             "id": 114934,
             "name": "Dresses"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 113691,
             "name": "Linen"
+          },
+          {
+            "id": 86789,
+            "name": "Cotton"
           },
           {
             "id": 114885,
@@ -838,20 +842,16 @@
             "name": "Sweaters And Cardigan"
           },
           {
-            "id": 86789,
-            "name": "Cotton"
-          },
-          {
-            "id": 86792,
-            "name": "AIRism"
+            "id": 106341,
+            "name": "Warm Goods"
           },
           {
             "id": 113692,
             "name": "Satin"
           },
           {
-            "id": 106341,
-            "name": "Warm Goods"
+            "id": 86792,
+            "name": "AIRism"
           },
           {
             "id": 101308,
