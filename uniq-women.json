@@ -731,10 +731,6 @@
             "name": "Easy Pants"
           },
           {
-            "id": 113761,
-            "name": "Linen"
-          },
-          {
             "id": 12195,
             "name": "Sleeveless"
           },
@@ -747,16 +743,8 @@
             "name": "Shorts"
           },
           {
-            "id": 113763,
-            "name": "Satin"
-          },
-          {
             "id": 101851,
             "name": "Pants"
-          },
-          {
-            "id": 113764,
-            "name": "Cotton"
           },
           {
             "id": 101316,
@@ -767,16 +755,8 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 101315,
-            "name": "Soft Brushed"
-          },
-          {
             "id": 27750,
             "name": "U Crew"
-          },
-          {
-            "id": 101801,
-            "name": "Rayon"
           },
           {
             "id": 101799,
@@ -923,6 +903,14 @@
             "name": "Skort"
           },
           {
+            "id": 12359,
+            "name": "Bratops"
+          },
+          {
+            "id": 12321,
+            "name": "Cotton"
+          },
+          {
             "id": 12313,
             "name": "Denim"
           },
@@ -937,6 +925,10 @@
           {
             "id": 121716,
             "name": "The Brands Food"
+          },
+          {
+            "id": 12316,
+            "name": "Relax"
           },
           {
             "id": 78122,
@@ -999,6 +991,10 @@
             "name": "Others"
           },
           {
+            "id": 12363,
+            "name": "Ultra Warm"
+          },
+          {
             "id": 106308,
             "name": "T-Shirts"
           },
@@ -1009,6 +1005,10 @@
           {
             "id": 11596,
             "name": "Others"
+          },
+          {
+            "id": 12357,
+            "name": "Body Shaper"
           },
           {
             "id": 67603,
