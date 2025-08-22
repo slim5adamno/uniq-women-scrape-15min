@@ -15149,15 +15149,15 @@
           }
         ],
         "rating": {
-          "average": 4.82,
-          "count": 22,
-          "fit": 3.14,
+          "average": 4.83,
+          "count": 23,
+          "fit": 3.04,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 4,
-            "five": 18
+            "five": 19
           }
         },
         "representative": {
@@ -15187,7 +15187,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 22,
+          "total": 23,
           "count": 0,
           "items": []
         },
@@ -18473,14 +18473,14 @@
         ],
         "rating": {
           "average": 4.93,
-          "count": 44,
-          "fit": 2.95,
+          "count": 45,
+          "fit": 2.96,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 3,
-            "five": 41
+            "five": 42
           }
         },
         "representative": {
@@ -18510,7 +18510,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 44,
+          "total": 45,
           "count": 0,
           "items": []
         },
@@ -21747,14 +21747,14 @@
         ],
         "rating": {
           "average": 4.88,
-          "count": 80,
-          "fit": 3.08,
+          "count": 81,
+          "fit": 3.06,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 6,
-            "five": 73
+            "five": 74
           }
         },
         "representative": {
@@ -21791,7 +21791,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 80,
+          "total": 81,
           "count": 0,
           "items": []
         },
