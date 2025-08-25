@@ -18415,15 +18415,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL33",
-            "displayCode": "33",
-            "name": "KHAKI",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "53% Viscose, 24% Polyester, 23% Polyamide",
@@ -18625,15 +18616,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/471220_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA004",
             "displayCode": "004",
