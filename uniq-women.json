@@ -724,12 +724,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 114937,
-            "name": "Bra"
-          },
-          {
             "id": 114931,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 114937,
+            "name": "Bra"
           },
           {
             "id": 114932,
@@ -748,24 +748,24 @@
             "name": "Leggings"
           },
           {
-            "id": 114871,
-            "name": "Easy Pants"
-          },
-          {
             "id": 12195,
             "name": "Sleeveless"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
+            "id": 114871,
+            "name": "Easy Pants"
+          },
+          {
+            "id": 101851,
+            "name": "Pants"
           },
           {
             "id": 114873,
             "name": "Shorts"
           },
           {
-            "id": 101851,
-            "name": "Pants"
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 101316,
@@ -832,16 +832,20 @@
             "name": "Wool"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 106338,
             "name": "Outerwear"
           },
           {
+            "id": 86790,
+            "name": "Sleeveless"
+          },
+          {
             "id": 114934,
             "name": "Dresses"
+          },
+          {
+            "id": 106339,
+            "name": "Sweaters And Cardigan"
           },
           {
             "id": 113691,
@@ -856,20 +860,16 @@
             "name": "Bra"
           },
           {
-            "id": 106339,
-            "name": "Sweaters And Cardigan"
-          },
-          {
             "id": 106341,
             "name": "Warm Goods"
           },
           {
-            "id": 113692,
-            "name": "Satin"
-          },
-          {
             "id": 86792,
             "name": "AIRism"
+          },
+          {
+            "id": 113692,
+            "name": "Satin"
           },
           {
             "id": 101308,
@@ -940,12 +940,12 @@
             "name": "Linen"
           },
           {
-            "id": 115470,
-            "name": "MANGA curation"
-          },
-          {
             "id": 12316,
             "name": "Relax"
+          },
+          {
+            "id": 115470,
+            "name": "MANGA curation"
           },
           {
             "id": 121716,
@@ -960,12 +960,12 @@
             "name": "Curated by Tate Gallery"
           },
           {
-            "id": 11597,
-            "name": "Others"
-          },
-          {
             "id": 123202,
             "name": "MAGIC FOR ALL TIMELESS"
+          },
+          {
+            "id": 11597,
+            "name": "Others"
           },
           {
             "id": 120493,
