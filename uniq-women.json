@@ -740,20 +740,24 @@
             "name": "Others"
           },
           {
+            "id": 108638,
+            "name": "Leggings"
+          },
+          {
             "id": 12196,
             "name": "Short Sleeve"
           },
           {
-            "id": 108638,
-            "name": "Leggings"
+            "id": 114871,
+            "name": "Easy Pants"
           },
           {
             "id": 12195,
             "name": "Sleeveless"
           },
           {
-            "id": 114871,
-            "name": "Easy Pants"
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 101851,
@@ -762,10 +766,6 @@
           {
             "id": 114873,
             "name": "Shorts"
-          },
-          {
-            "id": 12199,
-            "name": "Long Sleeve"
           },
           {
             "id": 101316,
@@ -832,6 +832,10 @@
             "name": "Wool"
           },
           {
+            "id": 114934,
+            "name": "Dresses"
+          },
+          {
             "id": 106338,
             "name": "Outerwear"
           },
@@ -840,12 +844,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 114934,
-            "name": "Dresses"
-          },
-          {
             "id": 106339,
             "name": "Sweaters And Cardigan"
+          },
+          {
+            "id": 114885,
+            "name": "Bra"
           },
           {
             "id": 113691,
@@ -854,10 +858,6 @@
           {
             "id": 86789,
             "name": "Cotton"
-          },
-          {
-            "id": 114885,
-            "name": "Bra"
           },
           {
             "id": 106341,
@@ -924,12 +924,12 @@
             "name": "Skort"
           },
           {
-            "id": 12321,
-            "name": "Cotton"
-          },
-          {
             "id": 12359,
             "name": "Bratops"
+          },
+          {
+            "id": 12321,
+            "name": "Cotton"
           },
           {
             "id": 12313,
@@ -940,32 +940,32 @@
             "name": "Linen"
           },
           {
-            "id": 12316,
-            "name": "Relax"
-          },
-          {
             "id": 115470,
             "name": "MANGA curation"
+          },
+          {
+            "id": 12316,
+            "name": "Relax"
           },
           {
             "id": 121716,
             "name": "The Brands Food"
           },
           {
-            "id": 78122,
-            "name": "UNIQLO and JW ANDERSON"
-          },
-          {
             "id": 124255,
             "name": "Curated by Tate Gallery"
           },
           {
-            "id": 123202,
-            "name": "MAGIC FOR ALL TIMELESS"
+            "id": 78122,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 11597,
             "name": "Others"
+          },
+          {
+            "id": 123202,
+            "name": "MAGIC FOR ALL TIMELESS"
           },
           {
             "id": 120493,
