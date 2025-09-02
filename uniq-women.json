@@ -706,12 +706,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 114931,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 114937,
             "name": "Bra"
+          },
+          {
+            "id": 114931,
+            "name": "Short Sleeve"
           },
           {
             "id": 114932,
@@ -730,12 +730,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 114871,
-            "name": "Easy Pants"
-          },
-          {
             "id": 12195,
             "name": "Sleeveless"
+          },
+          {
+            "id": 114871,
+            "name": "Easy Pants"
           },
           {
             "id": 19931,
@@ -810,20 +810,20 @@
             "name": "Wide"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 114934,
             "name": "Dresses"
+          },
+          {
+            "id": 101811,
+            "name": "Wool"
           },
           {
             "id": 106338,
             "name": "Outerwear"
           },
           {
-            "id": 101811,
-            "name": "Wool"
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
             "id": 106339,
@@ -834,12 +834,12 @@
             "name": "Cotton"
           },
           {
-            "id": 114886,
-            "name": "Shorts"
-          },
-          {
             "id": 113691,
             "name": "Linen"
+          },
+          {
+            "id": 114886,
+            "name": "Shorts"
           },
           {
             "id": 106341,
@@ -858,12 +858,12 @@
             "name": "Three Quarter Sleeve"
           },
           {
-            "id": 101790,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 101812,
             "name": "Warm Line"
+          },
+          {
+            "id": 101790,
+            "name": "Short Sleeve"
           },
           {
             "id": 12307,
@@ -922,12 +922,12 @@
             "name": "Linen"
           },
           {
-            "id": 115470,
-            "name": "MANGA curation"
-          },
-          {
             "id": 12316,
             "name": "Relax"
+          },
+          {
+            "id": 115470,
+            "name": "MANGA curation"
           },
           {
             "id": 121716,
