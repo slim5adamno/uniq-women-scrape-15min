@@ -377,17 +377,17 @@
         {
           "rating": 4,
           "accumulated": 81,
-          "count": 6
+          "count": 7
         },
         {
           "rating": 4.5,
-          "accumulated": 75,
+          "accumulated": 74,
           "count": 41
         },
         {
           "rating": 5,
-          "accumulated": 34,
-          "count": 34
+          "accumulated": 33,
+          "count": 33
         }
       ],
       "sizes": [
