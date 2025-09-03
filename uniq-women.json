@@ -689,12 +689,12 @@
             "name": "Flannel"
           },
           {
-            "id": 114871,
-            "name": "Easy Pants"
-          },
-          {
             "id": 12195,
             "name": "Sleeveless"
+          },
+          {
+            "id": 114871,
+            "name": "Easy Pants"
           },
           {
             "id": 101851,
@@ -733,12 +733,12 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 101800,
-            "name": "Sleeveless"
-          },
-          {
             "id": 49220,
             "name": "Unisex"
+          },
+          {
+            "id": 101800,
+            "name": "Sleeveless"
           },
           {
             "id": 12206,
@@ -773,12 +773,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 114934,
-            "name": "Dresses"
-          },
-          {
             "id": 101811,
             "name": "Wool"
+          },
+          {
+            "id": 114934,
+            "name": "Dresses"
           },
           {
             "id": 86789,
@@ -793,12 +793,12 @@
             "name": "others"
           },
           {
-            "id": 101308,
-            "name": "Others"
-          },
-          {
             "id": 50490,
             "name": "Utility Pants"
+          },
+          {
+            "id": 101308,
+            "name": "Others"
           },
           {
             "id": 12299,
@@ -945,12 +945,12 @@
             "name": "Smart"
           },
           {
-            "id": 24324,
-            "name": "Chino"
-          },
-          {
             "id": 19829,
             "name": "Sweat Pants"
+          },
+          {
+            "id": 24324,
+            "name": "Chino"
           },
           {
             "id": 11596,
