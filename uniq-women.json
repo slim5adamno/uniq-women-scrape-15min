@@ -679,20 +679,20 @@
             "name": "Others"
           },
           {
-            "id": 106315,
-            "name": "Shirts"
-          },
-          {
             "id": 114930,
             "name": "Long Sleeve"
           },
           {
-            "id": 114937,
-            "name": "Bra"
+            "id": 106315,
+            "name": "Shirts"
           },
           {
             "id": 114931,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 114937,
+            "name": "Bra"
           },
           {
             "id": 114932,
@@ -723,12 +723,12 @@
             "name": "Linen"
           },
           {
-            "id": 101851,
-            "name": "Pants"
-          },
-          {
             "id": 114873,
             "name": "Shorts"
+          },
+          {
+            "id": 101851,
+            "name": "Pants"
           },
           {
             "id": 113764,
@@ -791,8 +791,8 @@
             "name": "Relaxed"
           },
           {
-            "id": 106338,
-            "name": "Outerwear"
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
             "id": 114934,
@@ -803,16 +803,16 @@
             "name": "Wool"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
-            "id": 106339,
-            "name": "Sweaters And Cardigan"
+            "id": 106338,
+            "name": "Outerwear"
           },
           {
             "id": 86789,
             "name": "Cotton"
+          },
+          {
+            "id": 106339,
+            "name": "Sweaters And Cardigan"
           },
           {
             "id": 113691,
