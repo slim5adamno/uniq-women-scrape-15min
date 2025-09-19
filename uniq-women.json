@@ -650,12 +650,12 @@
         ],
         "subcategories": [
           {
-            "id": 114933,
-            "name": "Others"
-          },
-          {
             "id": 114878,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 114933,
+            "name": "Others"
           },
           {
             "id": 114930,
@@ -682,6 +682,10 @@
             "name": "Flannel"
           },
           {
+            "id": 12196,
+            "name": "Short Sleeve"
+          },
+          {
             "id": 114871,
             "name": "Easy Pants"
           },
@@ -690,8 +694,8 @@
             "name": "Linen"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve"
+            "id": 114873,
+            "name": "Shorts"
           },
           {
             "id": 101851,
@@ -700,10 +704,6 @@
           {
             "id": 12195,
             "name": "Sleeveless"
-          },
-          {
-            "id": 114873,
-            "name": "Shorts"
           },
           {
             "id": 113764,
@@ -782,6 +782,10 @@
             "name": "Unisex"
           },
           {
+            "id": 86790,
+            "name": "Sleeveless"
+          },
+          {
             "id": 114934,
             "name": "Dresses"
           },
@@ -790,16 +794,12 @@
             "name": "Wool"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
+            "id": 106315,
+            "name": "Shirts"
           },
           {
             "id": 86789,
             "name": "Cotton"
-          },
-          {
-            "id": 106315,
-            "name": "Shirts"
           },
           {
             "id": 113691,
@@ -862,24 +862,24 @@
             "name": "Skort"
           },
           {
-            "id": 102509,
-            "name": "Relaxed"
-          },
-          {
             "id": 100388,
             "name": "The SAKE Collection"
+          },
+          {
+            "id": 102509,
+            "name": "Relaxed"
           },
           {
             "id": 124227,
             "name": "TOY STORY"
           },
           {
-            "id": 124225,
-            "name": "WARNER BROS. MOVIES"
-          },
-          {
             "id": 24330,
             "name": "Linen"
+          },
+          {
+            "id": 124225,
+            "name": "WARNER BROS. MOVIES"
           },
           {
             "id": 115470,
@@ -958,12 +958,12 @@
             "name": "Pattern"
           },
           {
-            "id": 24324,
-            "name": "Chino"
-          },
-          {
             "id": 19829,
             "name": "Sweat Pants"
+          },
+          {
+            "id": 24324,
+            "name": "Chino"
           },
           {
             "id": 22363,
