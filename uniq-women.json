@@ -908,12 +908,12 @@
         ],
         "subcategories": [
           {
-            "id": 108634,
-            "name": "Crew Neck"
-          },
-          {
             "id": 114878,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 108634,
+            "name": "Crew Neck"
           },
           {
             "id": 108636,
@@ -940,20 +940,16 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 49301,
+            "id": 113762,
             "name": "Flannel"
           },
           {
-            "id": 113762,
+            "id": 49301,
             "name": "Flannel"
           },
           {
             "id": 12196,
             "name": "Short Sleeve"
-          },
-          {
-            "id": 12195,
-            "name": "Sleeveless"
           },
           {
             "id": 113763,
@@ -962,6 +958,10 @@
           {
             "id": 101851,
             "name": "Pants"
+          },
+          {
+            "id": 12195,
+            "name": "Sleeveless"
           },
           {
             "id": 113764,
@@ -980,20 +980,20 @@
             "name": "Unisex"
           },
           {
-            "id": 101310,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 23481,
             "name": "Others"
           },
           {
-            "id": 27750,
-            "name": "U Crew"
+            "id": 101310,
+            "name": "Long Sleeve"
           },
           {
             "id": 101315,
             "name": "Soft Brushed"
+          },
+          {
+            "id": 27750,
+            "name": "U Crew"
           },
           {
             "id": 101801,
@@ -1040,16 +1040,20 @@
             "name": "Unisex"
           },
           {
-            "id": 108640,
-            "name": "Glove"
-          },
-          {
             "id": 86790,
             "name": "Sleeveless"
           },
           {
             "id": 101811,
             "name": "Wool"
+          },
+          {
+            "id": 108640,
+            "name": "Glove"
+          },
+          {
+            "id": 67601,
+            "name": "tapered"
           },
           {
             "id": 108641,
@@ -1064,16 +1068,12 @@
             "name": "Rayon"
           },
           {
-            "id": 67601,
-            "name": "tapered"
+            "id": 86791,
+            "name": "Camisole"
           },
           {
             "id": 113691,
             "name": "Linen"
-          },
-          {
-            "id": 86791,
-            "name": "Camisole"
           },
           {
             "id": 113693,
@@ -1136,12 +1136,12 @@
             "name": "Skort"
           },
           {
-            "id": 100388,
-            "name": "The SAKE Collection"
-          },
-          {
             "id": 125511,
             "name": "Boxy"
+          },
+          {
+            "id": 100388,
+            "name": "The SAKE Collection"
           },
           {
             "id": 124227,
@@ -1152,12 +1152,12 @@
             "name": "Unisex"
           },
           {
-            "id": 124226,
-            "name": "WAGARA (Animals)"
-          },
-          {
             "id": 11610,
             "name": "Others"
+          },
+          {
+            "id": 124226,
+            "name": "WAGARA (Animals)"
           },
           {
             "id": 121716,
