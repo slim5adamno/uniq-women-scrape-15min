@@ -898,12 +898,12 @@
         ],
         "subcategories": [
           {
-            "id": 114878,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 108634,
             "name": "Crew Neck"
+          },
+          {
+            "id": 114878,
+            "name": "Short Sleeve"
           },
           {
             "id": 108636,
