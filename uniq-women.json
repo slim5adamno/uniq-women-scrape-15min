@@ -882,36 +882,36 @@
             "name": "Boat Neck"
           },
           {
-            "id": 114932,
-            "name": "Full Open"
-          },
-          {
             "id": 108637,
             "name": "Others"
+          },
+          {
+            "id": 114932,
+            "name": "Full Open"
           },
           {
             "id": 114881,
             "name": "Others"
           },
           {
-            "id": 108638,
-            "name": "Leggings"
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 113762,
             "name": "Flannel"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
-            "id": 49301,
-            "name": "Flannel"
+            "id": 108638,
+            "name": "Leggings"
           },
           {
             "id": 12196,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 49301,
+            "name": "Flannel"
           },
           {
             "id": 113763,
@@ -930,16 +930,16 @@
             "name": "Cotton"
           },
           {
-            "id": 25846,
-            "name": "Cotton"
+            "id": 19719,
+            "name": "HEATTECH"
           },
           {
             "id": 101316,
             "name": "Others"
           },
           {
-            "id": 19719,
-            "name": "HEATTECH"
+            "id": 25846,
+            "name": "Cotton"
           },
           {
             "id": 113765,
@@ -954,28 +954,28 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 27750,
-            "name": "U Crew"
-          },
-          {
             "id": 101315,
             "name": "Soft Brushed"
           },
           {
-            "id": 106313,
-            "name": "Accessory"
+            "id": 27750,
+            "name": "U Crew"
           },
           {
             "id": 101801,
             "name": "Rayon"
           },
           {
-            "id": 101799,
-            "name": "Three Quarter Sleeve"
+            "id": 106313,
+            "name": "Accessory"
           },
           {
             "id": 12204,
             "name": "Rib"
+          },
+          {
+            "id": 101799,
+            "name": "Three Quarter Sleeve"
           },
           {
             "id": 101312,
@@ -1026,28 +1026,28 @@
             "name": "tapered"
           },
           {
-            "id": 114885,
-            "name": "Bra"
+            "id": 108641,
+            "name": "Scarf"
           },
           {
             "id": 86789,
             "name": "Cotton"
           },
           {
-            "id": 108641,
-            "name": "Scarf"
-          },
-          {
             "id": 101302,
             "name": "Rayon"
           },
           {
-            "id": 113691,
-            "name": "Linen"
+            "id": 114885,
+            "name": "Bra"
           },
           {
             "id": 114886,
             "name": "Shorts"
+          },
+          {
+            "id": 113691,
+            "name": "Linen"
           },
           {
             "id": 113693,
@@ -1126,12 +1126,16 @@
             "name": "T-Shirts"
           },
           {
+            "id": 12362,
+            "name": "Extra Warm"
+          },
+          {
             "id": 67580,
             "name": "Pattern"
           },
           {
-            "id": 12362,
-            "name": "Extra Warm"
+            "id": 19829,
+            "name": "Sweat Pants"
           },
           {
             "id": 106347,
@@ -1140,10 +1144,6 @@
           {
             "id": 12361,
             "name": "Regular Warm"
-          },
-          {
-            "id": 19829,
-            "name": "Sweat Pants"
           },
           {
             "id": 11611,
