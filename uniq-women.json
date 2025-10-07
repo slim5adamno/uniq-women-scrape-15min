@@ -53032,7 +53032,7 @@
           ]
         },
         "l1Id": "479166",
-        "longDescription": "- Long belt can be styled in different ways. <br>- Freely adjustable design can be fastened at any position.",
+        "longDescription": "- Long belt can be styled in different ways. <br>- Freely adjustable design can be fastened at any position. <br>- The belt cannot be adjusted for length by cutting.",
         "name": "Mesh Long Belt",
         "prices": {
           "base": {
@@ -62944,7 +62944,7 @@
           ]
         },
         "l1Id": "478706",
-        "longDescription": "<br>",
+        "longDescription": "- The belt cannot be adjusted for length by cutting.",
         "name": "Clean Belt",
         "prices": {
           "base": {
@@ -63116,7 +63116,7 @@
           ]
         },
         "l1Id": "479164",
-        "longDescription": "<br>",
+        "longDescription": "- The belt cannot be adjusted for length by cutting.",
         "name": "Vintage Belt",
         "prices": {
           "base": {
