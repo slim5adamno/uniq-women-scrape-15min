@@ -18194,15 +18194,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL21",
             "displayCode": "21",
             "name": "LIGHT ORANGE",
@@ -18395,15 +18386,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -22411,14 +22393,14 @@
         ],
         "rating": {
           "average": 4.85,
-          "count": 72,
+          "count": 73,
           "fit": 3.08,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 1,
             "four": 6,
-            "five": 64
+            "five": 65
           }
         },
         "representative": {
@@ -22467,7 +22449,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 72,
+          "total": 73,
           "count": 0,
           "items": []
         },
@@ -38415,14 +38397,14 @@
         ],
         "rating": {
           "average": 4.64,
-          "count": 102,
-          "fit": 3.2,
+          "count": 103,
+          "fit": 3.19,
           "rateCount": {
             "one": 8,
             "two": 0,
             "three": 0,
             "four": 5,
-            "five": 89
+            "five": 90
           }
         },
         "representative": {
@@ -38459,7 +38441,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 102,
+          "total": 103,
           "count": 0,
           "items": []
         },
@@ -42404,14 +42386,14 @@
         ],
         "rating": {
           "average": 4.78,
-          "count": 728,
+          "count": 730,
           "fit": 3.11,
           "rateCount": {
             "one": 21,
             "two": 1,
             "three": 8,
             "four": 60,
-            "five": 638
+            "five": 640
           }
         },
         "representative": {
@@ -42454,7 +42436,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 729,
+          "total": 730,
           "count": 0,
           "items": []
         },
@@ -49929,15 +49911,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL37",
-            "displayCode": "37",
-            "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "This item ships with one of the below options. Note that you cannot specify a preference at this time.<br>473644: 66% Polyester, 29% Viscose, 5% Elastane ( 61% Uses Recycled Polyester Fiber )<br>450606, 456117, 460310, 464140, 469858: [00 WHITE] 63% Polyester, 33% Viscose, 4% Elastane ( 63% Uses Recycled Polyester Fiber )<br>[Other Colors] 66% Polyester, 29% Viscose, 5% Elastane ( 61% Uses Recycled Polyester Fiber )",
@@ -55805,15 +55778,15 @@
           }
         ],
         "rating": {
-          "average": 4.64,
-          "count": 11,
+          "average": 4.69,
+          "count": 13,
           "fit": 3,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 10
+            "five": 12
           }
         },
         "representative": {
@@ -55850,7 +55823,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 11,
+          "total": 13,
           "count": 0,
           "items": []
         },
@@ -61885,14 +61858,14 @@
         ],
         "rating": {
           "average": 4.85,
-          "count": 74,
+          "count": 75,
           "fit": 3.16,
           "rateCount": {
             "one": 0,
             "two": 2,
             "three": 0,
             "four": 5,
-            "five": 67
+            "five": 68
           }
         },
         "representative": {
@@ -62643,14 +62616,14 @@
         ],
         "rating": {
           "average": 4.85,
-          "count": 107,
+          "count": 108,
           "fit": 3.14,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 2,
             "four": 8,
-            "five": 96
+            "five": 97
           }
         },
         "representative": {
