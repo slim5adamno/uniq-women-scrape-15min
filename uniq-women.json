@@ -727,8 +727,12 @@
             "name": "Casual Pants"
           },
           {
-            "id": 11590,
-            "name": "Shorts & Skorts"
+            "id": 101723,
+            "name": "Warm Pants"
+          },
+          {
+            "id": 41183,
+            "name": "Joggers & Sweatpants"
           },
           {
             "id": 11589,
@@ -747,12 +751,8 @@
             "name": "Leggings Pants"
           },
           {
-            "id": 41183,
-            "name": "Joggers & Sweatpants"
-          },
-          {
-            "id": 101723,
-            "name": "Warm Pants"
+            "id": 11590,
+            "name": "Shorts & Skorts"
           },
           {
             "id": 11583,
@@ -905,6 +905,10 @@
             "name": "Others"
           },
           {
+            "id": 101811,
+            "name": "Wool"
+          },
+          {
             "id": 108638,
             "name": "Leggings"
           },
@@ -925,16 +929,20 @@
             "name": "Flannel"
           },
           {
+            "id": 67601,
+            "name": "tapered"
+          },
+          {
             "id": 113763,
             "name": "Satin"
           },
           {
-            "id": 113764,
-            "name": "Cotton"
-          },
-          {
             "id": 101851,
             "name": "Pants"
+          },
+          {
+            "id": 113764,
+            "name": "Cotton"
           },
           {
             "id": 101316,
@@ -957,24 +965,32 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 27750,
-            "name": "U Crew"
+            "id": 53734,
+            "name": "others"
           },
           {
             "id": 101315,
             "name": "Soft Brushed"
           },
           {
+            "id": 27750,
+            "name": "U Crew"
+          },
+          {
             "id": 101801,
             "name": "Rayon"
+          },
+          {
+            "id": 101799,
+            "name": "Three Quarter Sleeve"
           },
           {
             "id": 12204,
             "name": "Rib"
           },
           {
-            "id": 101799,
-            "name": "Three Quarter Sleeve"
+            "id": 12307,
+            "name": "Wide"
           },
           {
             "id": 101312,
@@ -985,6 +1001,10 @@
             "name": "Shirt Outer"
           },
           {
+            "id": 12306,
+            "name": "Straight"
+          },
+          {
             "id": 101783,
             "name": "Cropped"
           },
@@ -993,8 +1013,16 @@
             "name": "Cotton"
           },
           {
+            "id": 67602,
+            "name": "unisex"
+          },
+          {
             "id": 49244,
             "name": "Crew Neck"
+          },
+          {
+            "id": 101816,
+            "name": "Flannel"
           },
           {
             "id": 101786,
@@ -1009,72 +1037,44 @@
             "name": "Unisex"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 108640,
             "name": "Glove"
           },
           {
-            "id": 101811,
-            "name": "Wool"
-          },
-          {
-            "id": 67601,
-            "name": "tapered"
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
             "id": 108641,
             "name": "Scarf"
           },
           {
-            "id": 101302,
-            "name": "Rayon"
-          },
-          {
             "id": 86789,
             "name": "Cotton"
+          },
+          {
+            "id": 101302,
+            "name": "Rayon"
           },
           {
             "id": 113691,
             "name": "Linen"
           },
           {
-            "id": 106308,
-            "name": "T-Shirts"
-          },
-          {
             "id": 113693,
             "name": "Cotton"
           },
           {
-            "id": 53734,
-            "name": "others"
+            "id": 106308,
+            "name": "T-Shirts"
           },
           {
             "id": 106313,
             "name": "Accessory"
           },
           {
-            "id": 12307,
-            "name": "Wide"
-          },
-          {
-            "id": 12306,
-            "name": "Straight"
-          },
-          {
             "id": 113694,
             "name": "Unisex"
-          },
-          {
-            "id": 67602,
-            "name": "unisex"
-          },
-          {
-            "id": 101816,
-            "name": "Flannel"
           },
           {
             "id": 12343,
@@ -1097,20 +1097,16 @@
             "name": "Boxy"
           },
           {
-            "id": 125512,
+            "id": 104423,
             "name": "Unisex"
           },
           {
-            "id": 104423,
+            "id": 125512,
             "name": "Unisex"
           },
           {
             "id": 11610,
             "name": "Others"
-          },
-          {
-            "id": 78122,
-            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 106329,
@@ -1121,24 +1117,28 @@
             "name": "Others"
           },
           {
-            "id": 12363,
-            "name": "Ultra Warm"
+            "id": 101826,
+            "name": "Others"
           },
           {
-            "id": 67580,
-            "name": "Pattern"
+            "id": 12363,
+            "name": "Ultra Warm"
           },
           {
             "id": 12362,
             "name": "Extra Warm"
           },
           {
-            "id": 12361,
-            "name": "Regular Warm"
+            "id": 67580,
+            "name": "Pattern"
           },
           {
             "id": 19829,
             "name": "Sweat Pants"
+          },
+          {
+            "id": 12361,
+            "name": "Regular Warm"
           },
           {
             "id": 11611,
@@ -1217,8 +1217,8 @@
             "name": "Peace For All"
           },
           {
-            "id": 101826,
-            "name": "Others"
+            "id": 78122,
+            "name": "UNIQLO and JW ANDERSON"
           },
           {
             "id": 95876,
@@ -43125,15 +43125,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/459562_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA007",
             "displayCode": "007",
