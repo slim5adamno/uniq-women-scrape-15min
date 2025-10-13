@@ -902,16 +902,16 @@
             "name": "Others"
           },
           {
+            "id": 101811,
+            "name": "Wool"
+          },
+          {
             "id": 113762,
             "name": "Flannel"
           },
           {
             "id": 12199,
             "name": "Long Sleeve"
-          },
-          {
-            "id": 101811,
-            "name": "Wool"
           },
           {
             "id": 108638,
@@ -946,12 +946,12 @@
             "name": "Others"
           },
           {
-            "id": 19719,
-            "name": "HEATTECH"
-          },
-          {
             "id": 25846,
             "name": "Cotton"
+          },
+          {
+            "id": 19719,
+            "name": "HEATTECH"
           },
           {
             "id": 113765,
@@ -970,24 +970,24 @@
             "name": "others"
           },
           {
-            "id": 27750,
-            "name": "U Crew"
-          },
-          {
             "id": 101315,
             "name": "Soft Brushed"
+          },
+          {
+            "id": 27750,
+            "name": "U Crew"
           },
           {
             "id": 101801,
             "name": "Rayon"
           },
           {
-            "id": 12204,
-            "name": "Rib"
-          },
-          {
             "id": 101799,
             "name": "Three Quarter Sleeve"
+          },
+          {
+            "id": 12204,
+            "name": "Rib"
           },
           {
             "id": 101312,
@@ -1050,12 +1050,12 @@
             "name": "Rayon"
           },
           {
-            "id": 108641,
-            "name": "Scarf"
-          },
-          {
             "id": 86789,
             "name": "Cotton"
+          },
+          {
+            "id": 108641,
+            "name": "Scarf"
           },
           {
             "id": 113691,
@@ -1122,12 +1122,12 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 67580,
-            "name": "Pattern"
-          },
-          {
             "id": 12362,
             "name": "Extra Warm"
+          },
+          {
+            "id": 67580,
+            "name": "Pattern"
           },
           {
             "id": 12361,
