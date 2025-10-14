@@ -908,12 +908,12 @@
             "name": "Wool"
           },
           {
-            "id": 108638,
-            "name": "Leggings"
-          },
-          {
             "id": 113762,
             "name": "Flannel"
+          },
+          {
+            "id": 108638,
+            "name": "Leggings"
           },
           {
             "id": 49301,
@@ -944,10 +944,6 @@
             "name": "Pants"
           },
           {
-            "id": 19719,
-            "name": "HEATTECH"
-          },
-          {
             "id": 101316,
             "name": "Others"
           },
@@ -956,8 +952,16 @@
             "name": "Cotton"
           },
           {
+            "id": 19719,
+            "name": "HEATTECH"
+          },
+          {
             "id": 113765,
             "name": "Unisex"
+          },
+          {
+            "id": 53734,
+            "name": "others"
           },
           {
             "id": 23481,
@@ -966,10 +970,6 @@
           {
             "id": 101310,
             "name": "Long Sleeve"
-          },
-          {
-            "id": 53734,
-            "name": "others"
           },
           {
             "id": 101315,
@@ -1000,12 +1000,12 @@
             "name": "Wide"
           },
           {
-            "id": 49222,
-            "name": "Shirt Outer"
-          },
-          {
             "id": 12306,
             "name": "Straight"
+          },
+          {
+            "id": 49222,
+            "name": "Shirt Outer"
           },
           {
             "id": 101783,
@@ -1020,12 +1020,12 @@
             "name": "unisex"
           },
           {
-            "id": 49244,
-            "name": "Crew Neck"
-          },
-          {
             "id": 101816,
             "name": "Flannel"
+          },
+          {
+            "id": 49244,
+            "name": "Crew Neck"
           },
           {
             "id": 101786,
@@ -1052,10 +1052,6 @@
             "name": "Sleeveless"
           },
           {
-            "id": 101302,
-            "name": "Rayon"
-          },
-          {
             "id": 86789,
             "name": "Cotton"
           },
@@ -1064,16 +1060,20 @@
             "name": "Scarf"
           },
           {
+            "id": 101302,
+            "name": "Rayon"
+          },
+          {
             "id": 113691,
             "name": "Linen"
           },
           {
-            "id": 106308,
-            "name": "T-Shirts"
-          },
-          {
             "id": 113693,
             "name": "Cotton"
+          },
+          {
+            "id": 106308,
+            "name": "T-Shirts"
           },
           {
             "id": 113694,
@@ -1140,12 +1140,12 @@
             "name": "Extra Warm"
           },
           {
-            "id": 12361,
-            "name": "Regular Warm"
-          },
-          {
             "id": 19829,
             "name": "Sweat Pants"
+          },
+          {
+            "id": 12361,
+            "name": "Regular Warm"
           },
           {
             "id": 11611,
