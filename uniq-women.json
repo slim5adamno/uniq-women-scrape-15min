@@ -499,11 +499,6 @@
           "name": "73cm"
         },
         {
-          "code": "CMD079",
-          "displayCode": "079",
-          "name": "79cm"
-        },
-        {
           "code": "CMD082",
           "displayCode": "082",
           "name": "82cm"
@@ -9555,15 +9550,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL38",
-            "displayCode": "38",
-            "name": "DARK BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -45675,7 +45661,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 193,
+          "total": 194,
           "count": 0,
           "items": []
         },
@@ -49821,15 +49807,6 @@
             }
           },
           {
-            "code": "CMD079",
-            "displayCode": "079",
-            "name": "79cm",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
             "code": "CMD082",
             "displayCode": "082",
             "name": "82cm",
@@ -51289,15 +51266,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -64008,7 +63976,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 76,
+          "total": 77,
           "count": 0,
           "items": []
         },
