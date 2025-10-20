@@ -44278,9 +44278,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL75",
-            "displayCode": "75",
-            "name": "PURPLE",
+            "code": "COL03",
+            "displayCode": "03",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -44301,11 +44301,17 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
+              },
+              {
+                "code": "newSKU",
+                "id": 7,
+                "name": "New Color",
+                "detail": "New Color"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "08378720",
+          "l2Id": "08790596",
           "salesStartDate": "",
           "salesEndDate": ""
         },
