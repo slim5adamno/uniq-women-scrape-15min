@@ -930,28 +930,28 @@
             "name": "Flannel"
           },
           {
-            "id": 67601,
-            "name": "tapered"
+            "id": 49301,
+            "name": "Flannel"
           },
           {
             "id": 12196,
             "name": "Short Sleeve"
           },
           {
-            "id": 49301,
-            "name": "Flannel"
+            "id": 67601,
+            "name": "tapered"
           },
           {
             "id": 23511,
             "name": "Shoulder Bags"
           },
           {
-            "id": 101851,
-            "name": "Pants"
-          },
-          {
             "id": 113764,
             "name": "Cotton"
+          },
+          {
+            "id": 101851,
+            "name": "Pants"
           },
           {
             "id": 101316,
@@ -978,12 +978,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 27750,
-            "name": "U Crew"
-          },
-          {
             "id": 101315,
             "name": "Soft Brushed"
+          },
+          {
+            "id": 27750,
+            "name": "U Crew"
           },
           {
             "id": 12204,
@@ -1026,12 +1026,12 @@
             "name": "unisex"
           },
           {
-            "id": 101816,
-            "name": "Flannel"
-          },
-          {
             "id": 49244,
             "name": "Crew Neck"
+          },
+          {
+            "id": 101816,
+            "name": "Flannel"
           },
           {
             "id": 101786,
@@ -1046,12 +1046,12 @@
             "name": "Unisex"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 108640,
             "name": "Glove"
+          },
+          {
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
             "id": 108641,
@@ -1062,12 +1062,12 @@
             "name": "Linen"
           },
           {
-            "id": 106308,
-            "name": "T-Shirts"
-          },
-          {
             "id": 113693,
             "name": "Cotton"
+          },
+          {
+            "id": 106308,
+            "name": "T-Shirts"
           },
           {
             "id": 106309,
@@ -1138,12 +1138,12 @@
             "name": "Ultra Warm"
           },
           {
-            "id": 67580,
-            "name": "Pattern"
-          },
-          {
             "id": 12362,
             "name": "Extra Warm"
+          },
+          {
+            "id": 67580,
+            "name": "Pattern"
           },
           {
             "id": 19829,
