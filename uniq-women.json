@@ -55578,14 +55578,14 @@
           }
         ],
         "rating": {
-          "average": 2.5,
-          "count": 2,
-          "fit": 3.5,
+          "average": 3,
+          "count": 3,
+          "fit": 3.67,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
-            "four": 1,
+            "four": 2,
             "five": 0
           }
         },
@@ -55623,7 +55623,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 2,
+          "total": 3,
           "count": 0,
           "items": []
         },
