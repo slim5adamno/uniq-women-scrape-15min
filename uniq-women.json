@@ -1454,15 +1454,15 @@
           }
         ],
         "rating": {
-          "average": 4.91,
-          "count": 11,
+          "average": 4.92,
+          "count": 12,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 10
+            "five": 11
           }
         },
         "representative": {
@@ -1492,7 +1492,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 11,
+          "total": 12,
           "count": 0,
           "items": []
         },
@@ -12641,14 +12641,14 @@
         ],
         "rating": {
           "average": 4.96,
-          "count": 69,
-          "fit": 3.09,
+          "count": 70,
+          "fit": 3.1,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 3,
-            "five": 66
+            "five": 67
           }
         },
         "representative": {
@@ -12685,7 +12685,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 69,
+          "total": 70,
           "count": 0,
           "items": []
         },
@@ -41937,14 +41937,14 @@
         ],
         "rating": {
           "average": 4.5,
-          "count": 150,
+          "count": 151,
           "fit": 3.09,
           "rateCount": {
             "one": 10,
             "two": 4,
             "three": 2,
             "four": 19,
-            "five": 115
+            "five": 116
           }
         },
         "representative": {
@@ -41981,7 +41981,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 150,
+          "total": 151,
           "count": 0,
           "items": []
         },
@@ -51193,7 +51193,7 @@
             },
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480342/feature/ingoods_480342_feature3.jpg",
-              "text": "Moderately open neckline."
+              "text": "Washable at home, 'HEATTECH cashmere blend.' *We recommend washing this item inside out in a mesh laundry bag. "
             },
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480342/feature/ingoods_480342_feature5.jpg",
@@ -51202,7 +51202,7 @@
           ]
         },
         "l1Id": "480342",
-        "longDescription": "- Slightly sheer fabric suitable for layering or wearing on its own. <br>- Quality care label.",
+        "longDescription": "- Moderately open neckline. <br>-Slightly sheer fabric suitable for layering or wearing on its own. <br>- Quality care label.",
         "name": "HEATTECH Extra Warm Cashmere Blend T",
         "prices": {
           "base": {
