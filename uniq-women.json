@@ -663,10 +663,6 @@
           {
             "id": 106276,
             "name": "Special Collaborations"
-          },
-          {
-            "id": 90113,
-            "name": "2025 Fall/Winter"
           }
         ],
         "categories": [
@@ -889,38 +885,6 @@
           {
             "id": 113629,
             "name": "UNIQLO and COMPTOIR DES COTONNIERS"
-          },
-          {
-            "id": 90120,
-            "name": "Bottoms"
-          },
-          {
-            "id": 90127,
-            "name": "Dresses"
-          },
-          {
-            "id": 90122,
-            "name": "T Shirts"
-          },
-          {
-            "id": 90126,
-            "name": "Knitwear"
-          },
-          {
-            "id": 90128,
-            "name": "Innerwear"
-          },
-          {
-            "id": 90129,
-            "name": "Loungewear"
-          },
-          {
-            "id": 90130,
-            "name": "Accessories"
-          },
-          {
-            "id": 109346,
-            "name": "Sports Utility Wear"
           }
         ],
         "subcategories": [
@@ -937,6 +901,10 @@
             "name": "Others"
           },
           {
+            "id": 108638,
+            "name": "Leggings"
+          },
+          {
             "id": 12199,
             "name": "Long Sleeve"
           },
@@ -945,16 +913,12 @@
             "name": "Flannel"
           },
           {
-            "id": 108638,
-            "name": "Leggings"
+            "id": 12196,
+            "name": "Short Sleeve"
           },
           {
             "id": 67601,
             "name": "tapered"
-          },
-          {
-            "id": 12196,
-            "name": "Short Sleeve"
           },
           {
             "id": 49301,
@@ -965,16 +929,12 @@
             "name": "Shoulder Bags"
           },
           {
-            "id": 113764,
-            "name": "Cotton"
-          },
-          {
             "id": 101851,
             "name": "Pants"
           },
           {
-            "id": 101316,
-            "name": "Others"
+            "id": 113764,
+            "name": "Cotton"
           },
           {
             "id": 25846,
@@ -985,16 +945,20 @@
             "name": "HEATTECH"
           },
           {
+            "id": 101316,
+            "name": "Others"
+          },
+          {
             "id": 113765,
             "name": "Unisex"
           },
           {
-            "id": 101310,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 23481,
             "name": "Others"
+          },
+          {
+            "id": 101310,
+            "name": "Long Sleeve"
           },
           {
             "id": 101315,
@@ -1053,6 +1017,10 @@
             "name": "Crew Neck"
           },
           {
+            "id": 101816,
+            "name": "Flannel"
+          },
+          {
             "id": 101786,
             "name": "UNIQLO +"
           },
@@ -1065,16 +1033,12 @@
             "name": "Unisex"
           },
           {
-            "id": 108640,
-            "name": "Glove"
-          },
-          {
             "id": 86790,
             "name": "Sleeveless"
           },
           {
-            "id": 101302,
-            "name": "Rayon"
+            "id": 108640,
+            "name": "Glove"
           },
           {
             "id": 108641,
@@ -1085,12 +1049,16 @@
             "name": "Cotton"
           },
           {
-            "id": 86791,
-            "name": "Camisole"
+            "id": 101302,
+            "name": "Rayon"
           },
           {
             "id": 113691,
             "name": "Linen"
+          },
+          {
+            "id": 86791,
+            "name": "Camisole"
           },
           {
             "id": 113693,
@@ -1133,11 +1101,11 @@
             "name": "Boxy"
           },
           {
-            "id": 125512,
+            "id": 104423,
             "name": "Unisex"
           },
           {
-            "id": 104423,
+            "id": 125512,
             "name": "Unisex"
           },
           {
@@ -1169,24 +1137,20 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 12362,
-            "name": "Extra Warm"
-          },
-          {
-            "id": 93788,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 67580,
             "name": "Pattern"
           },
           {
-            "id": 19829,
-            "name": "Sweat Pants"
+            "id": 12362,
+            "name": "Extra Warm"
           },
           {
             "id": 12361,
             "name": "Regular Warm"
+          },
+          {
+            "id": 19829,
+            "name": "Sweat Pants"
           },
           {
             "id": 11611,
@@ -1249,6 +1213,10 @@
             "name": "Uniqlo U"
           },
           {
+            "id": 101821,
+            "name": "Long Length"
+          },
+          {
             "id": 49249,
             "name": "Peace For All"
           },
@@ -1269,20 +1237,16 @@
             "name": "Skort"
           },
           {
-            "id": 93706,
-            "name": "Bra Tops"
-          },
-          {
             "id": 78122,
             "name": "UNIQLO and JW ANDERSON"
           },
           {
-            "id": 93658,
-            "name": "Belts"
+            "id": 95885,
+            "name": "Knit Cardigans"
           },
           {
-            "id": 109399,
-            "name": "AIRism"
+            "id": 95876,
+            "name": "Short Half Sleeve"
           },
           {
             "id": 95875,
@@ -4428,15 +4392,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL10",
-            "displayCode": "10",
-            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -45246,11 +45201,7 @@
               "colorCode": "39"
             }
           ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473473/sub/goods_473473_sub1_3x4.jpg"
-            }
-          ],
+          "sub": [],
           "features": [
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/473473/feature/ingoods_473473_feature6.jpg",
@@ -55056,9 +55007,6 @@
             }
           ],
           "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473471/sub/goods_473471_sub1_3x4.jpg"
-            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/473471/sub/ingoods_473471_sub23_3x4.jpg"
             }
