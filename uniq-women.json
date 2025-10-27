@@ -431,57 +431,57 @@
         {
           "rating": 0,
           "accumulated": 416,
-          "count": 134
+          "count": 133
         },
         {
           "rating": 0.5,
-          "accumulated": 282,
+          "accumulated": 283,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 282,
+          "accumulated": 283,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 280,
+          "accumulated": 281,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 280,
+          "accumulated": 281,
           "count": 3
         },
         {
           "rating": 2.5,
-          "accumulated": 277,
+          "accumulated": 278,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 277,
+          "accumulated": 278,
           "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 274,
+          "accumulated": 275,
           "count": 2
         },
         {
           "rating": 4,
-          "accumulated": 272,
+          "accumulated": 273,
           "count": 26
         },
         {
           "rating": 4.5,
-          "accumulated": 246,
+          "accumulated": 247,
           "count": 116
         },
         {
           "rating": 5,
-          "accumulated": 130,
-          "count": 130
+          "accumulated": 131,
+          "count": 131
         }
       ],
       "sizes": [
@@ -47414,6 +47414,12 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
+              },
+              {
+                "code": "newSKU",
+                "id": 7,
+                "name": "New Color",
+                "detail": "New Color"
               }
             ]
           },
