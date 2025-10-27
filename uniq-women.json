@@ -362,13 +362,6 @@
           "lazy": false
         },
         {
-          "code": "newSKU",
-          "name": "New Color",
-          "rank": 10,
-          "id": 7,
-          "lazy": false
-        },
-        {
           "code": "comingSoon",
           "name": "Coming Soon",
           "rank": 11,
@@ -960,12 +953,12 @@
             "name": "tapered"
           },
           {
-            "id": 49301,
-            "name": "Flannel"
-          },
-          {
             "id": 12196,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 49301,
+            "name": "Flannel"
           },
           {
             "id": 23511,
@@ -984,12 +977,12 @@
             "name": "Others"
           },
           {
-            "id": 19719,
-            "name": "HEATTECH"
-          },
-          {
             "id": 25846,
             "name": "Cotton"
+          },
+          {
+            "id": 19719,
+            "name": "HEATTECH"
           },
           {
             "id": 113765,
@@ -1092,20 +1085,20 @@
             "name": "Cotton"
           },
           {
-            "id": 113691,
-            "name": "Linen"
-          },
-          {
             "id": 86791,
             "name": "Camisole"
           },
           {
-            "id": 106308,
-            "name": "T-Shirts"
+            "id": 113691,
+            "name": "Linen"
           },
           {
             "id": 113693,
             "name": "Cotton"
+          },
+          {
+            "id": 106308,
+            "name": "T-Shirts"
           },
           {
             "id": 106309,
@@ -1140,11 +1133,11 @@
             "name": "Boxy"
           },
           {
-            "id": 104423,
+            "id": 125512,
             "name": "Unisex"
           },
           {
-            "id": 125512,
+            "id": 104423,
             "name": "Unisex"
           },
           {
@@ -1168,16 +1161,12 @@
             "name": "Others"
           },
           {
-            "id": 101787,
-            "name": "Sweat Shirt"
-          },
-          {
             "id": 12363,
             "name": "Ultra Warm"
           },
           {
-            "id": 67580,
-            "name": "Pattern"
+            "id": 101787,
+            "name": "Sweat Shirt"
           },
           {
             "id": 12362,
@@ -1186,6 +1175,10 @@
           {
             "id": 93788,
             "name": "Short Sleeve"
+          },
+          {
+            "id": 67580,
+            "name": "Pattern"
           },
           {
             "id": 19829,
@@ -4285,9 +4278,6 @@
             }
           ],
           "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479604/sub/ingoods_479604_sub7_3x4.jpg"
-            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479604/sub/goods_479604_sub14_3x4.jpg"
             }
@@ -7774,7 +7764,7 @@
         "images": {
           "main": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480656/item/ingoods_03_480656_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480656/item/goods_03_480656_3x4.jpg",
               "colorCode": "03"
             }
           ],
@@ -7785,9 +7775,6 @@
             }
           ],
           "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480656/sub/ingoods_480656_sub1_3x4.jpg"
-            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480656/sub/goods_480656_sub14_3x4.jpg"
             },
@@ -7923,7 +7910,7 @@
         "images": {
           "main": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480655/item/ingoods_00_480655_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480655/item/goods_00_480655_3x4.jpg",
               "colorCode": "00"
             }
           ],
@@ -7934,9 +7921,6 @@
             }
           ],
           "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480655/sub/ingoods_480655_sub1_3x4.jpg"
-            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480655/sub/goods_480655_sub14_3x4.jpg"
             },
@@ -8444,7 +8428,7 @@
               "colorCode": "38"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479096/item/ingoods_56_479096_3x4.jpg",
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479096/item/goods_56_479096_3x4.jpg",
               "colorCode": "56"
             }
           ],
@@ -47148,9 +47132,6 @@
           ],
           "sub": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480341/sub/ingoods_480341_sub7_3x4.jpg"
-            },
-            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480341/sub/goods_480341_sub14_3x4.jpg"
             }
           ],
@@ -47482,12 +47463,6 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
-              },
-              {
-                "code": "newSKU",
-                "id": 7,
-                "name": "New Color",
-                "detail": "New Color"
               }
             ]
           },
@@ -55265,9 +55240,6 @@
             }
           ],
           "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/473470/sub/goods_473470_sub1_3x4.jpg"
-            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/473470/sub/ingoods_473470_sub23_3x4.jpg"
             },
