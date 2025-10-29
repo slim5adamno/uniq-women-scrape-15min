@@ -923,16 +923,16 @@
             "name": "Others"
           },
           {
-            "id": 108638,
-            "name": "Leggings"
-          },
-          {
             "id": 113762,
             "name": "Flannel"
           },
           {
             "id": 12199,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 108638,
+            "name": "Leggings"
           },
           {
             "id": 67601,
@@ -959,16 +959,16 @@
             "name": "Cotton"
           },
           {
+            "id": 25846,
+            "name": "Cotton"
+          },
+          {
             "id": 19719,
             "name": "HEATTECH"
           },
           {
             "id": 101316,
             "name": "Others"
-          },
-          {
-            "id": 25846,
-            "name": "Cotton"
           },
           {
             "id": 113765,
@@ -979,12 +979,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 53734,
-            "name": "others"
-          },
-          {
             "id": 23481,
             "name": "Others"
+          },
+          {
+            "id": 53734,
+            "name": "others"
           },
           {
             "id": 27750,
@@ -999,12 +999,12 @@
             "name": "Rayon"
           },
           {
-            "id": 101799,
-            "name": "Three Quarter Sleeve"
-          },
-          {
             "id": 12204,
             "name": "Rib"
+          },
+          {
+            "id": 101799,
+            "name": "Three Quarter Sleeve"
           },
           {
             "id": 12307,
@@ -1051,24 +1051,24 @@
             "name": "Unisex"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 108640,
             "name": "Glove"
           },
           {
-            "id": 86789,
-            "name": "Cotton"
+            "id": 86790,
+            "name": "Sleeveless"
+          },
+          {
+            "id": 108641,
+            "name": "Scarf"
           },
           {
             "id": 101302,
             "name": "Rayon"
           },
           {
-            "id": 108641,
-            "name": "Scarf"
+            "id": 86789,
+            "name": "Cotton"
           },
           {
             "id": 86791,
@@ -1079,12 +1079,12 @@
             "name": "Linen"
           },
           {
-            "id": 106308,
-            "name": "T-Shirts"
-          },
-          {
             "id": 113693,
             "name": "Cotton"
+          },
+          {
+            "id": 106308,
+            "name": "T-Shirts"
           },
           {
             "id": 106309,
@@ -1119,11 +1119,11 @@
             "name": "Boxy"
           },
           {
-            "id": 125512,
+            "id": 104423,
             "name": "Unisex"
           },
           {
-            "id": 104423,
+            "id": 125512,
             "name": "Unisex"
           },
           {
@@ -1147,20 +1147,20 @@
             "name": "Others"
           },
           {
-            "id": 101787,
-            "name": "Sweat Shirt"
-          },
-          {
             "id": 12363,
             "name": "Ultra Warm"
           },
           {
-            "id": 12362,
-            "name": "Extra Warm"
+            "id": 101787,
+            "name": "Sweat Shirt"
           },
           {
             "id": 67580,
             "name": "Pattern"
+          },
+          {
+            "id": 12362,
+            "name": "Extra Warm"
           },
           {
             "id": 12361,
