@@ -341,6 +341,13 @@
       ],
       "flags": [
         {
+          "code": "limitedOffer",
+          "name": "Limited Offer",
+          "rank": 5,
+          "id": 10,
+          "lazy": true
+        },
+        {
           "code": "newPrice",
           "name": "Reduced GST Price",
           "rank": 6,
@@ -53207,7 +53214,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08379351",
+          "l2Id": "08631409",
           "salesStartDate": "",
           "salesEndDate": ""
         },
