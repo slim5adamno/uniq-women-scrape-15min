@@ -921,44 +921,40 @@
             "name": "Others"
           },
           {
-            "id": 108638,
-            "name": "Leggings"
-          },
-          {
             "id": 113762,
             "name": "Flannel"
+          },
+          {
+            "id": 108638,
+            "name": "Leggings"
           },
           {
             "id": 12199,
             "name": "Long Sleeve"
           },
           {
-            "id": 67601,
-            "name": "tapered"
+            "id": 49301,
+            "name": "Flannel"
           },
           {
             "id": 12196,
             "name": "Short Sleeve"
           },
           {
-            "id": 49301,
-            "name": "Flannel"
+            "id": 67601,
+            "name": "tapered"
           },
           {
             "id": 23511,
             "name": "Shoulder Bags"
           },
           {
-            "id": 101851,
-            "name": "Pants"
-          },
-          {
             "id": 113764,
             "name": "Cotton"
           },
           {
-            "id": 19719,
-            "name": "HEATTECH"
+            "id": 101851,
+            "name": "Pants"
           },
           {
             "id": 25846,
@@ -969,40 +965,44 @@
             "name": "Others"
           },
           {
-            "id": 113765,
-            "name": "Unisex"
+            "id": 19719,
+            "name": "HEATTECH"
           },
           {
-            "id": 101310,
-            "name": "Long Sleeve"
+            "id": 113765,
+            "name": "Unisex"
           },
           {
             "id": 23481,
             "name": "Others"
           },
           {
-            "id": 53734,
-            "name": "others"
+            "id": 101310,
+            "name": "Long Sleeve"
           },
           {
-            "id": 101315,
-            "name": "Soft Brushed"
+            "id": 53734,
+            "name": "others"
           },
           {
             "id": 27750,
             "name": "U Crew"
           },
           {
+            "id": 101315,
+            "name": "Soft Brushed"
+          },
+          {
             "id": 101801,
             "name": "Rayon"
           },
           {
-            "id": 12204,
-            "name": "Rib"
-          },
-          {
             "id": 101799,
             "name": "Three Quarter Sleeve"
+          },
+          {
+            "id": 12204,
+            "name": "Rib"
           },
           {
             "id": 12307,
@@ -1057,32 +1057,32 @@
             "name": "Sleeveless"
           },
           {
-            "id": 108641,
-            "name": "Scarf"
-          },
-          {
             "id": 86789,
             "name": "Cotton"
+          },
+          {
+            "id": 108641,
+            "name": "Scarf"
           },
           {
             "id": 101302,
             "name": "Rayon"
           },
           {
-            "id": 113691,
-            "name": "Linen"
-          },
-          {
             "id": 86791,
             "name": "Camisole"
           },
           {
-            "id": 106308,
-            "name": "T-Shirts"
+            "id": 113691,
+            "name": "Linen"
           },
           {
             "id": 113693,
             "name": "Cotton"
+          },
+          {
+            "id": 106308,
+            "name": "T-Shirts"
           },
           {
             "id": 106309,
@@ -1149,28 +1149,28 @@
             "name": "Others"
           },
           {
-            "id": 101787,
-            "name": "Sweat Shirt"
-          },
-          {
             "id": 12363,
             "name": "Ultra Warm"
           },
           {
-            "id": 12362,
-            "name": "Extra Warm"
+            "id": 101787,
+            "name": "Sweat Shirt"
           },
           {
             "id": 67580,
             "name": "Pattern"
           },
           {
-            "id": 19829,
-            "name": "Sweat Pants"
+            "id": 12362,
+            "name": "Extra Warm"
           },
           {
             "id": 12361,
             "name": "Regular Warm"
+          },
+          {
+            "id": 19829,
+            "name": "Sweat Pants"
           },
           {
             "id": 11611,
@@ -1189,12 +1189,12 @@
             "name": "Sweat"
           },
           {
-            "id": 129469,
-            "name": "POP MART"
-          },
-          {
             "id": 129724,
             "name": "Crew Neck"
+          },
+          {
+            "id": 129469,
+            "name": "POP MART"
           },
           {
             "id": 102509,
