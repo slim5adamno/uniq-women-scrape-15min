@@ -15764,6 +15764,12 @@
             ],
             "productFlags": [
               {
+                "code": "newPrice",
+                "id": 4,
+                "name": "Reduced GST Price",
+                "detail": "Reduced GST Price"
+              },
+              {
                 "code": "comingSoon",
                 "id": 13,
                 "name": "Coming Soon",
@@ -15934,6 +15940,12 @@
               }
             ],
             "productFlags": [
+              {
+                "code": "newPrice",
+                "id": 4,
+                "name": "Reduced GST Price",
+                "detail": "Reduced GST Price"
+              },
               {
                 "code": "comingSoon",
                 "id": 13,
@@ -16112,6 +16124,12 @@
             ],
             "productFlags": [
               {
+                "code": "newPrice",
+                "id": 4,
+                "name": "Reduced GST Price",
+                "detail": "Reduced GST Price"
+              },
+              {
                 "code": "comingSoon",
                 "id": 13,
                 "name": "Coming Soon",
@@ -16285,6 +16303,12 @@
               }
             ],
             "productFlags": [
+              {
+                "code": "newPrice",
+                "id": 4,
+                "name": "Reduced GST Price",
+                "detail": "Reduced GST Price"
+              },
               {
                 "code": "comingSoon",
                 "id": 13,
