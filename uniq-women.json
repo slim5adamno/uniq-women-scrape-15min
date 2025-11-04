@@ -6597,15 +6597,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
@@ -12198,14 +12189,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 15,
-          "fit": 3.4,
+          "count": 16,
+          "fit": 3.38,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 15
+            "five": 16
           }
         },
         "representative": {
@@ -32006,15 +31997,15 @@
           }
         ],
         "rating": {
-          "average": 4.88,
-          "count": 121,
-          "fit": 3.21,
+          "average": 4.89,
+          "count": 122,
+          "fit": 3.2,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 2,
             "four": 7,
-            "five": 111
+            "five": 112
           }
         },
         "representative": {
@@ -48642,15 +48633,15 @@
           }
         ],
         "rating": {
-          "average": 4.71,
-          "count": 14,
+          "average": 4.73,
+          "count": 15,
           "fit": 3,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 13
+            "five": 14
           }
         },
         "representative": {
