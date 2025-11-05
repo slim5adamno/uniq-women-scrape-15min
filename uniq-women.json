@@ -1694,15 +1694,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "69% Cotton, 30% Polyester, 1% Elastane",
@@ -1854,15 +1845,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -4346,15 +4328,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -11098,14 +11071,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 2,
-          "fit": 3.5,
+          "count": 3,
+          "fit": 3.67,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 2
+            "five": 3
           }
         },
         "representative": {
@@ -11135,7 +11108,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 2,
+          "total": 3,
           "count": 0,
           "items": []
         },
@@ -34174,14 +34147,14 @@
         ],
         "rating": {
           "average": 4.78,
-          "count": 760,
+          "count": 761,
           "fit": 3.11,
           "rateCount": {
             "one": 21,
             "two": 1,
             "three": 8,
             "four": 62,
-            "five": 668
+            "five": 669
           }
         },
         "representative": {
@@ -34224,7 +34197,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 760,
+          "total": 761,
           "count": 0,
           "items": []
         },
@@ -58205,14 +58178,14 @@
         ],
         "rating": {
           "average": 4.76,
-          "count": 70,
+          "count": 71,
           "fit": 3.17,
           "rateCount": {
             "one": 2,
             "two": 1,
             "three": 0,
             "four": 6,
-            "five": 61
+            "five": 62
           }
         },
         "representative": {
@@ -58249,7 +58222,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 70,
+          "total": 71,
           "count": 0,
           "items": []
         },
