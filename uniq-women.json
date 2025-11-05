@@ -481,17 +481,17 @@
         {
           "rating": 4,
           "accumulated": 283,
-          "count": 21
+          "count": 22
         },
         {
           "rating": 4.5,
-          "accumulated": 262,
-          "count": 126
+          "accumulated": 261,
+          "count": 127
         },
         {
           "rating": 5,
-          "accumulated": 136,
-          "count": 136
+          "accumulated": 134,
+          "count": 134
         }
       ],
       "sizes": [
