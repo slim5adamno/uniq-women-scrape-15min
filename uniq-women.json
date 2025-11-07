@@ -436,17 +436,17 @@
         {
           "rating": 0,
           "accumulated": 415,
-          "count": 137
+          "count": 136
         },
         {
           "rating": 0.5,
-          "accumulated": 278,
+          "accumulated": 279,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 278,
-          "count": 1
+          "accumulated": 279,
+          "count": 2
         },
         {
           "rating": 1.5,
