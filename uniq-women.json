@@ -928,28 +928,28 @@
             "name": "Others"
           },
           {
-            "id": 113762,
-            "name": "Flannel"
-          },
-          {
             "id": 108638,
             "name": "Leggings"
+          },
+          {
+            "id": 113762,
+            "name": "Flannel"
           },
           {
             "id": 12199,
             "name": "Long Sleeve"
           },
           {
-            "id": 49301,
-            "name": "Flannel"
+            "id": 67601,
+            "name": "tapered"
           },
           {
             "id": 12196,
             "name": "Short Sleeve"
           },
           {
-            "id": 67601,
-            "name": "tapered"
+            "id": 49301,
+            "name": "Flannel"
           },
           {
             "id": 23511,
@@ -964,36 +964,36 @@
             "name": "Pants"
           },
           {
-            "id": 19719,
-            "name": "HEATTECH"
-          },
-          {
             "id": 25846,
             "name": "Cotton"
+          },
+          {
+            "id": 19719,
+            "name": "HEATTECH"
           },
           {
             "id": 113765,
             "name": "Unisex"
           },
           {
-            "id": 53734,
-            "name": "others"
-          },
-          {
             "id": 101310,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 53734,
+            "name": "others"
           },
           {
             "id": 23481,
             "name": "Others"
           },
           {
-            "id": 27750,
-            "name": "U Crew"
-          },
-          {
             "id": 101315,
             "name": "Soft Brushed"
+          },
+          {
+            "id": 27750,
+            "name": "U Crew"
           },
           {
             "id": 101801,
@@ -1032,12 +1032,12 @@
             "name": "unisex"
           },
           {
-            "id": 49244,
-            "name": "Crew Neck"
-          },
-          {
             "id": 101816,
             "name": "Flannel"
+          },
+          {
+            "id": 49244,
+            "name": "Crew Neck"
           },
           {
             "id": 101786,
@@ -1052,20 +1052,20 @@
             "name": "Unisex"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 108640,
             "name": "Glove"
           },
           {
-            "id": 101302,
-            "name": "Rayon"
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
             "id": 108641,
             "name": "Scarf"
+          },
+          {
+            "id": 101302,
+            "name": "Rayon"
           },
           {
             "id": 86791,
@@ -1096,16 +1096,16 @@
             "name": "T-Shirts"
           },
           {
-            "id": 101826,
-            "name": "Others"
+            "id": 106309,
+            "name": "Shirts"
           },
           {
             "id": 11610,
             "name": "Others"
           },
           {
-            "id": 106309,
-            "name": "Shirts"
+            "id": 101826,
+            "name": "Others"
           },
           {
             "id": 49220,
@@ -1132,12 +1132,12 @@
             "name": "Sweat Shirt"
           },
           {
-            "id": 12362,
-            "name": "Extra Warm"
-          },
-          {
             "id": 67580,
             "name": "Pattern"
+          },
+          {
+            "id": 12362,
+            "name": "Extra Warm"
           },
           {
             "id": 12361,
@@ -1172,12 +1172,12 @@
             "name": "Others"
           },
           {
-            "id": 11570,
-            "name": "Others"
-          },
-          {
             "id": 129469,
             "name": "POP MART"
+          },
+          {
+            "id": 11570,
+            "name": "Others"
           },
           {
             "id": 102509,
