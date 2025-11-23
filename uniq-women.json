@@ -436,7 +436,7 @@
         {
           "from": 2000,
           "to": 3000,
-          "count": 115
+          "count": 114
         },
         {
           "from": 3000,
@@ -452,8 +452,8 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 408,
-          "count": 130
+          "accumulated": 407,
+          "count": 129
         },
         {
           "rating": 0.5,
@@ -65722,7 +65722,7 @@
     ],
     "pagination": {
       "count": 300,
-      "total": 408,
+      "total": 407,
       "offset": 300
     }
   }
