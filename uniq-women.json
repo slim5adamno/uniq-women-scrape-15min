@@ -26852,9 +26852,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL19",
-            "displayCode": "19",
-            "name": "WINE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -26885,7 +26885,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08942118",
+          "l2Id": "08188620",
           "salesStartDate": "",
           "salesEndDate": ""
         },
