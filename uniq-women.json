@@ -11198,15 +11198,15 @@
           }
         ],
         "rating": {
-          "average": 4.79,
-          "count": 24,
+          "average": 4.8,
+          "count": 25,
           "fit": 2.88,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 0,
             "four": 2,
-            "five": 21
+            "five": 22
           }
         },
         "representative": {
@@ -11249,7 +11249,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 24,
+          "total": 25,
           "count": 0,
           "items": []
         },
@@ -51599,14 +51599,14 @@
         ],
         "rating": {
           "average": 4.65,
-          "count": 117,
+          "count": 118,
           "fit": 3.12,
           "rateCount": {
             "one": 4,
             "two": 1,
             "three": 3,
             "four": 16,
-            "five": 93
+            "five": 94
           }
         },
         "representative": {
@@ -51643,7 +51643,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 117,
+          "total": 118,
           "count": 0,
           "items": []
         },
@@ -57755,15 +57755,15 @@
           }
         ],
         "rating": {
-          "average": 4.56,
-          "count": 9,
-          "fit": 3.22,
+          "average": 4.6,
+          "count": 10,
+          "fit": 3.2,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 8
+            "five": 9
           }
         },
         "representative": {
@@ -57800,7 +57800,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 9,
+          "total": 10,
           "count": 0,
           "items": []
         },
@@ -59171,15 +59171,15 @@
           }
         ],
         "rating": {
-          "average": 4.85,
-          "count": 27,
-          "fit": 3.22,
+          "average": 4.86,
+          "count": 28,
+          "fit": 3.21,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 26
+            "five": 27
           }
         },
         "representative": {
@@ -59216,7 +59216,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 27,
+          "total": 28,
           "count": 0,
           "items": []
         },
