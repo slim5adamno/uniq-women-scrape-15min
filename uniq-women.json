@@ -43474,6 +43474,10 @@
         "images": {
           "main": [
             {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482661/item/goods_07_482661_3x4.jpg",
+              "colorCode": "07"
+            },
+            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482661/item/goods_09_482661_3x4.jpg",
               "colorCode": "09"
             },
@@ -43499,6 +43503,10 @@
             }
           ],
           "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482661/chip/goods_07_482661_chip.jpg",
+              "colorCode": "07"
+            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482661/chip/goods_09_482661_chip.jpg",
               "colorCode": "09"
