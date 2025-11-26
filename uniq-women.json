@@ -436,7 +436,7 @@
         {
           "from": 2000,
           "to": 3000,
-          "count": 104
+          "count": 103
         },
         {
           "from": 3000,
@@ -452,58 +452,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 407,
+          "accumulated": 406,
           "count": 124
         },
         {
           "rating": 0.5,
-          "accumulated": 283,
+          "accumulated": 282,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 283,
+          "accumulated": 282,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 281,
+          "accumulated": 280,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 281,
+          "accumulated": 280,
           "count": 2
         },
         {
           "rating": 2.5,
-          "accumulated": 279,
+          "accumulated": 278,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 279,
+          "accumulated": 278,
           "count": 4
         },
         {
           "rating": 3.5,
-          "accumulated": 275,
+          "accumulated": 274,
           "count": 4
         },
         {
           "rating": 4,
-          "accumulated": 271,
+          "accumulated": 270,
           "count": 18
         },
         {
           "rating": 4.5,
-          "accumulated": 253,
+          "accumulated": 252,
           "count": 122
         },
         {
           "rating": 5,
-          "accumulated": 131,
-          "count": 131
+          "accumulated": 130,
+          "count": 130
         }
       ],
       "sizes": [
@@ -4736,14 +4736,14 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 10,
-          "fit": 3.1,
+          "average": 4.91,
+          "count": 11,
+          "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 0,
+            "four": 1,
             "five": 10
           }
         },
@@ -4781,7 +4781,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 10,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -11281,15 +11281,15 @@
           }
         ],
         "rating": {
-          "average": 4.62,
-          "count": 37,
+          "average": 4.63,
+          "count": 38,
           "fit": 3.03,
           "rateCount": {
             "one": 3,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 32
+            "five": 33
           }
         },
         "representative": {
@@ -11332,7 +11332,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 37,
+          "total": 38,
           "count": 0,
           "items": []
         },
@@ -18777,15 +18777,15 @@
           }
         ],
         "rating": {
-          "average": 4.67,
-          "count": 18,
+          "average": 4.68,
+          "count": 19,
           "fit": 3.11,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 0,
             "four": 3,
-            "five": 14
+            "five": 15
           }
         },
         "representative": {
@@ -18822,7 +18822,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 18,
+          "total": 19,
           "count": 0,
           "items": []
         },
@@ -28812,13 +28812,13 @@
         ],
         "rating": {
           "average": 4.79,
-          "count": 792,
+          "count": 793,
           "fit": 3.11,
           "rateCount": {
             "one": 21,
             "two": 1,
             "three": 8,
-            "four": 64,
+            "four": 65,
             "five": 698
           }
         },
@@ -28862,7 +28862,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 792,
+          "total": 793,
           "count": 0,
           "items": []
         },
@@ -34835,14 +34835,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 3,
-          "fit": 3.67,
+          "count": 4,
+          "fit": 3.5,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 3
+            "five": 4
           }
         },
         "representative": {
@@ -34885,7 +34885,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 3,
+          "total": 4,
           "count": 0,
           "items": []
         },
@@ -65707,9 +65707,9 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL57",
-            "displayCode": "57",
-            "name": "OLIVE",
+            "code": "COL02",
+            "displayCode": "02",
+            "name": "LIGHT GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -65724,41 +65724,32 @@
         "images": {
           "main": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480855/item/ingoods_57_480855_3x4.jpg",
-              "colorCode": "57"
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480853/item/ingoods_02_480853_3x4.jpg",
+              "colorCode": "02"
             }
           ],
           "chip": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480855/chip/goods_57_480855_chip.jpg",
-              "colorCode": "57"
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480853/chip/goods_02_480853_chip.jpg",
+              "colorCode": "02"
             }
           ],
           "sub": [
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480855/sub/ingoods_480855_sub5_3x4.jpg"
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480853/sub/ingoods_480853_sub5_3x4.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480855/sub/ingoods_480855_sub7_3x4.jpg"
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480853/sub/goods_480853_sub14_3x4.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480855/sub/goods_480855_sub14_3x4.jpg"
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480853/sub/goods_480853_sub17_3x4.jpg"
             },
             {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480855/sub/goods_480855_sub15_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480855/sub/goods_480855_sub17_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480855/sub/goods_480855_sub18_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480855/sub/goods_480855_sub19_3x4.jpg"
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480853/sub/goods_480853_sub18_3x4.jpg"
             }
           ]
         },
-        "l1Id": "480855",
+        "l1Id": "480853",
         "longDescription": "STUDIO GHIBLI<br><br>Eight Studio Ghibli films, including the latest release, \" The Boy and the Heron, \" are now featured in the UT collection.  This captivating collection brings the essence of Studio Ghibli’s world to life through diverse designs, such as film art, illustrations, and artwork by Thai artist Kanyada.<br><br>Licensed by Studio Ghibli<br>STUDIO GHIBLI™ is a trademark of Studio Ghibli Inc.<br>Designed by Uniqlo Co., Ltd. in Japan<br>©Toshio Suzuki<br>©Hayao Miyazaki/Kanyada Phatan",
         "name": "STUDIO GHIBLI Sweatshirt",
         "prices": {
@@ -65777,7 +65768,7 @@
             "value": "2290.0000"
           }
         },
-        "productId": "E480855-000",
+        "productId": "E480853-000",
         "plds": [
           {
             "code": "PTB000",
@@ -65796,22 +65787,22 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 4,
-          "fit": 3.25,
+          "average": 4,
+          "count": 1,
+          "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 0,
-            "five": 4
+            "four": 1,
+            "five": 0
           }
         },
         "representative": {
           "color": {
-            "code": "COL57",
-            "displayCode": "57",
-            "name": "OLIVE",
+            "code": "COL02",
+            "displayCode": "02",
+            "name": "LIGHT GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -65836,23 +65827,23 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08743101",
+          "l2Id": "08743083",
           "salesStartDate": "",
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 1,
           "count": 0,
           "items": []
         },
         "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/480855_size.html",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/480853_size.html",
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -65860,12 +65851,12 @@
           }
         ],
         "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
+        "washingInformation": "Machine wash cold, Do not Dry Clean, Do not tumble dry."
       }
     ],
     "pagination": {
       "count": 300,
-      "total": 407,
+      "total": 406,
       "offset": 300
     }
   }
