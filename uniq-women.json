@@ -32371,7 +32371,7 @@
           }
         ],
         "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, Do not Dry Clean"
+        "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
       },
       {
         "careInstruction": "-",
@@ -42793,12 +42793,6 @@
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/433776/sub/goods_433776_sub21_3x4.jpg"
             }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/433776/feature/ingoods_433776_feature1.jpg",
-              "text": "With UV protection technology."
-            }
           ]
         },
         "l1Id": "475160",
@@ -51821,7 +51815,7 @@
             }
           }
         ],
-        "composition": "[65 BLUE] Body: 51% Viscose, 32% Linen, 17% Cotton/ Pocket Lining: 65% Polyester, 35% Cotton [Other Colors] Body: 53% Viscose, 30% Linen, 17% Cotton/ Pocket Lining: 65% Polyester, 35% Cotton",
+        "composition": "This item ships with one of the below options. Note that you cannot specify a preference at this time.<br>473791: [65 BLUE] Body: 51% Viscose, 32% Linen, 17% Cotton/ Pocket Lining: 65% Polyester, 35% Cotton<br>[Other Colors] Body: 53% Viscose, 30% Linen, 17% Cotton/ Pocket Lining: 65% Polyester, 35% Cotton<br>482246: [11 PINK, 30 NATURAL, 32 BEIGE, 36 BROWN, 50 LIGHT GREEN, 65 BLUE, 69 NAVY] Body: 53% Viscose, 30% Linen, 17% Cotton/ Pocket Lining: 65% Polyester, 35% Cotton",
         "designDetail": "- Sheer: Not Sheer(Only 30 Natural is slightly sheer)<br>- Fit: Regular<br>- Silhouette: Straight<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
