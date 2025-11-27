@@ -995,12 +995,16 @@
             "name": "Flannel"
           },
           {
+            "id": 12199,
+            "name": "Long Sleeve"
+          },
+          {
             "id": 108638,
             "name": "Leggings"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
+            "id": 49301,
+            "name": "Flannel"
           },
           {
             "id": 13084,
@@ -1015,12 +1019,12 @@
             "name": "tapered"
           },
           {
-            "id": 49301,
-            "name": "Flannel"
-          },
-          {
             "id": 23511,
             "name": "Shoulder Bags"
+          },
+          {
+            "id": 101851,
+            "name": "Pants"
           },
           {
             "id": 113764,
@@ -1029,10 +1033,6 @@
           {
             "id": 12297,
             "name": "Linen"
-          },
-          {
-            "id": 101851,
-            "name": "Pants"
           },
           {
             "id": 19719,
@@ -1047,24 +1047,24 @@
             "name": "Unisex"
           },
           {
-            "id": 53734,
-            "name": "others"
+            "id": 23481,
+            "name": "Others"
           },
           {
             "id": 101310,
             "name": "Long Sleeve"
           },
           {
-            "id": 23481,
-            "name": "Others"
-          },
-          {
-            "id": 27750,
-            "name": "U Crew"
+            "id": 53734,
+            "name": "others"
           },
           {
             "id": 101315,
             "name": "Soft Brushed"
+          },
+          {
+            "id": 27750,
+            "name": "U Crew"
           },
           {
             "id": 101801,
@@ -1091,12 +1091,12 @@
             "name": "Unisex"
           },
           {
-            "id": 49222,
-            "name": "Shirt Outer"
-          },
-          {
             "id": 12306,
             "name": "Straight"
+          },
+          {
+            "id": 49222,
+            "name": "Shirt Outer"
           },
           {
             "id": 101813,
@@ -1143,12 +1143,12 @@
             "name": "Sleeveless"
           },
           {
-            "id": 101302,
-            "name": "Rayon"
-          },
-          {
             "id": 108641,
             "name": "Scarf"
+          },
+          {
+            "id": 101302,
+            "name": "Rayon"
           },
           {
             "id": 86791,
@@ -1171,12 +1171,12 @@
             "name": "Bottoms"
           },
           {
-            "id": 104423,
-            "name": "Unisex"
-          },
-          {
             "id": 106308,
             "name": "T-Shirts"
+          },
+          {
+            "id": 104423,
+            "name": "Unisex"
           },
           {
             "id": 106309,
@@ -1187,6 +1187,10 @@
             "name": "Others"
           },
           {
+            "id": 12363,
+            "name": "Ultra Warm"
+          },
+          {
             "id": 101787,
             "name": "Sweat Shirt"
           },
@@ -1195,20 +1199,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 12363,
-            "name": "Ultra Warm"
-          },
-          {
-            "id": 67580,
-            "name": "Pattern"
-          },
-          {
             "id": 12362,
             "name": "Extra Warm"
           },
           {
-            "id": 106316,
-            "name": "Sweaters"
+            "id": 67580,
+            "name": "Pattern"
           },
           {
             "id": 12361,
@@ -1217,6 +1213,10 @@
           {
             "id": 19829,
             "name": "Sweat Pants"
+          },
+          {
+            "id": 106316,
+            "name": "Sweaters"
           },
           {
             "id": 11611,
@@ -1243,12 +1243,12 @@
             "name": "Others"
           },
           {
-            "id": 129469,
-            "name": "POP MART"
-          },
-          {
             "id": 102509,
             "name": "Relaxed"
+          },
+          {
+            "id": 129469,
+            "name": "POP MART"
           },
           {
             "id": 124227,
@@ -29418,6 +29418,15 @@
             "code": "COL08",
             "displayCode": "08",
             "name": "DARK GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
