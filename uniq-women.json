@@ -12876,12 +12876,6 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
-              },
-              {
-                "code": "salesStart",
-                "id": 6,
-                "name": "New Arrivals",
-                "detail": "New Arrivals"
               }
             ]
           },
@@ -18123,12 +18117,6 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
-              },
-              {
-                "code": "newSKU",
-                "id": 7,
-                "name": "New Color",
-                "detail": "New Color"
               },
               {
                 "code": "extraLargeStoreOnly",
@@ -60428,9 +60416,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL18",
-            "displayCode": "18",
-            "name": "WINE",
+            "code": "COL38",
+            "displayCode": "38",
+            "name": "DARK BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -60453,15 +60441,15 @@
                 "detail": "Reduced GST Price"
               },
               {
-                "code": "extraLargeStoreOnly",
-                "id": 1,
-                "name": "Made with Recycled Materials",
-                "detail": "Made with Recycled Materials"
+                "code": "newSKU",
+                "id": 7,
+                "name": "New Color",
+                "detail": "New Color"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "09159829",
+          "l2Id": "09106184",
           "salesStartDate": "",
           "salesEndDate": ""
         },
