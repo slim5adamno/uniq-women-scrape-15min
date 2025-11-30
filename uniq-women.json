@@ -1958,15 +1958,15 @@
           }
         ],
         "rating": {
-          "average": 4,
-          "count": 6,
-          "fit": 2.17,
+          "average": 4.14,
+          "count": 7,
+          "fit": 2.29,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 3
+            "five": 4
           }
         },
         "representative": {
@@ -13869,14 +13869,14 @@
         ],
         "rating": {
           "average": 4.89,
-          "count": 46,
-          "fit": 3.07,
+          "count": 47,
+          "fit": 3.06,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 5,
-            "five": 41
+            "five": 42
           }
         },
         "representative": {
@@ -18471,14 +18471,14 @@
         ],
         "rating": {
           "average": 4.89,
-          "count": 45,
+          "count": 46,
           "fit": 3.22,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 3,
-            "five": 41
+            "five": 42
           }
         },
         "representative": {
@@ -40189,15 +40189,15 @@
           }
         ],
         "rating": {
-          "average": 4.75,
-          "count": 4,
-          "fit": 2.75,
+          "average": 4.8,
+          "count": 5,
+          "fit": 2.8,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 3
+            "five": 4
           }
         },
         "representative": {
@@ -40947,14 +40947,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 5,
+          "count": 6,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 5
+            "five": 6
           }
         },
         "representative": {
@@ -57389,14 +57389,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 3,
+          "count": 4,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 3
+            "five": 4
           }
         },
         "representative": {
