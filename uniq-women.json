@@ -51307,10 +51307,17 @@
                 "detail": "Sale"
               }
             ],
-            "productFlags": []
+            "productFlags": [
+              {
+                "code": "newPrice",
+                "id": 4,
+                "name": "Reduced GST Price",
+                "detail": "Reduced GST Price"
+              }
+            ]
           },
           "isFavorite": false,
-          "l2Id": "08363647",
+          "l2Id": "09046025",
           "salesStartDate": "",
           "salesEndDate": ""
         },
