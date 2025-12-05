@@ -19503,14 +19503,14 @@
         ],
         "rating": {
           "average": 4.9,
-          "count": 49,
+          "count": 50,
           "fit": 3.2,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 3,
-            "five": 45
+            "five": 46
           }
         },
         "representative": {
@@ -33516,15 +33516,15 @@
           }
         ],
         "rating": {
-          "average": 4.79,
-          "count": 365,
+          "average": 4.8,
+          "count": 366,
           "fit": 3.07,
           "rateCount": {
             "one": 4,
             "two": 1,
             "three": 5,
             "four": 46,
-            "five": 309
+            "five": 310
           }
         },
         "representative": {
