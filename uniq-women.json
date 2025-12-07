@@ -319,11 +319,6 @@
           "name": "PURPLE"
         },
         {
-          "code": "COL75",
-          "displayCode": "75",
-          "name": "PURPLE"
-        },
-        {
           "code": "COL76",
           "displayCode": "76",
           "name": "PURPLE"
@@ -4870,33 +4865,6 @@
             "code": "COL00",
             "displayCode": "00",
             "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL75",
-            "displayCode": "75",
-            "name": "PURPLE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -41852,15 +41820,6 @@
             }
           },
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
@@ -58827,15 +58786,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "37% Cotton, 36% Polyester, 27% Viscose ( 36% Uses Recycled Polyester Fiber )",
@@ -58991,15 +58941,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/478325_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA004",
             "displayCode": "004",
