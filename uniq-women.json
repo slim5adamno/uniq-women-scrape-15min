@@ -33254,15 +33254,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL39",
             "displayCode": "39",
             "name": "DARK BROWN",
@@ -33456,15 +33447,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL39",
             "displayCode": "39",
             "name": "DARK BROWN",
@@ -33638,15 +33620,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/479847_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA006",
             "displayCode": "006",
