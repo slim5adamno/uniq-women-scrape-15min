@@ -431,7 +431,7 @@
         {
           "from": 3000,
           "to": 4000,
-          "count": 4
+          "count": 3
         },
         {
           "from": 4000,
@@ -442,58 +442,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 396,
+          "accumulated": 395,
           "count": 124
         },
         {
           "rating": 0.5,
-          "accumulated": 272,
+          "accumulated": 271,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 272,
+          "accumulated": 271,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 270,
+          "accumulated": 269,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 270,
+          "accumulated": 269,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 269,
+          "accumulated": 268,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 269,
+          "accumulated": 268,
           "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 266,
+          "accumulated": 265,
           "count": 3
         },
         {
           "rating": 4,
-          "accumulated": 263,
+          "accumulated": 262,
           "count": 21
         },
         {
           "rating": 4.5,
-          "accumulated": 242,
+          "accumulated": 241,
           "count": 118
         },
         {
           "rating": 5,
-          "accumulated": 124,
-          "count": 124
+          "accumulated": 123,
+          "count": 123
         }
       ],
       "sizes": [
@@ -30815,15 +30815,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/457120_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA005",
             "displayCode": "005",
@@ -65973,7 +65964,7 @@
     ],
     "pagination": {
       "count": 300,
-      "total": 396,
+      "total": 395,
       "offset": 300
     }
   }
