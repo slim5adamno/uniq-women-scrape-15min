@@ -431,7 +431,7 @@
         {
           "from": 2000,
           "to": 3000,
-          "count": 102
+          "count": 101
         },
         {
           "from": 3000,
@@ -447,53 +447,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 385,
+          "accumulated": 384,
           "count": 121
         },
         {
           "rating": 0.5,
-          "accumulated": 264,
+          "accumulated": 263,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 264,
+          "accumulated": 263,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 262,
+          "accumulated": 261,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 262,
+          "accumulated": 261,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 261,
+          "accumulated": 260,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 261,
+          "accumulated": 260,
           "count": 3
         },
         {
           "rating": 3.5,
-          "accumulated": 258,
+          "accumulated": 257,
           "count": 2
         },
         {
           "rating": 4,
-          "accumulated": 256,
+          "accumulated": 255,
           "count": 23
         },
         {
           "rating": 4.5,
-          "accumulated": 233,
-          "count": 116
+          "accumulated": 232,
+          "count": 115
         },
         {
           "rating": 5,
@@ -1361,8 +1361,8 @@
             "name": "Pattern"
           },
           {
-            "id": 67659,
-            "name": "Others"
+            "id": 101828,
+            "name": "Flannel"
           },
           {
             "id": 67662,
@@ -54917,15 +54917,6 @@
             }
           },
           {
-            "code": "COL59",
-            "displayCode": "59",
-            "name": "DARK GREEN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL69",
             "displayCode": "69",
             "name": "NAVY",
@@ -66030,7 +66021,7 @@
     ],
     "pagination": {
       "count": 300,
-      "total": 385,
+      "total": 384,
       "offset": 300
     }
   }
