@@ -27855,11 +27855,17 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
+              },
+              {
+                "code": "extraLargeStoreOnly",
+                "id": 1,
+                "name": "Made with Recycled Materials",
+                "detail": "Made with Recycled Materials"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "08994855",
+          "l2Id": "08650260",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -32200,15 +32206,15 @@
           }
         ],
         "rating": {
-          "average": 4.52,
-          "count": 157,
+          "average": 4.53,
+          "count": 158,
           "fit": 3.08,
           "rateCount": {
             "one": 10,
             "two": 4,
             "three": 2,
             "four": 19,
-            "five": 122
+            "five": 123
           }
         },
         "representative": {
@@ -32673,14 +32679,14 @@
         ],
         "rating": {
           "average": 4.8,
-          "count": 373,
+          "count": 374,
           "fit": 3.08,
           "rateCount": {
             "one": 4,
             "two": 1,
             "three": 5,
             "four": 46,
-            "five": 317
+            "five": 318
           }
         },
         "representative": {
@@ -35791,13 +35797,13 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
+          "average": 4,
+          "count": 2,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
-            "three": 0,
+            "three": 1,
             "four": 0,
             "five": 1
           }
@@ -42998,13 +43004,13 @@
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480342/sub/goods_480342_sub11_3x4.jpg"
             },
             {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480342/sub/goods_480342_sub12_3x4.jpg"
+            },
+            {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480342/sub/goods_480342_sub13_3x4.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480342/sub/goods_480342_sub14_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480342/sub/goods_480342_sub15_3x4.jpg"
             }
           ],
           "features": [
@@ -49827,14 +49833,14 @@
         ],
         "rating": {
           "average": 4.86,
-          "count": 112,
-          "fit": 3.1,
+          "count": 113,
+          "fit": 3.12,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 2,
             "four": 9,
-            "five": 100
+            "five": 101
           }
         },
         "representative": {
@@ -51533,6 +51539,9 @@
           "sub": [
             {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/471601/sub/ingoods_471601_sub1_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/471601/sub/goods_471601_sub11_3x4.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/471601/sub/goods_471601_sub12_3x4.jpg"
@@ -58234,15 +58243,15 @@
           }
         ],
         "rating": {
-          "average": 4.91,
-          "count": 11,
+          "average": 4.92,
+          "count": 12,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 1,
-            "five": 10
+            "five": 11
           }
         },
         "representative": {
@@ -61472,7 +61481,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 5,
+          "count": 1,
+          "fit": 3,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 0,
+            "five": 1
+          }
+        },
         "representative": {
           "color": {
             "code": "COL03",
