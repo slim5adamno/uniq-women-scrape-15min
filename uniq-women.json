@@ -10003,7 +10003,7 @@
           }
         ],
         "composition": "100% Cotton ( 25% Uses Recycled Cotton Fiber )",
-        "designDetail": "",
+        "designDetail": "- Fit: Regular<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
         "hideReview": false,
@@ -10172,7 +10172,7 @@
           }
         ],
         "composition": "100% Cotton ( 25% Uses Recycled Cotton Fiber )",
-        "designDetail": "",
+        "designDetail": "- Fit: Regular<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
         "hideReview": false,
@@ -10355,7 +10355,7 @@
           }
         ],
         "composition": "100% Cotton ( 25% Uses Recycled Cotton Fiber )",
-        "designDetail": "",
+        "designDetail": "- Fit: Regular<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
         "hideReview": false,
@@ -10702,7 +10702,7 @@
           }
         ],
         "composition": "100% Cotton",
-        "designDetail": "",
+        "designDetail": "- Fit: Relaxed<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
         "hideReview": false,
@@ -10871,7 +10871,7 @@
           }
         ],
         "composition": "100% Cotton",
-        "designDetail": "",
+        "designDetail": "- Fit: Relaxed<br>- Pockets: No Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
         "hideReview": false,
@@ -11043,7 +11043,7 @@
           }
         ],
         "composition": "100% Cotton",
-        "designDetail": "",
+        "designDetail": "- Fit: Relaxed<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Unisex",
         "hideReview": false,
@@ -27325,17 +27325,11 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
-              },
-              {
-                "code": "extraLargeStoreOnly",
-                "id": 1,
-                "name": "Made with Recycled Materials",
-                "detail": "Made with Recycled Materials"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "08650260",
+          "l2Id": "08994855",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -37674,7 +37668,7 @@
           }
         ],
         "composition": "Body: 53% Viscose, 30% Linen, 17% Cotton/ Pocket Lining: 65% Polyester, 35% Cotton",
-        "designDetail": "",
+        "designDetail": "- Sheer: Not Sheer(Only 01 Only 30 Natural/50 Light Green /11 Pink is slightly sheer)<br>- Fit: Regular<br>- Silhouette: Straight<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
         "hideReview": false,
@@ -38145,7 +38139,7 @@
           }
         ],
         "composition": "Body: 56% Cotton, 38% Modal, 6% Elastane/ Rib: 57% Cotton, 38% Modal, 5% Elastane/ Pocket Lining: 60% Cotton, 40% Modal",
-        "designDetail": "",
+        "designDetail": "- Sheer: Not Sheer<br>- Fit: Regular<br>- Silhouette: Straight<br>- Pockets: With Pockets",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
         "hideReview": false,
@@ -59961,7 +59955,7 @@
           }
         ],
         "composition": "76% Viscose, 24% Polyester ( 24% Uses Recycled Polyester Fiber )",
-        "designDetail": "",
+        "designDetail": "- Sheer: Not Sheer(Only 00 White is slightly sheer)<br>- Fit: Relaxed",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
         "hideReview": false,
@@ -60372,7 +60366,7 @@
           }
         ],
         "composition": "76% Viscose, 24% Polyester ( 24% Uses Recycled Polyester Fiber )",
-        "designDetail": "",
+        "designDetail": "- Sheer: Not Sheer<br>- Fit: Relaxed",
         "freeInformation": "- The images shown may include colors that are not available.",
         "genderName": "Women",
         "hideReview": false,
