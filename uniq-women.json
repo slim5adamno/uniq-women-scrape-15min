@@ -1067,6 +1067,10 @@
             "name": "Cotton"
           },
           {
+            "id": 106347,
+            "name": "Shirts"
+          },
+          {
             "id": 19719,
             "name": "HEATTECH"
           },
@@ -1121,10 +1125,6 @@
           {
             "id": 49244,
             "name": "Crew Neck"
-          },
-          {
-            "id": 101816,
-            "name": "Flannel"
           },
           {
             "id": 101786,
@@ -40465,7 +40465,13 @@
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481430/sub/ingoods_481430_sub1_3x4.jpg"
             },
             {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481430/sub/ingoods_481430_sub3_3x4.jpg"
+            },
+            {
               "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481430/sub/ingoods_481430_sub5_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/481430/sub/ingoods_481430_sub6_3x4.jpg"
             },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/481430/sub/goods_481430_sub14_3x4.jpg"
