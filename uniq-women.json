@@ -3117,15 +3117,15 @@
           }
         ],
         "rating": {
-          "average": 4.9,
-          "count": 21,
+          "average": 4.91,
+          "count": 22,
           "fit": 3.14,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 19
+            "five": 20
           }
         },
         "representative": {
@@ -52063,15 +52063,15 @@
           }
         ],
         "rating": {
-          "average": 4.5,
-          "count": 32,
+          "average": 4.52,
+          "count": 33,
           "fit": 2.97,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 4,
             "four": 4,
-            "five": 23
+            "five": 24
           }
         },
         "representative": {
