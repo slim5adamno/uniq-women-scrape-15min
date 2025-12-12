@@ -1434,7 +1434,7 @@
           "features": [
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480916/feature/ingoods_480916_feature1.jpg",
-              "text": "A blend of naturally derived super-fine modal and cotton for a smooth, delicate feel. Cotton blend gusset."
+              "text": "A blend of naturally derived super-fine modal and cotton for a smooth, delicate feel. "
             },
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480916/feature/ingoods_480916_feature3.jpg",
@@ -1580,7 +1580,7 @@
           "features": [
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480914/feature/ingoods_480914_feature1.jpg",
-              "text": "A blend of naturally derived super-fine modal and cotton for a smooth, delicate feel. Cotton blend gusset."
+              "text": "A blend of naturally derived super-fine modal and cotton for a smooth, delicate feel. "
             },
             {
               "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480914/feature/ingoods_480914_feature2.jpg",
@@ -28085,11 +28085,17 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
+              },
+              {
+                "code": "extraLargeStoreOnly",
+                "id": 1,
+                "name": "Made with Recycled Materials",
+                "detail": "Made with Recycled Materials"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "08994909",
+          "l2Id": "08327204",
           "salesStartDate": "",
           "salesEndDate": ""
         },
