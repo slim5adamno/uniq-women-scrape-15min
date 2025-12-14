@@ -51732,15 +51732,15 @@
           }
         ],
         "rating": {
-          "average": 4.53,
-          "count": 34,
+          "average": 4.54,
+          "count": 35,
           "fit": 2.97,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 4,
             "four": 4,
-            "five": 25
+            "five": 26
           }
         },
         "representative": {
@@ -51777,7 +51777,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 34,
+          "total": 35,
           "count": 0,
           "items": []
         },
