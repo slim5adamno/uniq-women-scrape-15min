@@ -448,17 +448,17 @@
         {
           "rating": 0,
           "accumulated": 414,
-          "count": 124
+          "count": 123
         },
         {
           "rating": 0.5,
-          "accumulated": 290,
+          "accumulated": 291,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 290,
-          "count": 2
+          "accumulated": 291,
+          "count": 3
         },
         {
           "rating": 1.5,
