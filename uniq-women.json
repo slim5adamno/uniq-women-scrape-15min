@@ -12227,7 +12227,7 @@
         "composition": "Shell: 100% Polyamide ( 100% Uses Recycled Polyamide Fiber )/ Lining: 100% Polyester/ Filling: 100% Polyester/ Shoulder: 100% Polyester",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Women",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -12439,7 +12439,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Do not wash, Do not Dry Clean, Do not tumble dry."
       },
       {
@@ -12649,7 +12649,7 @@
         "composition": "Shell: 100% Polyamide ( 100% Uses Recycled Polyamide Fiber )/ Lining: 100% Polyester/ Filling: 100% Polyester/ Shoulder: 100% Polyester",
         "designDetail": "",
         "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
-        "genderName": "Women",
+        "genderName": "Unisex",
         "hideReview": false,
         "images": {
           "main": [
@@ -12805,7 +12805,7 @@
             }
           }
         ],
-        "unisexFlag": 0,
+        "unisexFlag": 1,
         "washingInformation": "Do not wash, Do not Dry Clean, Do not tumble dry."
       },
       {
@@ -12824,15 +12824,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
             "display": {
               "showFlag": true,
               "chipType": 0
