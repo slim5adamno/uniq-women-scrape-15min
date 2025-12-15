@@ -32166,15 +32166,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL37",
-            "displayCode": "37",
-            "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL46",
             "displayCode": "46",
             "name": "YELLOW",
