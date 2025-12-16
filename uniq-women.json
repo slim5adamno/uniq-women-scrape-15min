@@ -1032,40 +1032,40 @@
             "name": "Rayon"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 12337,
             "name": "Relax"
           },
           {
-            "id": 108638,
-            "name": "Leggings"
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 101302,
             "name": "Rayon"
           },
           {
-            "id": 49301,
-            "name": "Flannel"
+            "id": 108638,
+            "name": "Leggings"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve"
+            "id": 49301,
+            "name": "Flannel"
           },
           {
             "id": 67601,
             "name": "tapered"
           },
           {
-            "id": 101853,
-            "name": "Cotton Relax"
+            "id": 12196,
+            "name": "Short Sleeve"
           },
           {
             "id": 23511,
             "name": "Shoulder Bags"
+          },
+          {
+            "id": 101853,
+            "name": "Cotton Relax"
           },
           {
             "id": 101851,
@@ -1148,20 +1148,20 @@
             "name": "Unisex"
           },
           {
-            "id": 86790,
-            "name": "Sleeveless"
-          },
-          {
             "id": 108640,
             "name": "Glove"
           },
           {
-            "id": 108641,
-            "name": "Scarf"
+            "id": 86790,
+            "name": "Sleeveless"
           },
           {
             "id": 125511,
             "name": "Boxy"
+          },
+          {
+            "id": 108641,
+            "name": "Scarf"
           },
           {
             "id": 114886,
@@ -1196,12 +1196,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
             "id": 13084,
             "name": "Jackets"
+          },
+          {
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 104423,
@@ -25305,7 +25305,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "09129401",
+          "l2Id": "09129402",
           "salesStartDate": "",
           "salesEndDate": ""
         },
