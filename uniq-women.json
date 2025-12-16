@@ -431,7 +431,7 @@
         {
           "from": 2000,
           "to": 3000,
-          "count": 91
+          "count": 92
         },
         {
           "from": 3000,
@@ -447,8 +447,8 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 409,
-          "count": 122
+          "accumulated": 410,
+          "count": 123
         },
         {
           "rating": 0.5,
@@ -65340,15 +65340,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "100% Cotton",
@@ -66523,7 +66514,7 @@
     ],
     "pagination": {
       "count": 300,
-      "total": 409,
+      "total": 410,
       "offset": 300
     }
   }
