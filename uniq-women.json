@@ -8763,14 +8763,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 4,
-          "fit": 3.5,
+          "count": 5,
+          "fit": 3.4,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 4
+            "five": 5
           }
         },
         "representative": {
@@ -8807,7 +8807,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 4,
+          "total": 5,
           "count": 0,
           "items": []
         },
@@ -24432,14 +24432,14 @@
         ],
         "rating": {
           "average": 4.91,
-          "count": 65,
+          "count": 66,
           "fit": 3.2,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 4,
-            "five": 60
+            "five": 61
           }
         },
         "representative": {
@@ -24482,7 +24482,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 65,
+          "total": 66,
           "count": 0,
           "items": []
         },
@@ -36244,14 +36244,14 @@
         ],
         "rating": {
           "average": 4.8,
-          "count": 387,
+          "count": 388,
           "fit": 3.09,
           "rateCount": {
             "one": 4,
             "two": 1,
             "three": 5,
             "four": 47,
-            "five": 330
+            "five": 331
           }
         },
         "representative": {
@@ -36288,7 +36288,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 325,
+          "total": 326,
           "count": 0,
           "items": []
         },
@@ -48377,14 +48377,14 @@
         ],
         "rating": {
           "average": 4.91,
-          "count": 22,
-          "fit": 2.95,
+          "count": 23,
+          "fit": 2.96,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 2,
-            "five": 20
+            "five": 21
           }
         },
         "representative": {
@@ -48421,7 +48421,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 22,
+          "total": 23,
           "count": 0,
           "items": []
         },
@@ -57003,15 +57003,15 @@
           }
         ],
         "rating": {
-          "average": 4.54,
-          "count": 35,
+          "average": 4.57,
+          "count": 37,
           "fit": 2.97,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 4,
             "four": 4,
-            "five": 26
+            "five": 28
           }
         },
         "representative": {
@@ -57048,7 +57048,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 35,
+          "total": 37,
           "count": 0,
           "items": []
         },
@@ -57535,14 +57535,14 @@
         ],
         "rating": {
           "average": 4.77,
-          "count": 30,
+          "count": 31,
           "fit": 3.1,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 1,
             "four": 2,
-            "five": 26
+            "five": 27
           }
         },
         "representative": {
@@ -57585,7 +57585,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 30,
+          "total": 31,
           "count": 0,
           "items": []
         },
@@ -61559,14 +61559,14 @@
           }
         ],
         "rating": {
-          "average": 5,
-          "count": 1,
-          "fit": 2,
+          "average": 4.5,
+          "count": 2,
+          "fit": 2.5,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
-            "four": 0,
+            "four": 1,
             "five": 1
           }
         },
@@ -61604,7 +61604,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 1,
+          "total": 2,
           "count": 0,
           "items": []
         },
