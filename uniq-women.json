@@ -36773,7 +36773,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1390.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E450179-000",
@@ -36819,10 +36819,10 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until Dec 25"
               }
             ],
             "productFlags": [
@@ -37245,7 +37245,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1390.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E442063-000",
@@ -37291,10 +37291,10 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until Dec 25"
               }
             ],
             "productFlags": [
@@ -53609,7 +53609,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1790.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E477039-000",
@@ -53655,10 +53655,10 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until Dec 25"
               }
             ],
             "productFlags": [
@@ -55919,7 +55919,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1790.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E473992-000",
@@ -55965,10 +55965,10 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until Dec 25"
               }
             ],
             "productFlags": [
@@ -56142,7 +56142,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1790.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E473988-000",
@@ -56188,10 +56188,10 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until Dec 25"
               }
             ],
             "productFlags": [
@@ -56441,7 +56441,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1790.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E473984-000",
@@ -56487,10 +56487,10 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until Dec 25"
               }
             ],
             "productFlags": [
