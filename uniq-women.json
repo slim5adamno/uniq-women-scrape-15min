@@ -1236,6 +1236,10 @@
             "name": "Blouson"
           },
           {
+            "id": 31222,
+            "name": "Others"
+          },
+          {
             "id": 106314,
             "name": "Outerwear"
           },
@@ -1264,12 +1268,16 @@
             "name": "Others"
           },
           {
-            "id": 106320,
-            "name": "Skirt"
+            "id": 49282,
+            "name": "Leggings"
           },
           {
             "id": 101841,
             "name": "sleeveless"
+          },
+          {
+            "id": 49251,
+            "name": "Unisex"
           },
           {
             "id": 106330,
@@ -1372,10 +1380,6 @@
             "name": "Crew Neck"
           },
           {
-            "id": 95889,
-            "name": "Turtle Neck"
-          },
-          {
             "id": 12265,
             "name": "Long Sleeve"
           },
@@ -1386,10 +1390,6 @@
           {
             "id": 67620,
             "name": "Pattern"
-          },
-          {
-            "id": 31139,
-            "name": "Mini"
           }
         ]
       }
@@ -3027,15 +3027,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -16988,6 +16979,183 @@
           }
         ],
         "unisexFlag": 0,
+        "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
+      },
+      {
+        "careInstruction": "<br>",
+        "colors": [
+          {
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "composition": "100% Cotton",
+        "designDetail": "- Fit: Relaxed<br>- Pockets: No Pockets",
+        "freeInformation": "- The images shown may include colors that are not available.",
+        "genderName": "Unisex",
+        "hideReview": false,
+        "images": {
+          "main": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/482751/item/ingoods_00_482751_3x4.jpg",
+              "colorCode": "00"
+            }
+          ],
+          "chip": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482751/chip/goods_00_482751_chip.jpg",
+              "colorCode": "00"
+            }
+          ],
+          "sub": [
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/482751/sub/ingoods_482751_sub6_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482751/sub/goods_482751_sub14_3x4.jpg"
+            },
+            {
+              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482751/sub/goods_482751_sub15_3x4.jpg"
+            }
+          ]
+        },
+        "l1Id": "482751",
+        "longDescription": "PEANUTS<br><br>Peanuts, the internationally-beloved comic strip, was created by Charles Schulz 75 years ago in 1950. The comic has been translated into 25 languages, appeared in more than 2,600 newspapers, in 75 countries. Peanuts follows Charlie Brown, his beagle, Snoopy, and their friends, as together they laugh, have adventures, and learn lessons about life and friendship.<br><br>©2025 Peanuts Worldwide LLC",
+        "name": "PEANUTS UT (Graphic T-Shirt)",
+        "prices": {
+          "base": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1490.0000"
+          },
+          "promo": {
+            "currency": {
+              "code": "INR",
+              "symbol": "Rs."
+            },
+            "value": "1390.0000"
+          }
+        },
+        "productId": "E482751-000",
+        "plds": [
+          {
+            "code": "PTB000",
+            "displayCode": "000",
+            "displayOrder": 1,
+            "name": "-",
+            "isDummy": false,
+            "states": [
+              "display"
+            ],
+            "display": {
+              "showFlag": false,
+              "chipType": 0
+            }
+          }
+        ],
+        "rating": {},
+        "representative": {
+          "color": {
+            "code": "COL00",
+            "displayCode": "00",
+            "name": "WHITE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          "flags": {
+            "priceFlags": [
+              {
+                "code": "discount",
+                "id": 12,
+                "name": "Sale",
+                "detail": "Sale"
+              }
+            ],
+            "productFlags": [
+              {
+                "code": "newPrice",
+                "id": 4,
+                "name": "Reduced GST Price",
+                "detail": "Reduced GST Price"
+              },
+              {
+                "code": "comingSoon",
+                "id": 13,
+                "name": "Coming Soon",
+                "detail": "Available late Dec"
+              }
+            ]
+          },
+          "isFavorite": false,
+          "l2Id": "09014000",
+          "salesStartDate": "",
+          "salesEndDate": ""
+        },
+        "reviews": {
+          "total": 0,
+          "count": 0,
+          "items": []
+        },
+        "shortDescription": "",
+        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/482751_size.html",
+        "sizeInformation": "",
+        "sizes": [
+          {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA004",
+            "displayCode": "004",
+            "name": "M",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA005",
+            "displayCode": "005",
+            "name": "L",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA006",
+            "displayCode": "006",
+            "name": "XL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "SMA007",
+            "displayCode": "007",
+            "name": "XXL",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          }
+        ],
+        "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
       },
       {
@@ -48826,15 +48994,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -59474,158 +59633,6 @@
         },
         "shortDescription": "",
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/482834001_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Do not wash, Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Shell: 67% Polyester, 33% Wool/ Lining: 100% Polyester",
-        "designDetail": "- Sheer: Not Sheer<br>- Pockets: No Pockets",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Women",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/482834/item/ingoods_07_482834_3x4.jpg",
-              "colorCode": "07"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/482834/item/ingoods_39_482834_3x4.jpg",
-              "colorCode": "39"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482834/chip/goods_07_482834_chip.jpg",
-              "colorCode": "07"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482834/chip/goods_39_482834_chip.jpg",
-              "colorCode": "39"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/482834/sub/goods_482834_sub14_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/482834/feature/ingoods_482834_feature1.jpg",
-              "text": "Warm wool blend fabric."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/482834/feature/ingoods_482834_feature2.jpg",
-              "text": "Skort combines a skirt look with a shorts-style lining on the inside for peace of mind."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/482834/feature/ingoods_482834_feature5.jpg",
-              "text": "UNIQLO : C"
-            }
-          ]
-        },
-        "l1Id": "482834",
-        "longDescription": "- Asymmetrical peplum design.",
-        "name": "Flare Skort",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
-          }
-        },
-        "productId": "E482834-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {},
-        "representative": {
-          "color": {
-            "code": "COL07",
-            "displayCode": "07",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "limitedStore",
-                "id": 3,
-                "name": "Limited Store",
-                "detail": "Limited Store"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "08784246",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 0,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/482834_size.html",
         "sizeInformation": "",
         "sizes": [
           {
