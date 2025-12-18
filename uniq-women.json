@@ -441,7 +441,7 @@
         {
           "from": 2000,
           "to": 3000,
-          "count": 102
+          "count": 101
         },
         {
           "from": 3000,
@@ -457,8 +457,8 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 442,
-          "count": 144
+          "accumulated": 441,
+          "count": 143
         },
         {
           "rating": 0.5,
@@ -33171,14 +33171,14 @@
         ],
         "rating": {
           "average": 4.79,
-          "count": 825,
+          "count": 827,
           "fit": 3.11,
           "rateCount": {
             "one": 21,
             "two": 1,
             "three": 8,
             "four": 68,
-            "five": 727
+            "five": 729
           }
         },
         "representative": {
@@ -49905,15 +49905,15 @@
           }
         ],
         "rating": {
-          "average": 4.86,
-          "count": 14,
-          "fit": 2.86,
+          "average": 4.75,
+          "count": 16,
+          "fit": 2.81,
           "rateCount": {
             "one": 0,
             "two": 0,
-            "three": 0,
+            "three": 1,
             "four": 2,
-            "five": 12
+            "five": 13
           }
         },
         "representative": {
@@ -53162,15 +53162,15 @@
           }
         ],
         "rating": {
-          "average": 4.36,
-          "count": 11,
-          "fit": 3.27,
+          "average": 4.42,
+          "count": 12,
+          "fit": 3.25,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 3,
-            "five": 7
+            "five": 8
           }
         },
         "representative": {
@@ -61282,15 +61282,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
@@ -65478,7 +65469,7 @@
     ],
     "pagination": {
       "count": 300,
-      "total": 442,
+      "total": 441,
       "offset": 300
     }
   }
