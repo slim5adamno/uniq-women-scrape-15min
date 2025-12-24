@@ -3327,7 +3327,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 16,
+          "total": 17,
           "count": 0,
           "items": []
         },
@@ -26778,14 +26778,14 @@
         ],
         "rating": {
           "average": 4.92,
-          "count": 71,
+          "count": 72,
           "fit": 3.21,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 1,
             "four": 4,
-            "five": 66
+            "five": 67
           }
         },
         "representative": {
@@ -26828,7 +26828,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 71,
+          "total": 72,
           "count": 0,
           "items": []
         },
@@ -33371,7 +33371,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 66,
+          "total": 67,
           "count": 0,
           "items": []
         },
@@ -33845,14 +33845,14 @@
         ],
         "rating": {
           "average": 4.79,
-          "count": 841,
+          "count": 842,
           "fit": 3.11,
           "rateCount": {
             "one": 22,
             "two": 1,
             "three": 8,
             "four": 69,
-            "five": 741
+            "five": 742
           }
         },
         "representative": {
@@ -33895,7 +33895,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 841,
+          "total": 842,
           "count": 0,
           "items": []
         },
@@ -55755,15 +55755,15 @@
           }
         ],
         "rating": {
-          "average": 4.46,
-          "count": 13,
-          "fit": 3.23,
+          "average": 4.5,
+          "count": 14,
+          "fit": 3.21,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 3,
-            "five": 9
+            "five": 10
           }
         },
         "representative": {
@@ -55800,7 +55800,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 14,
           "count": 0,
           "items": []
         },
