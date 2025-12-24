@@ -453,42 +453,42 @@
         {
           "rating": 0,
           "accumulated": 419,
-          "count": 145
+          "count": 144
         },
         {
           "rating": 0.5,
-          "accumulated": 274,
+          "accumulated": 275,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 274,
+          "accumulated": 275,
           "count": 3
         },
         {
           "rating": 1.5,
-          "accumulated": 271,
+          "accumulated": 272,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 271,
+          "accumulated": 272,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 270,
+          "accumulated": 271,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 270,
+          "accumulated": 271,
           "count": 2
         },
         {
           "rating": 3.5,
-          "accumulated": 268,
-          "count": 3
+          "accumulated": 269,
+          "count": 4
         },
         {
           "rating": 4,
@@ -34341,7 +34341,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08091909",
+          "l2Id": "08091910",
           "salesStartDate": "",
           "salesEndDate": ""
         },
