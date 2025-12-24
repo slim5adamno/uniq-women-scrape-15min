@@ -446,14 +446,14 @@
         {
           "from": 4000,
           "to": 0,
-          "count": 21
+          "count": 20
         }
       ],
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 421,
-          "count": 145
+          "accumulated": 420,
+          "count": 144
         },
         {
           "rating": 0.5,
@@ -65745,7 +65745,7 @@
     ],
     "pagination": {
       "count": 300,
-      "total": 421,
+      "total": 420,
       "offset": 300
     }
   }
