@@ -23814,7 +23814,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1390.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E481026-000",
@@ -26345,7 +26345,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1390.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E479588-000",
@@ -51655,7 +51655,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1790.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E481486-000",
@@ -54206,7 +54206,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1790.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E478861-000",
@@ -54661,7 +54661,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1790.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E478849-000",
@@ -65444,15 +65444,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
