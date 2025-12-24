@@ -493,17 +493,17 @@
         {
           "rating": 4,
           "accumulated": 266,
-          "count": 25
+          "count": 24
         },
         {
           "rating": 4.5,
-          "accumulated": 241,
-          "count": 114
+          "accumulated": 242,
+          "count": 116
         },
         {
           "rating": 5,
-          "accumulated": 127,
-          "count": 127
+          "accumulated": 126,
+          "count": 126
         }
       ],
       "sizes": [
