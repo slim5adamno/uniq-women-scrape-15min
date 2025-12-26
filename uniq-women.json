@@ -3817,7 +3817,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "590.0000"
+            "value": "1390.0000"
           }
         },
         "productId": "E465191-000",
@@ -3852,9 +3852,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
+            "code": "COL22",
+            "displayCode": "22",
+            "name": "ORANGE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -3885,7 +3885,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08346419",
+          "l2Id": "08346446",
           "salesStartDate": "",
           "salesEndDate": ""
         },
