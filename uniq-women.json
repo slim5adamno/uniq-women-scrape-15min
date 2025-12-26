@@ -495,22 +495,22 @@
         {
           "rating": 3.5,
           "accumulated": 280,
-          "count": 4
+          "count": 5
         },
         {
           "rating": 4,
-          "accumulated": 276,
+          "accumulated": 275,
           "count": 24
         },
         {
           "rating": 4.5,
-          "accumulated": 252,
+          "accumulated": 251,
           "count": 129
         },
         {
           "rating": 5,
-          "accumulated": 123,
-          "count": 123
+          "accumulated": 122,
+          "count": 122
         }
       ],
       "sizes": [
