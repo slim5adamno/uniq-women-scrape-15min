@@ -460,17 +460,17 @@
         {
           "rating": 0,
           "accumulated": 442,
-          "count": 146
+          "count": 145
         },
         {
           "rating": 0.5,
-          "accumulated": 296,
+          "accumulated": 297,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 296,
-          "count": 3
+          "accumulated": 297,
+          "count": 4
         },
         {
           "rating": 1.5,
