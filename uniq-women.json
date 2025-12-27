@@ -41379,15 +41379,15 @@
           }
         ],
         "rating": {
-          "average": 4.5,
-          "count": 14,
-          "fit": 3.21,
+          "average": 4.53,
+          "count": 15,
+          "fit": 3.2,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 3,
-            "five": 10
+            "five": 11
           }
         },
         "representative": {
@@ -41424,7 +41424,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 14,
+          "total": 15,
           "count": 0,
           "items": []
         },
