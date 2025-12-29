@@ -984,12 +984,12 @@
             "name": "Crew Neck"
           },
           {
-            "id": 113764,
-            "name": "Cotton"
-          },
-          {
             "id": 108636,
             "name": "Boat Neck"
+          },
+          {
+            "id": 113764,
+            "name": "Cotton"
           },
           {
             "id": 114881,
@@ -1024,48 +1024,48 @@
             "name": "Jacket"
           },
           {
-            "id": 101811,
-            "name": "Wool"
-          },
-          {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 108638,
             "name": "Leggings"
-          },
-          {
-            "id": 12337,
-            "name": "Relax"
           },
           {
             "id": 101302,
             "name": "Rayon"
           },
           {
-            "id": 49301,
-            "name": "Flannel"
+            "id": 12337,
+            "name": "Relax"
           },
           {
-            "id": 12196,
-            "name": "Short Sleeve"
+            "id": 12199,
+            "name": "Long Sleeve"
+          },
+          {
+            "id": 101811,
+            "name": "Wool"
           },
           {
             "id": 67601,
             "name": "tapered"
           },
           {
+            "id": 49301,
+            "name": "Flannel"
+          },
+          {
             "id": 113691,
             "name": "Linen"
           },
           {
-            "id": 23511,
-            "name": "Shoulder Bags"
+            "id": 12196,
+            "name": "Short Sleeve"
           },
           {
             "id": 101853,
             "name": "Cotton Relax"
+          },
+          {
+            "id": 23511,
+            "name": "Shoulder Bags"
           },
           {
             "id": 12297,
@@ -1140,36 +1140,36 @@
             "name": "Unisex"
           },
           {
-            "id": 125510,
-            "name": "Long Sleeve"
+            "id": 108640,
+            "name": "Glove"
           },
           {
             "id": 101840,
             "name": "HEATTECH"
           },
           {
-            "id": 108640,
-            "name": "Glove"
+            "id": 125510,
+            "name": "Long Sleeve"
           },
           {
             "id": 86790,
             "name": "Sleeveless"
           },
           {
-            "id": 108641,
-            "name": "Scarf"
-          },
-          {
             "id": 125511,
             "name": "Boxy"
           },
           {
-            "id": 114886,
-            "name": "Shorts"
+            "id": 108641,
+            "name": "Scarf"
           },
           {
             "id": 86791,
             "name": "Camisole"
+          },
+          {
+            "id": 114886,
+            "name": "Shorts"
           },
           {
             "id": 125512,
@@ -1220,12 +1220,12 @@
             "name": "Others"
           },
           {
-            "id": 106314,
-            "name": "Outerwear"
-          },
-          {
             "id": 101787,
             "name": "Sweat Shirt"
+          },
+          {
+            "id": 106314,
+            "name": "Outerwear"
           },
           {
             "id": 67580,
