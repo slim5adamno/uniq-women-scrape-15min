@@ -30253,9 +30253,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL02",
-            "displayCode": "02",
-            "name": "LIGHT GRAY",
+            "code": "COL10",
+            "displayCode": "10",
+            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -30276,11 +30276,17 @@
                 "id": 4,
                 "name": "Reduced GST Price",
                 "detail": "Reduced GST Price"
+              },
+              {
+                "code": "newSKU",
+                "id": 7,
+                "name": "New Color",
+                "detail": "New Color"
               }
             ]
           },
           "isFavorite": false,
-          "l2Id": "08988970",
+          "l2Id": "09248010",
           "salesStartDate": "",
           "salesEndDate": ""
         },
