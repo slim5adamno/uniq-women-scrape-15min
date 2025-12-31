@@ -498,12 +498,12 @@
         {
           "rating": 4,
           "accumulated": 280,
-          "count": 24
+          "count": 25
         },
         {
           "rating": 4.5,
-          "accumulated": 256,
-          "count": 128
+          "accumulated": 255,
+          "count": 127
         },
         {
           "rating": 5,
@@ -42567,9 +42567,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
+            "code": "COL01",
+            "displayCode": "01",
+            "name": "OFF WHITE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -42594,7 +42594,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08772593",
+          "l2Id": "08772569",
           "salesStartDate": "",
           "salesEndDate": ""
         },
