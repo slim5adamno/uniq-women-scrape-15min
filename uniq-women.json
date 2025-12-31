@@ -458,37 +458,37 @@
         {
           "rating": 0,
           "accumulated": 442,
-          "count": 149
+          "count": 148
         },
         {
           "rating": 0.5,
-          "accumulated": 293,
+          "accumulated": 294,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 293,
+          "accumulated": 294,
           "count": 4
         },
         {
           "rating": 1.5,
-          "accumulated": 289,
+          "accumulated": 290,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 289,
+          "accumulated": 290,
           "count": 1
         },
         {
           "rating": 2.5,
-          "accumulated": 288,
+          "accumulated": 289,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 288,
-          "count": 2
+          "accumulated": 289,
+          "count": 3
         },
         {
           "rating": 3.5,
