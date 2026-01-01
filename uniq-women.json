@@ -35180,7 +35180,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "1390.0000"
+            "value": "990.0000"
           }
         },
         "productId": "E450179-000",
@@ -35226,10 +35226,10 @@
           "flags": {
             "priceFlags": [
               {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
+                "code": "limitedOffer",
+                "id": 10,
+                "name": "Limited Offer",
+                "detail": "Limited Offer Until Jan 8"
               }
             ],
             "productFlags": [
@@ -56245,15 +56245,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL10",
-            "displayCode": "10",
-            "name": "PINK",
             "display": {
               "showFlag": true,
               "chipType": 0
