@@ -436,7 +436,7 @@
         {
           "from": 2000,
           "to": 3000,
-          "count": 109
+          "count": 108
         },
         {
           "from": 3000,
@@ -452,8 +452,8 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 429,
-          "count": 147
+          "accumulated": 428,
+          "count": 146
         },
         {
           "rating": 0.5,
@@ -493,17 +493,17 @@
         {
           "rating": 4,
           "accumulated": 268,
-          "count": 25
+          "count": 26
         },
         {
           "rating": 4.5,
-          "accumulated": 243,
+          "accumulated": 242,
           "count": 121
         },
         {
           "rating": 5,
-          "accumulated": 122,
-          "count": 122
+          "accumulated": 121,
+          "count": 121
         }
       ],
       "sizes": [
@@ -949,10 +949,6 @@
           {
             "id": 101728,
             "name": "Innerwear"
-          },
-          {
-            "id": 131723,
-            "name": "KAWS WINTER"
           },
           {
             "id": 106283,
@@ -65933,7 +65929,7 @@
     ],
     "pagination": {
       "count": 300,
-      "total": 429,
+      "total": 428,
       "offset": 300
     }
   }
