@@ -986,10 +986,6 @@
             "name": "Unisex"
           },
           {
-            "id": 11607,
-            "name": "Others"
-          },
-          {
             "id": 101751,
             "name": "Ultra Light Down"
           },
@@ -1200,6 +1196,10 @@
           {
             "id": 31139,
             "name": "Mini"
+          },
+          {
+            "id": 67657,
+            "name": "Relax"
           },
           {
             "id": 101872,
