@@ -818,16 +818,16 @@
             "name": "Flannel"
           },
           {
-            "id": 113761,
-            "name": "Linen"
-          },
-          {
             "id": 114930,
             "name": "Long Sleeve"
           },
           {
             "id": 108634,
             "name": "Crew Neck"
+          },
+          {
+            "id": 113761,
+            "name": "Linen"
           },
           {
             "id": 114931,
@@ -866,18 +866,6 @@
             "name": "Short Sleeve"
           },
           {
-            "id": 114872,
-            "name": "Others"
-          },
-          {
-            "id": 101302,
-            "name": "Rayon"
-          },
-          {
-            "id": 101811,
-            "name": "Wool"
-          },
-          {
             "id": 12199,
             "name": "Long Sleeve"
           },
@@ -886,16 +874,28 @@
             "name": "Jacket"
           },
           {
+            "id": 101811,
+            "name": "Wool"
+          },
+          {
+            "id": 114872,
+            "name": "Others"
+          },
+          {
+            "id": 101302,
+            "name": "Rayon"
+          },
+          {
             "id": 113691,
             "name": "Linen"
           },
           {
-            "id": 67601,
-            "name": "tapered"
-          },
-          {
             "id": 49301,
             "name": "Flannel"
+          },
+          {
+            "id": 67601,
+            "name": "tapered"
           },
           {
             "id": 12299,
@@ -910,12 +910,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 101789,
-            "name": "Three Quarter Sleeve"
-          },
-          {
             "id": 53734,
             "name": "others"
+          },
+          {
+            "id": 101789,
+            "name": "Three Quarter Sleeve"
           },
           {
             "id": 12300,
@@ -1002,28 +1002,28 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 101825,
-            "name": "Warm Pants"
-          },
-          {
             "id": 106305,
             "name": "Outerwear"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
+            "id": 101825,
+            "name": "Warm Pants"
           },
           {
             "id": 13084,
             "name": "Jackets"
           },
           {
-            "id": 106309,
-            "name": "Shirts"
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 101826,
             "name": "Others"
+          },
+          {
+            "id": 106309,
+            "name": "Shirts"
           },
           {
             "id": 106310,
@@ -1042,16 +1042,16 @@
             "name": "Blouson"
           },
           {
+            "id": 101787,
+            "name": "Sweat Shirt"
+          },
+          {
             "id": 106314,
             "name": "Outerwear"
           },
           {
             "id": 101771,
             "name": "Double Face"
-          },
-          {
-            "id": 101787,
-            "name": "Sweat Shirt"
           },
           {
             "id": 12362,
@@ -1094,12 +1094,12 @@
             "name": "Museum of Fine Arts Boston Ukiyo-e"
           },
           {
-            "id": 129469,
-            "name": "POP MART"
-          },
-          {
             "id": 67607,
             "name": "Wide"
+          },
+          {
+            "id": 129469,
+            "name": "POP MART"
           },
           {
             "id": 12143,
