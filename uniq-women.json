@@ -25237,9 +25237,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL36",
-            "displayCode": "36",
-            "name": "BROWN",
+            "code": "COL30",
+            "displayCode": "30",
+            "name": "NATURAL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -25257,7 +25257,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08736556",
+          "l2Id": "08736574",
           "salesStartDate": "",
           "salesEndDate": ""
         },
