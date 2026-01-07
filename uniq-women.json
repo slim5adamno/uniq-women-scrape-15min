@@ -432,17 +432,17 @@
         {
           "rating": 4,
           "accumulated": 124,
-          "count": 14
+          "count": 15
         },
         {
           "rating": 4.5,
-          "accumulated": 110,
-          "count": 59
+          "accumulated": 109,
+          "count": 60
         },
         {
           "rating": 5,
-          "accumulated": 51,
-          "count": 51
+          "accumulated": 49,
+          "count": 49
         }
       ],
       "sizes": [
@@ -824,16 +824,12 @@
         ],
         "subcategories": [
           {
-            "id": 114933,
-            "name": "Others"
-          },
-          {
             "id": 113762,
             "name": "Flannel"
           },
           {
-            "id": 114930,
-            "name": "Long Sleeve"
+            "id": 114933,
+            "name": "Others"
           },
           {
             "id": 108634,
@@ -844,16 +840,20 @@
             "name": "Linen"
           },
           {
+            "id": 114930,
+            "name": "Long Sleeve"
+          },
+          {
             "id": 114931,
             "name": "Short Sleeve"
           },
           {
-            "id": 108636,
-            "name": "Boat Neck"
-          },
-          {
             "id": 113764,
             "name": "Cotton"
+          },
+          {
+            "id": 108636,
+            "name": "Boat Neck"
           },
           {
             "id": 113765,
@@ -880,10 +880,6 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 128615,
-            "name": "Jacket"
-          },
-          {
             "id": 101811,
             "name": "Wool"
           },
@@ -892,16 +888,20 @@
             "name": "Rayon"
           },
           {
-            "id": 113691,
-            "name": "Linen"
+            "id": 128615,
+            "name": "Jacket"
+          },
+          {
+            "id": 67601,
+            "name": "tapered"
           },
           {
             "id": 49301,
             "name": "Flannel"
           },
           {
-            "id": 67601,
-            "name": "tapered"
+            "id": 113691,
+            "name": "Linen"
           },
           {
             "id": 12299,
@@ -916,12 +916,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 53734,
-            "name": "others"
-          },
-          {
             "id": 101789,
             "name": "Three Quarter Sleeve"
+          },
+          {
+            "id": 53734,
+            "name": "others"
           },
           {
             "id": 12300,
@@ -940,12 +940,12 @@
             "name": "Straight"
           },
           {
-            "id": 12296,
-            "name": "Sweat"
-          },
-          {
             "id": 113694,
             "name": "Unisex"
+          },
+          {
+            "id": 12296,
+            "name": "Sweat"
           },
           {
             "id": 12201,
@@ -976,12 +976,12 @@
             "name": "Others"
           },
           {
-            "id": 101747,
-            "name": "Ultra Light Down Relaxed"
-          },
-          {
             "id": 125512,
             "name": "Unisex"
+          },
+          {
+            "id": 101747,
+            "name": "Ultra Light Down Relaxed"
           },
           {
             "id": 11607,
@@ -1056,12 +1056,12 @@
             "name": "Double Face"
           },
           {
-            "id": 12362,
-            "name": "Extra Warm"
-          },
-          {
             "id": 106315,
             "name": "Shirts"
+          },
+          {
+            "id": 12362,
+            "name": "Extra Warm"
           },
           {
             "id": 19829,
@@ -1100,12 +1100,12 @@
             "name": "Museum of Fine Arts Boston Ukiyo-e"
           },
           {
-            "id": 67607,
-            "name": "Wide"
-          },
-          {
             "id": 129469,
             "name": "POP MART"
+          },
+          {
+            "id": 67607,
+            "name": "Wide"
           },
           {
             "id": 12143,
@@ -32008,9 +32008,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL61",
-            "displayCode": "61",
-            "name": "BLUE",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -32035,7 +32035,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08829308",
+          "l2Id": "08687059",
           "salesStartDate": "",
           "salesEndDate": ""
         },
