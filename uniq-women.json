@@ -472,11 +472,6 @@
           "name": "28inch"
         },
         {
-          "code": "INS029",
-          "displayCode": "029",
-          "name": "29inch"
-        },
-        {
           "code": "INS036",
           "displayCode": "036",
           "name": "36inch"
@@ -3075,15 +3070,6 @@
       {
         "careInstruction": "<br>",
         "colors": [
-          {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "COL09",
             "displayCode": "09",
@@ -11538,15 +11524,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "[01 OFF WHITE, 63 BLUE, 68 BLUE] Body: 100% Cotton/ Pocket Lining: 100% Cotton [09 BLACK] Body: 100% Cotton/ Pocket Lining: 65% Polyester, 35% Cotton",
@@ -11721,15 +11698,6 @@
             "code": "INS028",
             "displayCode": "028",
             "name": "28inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "INS029",
-            "displayCode": "029",
-            "name": "29inch",
             "display": {
               "showFlag": true,
               "chipType": 1
@@ -17634,9 +17602,6 @@
             }
           ],
           "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469746/sub/goods_469746_sub13_3x4.jpg"
-            },
             {
               "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469746/sub/goods_469746_sub14_3x4.jpg"
             },
