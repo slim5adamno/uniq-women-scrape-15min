@@ -20902,7 +20902,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08333976",
+          "l2Id": "08333977",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -31570,9 +31570,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
+            "code": "COL69",
+            "displayCode": "69",
+            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -31597,7 +31597,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08732562",
+          "l2Id": "08732555",
           "salesStartDate": "",
           "salesEndDate": ""
         },
