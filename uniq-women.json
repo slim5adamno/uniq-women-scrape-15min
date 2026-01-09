@@ -793,6 +793,10 @@
             "name": "Soft Brushed"
           },
           {
+            "id": 101811,
+            "name": "Wool"
+          },
+          {
             "id": 12199,
             "name": "Long Sleeve"
           },
@@ -801,8 +805,8 @@
             "name": "Others"
           },
           {
-            "id": 101811,
-            "name": "Wool"
+            "id": 113691,
+            "name": "Linen"
           },
           {
             "id": 67601,
@@ -811,10 +815,6 @@
           {
             "id": 49301,
             "name": "Flannel"
-          },
-          {
-            "id": 113691,
-            "name": "Linen"
           },
           {
             "id": 106344,
@@ -861,12 +861,12 @@
             "name": "EZY"
           },
           {
-            "id": 12296,
-            "name": "Sweat"
-          },
-          {
             "id": 113694,
             "name": "Unisex"
+          },
+          {
+            "id": 12296,
+            "name": "Sweat"
           },
           {
             "id": 12201,
@@ -897,12 +897,12 @@
             "name": "Shorts"
           },
           {
-            "id": 125512,
-            "name": "Unisex"
-          },
-          {
             "id": 101747,
             "name": "Ultra Light Down Relaxed"
+          },
+          {
+            "id": 125512,
+            "name": "Unisex"
           },
           {
             "id": 11607,
@@ -925,20 +925,20 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 101825,
-            "name": "Warm Pants"
-          },
-          {
             "id": 106305,
             "name": "Outerwear"
           },
           {
-            "id": 13084,
-            "name": "Ines de la Fressange"
+            "id": 101825,
+            "name": "Warm Pants"
           },
           {
             "id": 106306,
             "name": "Bottoms"
+          },
+          {
+            "id": 13084,
+            "name": "Ines de la Fressange"
           },
           {
             "id": 106309,
@@ -1009,20 +1009,20 @@
             "name": "Relaxed"
           },
           {
-            "id": 109446,
-            "name": "Museum of Fine Arts Boston Ukiyo-e"
-          },
-          {
             "id": 113676,
             "name": "Bottoms"
           },
           {
-            "id": 129469,
-            "name": "POP MART"
+            "id": 109446,
+            "name": "Museum of Fine Arts Boston Ukiyo-e"
           },
           {
             "id": 67607,
             "name": "Wide"
+          },
+          {
+            "id": 129469,
+            "name": "POP MART"
           },
           {
             "id": 12143,
