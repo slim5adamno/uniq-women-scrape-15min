@@ -272,11 +272,6 @@
           "code": "COL76",
           "displayCode": "76",
           "name": "PURPLE"
-        },
-        {
-          "code": "COL79",
-          "displayCode": "79",
-          "name": "DARK PURPLE"
         }
       ],
       "flags": [
@@ -323,7 +318,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 33
+          "count": 32
         },
         {
           "from": 1000,
@@ -349,53 +344,53 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 141,
+          "accumulated": 140,
           "count": 33
         },
         {
           "rating": 0.5,
-          "accumulated": 108,
+          "accumulated": 107,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 108,
+          "accumulated": 107,
           "count": 1
         },
         {
           "rating": 1.5,
-          "accumulated": 107,
+          "accumulated": 106,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 107,
+          "accumulated": 106,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 107,
+          "accumulated": 106,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 107,
+          "accumulated": 106,
           "count": 0
         },
         {
           "rating": 3.5,
-          "accumulated": 107,
+          "accumulated": 106,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 106,
+          "accumulated": 105,
           "count": 11
         },
         {
           "rating": 4.5,
-          "accumulated": 95,
-          "count": 57
+          "accumulated": 94,
+          "count": 56
         },
         {
           "rating": 5,
@@ -704,10 +699,6 @@
             "name": "Socks"
           },
           {
-            "id": 131454,
-            "name": "HEATTECH Cashmere Blend"
-          },
-          {
             "id": 129707,
             "name": "HEATTECH Extra Warm"
           },
@@ -756,10 +747,6 @@
           {
             "id": 114933,
             "name": "Others"
-          },
-          {
-            "id": 108634,
-            "name": "Crew Neck"
           },
           {
             "id": 113761,
@@ -880,6 +867,10 @@
           {
             "id": 12201,
             "name": "Cotton"
+          },
+          {
+            "id": 67602,
+            "name": "unisex"
           },
           {
             "id": 101816,
@@ -7143,334 +7134,6 @@
         ],
         "unisexFlag": 1,
         "washingInformation": "Machine wash cold, Do not Dry Clean, Tumble dry low."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL30",
-            "displayCode": "30",
-            "name": "NATURAL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL79",
-            "displayCode": "79",
-            "name": "DARK PURPLE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "57% Acrylic, 28% Viscose, 9% Cashmere, 6% Elastane",
-        "designDetail": "",
-        "freeInformation": "- 03: GRAY / 30: NATURAL / 32: BEIGE are nuanced shades created by blending colors with varying depths. *The target colors may include colors that are not available.",
-        "genderName": "Women",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/item/ingoods_03_469765_3x4.jpg",
-              "colorCode": "03"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/item/goods_07_469765_3x4.jpg",
-              "colorCode": "07"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/item/ingoods_09_469765_3x4.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/item/goods_10_469765_3x4.jpg",
-              "colorCode": "10"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/item/ingoods_14_469765_3x4.jpg",
-              "colorCode": "14"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/item/ingoods_30_469765_3x4.jpg",
-              "colorCode": "30"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/item/ingoods_32_469765_3x4.jpg",
-              "colorCode": "32"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/item/ingoods_54_469765_3x4.jpg",
-              "colorCode": "54"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/item/goods_56_469765_3x4.jpg",
-              "colorCode": "56"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/item/ingoods_69_469765_3x4.jpg",
-              "colorCode": "69"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/item/ingoods_79_469765_3x4.jpg",
-              "colorCode": "79"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/chip/goods_03_469765_chip.jpg",
-              "colorCode": "03"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/chip/goods_07_469765_chip.jpg",
-              "colorCode": "07"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/chip/goods_09_469765_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/chip/goods_10_469765_chip.jpg",
-              "colorCode": "10"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/chip/goods_14_469765_chip.jpg",
-              "colorCode": "14"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/chip/goods_30_469765_chip.jpg",
-              "colorCode": "30"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/chip/goods_32_469765_chip.jpg",
-              "colorCode": "32"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/chip/goods_54_469765_chip.jpg",
-              "colorCode": "54"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/chip/goods_56_469765_chip.jpg",
-              "colorCode": "56"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/chip/goods_69_469765_chip.jpg",
-              "colorCode": "69"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/chip/goods_79_469765_chip.jpg",
-              "colorCode": "79"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/sub/ingoods_469765_sub1_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/sub/goods_469765_sub11_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/sub/goods_469765_sub12_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/sub/goods_469765_sub13_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/469765/sub/goods_469765_sub14_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/feature/ingoods_469765_feature6.jpg",
-              "text": "Slightly sheer fabric.Luxuriously smooth and fluffy yarn. Ultra Stretch fabric conforms to the body for a comfortable fit.*9% cashmere blend."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/feature/ingoods_469765_feature7.jpg",
-              "text": "The material features moisture-absorbing and Heat of Absorption functions. Extra Warm ‘HEATTECH’ is lightweight yet approximately 1.5 times* warmer than regular ‘HEATTECH.’ *Based on CLO values, which indicate the thermal insulation of clothing. Compared to standard 'HEATTECH'. *Recommended for temperatures of -5°C to 15°C. This is a guide when worn in combination with other clothing. The most comfortable temperature range will vary from person to person."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/469765/feature/ingoods_469765_feature8.jpg",
-              "text": "Washable at home, 'HEATTECH cashmere blend.' *We recommend washing this item inside out in a mesh laundry bag. "
-            }
-          ]
-        },
-        "l1Id": "478955",
-        "longDescription": "- The crew neck design lets you style it like a T-shirt.<br>-Suitable for layering or wearing on its own. <br>- Slightly longer sleeve length.",
-        "name": "Heattech Extra Warm Cashmere Blend Crew Neck T-Shirt",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          }
-        },
-        "productId": "E469765-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.58,
-          "count": 48,
-          "fit": 3.02,
-          "rateCount": {
-            "one": 3,
-            "two": 1,
-            "three": 1,
-            "four": 3,
-            "five": 40
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL03",
-            "displayCode": "03",
-            "name": "GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "limitedStore",
-                "id": 3,
-                "name": "Limited Store",
-                "detail": "Limited Store"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "08709737",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 48,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/469765_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
       },
       {
         "careInstruction": "<br>",
@@ -18205,7 +17868,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08333976",
+          "l2Id": "08333977",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -28102,7 +27765,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08141525",
+          "l2Id": "08141526",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30077,8 +29740,8 @@
       }
     ],
     "pagination": {
-      "count": 141,
-      "total": 141,
+      "count": 140,
+      "total": 140,
       "offset": 300
     }
   }
