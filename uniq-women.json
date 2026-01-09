@@ -350,17 +350,17 @@
         {
           "rating": 0,
           "accumulated": 148,
-          "count": 34
+          "count": 33
         },
         {
           "rating": 0.5,
-          "accumulated": 114,
+          "accumulated": 115,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 114,
-          "count": 1
+          "accumulated": 115,
+          "count": 2
         },
         {
           "rating": 1.5,
