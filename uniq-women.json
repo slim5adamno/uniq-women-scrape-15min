@@ -784,16 +784,12 @@
             "name": "Linen"
           },
           {
-            "id": 108636,
-            "name": "Boat Neck"
-          },
-          {
             "id": 113764,
             "name": "Cotton"
           },
           {
-            "id": 113765,
-            "name": "Unisex"
+            "id": 108636,
+            "name": "Boat Neck"
           },
           {
             "id": 101310,
@@ -804,52 +800,56 @@
             "name": "Soft Brushed"
           },
           {
-            "id": 12337,
-            "name": "Relax"
+            "id": 113765,
+            "name": "Unisex"
           },
           {
             "id": 101811,
             "name": "Wool"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
-            "id": 128615,
-            "name": "Jacket"
+            "id": 12337,
+            "name": "Relax"
           },
           {
             "id": 114872,
             "name": "Others"
           },
           {
-            "id": 113691,
-            "name": "Linen"
+            "id": 128615,
+            "name": "Jacket"
           },
           {
-            "id": 67601,
-            "name": "Ankle"
-          },
-          {
-            "id": 49301,
-            "name": "Flannel"
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 106344,
             "name": "Bottoms"
           },
           {
-            "id": 128617,
-            "name": "Vest"
+            "id": 113691,
+            "name": "Linen"
+          },
+          {
+            "id": 49301,
+            "name": "Flannel"
+          },
+          {
+            "id": 67601,
+            "name": "Ankle"
+          },
+          {
+            "id": 23511,
+            "name": "Shoulder Bags"
           },
           {
             "id": 12299,
             "name": "Jersey"
           },
           {
-            "id": 23511,
-            "name": "Shoulder Bags"
+            "id": 128617,
+            "name": "Vest"
           },
           {
             "id": 12297,
@@ -868,12 +868,12 @@
             "name": "Sweaters"
           },
           {
-            "id": 23481,
-            "name": "Others"
-          },
-          {
             "id": 53734,
             "name": "others"
+          },
+          {
+            "id": 23481,
+            "name": "Others"
           },
           {
             "id": 12300,
@@ -932,12 +932,12 @@
             "name": "Shorts"
           },
           {
-            "id": 101747,
-            "name": "Ultra Light Down Relaxed"
-          },
-          {
             "id": 125512,
             "name": "Unisex"
+          },
+          {
+            "id": 101747,
+            "name": "Ultra Light Down Relaxed"
           },
           {
             "id": 11607,
@@ -968,12 +968,12 @@
             "name": "Uniqlo U"
           },
           {
-            "id": 106305,
-            "name": "Outerwear"
-          },
-          {
             "id": 101825,
             "name": "Warm Pants"
+          },
+          {
+            "id": 106305,
+            "name": "Outerwear"
           },
           {
             "id": 106306,
@@ -1004,12 +1004,12 @@
             "name": "Pullover"
           },
           {
-            "id": 101787,
-            "name": "Sweat Shirt"
-          },
-          {
             "id": 106314,
             "name": "Outerwear"
+          },
+          {
+            "id": 101787,
+            "name": "Sweat Shirt"
           },
           {
             "id": 106315,
@@ -1044,12 +1044,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 109446,
-            "name": "Museum of Fine Arts Boston Ukiyo-e"
-          },
-          {
             "id": 67607,
             "name": "Wide"
+          },
+          {
+            "id": 109446,
+            "name": "Museum of Fine Arts Boston Ukiyo-e"
           },
           {
             "id": 129469,
