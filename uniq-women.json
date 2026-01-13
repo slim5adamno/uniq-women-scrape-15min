@@ -789,24 +789,24 @@
         ],
         "subcategories": [
           {
-            "id": 113762,
-            "name": "Flannel"
-          },
-          {
             "id": 114933,
             "name": "Others"
+          },
+          {
+            "id": 113762,
+            "name": "Flannel"
           },
           {
             "id": 113761,
             "name": "Linen"
           },
           {
-            "id": 113764,
-            "name": "Cotton"
-          },
-          {
             "id": 108636,
             "name": "Boat Neck"
+          },
+          {
+            "id": 113764,
+            "name": "Cotton"
           },
           {
             "id": 101316,
@@ -825,40 +825,40 @@
             "name": "Unisex"
           },
           {
-            "id": 101811,
-            "name": "Wool"
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 12337,
             "name": "Relax"
           },
           {
+            "id": 101811,
+            "name": "Wool"
+          },
+          {
             "id": 114872,
             "name": "Others"
-          },
-          {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
-            "id": 113691,
-            "name": "Linen"
-          },
-          {
-            "id": 49301,
-            "name": "Flannel"
           },
           {
             "id": 67601,
             "name": "Ankle"
           },
           {
-            "id": 12299,
-            "name": "Jersey"
+            "id": 49301,
+            "name": "Flannel"
+          },
+          {
+            "id": 113691,
+            "name": "Linen"
           },
           {
             "id": 128617,
             "name": "Vest"
+          },
+          {
+            "id": 12299,
+            "name": "Jersey"
           },
           {
             "id": 113693,
@@ -957,12 +957,12 @@
             "name": "Shorts"
           },
           {
-            "id": 125512,
-            "name": "Unisex"
-          },
-          {
             "id": 101747,
             "name": "Ultra Light Down Relaxed"
+          },
+          {
+            "id": 125512,
+            "name": "Unisex"
           },
           {
             "id": 11607,
@@ -997,12 +997,12 @@
             "name": "Warm Pants"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
             "id": 13084,
             "name": "Ines de la Fressange"
+          },
+          {
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 104423,
@@ -1029,12 +1029,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 106315,
-            "name": "Shirts"
-          },
-          {
             "id": 12362,
             "name": "Extra Warm"
+          },
+          {
+            "id": 106315,
+            "name": "Shirts"
           },
           {
             "id": 106316,
@@ -1065,12 +1065,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 67607,
-            "name": "Wide"
-          },
-          {
             "id": 109446,
             "name": "Museum of Fine Arts Boston Ukiyo-e"
+          },
+          {
+            "id": 67607,
+            "name": "Wide"
           },
           {
             "id": 102510,
@@ -3688,7 +3688,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E481081-000",
@@ -4497,7 +4497,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E480281-000",
@@ -8102,7 +8102,7 @@
               "code": "INR",
               "symbol": "Rs."
             },
-            "value": "990.0000"
+            "value": "1490.0000"
           }
         },
         "productId": "E469746-000",
@@ -27859,15 +27859,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
