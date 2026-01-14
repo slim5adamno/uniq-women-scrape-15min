@@ -7770,7 +7770,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08188734",
+          "l2Id": "08188733",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -11979,9 +11979,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL33",
-            "displayCode": "33",
-            "name": "KHAKI",
+            "code": "COL68",
+            "displayCode": "68",
+            "name": "BLUE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -11999,7 +11999,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08785265",
+          "l2Id": "08824097",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -17883,9 +17883,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
+            "code": "COL09",
+            "displayCode": "09",
+            "name": "BLACK",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -17903,7 +17903,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08673630",
+          "l2Id": "08673638",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -18138,9 +18138,9 @@
         },
         "representative": {
           "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
+            "code": "COL36",
+            "displayCode": "36",
+            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -18165,7 +18165,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08673789",
+          "l2Id": "08673805",
           "salesStartDate": "",
           "salesEndDate": ""
         },
