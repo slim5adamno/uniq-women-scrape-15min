@@ -840,6 +840,10 @@
             "name": "Unisex"
           },
           {
+            "id": 12199,
+            "name": "Long Sleeve"
+          },
+          {
             "id": 128615,
             "name": "Jacket"
           },
@@ -848,20 +852,16 @@
             "name": "Wool"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 113691,
             "name": "Linen"
           },
           {
-            "id": 67601,
-            "name": "Ankle"
-          },
-          {
             "id": 49301,
             "name": "Flannel"
+          },
+          {
+            "id": 67601,
+            "name": "Ankle"
           },
           {
             "id": 12299,
@@ -912,12 +912,12 @@
             "name": "EZY"
           },
           {
-            "id": 12296,
-            "name": "Sweat"
-          },
-          {
             "id": 113694,
             "name": "Unisex"
+          },
+          {
+            "id": 12296,
+            "name": "Sweat"
           },
           {
             "id": 12201,
@@ -952,12 +952,12 @@
             "name": "Others"
           },
           {
-            "id": 101747,
-            "name": "Ultra Light Down Relaxed"
-          },
-          {
             "id": 125512,
             "name": "Unisex"
+          },
+          {
+            "id": 101747,
+            "name": "Ultra Light Down Relaxed"
           },
           {
             "id": 101751,
@@ -980,12 +980,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 101825,
-            "name": "Warm Pants"
-          },
-          {
             "id": 13082,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 101825,
+            "name": "Warm Pants"
           },
           {
             "id": 13084,
@@ -1000,12 +1000,12 @@
             "name": "Unisex"
           },
           {
-            "id": 106309,
-            "name": "Shirts"
-          },
-          {
             "id": 101826,
             "name": "Others"
+          },
+          {
+            "id": 106309,
+            "name": "Shirts"
           },
           {
             "id": 106310,
@@ -1024,32 +1024,32 @@
             "name": "Uniqlo and JW Anderson"
           },
           {
-            "id": 101787,
-            "name": "Sweat Shirt"
-          },
-          {
             "id": 106314,
             "name": "Outerwear"
+          },
+          {
+            "id": 101787,
+            "name": "Sweat Shirt"
           },
           {
             "id": 12362,
             "name": "Extra Warm"
           },
           {
-            "id": 106316,
-            "name": "Sweaters"
-          },
-          {
             "id": 19829,
             "name": "Sweat Pants"
           },
           {
-            "id": 106319,
-            "name": "Bottoms"
+            "id": 106316,
+            "name": "Sweaters"
           },
           {
             "id": 49226,
             "name": "Long"
+          },
+          {
+            "id": 106319,
+            "name": "Bottoms"
           },
           {
             "id": 106320,
@@ -1080,12 +1080,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 67607,
-            "name": "Wide"
-          },
-          {
             "id": 109446,
             "name": "Museum of Fine Arts Boston Ukiyo-e"
+          },
+          {
+            "id": 67607,
+            "name": "Wide"
           },
           {
             "id": 129469,
@@ -36621,7 +36621,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08141525",
+          "l2Id": "08141526",
           "salesStartDate": "",
           "salesEndDate": ""
         },
