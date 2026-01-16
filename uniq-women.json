@@ -786,12 +786,12 @@
             "name": "Linen"
           },
           {
-            "id": 108636,
-            "name": "Boat Neck"
-          },
-          {
             "id": 113764,
             "name": "Cotton"
+          },
+          {
+            "id": 108636,
+            "name": "Boat Neck"
           },
           {
             "id": 101316,
@@ -810,20 +810,20 @@
             "name": "Unisex"
           },
           {
-            "id": 128615,
-            "name": "Jacket"
-          },
-          {
             "id": 12337,
             "name": "Relax"
           },
           {
-            "id": 101811,
-            "name": "Wool"
+            "id": 128615,
+            "name": "Jacket"
           },
           {
             "id": 12199,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 101811,
+            "name": "Wool"
           },
           {
             "id": 113691,
@@ -838,32 +838,32 @@
             "name": "Flannel"
           },
           {
-            "id": 128617,
-            "name": "Vest"
-          },
-          {
             "id": 12299,
             "name": "Jersey"
           },
           {
-            "id": 106347,
-            "name": "Shirts"
+            "id": 128617,
+            "name": "Vest"
           },
           {
             "id": 25846,
             "name": "Cotton"
           },
           {
+            "id": 106347,
+            "name": "Shirts"
+          },
+          {
             "id": 101298,
             "name": "Long Sleeve"
           },
           {
-            "id": 23481,
-            "name": "Others"
-          },
-          {
             "id": 53734,
             "name": "others"
+          },
+          {
+            "id": 23481,
+            "name": "Others"
           },
           {
             "id": 12300,
@@ -886,12 +886,12 @@
             "name": "Straight"
           },
           {
-            "id": 12296,
-            "name": "Sweat"
-          },
-          {
             "id": 113694,
             "name": "Unisex"
+          },
+          {
+            "id": 12296,
+            "name": "Sweat"
           },
           {
             "id": 12201,
@@ -926,12 +926,12 @@
             "name": "Boxy"
           },
           {
-            "id": 125513,
-            "name": "Others"
-          },
-          {
             "id": 114886,
             "name": "Shorts"
+          },
+          {
+            "id": 125513,
+            "name": "Others"
           },
           {
             "id": 101747,
@@ -1018,12 +1018,12 @@
             "name": "Outerwear"
           },
           {
-            "id": 106316,
-            "name": "Sweaters"
-          },
-          {
             "id": 19829,
             "name": "Sweat Pants"
+          },
+          {
+            "id": 106316,
+            "name": "Sweaters"
           },
           {
             "id": 49226,
@@ -1046,12 +1046,12 @@
             "name": "Others"
           },
           {
-            "id": 12362,
-            "name": "Extra Warm"
-          },
-          {
             "id": 102509,
             "name": "Relaxed"
+          },
+          {
+            "id": 12362,
+            "name": "Extra Warm"
           },
           {
             "id": 67607,
