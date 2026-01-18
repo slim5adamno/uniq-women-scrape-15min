@@ -19419,15 +19419,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "[09 BLACK] Body: 88% Cotton, 8% Polyester, 4% Elastane/ Pocket Lining: 65% Polyester, 35% Cotton [62 BLUE, 66 BLUE, 69 NAVY] Body: 90% Cotton, 7% Polyester, 3% Elastane/ Pocket Lining: 65% Polyester, 35% Cotton",
@@ -20122,7 +20113,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08333976",
+          "l2Id": "08333977",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -28275,15 +28266,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -29043,15 +29025,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL38",
-            "displayCode": "38",
-            "name": "DARK BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "88% Wool, 12% Polyamide",
@@ -29220,15 +29193,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
