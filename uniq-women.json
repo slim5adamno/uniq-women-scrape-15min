@@ -778,20 +778,20 @@
         ],
         "subcategories": [
           {
-            "id": 113762,
-            "name": "Flannel"
-          },
-          {
             "id": 114933,
             "name": "Others"
           },
           {
-            "id": 113761,
-            "name": "Linen"
+            "id": 113762,
+            "name": "Flannel"
           },
           {
             "id": 114930,
             "name": "Long Sleeve"
+          },
+          {
+            "id": 113761,
+            "name": "Linen"
           },
           {
             "id": 108635,
@@ -822,20 +822,20 @@
             "name": "Unisex"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 128615,
             "name": "Jacket"
+          },
+          {
+            "id": 101811,
+            "name": "Wool"
           },
           {
             "id": 12337,
             "name": "Relax"
           },
           {
-            "id": 101811,
-            "name": "Wool"
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 49301,
@@ -850,12 +850,12 @@
             "name": "Linen"
           },
           {
-            "id": 12299,
-            "name": "Jersey"
-          },
-          {
             "id": 128617,
             "name": "Vest"
+          },
+          {
+            "id": 12299,
+            "name": "Jersey"
           },
           {
             "id": 106347,
@@ -866,12 +866,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 23481,
-            "name": "Others"
-          },
-          {
             "id": 53734,
             "name": "others"
+          },
+          {
+            "id": 23481,
+            "name": "Others"
           },
           {
             "id": 12300,
@@ -922,12 +922,12 @@
             "name": "Other"
           },
           {
-            "id": 108640,
-            "name": "Glove"
-          },
-          {
             "id": 20537,
             "name": "Jacket"
+          },
+          {
+            "id": 108640,
+            "name": "Glove"
           },
           {
             "id": 125511,
@@ -942,12 +942,12 @@
             "name": "Others"
           },
           {
-            "id": 101747,
-            "name": "Ultra Light Down Relaxed"
-          },
-          {
             "id": 125512,
             "name": "Unisex"
+          },
+          {
+            "id": 101747,
+            "name": "Ultra Light Down Relaxed"
           },
           {
             "id": 101751,
@@ -986,12 +986,12 @@
             "name": "Uniqlo and JW Anderson"
           },
           {
-            "id": 106306,
-            "name": "Bottoms"
-          },
-          {
             "id": 13082,
             "name": "Uniqlo U"
+          },
+          {
+            "id": 106306,
+            "name": "Bottoms"
           },
           {
             "id": 13084,
@@ -1002,7 +1002,7 @@
             "name": "Unisex"
           },
           {
-            "id": 101826,
+            "id": 11607,
             "name": "Others"
           },
           {
@@ -1010,7 +1010,7 @@
             "name": "Shirts"
           },
           {
-            "id": 11607,
+            "id": 101826,
             "name": "Others"
           },
           {
@@ -1022,12 +1022,12 @@
             "name": "Pullover"
           },
           {
-            "id": 101787,
-            "name": "Sweat Shirt"
-          },
-          {
             "id": 106314,
             "name": "Outerwear"
+          },
+          {
+            "id": 101787,
+            "name": "Sweat Shirt"
           },
           {
             "id": 19829,
@@ -1054,20 +1054,20 @@
             "name": "Sweat"
           },
           {
-            "id": 12310,
-            "name": "Smart Pants"
-          },
-          {
             "id": 11570,
             "name": "Others"
           },
           {
-            "id": 12362,
-            "name": "Extra Warm"
+            "id": 12310,
+            "name": "Smart Pants"
           },
           {
             "id": 102509,
             "name": "Relaxed"
+          },
+          {
+            "id": 12362,
+            "name": "Extra Warm"
           },
           {
             "id": 67607,
