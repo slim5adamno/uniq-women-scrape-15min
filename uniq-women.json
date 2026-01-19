@@ -808,12 +808,12 @@
         ],
         "subcategories": [
           {
-            "id": 114933,
-            "name": "Others"
-          },
-          {
             "id": 113762,
             "name": "Flannel"
+          },
+          {
+            "id": 114933,
+            "name": "Others"
           },
           {
             "id": 113761,
@@ -852,8 +852,8 @@
             "name": "Unisex"
           },
           {
-            "id": 101811,
-            "name": "Wool"
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 128615,
@@ -864,24 +864,24 @@
             "name": "Relax"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
-            "id": 113691,
-            "name": "Linen"
+            "id": 101811,
+            "name": "Wool"
           },
           {
             "id": 49301,
             "name": "Flannel"
           },
           {
+            "id": 67601,
+            "name": "Ankle"
+          },
+          {
             "id": 106344,
             "name": "Bottoms"
           },
           {
-            "id": 67601,
-            "name": "Ankle"
+            "id": 113691,
+            "name": "Linen"
           },
           {
             "id": 12299,
@@ -928,12 +928,12 @@
             "name": "Straight"
           },
           {
-            "id": 12296,
-            "name": "Sweat"
-          },
-          {
             "id": 113694,
             "name": "Unisex"
+          },
+          {
+            "id": 12296,
+            "name": "Sweat"
           },
           {
             "id": 12201,
@@ -1032,15 +1032,15 @@
             "name": "Unisex"
           },
           {
+            "id": 101826,
+            "name": "Others"
+          },
+          {
             "id": 106309,
             "name": "Shirts"
           },
           {
             "id": 11607,
-            "name": "Others"
-          },
-          {
-            "id": 101826,
             "name": "Others"
           },
           {
@@ -1108,12 +1108,12 @@
             "name": "Tailored"
           },
           {
-            "id": 101841,
-            "name": "Sleeveless"
-          },
-          {
             "id": 102510,
             "name": "Down"
+          },
+          {
+            "id": 101841,
+            "name": "Sleeveless"
           },
           {
             "id": 109444,
