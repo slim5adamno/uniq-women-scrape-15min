@@ -9374,15 +9374,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "INS029",
-            "displayCode": "029",
-            "name": "29inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
             "code": "INS036",
             "displayCode": "036",
             "name": "36inch",
@@ -10259,15 +10250,6 @@
             }
           },
           {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL32",
             "displayCode": "32",
             "name": "BEIGE",
@@ -10638,7 +10620,7 @@
             ]
           },
           "isFavorite": false,
-          "l2Id": "08188732",
+          "l2Id": "08188730",
           "salesStartDate": "",
           "salesEndDate": ""
         },
