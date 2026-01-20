@@ -546,16 +546,16 @@
         ],
         "categories": [
           {
+            "id": 11567,
+            "name": "Blouson & Hoodies"
+          },
+          {
             "id": 128613,
             "name": "PUFFTECH"
           },
           {
             "id": 21030,
             "name": "Ultra Light Down & Down"
-          },
-          {
-            "id": 11567,
-            "name": "Blouson & Hoodies"
           },
           {
             "id": 11563,
@@ -772,12 +772,12 @@
         ],
         "subcategories": [
           {
-            "id": 114933,
-            "name": "Others"
-          },
-          {
             "id": 113762,
             "name": "Flannel"
+          },
+          {
+            "id": 114933,
+            "name": "Others"
           },
           {
             "id": 113761,
@@ -832,16 +832,20 @@
             "name": "Others"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 101302,
             "name": "Rayon"
           },
           {
             "id": 101811,
             "name": "Wool"
+          },
+          {
+            "id": 101746,
+            "name": "Uniqlo and JW Anderson"
+          },
+          {
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 49301,
@@ -856,12 +860,20 @@
             "name": "Ankle"
           },
           {
-            "id": 12299,
-            "name": "Jersey"
+            "id": 13082,
+            "name": "Uniqlo U"
+          },
+          {
+            "id": 13084,
+            "name": "Ines de la Fressange"
           },
           {
             "id": 101853,
             "name": "Cotton Relax"
+          },
+          {
+            "id": 12299,
+            "name": "Jersey"
           },
           {
             "id": 25846,
@@ -872,12 +884,12 @@
             "name": "Long Sleeve"
           },
           {
-            "id": 23481,
-            "name": "Others"
-          },
-          {
             "id": 53734,
             "name": "others"
+          },
+          {
+            "id": 23481,
+            "name": "Others"
           },
           {
             "id": 12300,
@@ -898,6 +910,10 @@
           {
             "id": 12306,
             "name": "Straight"
+          },
+          {
+            "id": 49222,
+            "name": "Pullover"
           },
           {
             "id": 101813,
@@ -932,28 +948,20 @@
             "name": "Glove"
           },
           {
-            "id": 20537,
-            "name": "Jacket"
-          },
-          {
             "id": 125511,
             "name": "Boxy"
-          },
-          {
-            "id": 114886,
-            "name": "Shorts"
           },
           {
             "id": 125513,
             "name": "Others"
           },
           {
-            "id": 125512,
-            "name": "Unisex"
+            "id": 114886,
+            "name": "Shorts"
           },
           {
-            "id": 101747,
-            "name": "Ultra Light Down Relaxed"
+            "id": 125512,
+            "name": "Unisex"
           },
           {
             "id": 106346,
@@ -964,20 +972,8 @@
             "name": "Shirts"
           },
           {
-            "id": 101751,
-            "name": "Ultra Light Down"
-          },
-          {
-            "id": 101757,
-            "name": "Seamless Down"
-          },
-          {
             "id": 106351,
             "name": "Other"
-          },
-          {
-            "id": 101767,
-            "name": "Ines De La Fressange"
           },
           {
             "id": 12287,
@@ -996,24 +992,20 @@
             "name": "Jacket"
           },
           {
+            "id": 20537,
+            "name": "Jacket"
+          },
+          {
             "id": 101825,
             "name": "Warm Pants"
           },
           {
-            "id": 101746,
-            "name": "Uniqlo and JW Anderson"
-          },
-          {
-            "id": 13082,
-            "name": "Uniqlo U"
-          },
-          {
-            "id": 13084,
-            "name": "Ines de la Fressange"
-          },
-          {
             "id": 104423,
             "name": "Unisex"
+          },
+          {
+            "id": 101747,
+            "name": "Ultra Light Down Relaxed"
           },
           {
             "id": 101826,
@@ -1024,8 +1016,16 @@
             "name": "Others"
           },
           {
-            "id": 49222,
-            "name": "Pullover"
+            "id": 101751,
+            "name": "Ultra Light Down"
+          },
+          {
+            "id": 101757,
+            "name": "Seamless Down"
+          },
+          {
+            "id": 101767,
+            "name": "Ines De La Fressange"
           },
           {
             "id": 101787,
@@ -1048,12 +1048,12 @@
             "name": "Others"
           },
           {
-            "id": 12362,
-            "name": "Extra Warm"
-          },
-          {
             "id": 102509,
             "name": "Relaxed"
+          },
+          {
+            "id": 12362,
+            "name": "Extra Warm"
           },
           {
             "id": 67607,
@@ -1064,12 +1064,12 @@
             "name": "Museum of Fine Arts Boston Ukiyo-e"
           },
           {
-            "id": 129469,
-            "name": "POP MART"
-          },
-          {
             "id": 12143,
             "name": "Tailored"
+          },
+          {
+            "id": 129469,
+            "name": "POP MART"
           },
           {
             "id": 101841,
@@ -12364,14 +12364,14 @@
         ],
         "rating": {
           "average": 4.9,
-          "count": 39,
+          "count": 40,
           "fit": 3,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 4,
-            "five": 35
+            "five": 36
           }
         },
         "representative": {
@@ -12401,7 +12401,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 39,
+          "total": 40,
           "count": 0,
           "items": []
         },
@@ -17552,7 +17552,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08333977",
+          "l2Id": "08333976",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -30114,15 +30114,15 @@
           }
         ],
         "rating": {
-          "average": 4.47,
-          "count": 219,
+          "average": 4.48,
+          "count": 220,
           "fit": 3.04,
           "rateCount": {
             "one": 20,
             "two": 1,
             "three": 5,
             "four": 22,
-            "five": 171
+            "five": 172
           }
         },
         "representative": {
@@ -30152,7 +30152,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 173,
+          "total": 174,
           "count": 0,
           "items": []
         },
@@ -33369,11 +33369,11 @@
           }
         ],
         "rating": {
-          "average": 4.7,
-          "count": 251,
+          "average": 4.69,
+          "count": 252,
           "fit": 3.02,
           "rateCount": {
-            "one": 11,
+            "one": 12,
             "two": 3,
             "three": 6,
             "four": 10,
@@ -33407,7 +33407,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 251,
+          "total": 252,
           "count": 0,
           "items": []
         },
