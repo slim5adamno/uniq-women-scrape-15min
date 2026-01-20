@@ -808,12 +808,12 @@
             "name": "High Neck"
           },
           {
-            "id": 108636,
-            "name": "Boat Neck"
-          },
-          {
             "id": 113764,
             "name": "Cotton"
+          },
+          {
+            "id": 108636,
+            "name": "Boat Neck"
           },
           {
             "id": 101316,
@@ -840,20 +840,16 @@
             "name": "Unisex"
           },
           {
-            "id": 101811,
-            "name": "Wool"
+            "id": 12199,
+            "name": "Long Sleeve"
           },
           {
             "id": 101302,
             "name": "Rayon"
           },
           {
-            "id": 12199,
-            "name": "Long Sleeve"
-          },
-          {
-            "id": 49301,
-            "name": "Flannel"
+            "id": 101811,
+            "name": "Wool"
           },
           {
             "id": 67601,
@@ -862,6 +858,10 @@
           {
             "id": 113691,
             "name": "Linen"
+          },
+          {
+            "id": 49301,
+            "name": "Flannel"
           },
           {
             "id": 101853,
@@ -876,12 +876,12 @@
             "name": "T-Shirts"
           },
           {
-            "id": 25846,
-            "name": "Cotton"
-          },
-          {
             "id": 106347,
             "name": "Shirts"
+          },
+          {
+            "id": 25846,
+            "name": "Cotton"
           },
           {
             "id": 101298,
@@ -1004,12 +1004,12 @@
             "name": "Warm Pants"
           },
           {
-            "id": 101746,
-            "name": "Uniqlo and JW Anderson"
-          },
-          {
             "id": 101296,
             "name": "Jacket"
+          },
+          {
+            "id": 101746,
+            "name": "Uniqlo and JW Anderson"
           },
           {
             "id": 13082,
@@ -1044,20 +1044,20 @@
             "name": "Pullover"
           },
           {
-            "id": 106314,
-            "name": "Outerwear"
-          },
-          {
             "id": 101787,
             "name": "Sweat Shirt"
           },
           {
-            "id": 19829,
-            "name": "Sweat Pants"
+            "id": 106314,
+            "name": "Outerwear"
           },
           {
             "id": 106316,
             "name": "Sweaters"
+          },
+          {
+            "id": 19829,
+            "name": "Sweat Pants"
           },
           {
             "id": 49226,
@@ -1076,12 +1076,12 @@
             "name": "Sweat"
           },
           {
-            "id": 102509,
-            "name": "Relaxed"
-          },
-          {
             "id": 12362,
             "name": "Extra Warm"
+          },
+          {
+            "id": 102509,
+            "name": "Relaxed"
           },
           {
             "id": 67607,
@@ -28766,14 +28766,14 @@
         ],
         "rating": {
           "average": 4.8,
-          "count": 60,
+          "count": 61,
           "fit": 3.28,
           "rateCount": {
             "one": 2,
             "two": 0,
             "three": 1,
             "four": 2,
-            "five": 55
+            "five": 56
           }
         },
         "representative": {
@@ -28810,7 +28810,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 60,
+          "total": 61,
           "count": 0,
           "items": []
         },
