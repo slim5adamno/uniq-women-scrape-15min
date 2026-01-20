@@ -425,11 +425,6 @@
           "name": "25inch"
         },
         {
-          "code": "INS028",
-          "displayCode": "028",
-          "name": "28inch"
-        },
-        {
           "code": "INS036",
           "displayCode": "036",
           "name": "36inch"
@@ -5049,15 +5044,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL63",
-            "displayCode": "63",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "[01 OFF WHITE, 63 BLUE, 68 BLUE] Body: 100% Cotton/ Pocket Lining: 100% Cotton [09 BLACK] Body: 100% Cotton/ Pocket Lining: 65% Polyester, 35% Cotton",
@@ -5223,15 +5209,6 @@
             "code": "INS025",
             "displayCode": "025",
             "name": "25inch",
-            "display": {
-              "showFlag": true,
-              "chipType": 1
-            }
-          },
-          {
-            "code": "INS028",
-            "displayCode": "028",
-            "name": "28inch",
             "display": {
               "showFlag": true,
               "chipType": 1
@@ -6011,15 +5988,6 @@
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -15197,15 +15165,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -17492,15 +17451,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -33120,15 +33070,6 @@
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
