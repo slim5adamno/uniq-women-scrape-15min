@@ -328,7 +328,7 @@
         {
           "from": 500,
           "to": 1000,
-          "count": 37
+          "count": 34
         },
         {
           "from": 1000,
@@ -354,58 +354,58 @@
       "ratings": [
         {
           "rating": 0,
-          "accumulated": 157,
+          "accumulated": 154,
           "count": 20
         },
         {
           "rating": 0.5,
-          "accumulated": 137,
+          "accumulated": 134,
           "count": 0
         },
         {
           "rating": 1,
-          "accumulated": 137,
+          "accumulated": 134,
           "count": 2
         },
         {
           "rating": 1.5,
-          "accumulated": 135,
+          "accumulated": 132,
           "count": 0
         },
         {
           "rating": 2,
-          "accumulated": 135,
+          "accumulated": 132,
           "count": 0
         },
         {
           "rating": 2.5,
-          "accumulated": 135,
+          "accumulated": 132,
           "count": 0
         },
         {
           "rating": 3,
-          "accumulated": 135,
+          "accumulated": 132,
           "count": 0
         },
         {
           "rating": 3.5,
-          "accumulated": 135,
+          "accumulated": 132,
           "count": 1
         },
         {
           "rating": 4,
-          "accumulated": 134,
+          "accumulated": 131,
           "count": 15
         },
         {
           "rating": 4.5,
-          "accumulated": 119,
-          "count": 74
+          "accumulated": 116,
+          "count": 73
         },
         {
           "rating": 5,
-          "accumulated": 45,
-          "count": 45
+          "accumulated": 43,
+          "count": 43
         }
       ],
       "sizes": [
@@ -827,6 +827,10 @@
             "name": "Uniqlo and JW Anderson"
           },
           {
+            "id": 12337,
+            "name": "Relax"
+          },
+          {
             "id": 12199,
             "name": "Long Sleeve"
           },
@@ -971,6 +975,10 @@
             "name": "Wide"
           },
           {
+            "id": 12369,
+            "name": "AIRism"
+          },
+          {
             "id": 67678,
             "name": "Long Sleeve"
           },
@@ -1031,10 +1039,6 @@
             "name": "Sweat"
           },
           {
-            "id": 12310,
-            "name": "Smart Pants"
-          },
-          {
             "id": 102509,
             "name": "Relaxed"
           },
@@ -1081,10 +1085,6 @@
           {
             "id": 101866,
             "name": "Scarves"
-          },
-          {
-            "id": 12272,
-            "name": "Ankle"
           },
           {
             "id": 12271,
@@ -1210,15 +1210,6 @@
             "code": "COL35",
             "displayCode": "35",
             "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL57",
-            "displayCode": "57",
-            "name": "OLIVE",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -1975,165 +1966,6 @@
           }
         ],
         "unisexFlag": 1,
-        "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Shell: 97% Cotton, 3% Elastane/ Lining: 95% Cotton, 5% Elastane/ Binder-processed Part: 67% Cotton, 33% Polyester/ Cup ( Inner Lining ): 100% Polyester",
-        "designDetail": "",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Women",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477035/item/ingoods_09_477035_3x4.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477035/item/ingoods_18_477035_3x4.jpg",
-              "colorCode": "18"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477035/chip/goods_09_477035_chip.jpg",
-              "colorCode": "09"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477035/chip/goods_18_477035_chip.jpg",
-              "colorCode": "18"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477035/sub/ingoods_477035_sub7_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/477035/sub/goods_477035_sub14_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477035/feature/ingoods_477035_feature1.jpg",
-              "text": "Sleek, open design around the shoulders for a clean and smart casual look."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477035/feature/ingoods_477035_feature2.jpg",
-              "text": "Casual ribbed material that is easy to wear."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/477035/feature/ingoods_477035_feature3.jpg",
-              "text": "360-degree support for a secure and flattering fit."
-            }
-          ]
-        },
-        "l1Id": "477035",
-        "longDescription": "- Updated design with an improved fit. <br>- Sleek length looks great tucked in or untucked, and pairs well with high-waisted bottoms. <br>- Quality information is printed on the fabric, so there’s no label.",
-        "name": "Ribbed Bra Top",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "1990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "590.0000"
-          }
-        },
-        "productId": "E477035-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 4.83,
-          "count": 64,
-          "fit": 3.06,
-          "rateCount": {
-            "one": 1,
-            "two": 0,
-            "three": 0,
-            "four": 7,
-            "five": 56
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "08662880",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 64,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/477035_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
         "washingInformation": "Machine wash cold, gentle cycle, Do not Dry Clean, Do not tumble dry."
       },
       {
@@ -4121,175 +3953,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "Body: 64% Polyester, 28% Viscose, 8% Elastane ( 64% Uses Recycled Polyester Fiber )/ Pocket Lining: 60% Polyester, 40% Elastomultiester ( 60% Uses Recycled Polyester Fiber )",
-        "designDetail": "- Sheer: Not Sheer<br>- Fit: Slim<br>- Silhouette: Tapered<br>- Pockets: With Pockets<br>- Rise: Mid",
-        "freeInformation": "- The images shown may include colors that are not available.<br>- Clothing using recycled materials is part of our effort to support the reduction of waste and use of new materials. Ratios of recycled material vary by item. Please check 'Materials' on the price tag or care label for details.",
-        "genderName": "Women",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480752/item/ingoods_08_480752_3x4.jpg",
-              "colorCode": "08"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480752/item/ingoods_35_480752_3x4.jpg",
-              "colorCode": "35"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480752/chip/goods_08_480752_chip.jpg",
-              "colorCode": "08"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480752/chip/goods_35_480752_chip.jpg",
-              "colorCode": "35"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480752/sub/ingoods_480752_sub7_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480752/sub/goods_480752_sub14_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/480752/sub/goods_480752_sub15_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480752/feature/ingoods_480752_feature1.jpg",
-              "text": "Two-way stretch fabric. Elegant, premium fabric."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480752/feature/ingoods_480752_feature2.jpg",
-              "text": "Updated in crisp fabric for a sleek, flattering fit and a modern look."
-            },
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/480752/feature/ingoods_480752_feature3.jpg",
-              "text": "Flat design at the waist with stretch for lasting comfort."
-            }
-          ]
-        },
-        "l1Id": "480752",
-        "longDescription": "- Ankle-length, tapered silhouette suitable for both office and casual wear.",
-        "name": "Smart Ankle Pants",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2990.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          }
-        },
-        "productId": "E480752-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 5,
-          "count": 5,
-          "fit": 3.2,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 5
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": [
-              {
-                "code": "extraLargeStoreOnly",
-                "id": 1,
-                "name": "Made with Recycled Materials",
-                "detail": "Made with Recycled Materials"
-              }
-            ]
-          },
-          "isFavorite": false,
-          "l2Id": "08672572",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 5,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/480752_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, gentle cycle, Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
             "code": "COL09",
             "displayCode": "09",
             "name": "BLACK",
@@ -5782,160 +5445,6 @@
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "unisexFlag": 0,
-        "washingInformation": "Machine wash cold, Dry Clean, Do not tumble dry."
-      },
-      {
-        "careInstruction": "<br>",
-        "colors": [
-          {
-            "code": "COL65",
-            "displayCode": "65",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          }
-        ],
-        "composition": "100% Cotton",
-        "designDetail": "- Sheer: Not Sheer<br>- Fit: Oversized",
-        "freeInformation": "- The images shown may include colors that are not available.",
-        "genderName": "Women",
-        "hideReview": false,
-        "images": {
-          "main": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479086/item/ingoods_15_479086_3x4.jpg",
-              "colorCode": "15"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479086/item/ingoods_65_479086_3x4.jpg",
-              "colorCode": "65"
-            }
-          ],
-          "chip": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479086/chip/goods_15_479086_chip.jpg",
-              "colorCode": "15"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479086/chip/goods_65_479086_chip.jpg",
-              "colorCode": "65"
-            }
-          ],
-          "sub": [
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479086/sub/ingoods_479086_sub7_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479086/sub/goods_479086_sub14_3x4.jpg"
-            },
-            {
-              "url": "https://image.uniqlo.com/UQ/ST3/AsianCommon/imagesgoods/479086/sub/goods_479086_sub15_3x4.jpg"
-            }
-          ],
-          "features": [
-            {
-              "imageUrl": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/479086/feature/ingoods_479086_feature1.jpg",
-              "text": "100% cotton, brushed on both sides for softness and warmth."
-            }
-          ]
-        },
-        "l1Id": "479086",
-        "longDescription": "- The short, boxy silhouette works well as an outer layer and is perfect for styling with voluminous bottoms.",
-        "name": "Flannel Boxy Shirt Long Sleeve",
-        "prices": {
-          "base": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "2490.0000"
-          },
-          "promo": {
-            "currency": {
-              "code": "INR",
-              "symbol": "Rs."
-            },
-            "value": "990.0000"
-          }
-        },
-        "productId": "E479086-000",
-        "plds": [
-          {
-            "code": "PTB000",
-            "displayCode": "000",
-            "displayOrder": 1,
-            "name": "-",
-            "isDummy": false,
-            "states": [
-              "display",
-              "sale"
-            ],
-            "display": {
-              "showFlag": false,
-              "chipType": 0
-            }
-          }
-        ],
-        "rating": {
-          "average": 5,
-          "count": 4,
-          "fit": 3,
-          "rateCount": {
-            "one": 0,
-            "two": 0,
-            "three": 0,
-            "four": 0,
-            "five": 4
-          }
-        },
-        "representative": {
-          "color": {
-            "code": "COL15",
-            "displayCode": "15",
-            "name": "RED",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          "flags": {
-            "priceFlags": [
-              {
-                "code": "discount",
-                "id": 12,
-                "name": "Sale",
-                "detail": "Sale"
-              }
-            ],
-            "productFlags": []
-          },
-          "isFavorite": false,
-          "l2Id": "08672176",
-          "salesStartDate": "",
-          "salesEndDate": ""
-        },
-        "reviews": {
-          "total": 4,
-          "count": 0,
-          "items": []
-        },
-        "shortDescription": "",
-        "sizeChartUrl": "https://www.uniqlo.com/in/en/size/479086_size.html",
-        "sizeInformation": "",
-        "sizes": [
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -15539,15 +15048,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -34326,8 +33826,8 @@
       }
     ],
     "pagination": {
-      "count": 157,
-      "total": 157,
+      "count": 154,
+      "total": 154,
       "offset": 300
     }
   }
