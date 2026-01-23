@@ -7862,15 +7862,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -8577,7 +8568,18 @@
             }
           }
         ],
-        "rating": {},
+        "rating": {
+          "average": 4,
+          "count": 1,
+          "fit": 2,
+          "rateCount": {
+            "one": 0,
+            "two": 0,
+            "three": 0,
+            "four": 1,
+            "five": 0
+          }
+        },
         "representative": {
           "color": {
             "code": "COL01",
@@ -8605,7 +8607,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 0,
+          "total": 1,
           "count": 0,
           "items": []
         },
@@ -9549,15 +9551,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -11309,14 +11302,14 @@
         ],
         "rating": {
           "average": 4.91,
-          "count": 32,
-          "fit": 3.19,
+          "count": 33,
+          "fit": 3.18,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 3,
-            "five": 29
+            "five": 30
           }
         },
         "representative": {
@@ -11353,7 +11346,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 32,
+          "total": 33,
           "count": 0,
           "items": []
         },
@@ -23413,15 +23406,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "40% Acrylic, 30% Polyester, 30% Wool",
@@ -24647,15 +24631,15 @@
           }
         ],
         "rating": {
-          "average": 4.79,
-          "count": 63,
+          "average": 4.8,
+          "count": 64,
           "fit": 3.27,
           "rateCount": {
             "one": 2,
             "two": 0,
             "three": 1,
             "four": 3,
-            "five": 57
+            "five": 58
           }
         },
         "representative": {
@@ -24692,7 +24676,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 63,
+          "total": 64,
           "count": 0,
           "items": []
         },
@@ -28638,15 +28622,15 @@
           }
         ],
         "rating": {
-          "average": 4.61,
-          "count": 98,
-          "fit": 3.01,
+          "average": 4.58,
+          "count": 100,
+          "fit": 2.99,
           "rateCount": {
-            "one": 7,
+            "one": 8,
             "two": 0,
             "three": 1,
             "four": 8,
-            "five": 82
+            "five": 83
           }
         },
         "representative": {
@@ -28676,7 +28660,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 98,
+          "total": 100,
           "count": 0,
           "items": []
         },
@@ -30040,11 +30024,11 @@
           }
         ],
         "rating": {
-          "average": 4.69,
-          "count": 252,
+          "average": 4.67,
+          "count": 253,
           "fit": 3.02,
           "rateCount": {
-            "one": 12,
+            "one": 13,
             "two": 3,
             "three": 6,
             "four": 10,
@@ -30078,7 +30062,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 252,
+          "total": 253,
           "count": 0,
           "items": []
         },
@@ -30958,15 +30942,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/478578001_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA007",
             "displayCode": "007",
