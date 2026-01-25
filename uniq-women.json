@@ -7143,15 +7143,6 @@
             }
           },
           {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL60",
             "displayCode": "60",
             "name": "LIGHT BLUE",
@@ -22248,6 +22239,15 @@
             }
           },
           {
+            "code": "COL62",
+            "displayCode": "62",
+            "name": "BLUE",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "COL68",
             "displayCode": "68",
             "name": "BLUE",
@@ -25693,6 +25693,15 @@
             "code": "COL02",
             "displayCode": "02",
             "name": "LIGHT GRAY",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
+            "code": "COL07",
+            "displayCode": "07",
+            "name": "GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
