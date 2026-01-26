@@ -7929,6 +7929,15 @@
         "sizeInformation": "",
         "sizes": [
           {
+            "code": "SMA003",
+            "displayCode": "003",
+            "name": "S",
+            "display": {
+              "showFlag": true,
+              "chipType": 0
+            }
+          },
+          {
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
@@ -8509,15 +8518,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -20041,15 +20041,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -27200,15 +27191,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL36",
-            "displayCode": "36",
-            "name": "BROWN",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Shell: 100% Polyester ( 69% Uses Recycled Polyester Fiber )/ Filling: Body: 100% Polyester ( 30% Uses Recycled Polyester Fiber )/ Collar: 100% Polyester/ Lining: 100% Polyamide/ Rib: 98% Polyester, 2% Elastane/ Faux Fur: 100% Polyester ( 19% Uses Recycled Polyester Fiber )/ Pocket Lining: Outer Layer: 100% Polyester/ Pocket Lining: Inner Layer: 100% Polyamide",
@@ -27374,15 +27356,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/478580_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA006",
             "displayCode": "006",
