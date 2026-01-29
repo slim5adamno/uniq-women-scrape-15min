@@ -781,24 +781,24 @@
         ],
         "subcategories": [
           {
-            "id": 113762,
-            "name": "Flannel"
-          },
-          {
             "id": 114933,
             "name": "Others"
+          },
+          {
+            "id": 113762,
+            "name": "Flannel"
           },
           {
             "id": 113761,
             "name": "Linen"
           },
           {
-            "id": 114930,
-            "name": "Long Sleeve"
-          },
-          {
             "id": 108634,
             "name": "Crew Neck"
+          },
+          {
+            "id": 114930,
+            "name": "Long Sleeve"
           },
           {
             "id": 113764,
@@ -849,30 +849,6 @@
             "name": "Relax"
           },
           {
-            "id": 101811,
-            "name": "Wool"
-          },
-          {
-            "id": 113691,
-            "name": "Linen"
-          },
-          {
-            "id": 13082,
-            "name": "Uniqlo U"
-          },
-          {
-            "id": 49301,
-            "name": "Flannel"
-          },
-          {
-            "id": 67601,
-            "name": "Ankle"
-          },
-          {
-            "id": 12196,
-            "name": "Short Sleeve"
-          },
-          {
             "id": 101853,
             "name": "Cotton Relax"
           },
@@ -881,12 +857,36 @@
             "name": "Jersey"
           },
           {
+            "id": 25846,
+            "name": "Cotton"
+          },
+          {
+            "id": 13082,
+            "name": "Uniqlo U"
+          },
+          {
+            "id": 113691,
+            "name": "Linen"
+          },
+          {
+            "id": 12196,
+            "name": "Short Sleeve"
+          },
+          {
+            "id": 67601,
+            "name": "Ankle"
+          },
+          {
             "id": 13084,
             "name": "Ines de la Fressange"
           },
           {
-            "id": 25846,
-            "name": "Cotton"
+            "id": 101811,
+            "name": "Wool"
+          },
+          {
+            "id": 49301,
+            "name": "Flannel"
           },
           {
             "id": 101298,
@@ -941,12 +941,12 @@
             "name": "Cropped"
           },
           {
-            "id": 113694,
-            "name": "Unisex"
-          },
-          {
             "id": 12296,
             "name": "Sweat"
+          },
+          {
+            "id": 113694,
+            "name": "Unisex"
           },
           {
             "id": 12201,
@@ -973,10 +973,6 @@
             "name": "Unisex"
           },
           {
-            "id": 128615,
-            "name": "Jacket"
-          },
-          {
             "id": 12287,
             "name": "Wide"
           },
@@ -985,24 +981,24 @@
             "name": "Glove"
           },
           {
+            "id": 128615,
+            "name": "Jacket"
+          },
+          {
             "id": 125510,
             "name": "Long Sleeve"
-          },
-          {
-            "id": 108641,
-            "name": "Scarf"
-          },
-          {
-            "id": 114885,
-            "name": "Bra"
           },
           {
             "id": 125511,
             "name": "Boxy"
           },
           {
-            "id": 128617,
-            "name": "Vest"
+            "id": 114885,
+            "name": "Bra"
+          },
+          {
+            "id": 108641,
+            "name": "Scarf"
           },
           {
             "id": 125513,
@@ -1011,6 +1007,10 @@
           {
             "id": 114886,
             "name": "Shorts"
+          },
+          {
+            "id": 128617,
+            "name": "Vest"
           },
           {
             "id": 125512,
@@ -1025,11 +1025,11 @@
             "name": "AIRism"
           },
           {
-            "id": 20537,
+            "id": 101296,
             "name": "Jacket"
           },
           {
-            "id": 101296,
+            "id": 20537,
             "name": "Jacket"
           },
           {
@@ -1049,11 +1049,11 @@
             "name": "Ultra Light Down Relaxed"
           },
           {
-            "id": 11607,
+            "id": 101826,
             "name": "Others"
           },
           {
-            "id": 101826,
+            "id": 11607,
             "name": "Others"
           },
           {
@@ -1089,12 +1089,12 @@
             "name": "Relaxed"
           },
           {
-            "id": 28468,
-            "name": "Linen"
-          },
-          {
             "id": 12362,
             "name": "Extra Warm"
+          },
+          {
+            "id": 28468,
+            "name": "Linen"
           },
           {
             "id": 67607,
@@ -6801,15 +6801,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL68",
-            "displayCode": "68",
-            "name": "BLUE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "57% Acrylic, 32% Polyester, 8% Wool, 3% Elastane ( 32% Uses Recycled Polyester Fiber )",
@@ -8159,15 +8150,6 @@
             }
           },
           {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA008",
             "displayCode": "008",
             "name": "3XL",
@@ -9428,15 +9410,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/465191_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA008",
             "displayCode": "008",
@@ -10821,15 +10794,6 @@
             "code": "COL01",
             "displayCode": "01",
             "name": "OFF WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL08",
-            "displayCode": "08",
-            "name": "DARK GRAY",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -14899,15 +14863,6 @@
         "careInstruction": "<br>",
         "colors": [
           {
-            "code": "COL09",
-            "displayCode": "09",
-            "name": "BLACK",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "COL34",
             "displayCode": "34",
             "name": "BROWN",
@@ -15100,15 +15055,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -18163,15 +18109,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL31",
-            "displayCode": "31",
-            "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: 50% Linen, 50% Cotton/ Pocket Lining: 80% Polyester, 20% Cotton",
@@ -18546,15 +18483,6 @@
             "code": "SMA003",
             "displayCode": "003",
             "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -25985,15 +25913,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL69",
-            "displayCode": "69",
-            "name": "NAVY",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "Body: Face: 100% Polyester/ Back: 100% Polyester ( 100% Uses Recycled Polyester Fiber )/ Pocket Lining: 100% Polyester ( 100% Uses Recycled Polyester Fiber )",
@@ -32411,15 +32330,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA008",
-            "displayCode": "008",
-            "name": "3XL",
             "display": {
               "showFlag": true,
               "chipType": 0
