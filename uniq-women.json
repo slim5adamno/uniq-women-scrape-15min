@@ -2322,15 +2322,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL32",
-            "displayCode": "32",
-            "name": "BEIGE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "93% Cotton, 7% Elastane",
@@ -2498,15 +2489,6 @@
         "sizeChartUrl": "https://www.uniqlo.com/in/en/size/479588_size.html",
         "sizeInformation": "",
         "sizes": [
-          {
-            "code": "SMA003",
-            "displayCode": "003",
-            "name": "S",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
           {
             "code": "SMA004",
             "displayCode": "004",
@@ -5480,14 +5462,14 @@
         ],
         "rating": {
           "average": 4.91,
-          "count": 44,
+          "count": 45,
           "fit": 3.09,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 4,
-            "five": 40
+            "five": 41
           }
         },
         "representative": {
@@ -5524,7 +5506,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 44,
+          "total": 45,
           "count": 0,
           "items": []
         },
@@ -5900,15 +5882,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "unisexFlag": 0,
@@ -6073,15 +6046,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -6221,14 +6185,14 @@
         ],
         "rating": {
           "average": 5,
-          "count": 10,
-          "fit": 3.2,
+          "count": 11,
+          "fit": 3.18,
           "rateCount": {
             "one": 0,
             "two": 0,
             "three": 0,
             "four": 0,
-            "five": 10
+            "five": 11
           }
         },
         "representative": {
@@ -6258,7 +6222,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 10,
+          "total": 11,
           "count": 0,
           "items": []
         },
@@ -8549,15 +8513,6 @@
               "showFlag": true,
               "chipType": 0
             }
-          },
-          {
-            "code": "COL57",
-            "displayCode": "57",
-            "name": "OLIVE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
           }
         ],
         "composition": "57% Acrylic, 32% Polyester, 8% Wool, 3% Elastane ( 32% Uses Recycled Polyester Fiber )",
@@ -8722,15 +8677,15 @@
           }
         ],
         "rating": {
-          "average": 4.77,
-          "count": 39,
-          "fit": 3.36,
+          "average": 4.78,
+          "count": 40,
+          "fit": 3.35,
           "rateCount": {
             "one": 1,
             "two": 0,
             "three": 0,
             "four": 5,
-            "five": 33
+            "five": 34
           }
         },
         "representative": {
@@ -8767,7 +8722,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 39,
+          "total": 40,
           "count": 0,
           "items": []
         },
@@ -11479,15 +11434,6 @@
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -14318,15 +14264,6 @@
             }
           },
           {
-            "code": "SMA006",
-            "displayCode": "006",
-            "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA007",
             "displayCode": "007",
             "name": "XXL",
@@ -14613,15 +14550,6 @@
             "code": "COL00",
             "displayCode": "00",
             "name": "WHITE",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "COL35",
-            "displayCode": "35",
-            "name": "BROWN",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -16171,15 +16099,6 @@
             "code": "SMA004",
             "displayCode": "004",
             "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA005",
-            "displayCode": "005",
-            "name": "L",
             "display": {
               "showFlag": true,
               "chipType": 0
@@ -25632,14 +25551,14 @@
         ],
         "rating": {
           "average": 4.47,
-          "count": 232,
+          "count": 233,
           "fit": 3.03,
           "rateCount": {
             "one": 22,
             "two": 1,
             "three": 5,
             "four": 22,
-            "five": 182
+            "five": 183
           }
         },
         "representative": {
@@ -25669,7 +25588,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 186,
+          "total": 187,
           "count": 0,
           "items": []
         },
@@ -27846,15 +27765,6 @@
         "sizeInformation": "",
         "sizes": [
           {
-            "code": "SMA004",
-            "displayCode": "004",
-            "name": "M",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
             "code": "SMA005",
             "displayCode": "005",
             "name": "L",
@@ -28259,15 +28169,15 @@
           }
         ],
         "rating": {
-          "average": 4.77,
-          "count": 13,
-          "fit": 3.15,
+          "average": 4.79,
+          "count": 14,
+          "fit": 3.14,
           "rateCount": {
             "one": 0,
             "two": 1,
             "three": 0,
             "four": 0,
-            "five": 12
+            "five": 13
           }
         },
         "representative": {
@@ -28297,7 +28207,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 13,
+          "total": 14,
           "count": 0,
           "items": []
         },
@@ -28923,15 +28833,6 @@
             "code": "SMA006",
             "displayCode": "006",
             "name": "XL",
-            "display": {
-              "showFlag": true,
-              "chipType": 0
-            }
-          },
-          {
-            "code": "SMA007",
-            "displayCode": "007",
-            "name": "XXL",
             "display": {
               "showFlag": true,
               "chipType": 0
