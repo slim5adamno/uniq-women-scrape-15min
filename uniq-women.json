@@ -8419,7 +8419,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "07957112",
+          "l2Id": "07957116",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -8789,14 +8789,14 @@
         ],
         "rating": {
           "average": 4.83,
-          "count": 488,
+          "count": 489,
           "fit": 3.07,
           "rateCount": {
             "one": 4,
             "two": 1,
             "three": 6,
             "four": 54,
-            "five": 423
+            "five": 424
           }
         },
         "representative": {
@@ -8826,7 +8826,7 @@
           "salesEndDate": ""
         },
         "reviews": {
-          "total": 426,
+          "total": 427,
           "count": 0,
           "items": []
         },
@@ -16797,7 +16797,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08365777",
+          "l2Id": "08365778",
           "salesStartDate": "",
           "salesEndDate": ""
         },
@@ -17721,7 +17721,7 @@
             "productFlags": []
           },
           "isFavorite": false,
-          "l2Id": "08365745",
+          "l2Id": "08365746",
           "salesStartDate": "",
           "salesEndDate": ""
         },
